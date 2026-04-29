@@ -1,0 +1,1 @@
+{"id":"ade231a86c2f23e9f447a12b409331e1","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/tickets/:ticketId returns 404 when ticket not found","name":"returns 404 when ticket not found","status":"passed","testResultsByEnv":{"default":"5a8af550dbed27fb51cc16f41ea33a27"}}

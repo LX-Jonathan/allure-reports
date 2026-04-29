@@ -1,0 +1,1 @@
+{"id":"c3dc10dead39f7f83cb6f98b6993bac3","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 10.0.0.1 (10.x.x.x range) via IP literal","name":"blocks 10.0.0.1 (10.x.x.x range) via IP literal","status":"passed","testResultsByEnv":{"default":"1fcf5c7c7f8157f72789c662f3e0efe6"}}

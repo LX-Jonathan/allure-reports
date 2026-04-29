@@ -1,0 +1,1 @@
+{"id":"f349b3465df054af7009b6069c99bf0f","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should throw error when parsed data is not an array","name":"should throw error when parsed data is not an array","status":"passed","testResultsByEnv":{"default":"e30cca36a8c4bdd44003536316ba5fc6"}}

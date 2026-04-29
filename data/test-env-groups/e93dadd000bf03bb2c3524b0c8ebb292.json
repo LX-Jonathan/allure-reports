@@ -1,0 +1,1 @@
+{"id":"e93dadd000bf03bb2c3524b0c8ebb292","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware skip paths should skip /api/v1/auth/setup-status path","name":"should skip /api/v1/auth/setup-status path","status":"passed","testResultsByEnv":{"default":"879f8abe6182fc33034ecd6275d83631"}}

@@ -1,0 +1,1 @@
+{"id":"363354800ccf30ed06198be4ef816bfe","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"c9145ffc9541738d93de05292eb649ad"}}

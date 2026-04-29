@@ -1,0 +1,1 @@
+{"id":"d6cd9c3cd682d11b0536cf716ce92dbe","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/link-national returns 200 on successful link","name":"returns 200 on successful link","status":"passed","testResultsByEnv":{"default":"699773d117a2f592bef504328691d5d4"}}

@@ -1,0 +1,1 @@
+{"id":"d258cb1876a91513a2bc8b6fd4740e96","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir excludes telecom when no contact info","name":"excludes telecom when no contact info","status":"passed","testResultsByEnv":{"default":"34d50211fea48dbd4e77291b47739b54"}}

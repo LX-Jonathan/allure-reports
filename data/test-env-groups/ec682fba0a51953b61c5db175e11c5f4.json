@@ -1,0 +1,1 @@
+{"id":"ec682fba0a51953b61c5db175e11c5f4","fullName":"client/src/hooks/__tests__/useDxDropdownDirtyTracker.test.ts#useDxDropdownDirtyTracker recomputes the baseline fingerprint each time it opens","name":"recomputes the baseline fingerprint each time it opens","status":"passed","testResultsByEnv":{"default":"8bdedbc96976a24aceaed1099e4e6197"}}

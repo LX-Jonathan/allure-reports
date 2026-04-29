@@ -1,0 +1,1 @@
+{"id":"450bb63de217dcd0b1b26d5f03038bd2","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service executeAthenaQuery throws when query fails to start (no QueryExecutionId)","name":"throws when query fails to start (no QueryExecutionId)","status":"passed","testResultsByEnv":{"default":"440e5c1f4b69cb28ff432327ccd11a21"}}

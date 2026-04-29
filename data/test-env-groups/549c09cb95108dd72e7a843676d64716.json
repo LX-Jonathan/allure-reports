@@ -1,0 +1,1 @@
+{"id":"549c09cb95108dd72e7a843676d64716","fullName":"server/lib/__tests__/reportCache.test.ts#registerWarmupHandler registers a handler without throwing","name":"registers a handler without throwing","status":"passed","testResultsByEnv":{"default":"e9c203e1ae7e37d99098ffa410fb4512"}}

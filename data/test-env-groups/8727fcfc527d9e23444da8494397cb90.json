@@ -1,0 +1,1 @@
+{"id":"8727fcfc527d9e23444da8494397cb90","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should return non-string data directly","name":"should return non-string data directly","status":"passed","testResultsByEnv":{"default":"e7edffe0a20e75485aebb9f68223d714"}}

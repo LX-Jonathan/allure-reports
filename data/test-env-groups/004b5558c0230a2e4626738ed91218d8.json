@@ -1,0 +1,1 @@
+{"id":"004b5558c0230a2e4626738ed91218d8","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings practitionerToFhir includes specialty as qualification","name":"includes specialty as qualification","status":"passed","testResultsByEnv":{"default":"90e7d7015d02175768161152d32e1f00"}}

@@ -1,0 +1,1 @@
+{"id":"3104b833b0defcb08af31f235f714861","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies returns 400 for invalid data (missing required fields)","name":"returns 400 for invalid data (missing required fields)","status":"passed","testResultsByEnv":{"default":"1161b66831e230f090baea5a6499b398"}}

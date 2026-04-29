@@ -1,0 +1,1 @@
+{"id":"bd205a2a9ab573bc7b5ff32c5ec29dda","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 500 when updateSuperOrg returns null","name":"returns 500 when updateSuperOrg returns null","status":"passed","testResultsByEnv":{"default":"ddd80523ad1500f5d37ca2d5a1de19ff"}}

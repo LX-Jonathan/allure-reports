@@ -1,0 +1,1 @@
+{"id":"d431677b931b60154f40534b20a1cef1","fullName":"client/src/pages/__tests__/check-in.test.tsx#CheckInPage clears the id query param when the checklist is closed","name":"clears the id query param when the checklist is closed","status":"passed","testResultsByEnv":{"default":"2986d3532ca1fc868ecdd4b3f47c3cbd"}}

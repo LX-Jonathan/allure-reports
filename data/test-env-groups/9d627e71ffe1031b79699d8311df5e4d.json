@@ -1,0 +1,1 @@
+{"id":"9d627e71ffe1031b79699d8311df5e4d","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended getPatientOrgLinkByPatientAndPortalUser returns link when found","name":"returns link when found","status":"passed","testResultsByEnv":{"default":"239042f60ca4d01d89f7d849470d07ad"}}

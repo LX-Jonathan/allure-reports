@@ -1,0 +1,1 @@
+{"id":"308bd0f3888416bc2b5bf31deeea3a58","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createDedicatedConnection should trigger event handler callbacks without errors","name":"should trigger event handler callbacks without errors","status":"passed","testResultsByEnv":{"default":"d7ecdd40bcafb846866f0d4c32c5e687"}}

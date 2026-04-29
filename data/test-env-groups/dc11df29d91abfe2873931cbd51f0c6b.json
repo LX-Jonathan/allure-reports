@@ -1,0 +1,1 @@
+{"id":"dc11df29d91abfe2873931cbd51f0c6b","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService set in-memory cache (Redis not configured) should store value in memory with default TTL","name":"should store value in memory with default TTL","status":"passed","testResultsByEnv":{"default":"0787a96c2bd60bfc624bf6f0fedcf8c1"}}

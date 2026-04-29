@@ -1,0 +1,1 @@
+{"id":"c0b9cb29d449428b2338c2a62257df88","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should derive parentLabId from order if not provided","name":"should derive parentLabId from order if not provided","status":"passed","testResultsByEnv":{"default":"6537a2ebbf9e5460bb52a4ece3eaf8d7"}}

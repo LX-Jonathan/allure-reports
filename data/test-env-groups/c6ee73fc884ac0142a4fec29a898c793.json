@@ -1,0 +1,1 @@
+{"id":"c6ee73fc884ac0142a4fec29a898c793","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes DELETE /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"288fbe7f3e809de2689a59dc9f3aafc9"}}

@@ -1,0 +1,1 @@
+{"id":"b37aabfc90264ab04337308f8de3b1cf","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/favorites returns 409 when favorite already exists","name":"returns 409 when favorite already exists","status":"passed","testResultsByEnv":{"default":"83b58eb6f0f780ceb50d4f4dbb8ec4fd"}}

@@ -1,0 +1,1 @@
+{"id":"4b1fca96da2013c0d9d7873d04248992","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes POST /api/v1/flu-shots returns 201 when creating flu shot as super_admin","name":"returns 201 when creating flu shot as super_admin","status":"passed","testResultsByEnv":{"default":"a3bd184080c03a023b0b55937e52bc8c"}}

@@ -1,0 +1,1 @@
+{"id":"7dfbca02c00c78efd12b0db03d897897","fullName":"server/lib/__tests__/redisSessionStore.test.ts#createSessionStore should return a store object when using PostgreSQL fallback","name":"should return a store object when using PostgreSQL fallback","status":"passed","testResultsByEnv":{"default":"84bd4e47443507304715b4151bd3de4d"}}

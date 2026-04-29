@@ -1,0 +1,1 @@
+{"id":"e6d647bbbbdfc99b8f447ccb104aee21","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag missing address fields as errors","name":"should flag missing address fields as errors","status":"passed","testResultsByEnv":{"default":"91643dfce2edbf8433d4f7559cf7f27c"}}

@@ -1,0 +1,1 @@
+{"id":"91857d4e68a428c1ff9f9c0bb8fd87ad","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxy-invitations/:code/accept returns 403 when authenticated email does not match invited email","name":"returns 403 when authenticated email does not match invited email","status":"passed","testResultsByEnv":{"default":"8034d43b9ad651b684036a70cdd1dbe4"}}

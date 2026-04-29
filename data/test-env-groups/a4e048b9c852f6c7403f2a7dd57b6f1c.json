@@ -1,0 +1,1 @@
+{"id":"a4e048b9c852f6c7403f2a7dd57b6f1c","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update POST /api/v1/medications returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"d1c59c639827eb98dc839dffdec67d2a"}}

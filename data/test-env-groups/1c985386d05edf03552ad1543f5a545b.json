@@ -1,0 +1,1 @@
+{"id":"1c985386d05edf03552ad1543f5a545b","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/:slug returns 404 when profile is explicitly unpublished","name":"returns 404 when profile is explicitly unpublished","status":"passed","testResultsByEnv":{"default":"994cc28a4e4156c9af68d91ba57a81e3"}}

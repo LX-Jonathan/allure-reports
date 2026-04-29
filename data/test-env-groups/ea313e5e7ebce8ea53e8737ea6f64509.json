@@ -1,0 +1,1 @@
+{"id":"ea313e5e7ebce8ea53e8737ea6f64509","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckinEvents filters by visitCheckinId and orders by createdAt desc","name":"filters by visitCheckinId and orders by createdAt desc","status":"passed","testResultsByEnv":{"default":"d95d8cbd63aef6f58e8b3ab40cf8882f"}}

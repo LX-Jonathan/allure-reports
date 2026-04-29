@@ -1,0 +1,1 @@
+{"id":"80123aa3b5d4310678bae6eab5f7b486","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getBillingResolutionStats should return correct stats for all claims","name":"should return correct stats for all claims","status":"passed","testResultsByEnv":{"default":"47cb6a9f1ff591526e517736765d7ab2"}}

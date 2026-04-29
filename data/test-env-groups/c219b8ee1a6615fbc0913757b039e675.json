@@ -1,0 +1,1 @@
+{"id":"c219b8ee1a6615fbc0913757b039e675","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances ordersCache should be configured with prefix 'orders' and TTL 30","name":"ordersCache should be configured with prefix 'orders' and TTL 30","status":"passed","testResultsByEnv":{"default":"33cdf73dac1a74177d04ab15fe707327"}}

@@ -1,0 +1,1 @@
+{"id":"11f47ede2541603bc07f7be7a0cf00c9","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms unconfigured fallback should truncate body to 100 chars in log","name":"should truncate body to 100 chars in log","status":"passed","testResultsByEnv":{"default":"1400335db67dcc16513be0c10bbc26d0"}}

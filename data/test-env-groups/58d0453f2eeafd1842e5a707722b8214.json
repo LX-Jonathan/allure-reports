@@ -1,0 +1,1 @@
+{"id":"58d0453f2eeafd1842e5a707722b8214","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep sends email + sms for missing-card-both, then writes a ledger row","name":"sends email + sms for missing-card-both, then writes a ledger row","status":"passed","testResultsByEnv":{"default":"1cf9f89faa8f636fbd850598b1121860"}}

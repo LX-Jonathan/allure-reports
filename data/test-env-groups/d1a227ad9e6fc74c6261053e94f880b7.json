@@ -1,0 +1,1 @@
+{"id":"d1a227ad9e6fc74c6261053e94f880b7","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService deleteById (protected) should respect tenant filters before deletion","name":"should respect tenant filters before deletion","status":"passed","testResultsByEnv":{"default":"793e779e692936a2bd5bb98b6559407d"}}

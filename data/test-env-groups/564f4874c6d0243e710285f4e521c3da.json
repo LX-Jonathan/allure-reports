@@ -1,0 +1,1 @@
+{"id":"564f4874c6d0243e710285f4e521c3da","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Validation edge cases GET /hie-records rejects patientId that is not a UUID","name":"GET /hie-records rejects patientId that is not a UUID","status":"passed","testResultsByEnv":{"default":"d23c8b0df3efcd9894941000691bd1d4"}}

@@ -1,0 +1,1 @@
+{"id":"b568c28d0f50504beb437343bd7d5b3c","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/attach-order returns 400 when result has no patient attached","name":"returns 400 when result has no patient attached","status":"passed","testResultsByEnv":{"default":"66e4aa0cfc7cadc37cc8a03a3f9079b0"}}

@@ -1,0 +1,1 @@
+{"id":"1702156088d83561e1da5031126d9b15","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings practitionerToFhir includes telecom when phone/email provided","name":"includes telecom when phone/email provided","status":"passed","testResultsByEnv":{"default":"e35ff31bde1ed8f61ddbcedd498bd418"}}

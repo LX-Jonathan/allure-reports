@@ -1,0 +1,1 @@
+{"id":"ed0e26a19200e10f84ecb24d13fe8ef8","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware resource path parsing should handle hyphenated resource names","name":"should handle hyphenated resource names","status":"passed","testResultsByEnv":{"default":"620dfdd6e9044923a107a3785173b7c7"}}

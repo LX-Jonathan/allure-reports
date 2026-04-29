@@ -1,0 +1,1 @@
+{"id":"7ac931d6a6365b149081ccdd3795b8e4","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal createPatientPortalUser creates user with normalized email","name":"creates user with normalized email","status":"passed","testResultsByEnv":{"default":"4b093b82d0bc7f5de4d179c264813d17"}}

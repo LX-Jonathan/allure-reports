@@ -1,0 +1,1 @@
+{"id":"77c523c43aaa09e2f41ea12f3ae356da","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/start redirects to sso_error on unexpected exception","name":"redirects to sso_error on unexpected exception","status":"passed","testResultsByEnv":{"default":"08103997c9de2e604b262934d5c004c5"}}

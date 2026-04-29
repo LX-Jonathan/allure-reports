@@ -1,0 +1,1 @@
+{"id":"0c0c2bb08867d755ec6fed912bc8abca","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/analytics/metrics should return queue metrics (200)","name":"should return queue metrics (200)","status":"passed","testResultsByEnv":{"default":"98bcd0ad23335b98e9e8111ac5d06b80"}}

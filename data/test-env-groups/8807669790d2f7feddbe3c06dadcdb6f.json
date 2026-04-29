@@ -1,0 +1,1 @@
+{"id":"8807669790d2f7feddbe3c06dadcdb6f","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"5d635540c49258c6b55945039b3ffa22"}}

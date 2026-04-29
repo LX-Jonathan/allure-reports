@@ -1,0 +1,1 @@
+{"id":"e9fddb7718a64d0fcd5e6ca7b867ebac","fullName":"server/__tests__/index.test.ts#index shouldSkipBodyLogging (from index.ts) does not skip other API paths","name":"does not skip other API paths","status":"passed","testResultsByEnv":{"default":"3ad99d94ed6e546dfadfc5f7c78b3983"}}

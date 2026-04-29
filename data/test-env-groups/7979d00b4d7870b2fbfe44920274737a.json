@@ -1,0 +1,1 @@
+{"id":"7979d00b4d7870b2fbfe44920274737a","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /insurance-card returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"b48908a89fe20458304001c5785de713"}}

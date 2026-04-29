@@ -1,0 +1,1 @@
+{"id":"e010258f1afc9041bc5d75d549c32ed7","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage renders img with pointer-events-none after PDF rendering completes","name":"renders img with pointer-events-none after PDF rendering completes","status":"passed","testResultsByEnv":{"default":"5aeaf17e48e15429793b111d05155274"}}

@@ -1,0 +1,1 @@
+{"id":"37d7820ed36bd1656cedd1fa12ce8b89","fullName":"server/lib/__tests__/email.test.ts#email sendUserInviteEmail uses default localhost URL when BASE_URL not set","name":"uses default localhost URL when BASE_URL not set","status":"passed","testResultsByEnv":{"default":"3a7fca8bf08a9af8381b9222b6ae05ea"}}

@@ -1,0 +1,1 @@
+{"id":"cf29e963b082ceb595b854461a5f2c0b","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab does not display a pay likelihood when no profile data is loaded","name":"does not display a pay likelihood when no profile data is loaded","status":"passed","testResultsByEnv":{"default":"cd78674940375452d51eceebccc715ff"}}

@@ -1,0 +1,1 @@
+{"id":"b1193cd6c4b46e183495866f6a411580","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes PUT /api/v1/marketplace/admin/:parentLabId returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"f695ac3c9886e60679b7fe78c85e5efe"}}

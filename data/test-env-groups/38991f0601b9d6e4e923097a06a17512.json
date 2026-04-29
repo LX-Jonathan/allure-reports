@@ -1,0 +1,1 @@
+{"id":"38991f0601b9d6e4e923097a06a17512","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /config returns stripe configuration status when authenticated","name":"returns stripe configuration status when authenticated","status":"passed","testResultsByEnv":{"default":"5dd2e3638162bbd839f53d3e80d4d51d"}}

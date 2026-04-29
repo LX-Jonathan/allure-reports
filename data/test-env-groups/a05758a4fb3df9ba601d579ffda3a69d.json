@@ -1,0 +1,1 @@
+{"id":"a05758a4fb3df9ba601d579ffda3a69d","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules/:id returns 200 with schedule","name":"returns 200 with schedule","status":"passed","testResultsByEnv":{"default":"274fb54c2db81f774108a9d8e162f424"}}

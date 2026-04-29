@@ -1,0 +1,1 @@
+{"id":"344164175b381329c6df16d2e4b8e9e0","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should balance cash drawer credit against total debits","name":"should balance cash drawer credit against total debits","status":"passed","testResultsByEnv":{"default":"3b7f9e1a059130525eb3b2366bd5f6b1"}}

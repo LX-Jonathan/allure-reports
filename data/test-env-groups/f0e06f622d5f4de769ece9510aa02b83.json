@@ -1,0 +1,1 @@
+{"id":"f0e06f622d5f4de769ece9510aa02b83","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /fix-guidance returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f9b542ad9516a7afaddd3488d2c92afa"}}

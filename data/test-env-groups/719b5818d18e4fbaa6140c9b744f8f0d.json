@@ -1,0 +1,1 @@
+{"id":"719b5818d18e4fbaa6140c9b744f8f0d","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deleteByTenant with Redis configured should delete all tenant keys from Redis","name":"should delete all tenant keys from Redis","status":"passed","testResultsByEnv":{"default":"bc32197cecb819b0261da7f14dedaec6"}}

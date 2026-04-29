@@ -1,0 +1,1 @@
+{"id":"6cfedf63e9115cbf5ca1841e8c8b885e","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /rules/:id (CPT/ICD-10 overrides) rejects overrides on a built-in rule with no template link","name":"rejects overrides on a built-in rule with no template link","status":"passed","testResultsByEnv":{"default":"f878106fb9340d7fa9dc4b1c835958c4"}}

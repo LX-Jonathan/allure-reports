@@ -1,0 +1,1 @@
+{"id":"3aa30726cd8286ff93b136c419784601","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getSchedules should return empty array when report not found","name":"should return empty array when report not found","status":"passed","testResultsByEnv":{"default":"aaceacc0af5d27849fbe7e3360565427"}}

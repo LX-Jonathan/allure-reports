@@ -1,0 +1,1 @@
+{"id":"3dcdf8a16fb099150531f99006b8569b","fullName":"server/routes/__tests__/saved-order-views.routes.test.ts#Saved Order Views Routes PATCH /:id/assign unassigns view when assignedToUserId is null","name":"unassigns view when assignedToUserId is null","status":"passed","testResultsByEnv":{"default":"eff96ffaca0fe5228d1a39a0b207a068"}}

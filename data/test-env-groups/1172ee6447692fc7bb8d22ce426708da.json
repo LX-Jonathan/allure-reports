@@ -1,0 +1,1 @@
+{"id":"1172ee6447692fc7bb8d22ce426708da","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should use specific location filter when provided and user has access","name":"should use specific location filter when provided and user has access","status":"passed","testResultsByEnv":{"default":"a0efa755d4c4d77206da562a7ec51d9f"}}

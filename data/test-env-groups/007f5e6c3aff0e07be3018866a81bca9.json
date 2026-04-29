@@ -1,0 +1,1 @@
+{"id":"007f5e6c3aff0e07be3018866a81bca9","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/tickets applies page and limit params","name":"applies page and limit params","status":"passed","testResultsByEnv":{"default":"d0fa54d443c8d9dcb13d61d6fff12d7a"}}

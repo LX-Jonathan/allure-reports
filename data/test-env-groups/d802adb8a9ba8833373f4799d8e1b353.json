@@ -1,0 +1,1 @@
+{"id":"d802adb8a9ba8833373f4799d8e1b353","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes POST /api/v1/check-ins/:id/transition (readiness gating) rejects illegal status transitions","name":"rejects illegal status transitions","status":"passed","testResultsByEnv":{"default":"094e212d6032672b0ed8698a8958e1c0"}}

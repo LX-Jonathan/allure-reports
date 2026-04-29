@@ -1,0 +1,1 @@
+{"id":"1a8a5b83bc6825bac127e17bfd64252b","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/messages should return 200 with all messages for staff","name":"should return 200 with all messages for staff","status":"passed","testResultsByEnv":{"default":"d7e052d7142d99b49c7c25e209ecf823"}}

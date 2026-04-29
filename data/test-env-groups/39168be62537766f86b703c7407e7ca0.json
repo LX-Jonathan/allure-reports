@@ -1,0 +1,1 @@
+{"id":"39168be62537766f86b703c7407e7ca0","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules getLocationsWithOpenEvents returns empty when no open events","name":"returns empty when no open events","status":"passed","testResultsByEnv":{"default":"98212d64ec369169beb2a91f0b91c332"}}

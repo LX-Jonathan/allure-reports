@@ -1,0 +1,1 @@
+{"id":"c9a53201b440b8579b68ce29e96aea7d","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query clears tokens and returns null on 401 response","name":"clears tokens and returns null on 401 response","status":"passed","testResultsByEnv":{"default":"0ac4bc330c3f74b5cee8a2bf59034ac3"}}

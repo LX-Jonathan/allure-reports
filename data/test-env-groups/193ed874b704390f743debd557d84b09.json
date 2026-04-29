@@ -1,0 +1,1 @@
+{"id":"193ed874b704390f743debd557d84b09","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return empty array for unknown status","name":"should return empty array for unknown status","status":"passed","testResultsByEnv":{"default":"6fe71f47d032202609d6da79ca8fa0af"}}

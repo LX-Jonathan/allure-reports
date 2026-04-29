@@ -1,0 +1,1 @@
+{"id":"c84f21802b636f70c728c53375b0a64e","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id/approve returns 200 on successful approval","name":"returns 200 on successful approval","status":"passed","testResultsByEnv":{"default":"0a2f30fbe1750f441e653b1a1be6e614"}}

@@ -1,0 +1,1 @@
+{"id":"0a541fedbc57118944a9e0d836a7a54e","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary uses 'Resets today' when the reset date is today","name":"uses 'Resets today' when the reset date is today","status":"passed","testResultsByEnv":{"default":"4c91c51b303671302028997b869d3f71"}}

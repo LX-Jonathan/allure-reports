@@ -1,0 +1,1 @@
+{"id":"1b9d565ea656a0d77095492ea47fa79a","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should call next when required permission is present","name":"should call next when required permission is present","status":"passed","testResultsByEnv":{"default":"6954de2b1f7e726cd7cc6b4e1af35518"}}

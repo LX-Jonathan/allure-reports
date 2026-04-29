@@ -1,0 +1,1 @@
+{"id":"41c0f4355f3abd0b1493433b3870d35a","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Lab client cross-client access guard does not restrict non lab_client users (super_admin)","name":"does not restrict non lab_client users (super_admin)","status":"passed","testResultsByEnv":{"default":"d38c6a35c1ac800c11b90cb42bccced9"}}

@@ -1,0 +1,1 @@
+{"id":"40252a8ab2ca8e4275a595cfc5636c67","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptPHI should return ciphertext in format iv:tag:encrypted","name":"should return ciphertext in format iv:tag:encrypted","status":"passed","testResultsByEnv":{"default":"9e0b7173124d1fdfe268aef5bc6127e6"}}

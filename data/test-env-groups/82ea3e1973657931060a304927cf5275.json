@@ -1,0 +1,1 @@
+{"id":"82ea3e1973657931060a304927cf5275","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 200 for biometric with external provider","name":"returns 200 for biometric with external provider","status":"passed","testResultsByEnv":{"default":"0891163bb5e469f0867062f20d9651c4"}}

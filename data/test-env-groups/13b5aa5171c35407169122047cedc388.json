@@ -1,0 +1,1 @@
+{"id":"13b5aa5171c35407169122047cedc388","fullName":"server/lib/__tests__/abnAboPdfEmail.test.ts#abnAboPdfEmail renderBrandedAbnPdfBufferForEmail loads branding via superOrgId and returns a buffer","name":"loads branding via superOrgId and returns a buffer","status":"passed","testResultsByEnv":{"default":"6f3273aeb15aa1e4fe25293a2c0dba3c"}}

@@ -1,0 +1,1 @@
+{"id":"2ac7ca3d728cd7c6e2db96394dc9b6b1","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Lab Tests getLabTestById should return lab test with relations when found","name":"should return lab test with relations when found","status":"passed","testResultsByEnv":{"default":"1b244926b1b5bff9b319800949659a93"}}

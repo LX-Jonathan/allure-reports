@@ -1,0 +1,1 @@
+{"id":"0e9f79af17df153011bdf74dc7875d1c","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canCreateOrders chain should require provider, staff, and admin roles","name":"should require provider, staff, and admin roles","status":"passed","testResultsByEnv":{"default":"92223c00e2ca8d82c751f41eda1d3625"}}

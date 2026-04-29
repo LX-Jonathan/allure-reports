@@ -1,0 +1,1 @@
+{"id":"46ed96d95a3c9e43673325f258ae440b","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes DELETE /api/v1/lab-tests/:id should restrict org_admin to their org tests","name":"should restrict org_admin to their org tests","status":"passed","testResultsByEnv":{"default":"c2c89b185ed498de633144bd71186970"}}

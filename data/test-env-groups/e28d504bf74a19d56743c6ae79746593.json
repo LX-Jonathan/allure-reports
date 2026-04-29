@@ -1,0 +1,1 @@
+{"id":"e28d504bf74a19d56743c6ae79746593","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes PATCH /api/payment-plans/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"1e096626ce0368e6fb31b4b1538ff63b"}}

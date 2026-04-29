@@ -1,0 +1,1 @@
+{"id":"17c538fcae8560fdf29a254f27a3b811","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms error handling should log specific message for error code 21211 (invalid phone)","name":"should log specific message for error code 21211 (invalid phone)","status":"passed","testResultsByEnv":{"default":"5b93e59c7f86840b7339fa8e1c4b9289"}}

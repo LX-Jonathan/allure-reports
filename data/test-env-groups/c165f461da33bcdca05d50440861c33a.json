@@ -1,0 +1,1 @@
+{"id":"c165f461da33bcdca05d50440861c33a","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getSuperOrgById should filter by deletedAt is null","name":"should filter by deletedAt is null","status":"passed","testResultsByEnv":{"default":"2a949f259bd196592c60f961c5ccf46f"}}

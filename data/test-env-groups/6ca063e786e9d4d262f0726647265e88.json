@@ -1,0 +1,1 @@
+{"id":"6ca063e786e9d4d262f0726647265e88","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 503 when AI is not configured","name":"returns 503 when AI is not configured","status":"passed","testResultsByEnv":{"default":"5fb7b935ad6e76a3f7f27cceb5ba2a73"}}

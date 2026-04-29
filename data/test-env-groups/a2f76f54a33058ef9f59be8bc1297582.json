@@ -1,0 +1,1 @@
+{"id":"a2f76f54a33058ef9f59be8bc1297582","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms phone number normalization should return false for phone number with more than 15 digits","name":"should return false for phone number with more than 15 digits","status":"passed","testResultsByEnv":{"default":"e29948f509e0c61428e19e9200676da6"}}

@@ -1,0 +1,1 @@
+{"id":"9027250d56ea3d88d139102748be8fb5","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/plans returns plans for a company","name":"returns plans for a company","status":"passed","testResultsByEnv":{"default":"60d6a2c1aaed40f4e050a90423e42638"}}

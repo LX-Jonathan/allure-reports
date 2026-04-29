@@ -1,0 +1,1 @@
+{"id":"2ecde28bd6fa7ef875b1bac61a7d1a41","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes GET /api/v1/master-patients/available-labs returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"8e44e9013bd603c40e1c5fd4b4dcfe43"}}

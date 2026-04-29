@@ -1,0 +1,1 @@
+{"id":"2e22919fec63f6f49d6ac604d227bb63","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/close calls postCashDrawerCloseJournal after closing","name":"calls postCashDrawerCloseJournal after closing","status":"passed","testResultsByEnv":{"default":"d649087294b220b138ce6edc26709495"}}

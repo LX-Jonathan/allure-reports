@@ -1,0 +1,1 @@
+{"id":"54a06b2c47ea2d6f4cabbe3f46027aaf","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when filter value contains invalid characters","name":"should return 400 when filter value contains invalid characters","status":"passed","testResultsByEnv":{"default":"952070687a205518b4134441b02ea9e6"}}

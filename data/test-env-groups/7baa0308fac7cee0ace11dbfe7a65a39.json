@@ -1,0 +1,1 @@
+{"id":"7baa0308fac7cee0ace11dbfe7a65a39","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Scanner Config & Batch Progress getScannerConfigByApiKey extended returns null when not found and does not update","name":"returns null when not found and does not update","status":"passed","testResultsByEnv":{"default":"b30321c7a58b622c27347cf8845c2384"}}

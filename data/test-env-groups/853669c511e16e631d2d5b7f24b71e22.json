@@ -1,0 +1,1 @@
+{"id":"853669c511e16e631d2d5b7f24b71e22","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/count returns 200 with filtered count for org_admin","name":"returns 200 with filtered count for org_admin","status":"passed","testResultsByEnv":{"default":"3d84c11436e42fe4f8f09a224810d638"}}

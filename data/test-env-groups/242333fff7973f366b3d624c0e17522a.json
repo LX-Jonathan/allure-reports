@@ -1,0 +1,1 @@
+{"id":"242333fff7973f366b3d624c0e17522a","fullName":"server/lib/__tests__/email.test.ts#email sendEmail sends email via SendGrid when configured","name":"sends email via SendGrid when configured","status":"passed","testResultsByEnv":{"default":"8ab97038eb5cae1e2afe4b52a0b8ceea"}}

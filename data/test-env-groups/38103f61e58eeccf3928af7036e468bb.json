@@ -1,0 +1,1 @@
+{"id":"38103f61e58eeccf3928af7036e468bb","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications Routes DELETE /api/v1/medications/:id returns 404 when medication not found","name":"returns 404 when medication not found","status":"passed","testResultsByEnv":{"default":"efe18f87525c8b803f9322edd92f14c9"}}

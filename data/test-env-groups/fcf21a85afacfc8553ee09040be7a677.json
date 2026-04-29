@@ -1,0 +1,1 @@
+{"id":"fcf21a85afacfc8553ee09040be7a677","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should handle batch API error response","name":"should handle batch API error response","status":"passed","testResultsByEnv":{"default":"3c968de9240853c8a5269023b5e040c9"}}

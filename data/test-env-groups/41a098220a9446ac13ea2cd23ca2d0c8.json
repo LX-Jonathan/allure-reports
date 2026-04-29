@@ -1,0 +1,1 @@
+{"id":"41a098220a9446ac13ea2cd23ca2d0c8","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes PATCH /api/v1/fee-estimation/queue/:id should return 400 for invalid status value","name":"should return 400 for invalid status value","status":"passed","testResultsByEnv":{"default":"a53f7eb2129cad3b1475f8012287a0f1"}}

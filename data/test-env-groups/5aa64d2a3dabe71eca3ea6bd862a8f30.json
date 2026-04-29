@@ -1,0 +1,1 @@
+{"id":"5aa64d2a3dabe71eca3ea6bd862a8f30","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should return 64 character hex string (SHA-256)","name":"should return 64 character hex string (SHA-256)","status":"passed","testResultsByEnv":{"default":"7cb42196b8eae1841fa50b7700e7fd1c"}}

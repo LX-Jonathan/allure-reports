@@ -1,0 +1,1 @@
+{"id":"0983d4adced659688623d351f494f82c","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related deletePatient should soft-delete and return true","name":"should soft-delete and return true","status":"passed","testResultsByEnv":{"default":"1ed3236fe298a864e4da42a44871e9da"}}

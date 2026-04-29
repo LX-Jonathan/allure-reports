@@ -1,0 +1,1 @@
+{"id":"d275e7eb5efea67d938cda1d73e7c3b3","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles/:id/unpublish returns 403 for non-admin users","name":"returns 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"9bbf6d68102d755740c3d5ea4fce830a"}}

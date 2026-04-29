@@ -1,0 +1,1 @@
+{"id":"9d85d062b4bc2b8183c6060283291b6a","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getBulkScanItemsByBatchId returns items with total","name":"returns items with total","status":"passed","testResultsByEnv":{"default":"550722bc2df83132e27e24ad6b4abe58"}}

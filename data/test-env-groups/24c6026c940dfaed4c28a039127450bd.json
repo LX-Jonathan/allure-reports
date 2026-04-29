@@ -1,0 +1,1 @@
+{"id":"24c6026c940dfaed4c28a039127450bd","fullName":"client/src/hooks/__tests__/useNcdLcdAbnReadiness.test.tsx#useNcdLcdAbnReadiness surfaces an error when the async polling returns a failed status","name":"surfaces an error when the async polling returns a failed status","status":"passed","testResultsByEnv":{"default":"b3eeeff88910dc77bc6d7b348c57e662"}}

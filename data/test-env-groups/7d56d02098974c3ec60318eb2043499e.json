@@ -1,0 +1,1 @@
+{"id":"7d56d02098974c3ec60318eb2043499e","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptPHI should use dev key when PHI_ENCRYPTION_KEY is not set (test env only)","name":"should use dev key when PHI_ENCRYPTION_KEY is not set (test env only)","status":"passed","testResultsByEnv":{"default":"e86c28a9153d188c999b23333605b17d"}}

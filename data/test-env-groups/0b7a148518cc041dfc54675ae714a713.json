@@ -1,0 +1,1 @@
+{"id":"0b7a148518cc041dfc54675ae714a713","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 201 and reactivates a deleted user","name":"returns 201 and reactivates a deleted user","status":"passed","testResultsByEnv":{"default":"7fe4f81288be58bef8e2885ccc1846be"}}

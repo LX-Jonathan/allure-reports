@@ -1,0 +1,1 @@
+{"id":"e370e9bfe23e430554d94653d7382c2b","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest throws on non-ok response with JSON message","name":"throws on non-ok response with JSON message","status":"passed","testResultsByEnv":{"default":"a267050b1010b8d31ed9c014adf4e988"}}

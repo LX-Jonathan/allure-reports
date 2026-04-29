@@ -1,0 +1,1 @@
+{"id":"549df2c1f682bd8991aa0d140cdd072d","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should return 201 for super admin creating ticket without org","name":"should return 201 for super admin creating ticket without org","status":"passed","testResultsByEnv":{"default":"c8d47a63cc947d78c17dc04f0f028003"}}

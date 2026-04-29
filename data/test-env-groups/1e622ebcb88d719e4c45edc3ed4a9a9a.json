@@ -1,0 +1,1 @@
+{"id":"1e622ebcb88d719e4c45edc3ed4a9a9a","fullName":"server/__tests__/verification-confidence.test.ts#deriveDemographicsVerificationConfidence returns nulls when there is no usable signal","name":"returns nulls when there is no usable signal","status":"passed","testResultsByEnv":{"default":"3f18d13ecf9ef8f1034d14cb9970dcf8"}}

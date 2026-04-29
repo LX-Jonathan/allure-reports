@@ -1,0 +1,1 @@
+{"id":"e4c70ef3816e95dc117dfcb590d70dfc","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary shows the plan year reset date (day after planYearEnd) when provided","name":"shows the plan year reset date (day after planYearEnd) when provided","status":"passed","testResultsByEnv":{"default":"6e812178fbdd69d619b79e855817a45d"}}

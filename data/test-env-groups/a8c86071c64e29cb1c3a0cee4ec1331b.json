@@ -1,0 +1,1 @@
+{"id":"a8c86071c64e29cb1c3a0cee4ec1331b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batches/:batchId/retry-failed returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"c8e6f5016089ca667e19eabbd5e14bc4"}}

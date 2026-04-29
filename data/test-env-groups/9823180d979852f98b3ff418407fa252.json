@@ -1,0 +1,1 @@
+{"id":"9823180d979852f98b3ff418407fa252","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab hides revocable indicator for non-revocable consent","name":"hides revocable indicator for non-revocable consent","status":"passed","testResultsByEnv":{"default":"eab7f1a6d44d34f1aee68485a3dc1be1"}}

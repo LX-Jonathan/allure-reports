@@ -1,0 +1,1 @@
+{"id":"45420a83b67cd3d25ba7ec5649926bb6","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/frhc-api-configs/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"b56a78ec5b29df0cff58758e40a77076"}}

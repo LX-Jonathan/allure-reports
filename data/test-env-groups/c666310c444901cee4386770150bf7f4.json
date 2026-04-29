@@ -1,0 +1,1 @@
+{"id":"c666310c444901cee4386770150bf7f4","fullName":"client/src/components/portal/__tests__/acting-context-badge.test.tsx#ActingContextBadge required-scope highlight does not flag any scope badge when requiredScope is omitted","name":"does not flag any scope badge when requiredScope is omitted","status":"passed","testResultsByEnv":{"default":"11b7f28fed76d306eec2c81dbe27b990"}}

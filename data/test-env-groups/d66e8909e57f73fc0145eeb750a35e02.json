@@ -1,0 +1,1 @@
+{"id":"d66e8909e57f73fc0145eeb750a35e02","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /public/pre-registration/:linkCode/register returns 400 when link is inactive","name":"returns 400 when link is inactive","status":"passed","testResultsByEnv":{"default":"92fa2dc1fd6a071413a2ee52376f916a"}}

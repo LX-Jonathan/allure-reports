@@ -1,0 +1,1 @@
+{"id":"3f43a05dc6dc70ce9a355af3674cf263","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments returns 200 with filtered appointments by parentLabId","name":"returns 200 with filtered appointments by parentLabId","status":"passed","testResultsByEnv":{"default":"3c0198e6019da8c12f2e840c0000a60c"}}

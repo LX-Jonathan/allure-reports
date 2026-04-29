@@ -1,0 +1,1 @@
+{"id":"fe42bf3285b92d66e273ab7f121538e4","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert renders the inline 'Payments are not configured' headline","name":"renders the inline 'Payments are not configured' headline","status":"passed","testResultsByEnv":{"default":"72d76e8fd2d3695385a8d1ef47a142dc"}}

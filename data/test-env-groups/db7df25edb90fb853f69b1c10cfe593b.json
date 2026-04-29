@@ -1,0 +1,1 @@
+{"id":"db7df25edb90fb853f69b1c10cfe593b","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results/:id returns 403 when location-level user has no locationIds","name":"returns 403 when location-level user has no locationIds","status":"passed","testResultsByEnv":{"default":"a4b57cd13982c8a5dd1ac2ed2ebe8057"}}

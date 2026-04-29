@@ -1,0 +1,1 @@
+{"id":"2acc36de8990eadd8c2ffb0e24d2d0a2","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should update progress during processing","name":"should update progress during processing","status":"passed","testResultsByEnv":{"default":"30e5400cce15c47b82e0ed6787c71efa"}}

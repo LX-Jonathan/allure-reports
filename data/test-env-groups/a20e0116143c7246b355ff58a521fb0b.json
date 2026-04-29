@@ -1,0 +1,1 @@
+{"id":"a20e0116143c7246b355ff58a521fb0b","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserAssignedOrganizations should return organization IDs for user","name":"should return organization IDs for user","status":"passed","testResultsByEnv":{"default":"027d375fdbc274f5e11c968ef8cd7746"}}

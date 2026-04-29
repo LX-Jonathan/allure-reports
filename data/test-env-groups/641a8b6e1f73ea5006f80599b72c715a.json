@@ -1,0 +1,1 @@
+{"id":"641a8b6e1f73ea5006f80599b72c715a","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service generateExtractionHints (via fastTemplateMatch) should include template name in hints","name":"should include template name in hints","status":"passed","testResultsByEnv":{"default":"2c4781b2c9ce6e8129b4c1de54337545"}}

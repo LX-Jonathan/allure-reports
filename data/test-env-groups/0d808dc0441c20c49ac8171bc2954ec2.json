@@ -1,0 +1,1 @@
+{"id":"0d808dc0441c20c49ac8171bc2954ec2","fullName":"client/src/lib/__tests__/marketplace-utils.test.ts#extractStateFromAddress returns null for null/empty","name":"returns null for null/empty","status":"passed","testResultsByEnv":{"default":"3fb15306b06ee551c9a21b6bbce8727c"}}

@@ -1,0 +1,1 @@
+{"id":"53f7986ef53909df70febd4d43bc719d","fullName":"server/routes/__tests__/manual-payments-payback.routes.test.ts#Manual Payments — payback endpoint returns 403 when a non-full-access user has no org scope","name":"returns 403 when a non-full-access user has no org scope","status":"passed","testResultsByEnv":{"default":"1c9f0caf08b7911c7b688254ff8868df"}}

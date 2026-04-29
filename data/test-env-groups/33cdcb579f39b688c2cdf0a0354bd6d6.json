@@ -1,0 +1,1 @@
+{"id":"33cdcb579f39b688c2cdf0a0354bd6d6","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/ingest returns 401 without API key","name":"returns 401 without API key","status":"passed","testResultsByEnv":{"default":"384173ddff7f294c411ec3045a9565da"}}

@@ -1,0 +1,1 @@
+{"id":"a8cf7c5d042ec1d2331bd41b4cfc69dd","fullName":"server/__tests__/auth-login-code.routes.test.ts#POST /api/auth/send-code returns generic success when user does not exist (anti-enumeration)","name":"returns generic success when user does not exist (anti-enumeration)","status":"passed","testResultsByEnv":{"default":"0c229b1c0ae2ac8a8f4bca6c9f79ee9b"}}

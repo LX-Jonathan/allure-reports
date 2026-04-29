@@ -1,0 +1,1 @@
+{"id":"3f9449db1fe4203d198e1c0454bc2961","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 172.20.0.1 (172.16-31.x.x range) via IP literal","name":"blocks 172.20.0.1 (172.16-31.x.x range) via IP literal","status":"passed","testResultsByEnv":{"default":"4a6b8f42a097c236fcf7f3d8a15142cc"}}

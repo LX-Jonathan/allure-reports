@@ -1,0 +1,1 @@
+{"id":"34645dc59ad50fe16e8d0779910219d4","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns forbidden when order belongs to different superOrg","name":"returns forbidden when order belongs to different superOrg","status":"passed","testResultsByEnv":{"default":"057ae8e42546fee353cc2a0d38d90551"}}

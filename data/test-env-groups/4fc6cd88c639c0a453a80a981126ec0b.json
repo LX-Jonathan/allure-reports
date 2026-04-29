@@ -1,0 +1,1 @@
+{"id":"4fc6cd88c639c0a453a80a981126ec0b","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest throws session expired when refresh fails on 401 for the auth bootstrap URL","name":"throws session expired when refresh fails on 401 for the auth bootstrap URL","status":"passed","testResultsByEnv":{"default":"f536a153f54b460fb39043a21ec801f7"}}

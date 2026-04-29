@@ -1,0 +1,1 @@
+{"id":"c718f18c232cc6bf04422a15b6bf7c23","fullName":"client/src/components/patient/__tests__/portal-tab.test.tsx#PortalTab renders the alternate-send notice as 'notice not delivered' when delivery failed","name":"renders the alternate-send notice as 'notice not delivered' when delivery failed","status":"passed","testResultsByEnv":{"default":"186e7351fd37d5fe3a8a0698094baed4"}}

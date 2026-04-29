@@ -1,0 +1,1 @@
+{"id":"f25231213315a69ed57addca2ef7242b","fullName":"server/config/__tests__/env.test.ts#env.ts - module import coverage exports env object when process.env is valid","name":"exports env object when process.env is valid","status":"passed","testResultsByEnv":{"default":"6f89996b425961c5abc228edb61c4c89"}}

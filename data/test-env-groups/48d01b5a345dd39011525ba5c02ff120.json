@@ -1,0 +1,1 @@
+{"id":"48d01b5a345dd39011525ba5c02ff120","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/tickets/:ticketId/messages returns ticket messages","name":"returns ticket messages","status":"passed","testResultsByEnv":{"default":"4696b1a05f0567aa39664cef34e42792"}}

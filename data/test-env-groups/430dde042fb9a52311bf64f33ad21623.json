@@ -1,0 +1,1 @@
+{"id":"430dde042fb9a52311bf64f33ad21623","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"0f225f545c5f50e348be3c639b04e0d9"}}

@@ -1,0 +1,1 @@
+{"id":"6bcae4633cec1a950d47ed2eddd6b6df","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent returns 404 when orderId refers to non-existent order","name":"returns 404 when orderId refers to non-existent order","status":"passed","testResultsByEnv":{"default":"382555b94e227bbfc43d1d5f23065ad3"}}

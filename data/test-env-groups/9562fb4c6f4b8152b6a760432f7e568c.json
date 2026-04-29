@@ -1,0 +1,1 @@
+{"id":"9562fb4c6f4b8152b6a760432f7e568c","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/unlock returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"d9758708c235292c233c537cb5362963"}}

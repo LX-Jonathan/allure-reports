@@ -1,0 +1,1 @@
+{"id":"51e66befe77bed845b7539bd217afcc2","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check returns successful eligibility response","name":"returns successful eligibility response","status":"passed","testResultsByEnv":{"default":"ac9db77f6927b22be2100118c340c62c"}}

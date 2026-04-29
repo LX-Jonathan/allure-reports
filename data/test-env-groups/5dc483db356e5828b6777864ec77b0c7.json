@@ -1,0 +1,1 @@
+{"id":"5dc483db356e5828b6777864ec77b0c7","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should handle second batch error while first batch succeeded","name":"should handle second batch error while first batch succeeded","status":"passed","testResultsByEnv":{"default":"0a16439357e5faf65151c59451b2933b"}}

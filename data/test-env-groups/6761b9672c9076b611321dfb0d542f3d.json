@@ -1,0 +1,1 @@
+{"id":"6761b9672c9076b611321dfb0d542f3d","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanyCount returns 0 when empty","name":"returns 0 when empty","status":"passed","testResultsByEnv":{"default":"942f6cf7d8b8fe9fa257878bff2ad665"}}

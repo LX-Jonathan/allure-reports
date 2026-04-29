@@ -1,0 +1,1 @@
+{"id":"3d70926f0abe57a8924a761648cb679f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"fce0b108a6229e33edab4e0a320312c1"}}

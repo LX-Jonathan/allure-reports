@@ -1,0 +1,1 @@
+{"id":"9411a958f1fb45a47efde0c21b603117","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 400 for invalid priority enum","name":"returns 400 for invalid priority enum","status":"passed","testResultsByEnv":{"default":"416fac6f1ebdca2798f780842d5223a5"}}

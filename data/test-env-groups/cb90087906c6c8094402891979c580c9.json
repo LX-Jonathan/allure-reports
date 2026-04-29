@@ -1,0 +1,1 @@
+{"id":"cb90087906c6c8094402891979c580c9","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes DELETE /api/v1/fee-estimation/queue/:id should delete a fee estimation and return success","name":"should delete a fee estimation and return success","status":"passed","testResultsByEnv":{"default":"51a5e454bf8ee9857ad8ee61bda98cc0"}}

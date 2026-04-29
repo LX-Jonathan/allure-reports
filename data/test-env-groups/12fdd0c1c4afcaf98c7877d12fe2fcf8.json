@@ -1,0 +1,1 @@
+{"id":"12fdd0c1c4afcaf98c7877d12fe2fcf8","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient fhirRequest (via testConnection) should construct URL from base URL and path","name":"should construct URL from base URL and path","status":"passed","testResultsByEnv":{"default":"1bb3f76c6cd24a03d2e32da8f89f001c"}}

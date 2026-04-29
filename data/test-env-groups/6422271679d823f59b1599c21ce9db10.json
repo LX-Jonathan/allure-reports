@@ -1,0 +1,1 @@
+{"id":"6422271679d823f59b1599c21ce9db10","fullName":"client/src/pages/__tests__/check-in.test.tsx#CheckInPage still auto-opens checklist when the legacy ?selected=<id> param is used","name":"still auto-opens checklist when the legacy ?selected=<id> param is used","status":"passed","testResultsByEnv":{"default":"5e54485c197bc83bfe37ff12e668e046"}}

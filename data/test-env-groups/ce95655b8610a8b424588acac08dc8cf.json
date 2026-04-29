@@ -1,0 +1,1 @@
+{"id":"ce95655b8610a8b424588acac08dc8cf","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes PATCH /api/v1/master-patients/:id rejects invalid mobilePhone with 400","name":"rejects invalid mobilePhone with 400","status":"passed","testResultsByEnv":{"default":"9b8f4781f17d37b94542290cb3d8414d"}}

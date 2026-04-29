@@ -1,0 +1,1 @@
+{"id":"ce94699653073e5c335da73d4c91f44a","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes POST /api/v1/super-orgs should require parent for child labs","name":"should require parent for child labs","status":"passed","testResultsByEnv":{"default":"1d50f843a95835ea58b999d1ef1771de"}}

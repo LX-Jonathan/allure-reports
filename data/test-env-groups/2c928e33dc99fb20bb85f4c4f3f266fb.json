@@ -1,0 +1,1 @@
+{"id":"2c928e33dc99fb20bb85f4c4f3f266fb","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes DELETE /api/payment-plans/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"f14a96b6068ca01fe6b94ee55d72edc4"}}

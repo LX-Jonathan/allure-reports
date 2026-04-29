@@ -1,0 +1,1 @@
+{"id":"a72220de47d00fcfaee47f0a327e223a","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: no_active_sms_code","name":"es: no_active_sms_code","status":"passed","testResultsByEnv":{"default":"56dd2d605e014957ca4efa4e9406ddaf"}}

@@ -1,0 +1,1 @@
+{"id":"443ae73496b710a632d7924bcb11dd24","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions GET /pos/drawers/current returns current open drawer session","name":"returns current open drawer session","status":"passed","testResultsByEnv":{"default":"45ef8c29fdf04fc38f2df9dddb2df663"}}

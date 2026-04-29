@@ -1,0 +1,1 @@
+{"id":"b7561382fb012a9f1cab42fe31502e89","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/upload (additional branches) returns 400 when file type is unsupported","name":"returns 400 when file type is unsupported","status":"passed","testResultsByEnv":{"default":"fe081e81875b1637799ef16b19cba963"}}

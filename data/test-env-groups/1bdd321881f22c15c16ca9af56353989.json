@@ -1,0 +1,1 @@
+{"id":"1bdd321881f22c15c16ca9af56353989","fullName":"client/src/stores/__tests__/tenantStore.test.ts#getFilteredOrganizations returns all labs when parentLabId is null","name":"returns all labs when parentLabId is null","status":"passed","testResultsByEnv":{"default":"9e5d831b2443cdb8bbe9e78471c6d5d9"}}

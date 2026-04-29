@@ -1,0 +1,1 @@
+{"id":"40b44148659e8a88ced475380be8c817","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes Cross-cutting edge cases Insurance: handles empty OCR text gracefully","name":"Insurance: handles empty OCR text gracefully","status":"passed","testResultsByEnv":{"default":"ab068c15d5df5581354e1fd5723ed251"}}

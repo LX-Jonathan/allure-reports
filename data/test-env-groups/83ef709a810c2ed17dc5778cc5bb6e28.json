@@ -1,0 +1,1 @@
+{"id":"83ef709a810c2ed17dc5778cc5bb6e28","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob organization association should create provider-organization link when labId provided","name":"should create provider-organization link when labId provided","status":"passed","testResultsByEnv":{"default":"e4c3b48a5431c4916d6cba202301fd2e"}}

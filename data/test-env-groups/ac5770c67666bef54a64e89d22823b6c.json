@@ -1,0 +1,1 @@
+{"id":"ac5770c67666bef54a64e89d22823b6c","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /ai-generate returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c989b4cd83575dfd3f8b661623889a88"}}

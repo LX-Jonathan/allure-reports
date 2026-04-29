@@ -1,0 +1,1 @@
+{"id":"aaa9c37dc43b8e25730936c668af4a43","fullName":"client/src/components/orders/__tests__/claims-sidecar.test.tsx#computePreSubmissionScore returns full score when patient and address present with items","name":"returns full score when patient and address present with items","status":"passed","testResultsByEnv":{"default":"55c5dc15d58f693a4f6a2dddb4cc4fae"}}

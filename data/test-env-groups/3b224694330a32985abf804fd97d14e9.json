@@ -1,0 +1,1 @@
+{"id":"3b224694330a32985abf804fd97d14e9","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Token & Invite Management getUserInviteByCode returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"d9b9867d415c068851c58e6c7cd3462d"}}

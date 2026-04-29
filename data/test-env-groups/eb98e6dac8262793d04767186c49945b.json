@@ -1,0 +1,1 @@
+{"id":"eb98e6dac8262793d04767186c49945b","fullName":"server/__tests__/payments-route-parity.test.ts#payments route parity (patient portal vs UVP) both routes restrict patient payments to reversal-aware status set","name":"both routes restrict patient payments to reversal-aware status set","status":"passed","testResultsByEnv":{"default":"d1a40e5bea99c5139fb61201fb5ce56e"}}

@@ -1,0 +1,1 @@
+{"id":"fbf3eecf544faa0dde3c05b087452ac0","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService constructor should use default TTL of 300 seconds when not specified","name":"should use default TTL of 300 seconds when not specified","status":"passed","testResultsByEnv":{"default":"98e99c9577a94b35ce65af2cf2fc5fae"}}

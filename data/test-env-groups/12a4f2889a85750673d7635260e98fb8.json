@@ -1,0 +1,1 @@
+{"id":"12a4f2889a85750673d7635260e98fb8","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query does not clear tokens on a generic 403 from /api/auth/user","name":"does not clear tokens on a generic 403 from /api/auth/user","status":"passed","testResultsByEnv":{"default":"ccd906bcf0fc8855a0de98515d2ef3c6"}}

@@ -1,0 +1,1 @@
+{"id":"5cdabeee8e82798268de34071594133a","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService search should return empty array when location user has no locations","name":"should return empty array when location user has no locations","status":"passed","testResultsByEnv":{"default":"6260d2d9a3ef11d237593fd513bcb961"}}

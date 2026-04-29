@@ -1,0 +1,1 @@
+{"id":"efcb436a73215f25c6735e6a93bf582b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/aoe-responses returns 200 with AOE responses","name":"returns 200 with AOE responses","status":"passed","testResultsByEnv":{"default":"7fb30b138c4e1efaee700e39cb240573"}}

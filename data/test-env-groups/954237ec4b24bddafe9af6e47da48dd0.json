@@ -1,0 +1,1 @@
+{"id":"954237ec4b24bddafe9af6e47da48dd0","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should handle batch with undefined counters","name":"should handle batch with undefined counters","status":"passed","testResultsByEnv":{"default":"557acd16cf50012cc260e045823ccf1f"}}

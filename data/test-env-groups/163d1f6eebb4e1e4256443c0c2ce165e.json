@@ -1,0 +1,1 @@
+{"id":"163d1f6eebb4e1e4256443c0c2ce165e","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should set isEligible to false when no eligibility results","name":"should set isEligible to false when no eligibility results","status":"passed","testResultsByEnv":{"default":"f303f8a8488759fbc1d1c81ed8b6deda"}}

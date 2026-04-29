@@ -1,0 +1,1 @@
+{"id":"a7988b7571d4712d4b8b76a17e6780c2","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs returns 400 when parentId not found","name":"returns 400 when parentId not found","status":"passed","testResultsByEnv":{"default":"0bf6c4e6fa4f956b2b1fe6ca8aafd19f"}}

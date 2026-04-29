@@ -1,0 +1,1 @@
+{"id":"d6455b831efb3521f2e9bd2a473de90d","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/quickstarts returns 201 when quickstart is created","name":"returns 201 when quickstart is created","status":"passed","testResultsByEnv":{"default":"657c6618725161896f3f927f8ca4b068"}}

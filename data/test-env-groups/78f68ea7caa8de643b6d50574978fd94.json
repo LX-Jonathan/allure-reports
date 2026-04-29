@@ -1,0 +1,1 @@
+{"id":"78f68ea7caa8de643b6d50574978fd94","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items/cms-import returns 400 when cptCodes is missing","name":"returns 400 when cptCodes is missing","status":"passed","testResultsByEnv":{"default":"520ceb51314485385d09bd8cf02a312b"}}

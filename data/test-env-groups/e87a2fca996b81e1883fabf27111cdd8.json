@@ -1,0 +1,1 @@
+{"id":"e87a2fca996b81e1883fabf27111cdd8","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes POST /api/v1/system/scheduled-jobs/:jobId/run returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"1da189c8c7222296d0a061185694743c"}}

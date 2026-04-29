@@ -1,0 +1,1 @@
+{"id":"a0a06993b6b7ac6f400cf3d10b2b80bd","fullName":"server/middleware/__tests__/csrf.test.ts#getCSRFToken should return token from request csrfToken property","name":"should return token from request csrfToken property","status":"passed","testResultsByEnv":{"default":"cf24bb0d832e0463829c07d890e0c2ba"}}

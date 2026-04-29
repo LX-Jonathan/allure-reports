@@ -1,0 +1,1 @@
+{"id":"4d6bd025a040dea7d5175e57e6ad0518","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"f2c4400306bb960f2fa9d0d7dc6a4790"}}

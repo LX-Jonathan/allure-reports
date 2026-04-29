@@ -1,0 +1,1 @@
+{"id":"3b6c99ef47b50effbc15aa2e13d98625","fullName":"server/routes/__tests__/patient-auth-portal-link.routes.test.ts#GET /portal-link/verify redirects to the portal login with an auth code on a fresh, valid token","name":"redirects to the portal login with an auth code on a fresh, valid token","status":"passed","testResultsByEnv":{"default":"4cb239e47897b7291e41a651f666072d"}}

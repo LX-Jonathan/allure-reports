@@ -1,0 +1,1 @@
+{"id":"b24fb9742bab5c45826c92824f825071","fullName":"client/src/components/patient/__tests__/financial-assistance-badge.test.tsx#FinancialAssistanceBadge does not render anything when expiration is already past","name":"does not render anything when expiration is already past","status":"passed","testResultsByEnv":{"default":"21f11faf3976724b6c6815f7c8670729"}}

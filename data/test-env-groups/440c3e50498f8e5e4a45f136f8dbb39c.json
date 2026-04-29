@@ -1,0 +1,1 @@
+{"id":"440c3e50498f8e5e4a45f136f8dbb39c","fullName":"server/__tests__/static.test.ts#serveStatic SPA fallback route should register wildcard fallback route","name":"should register wildcard fallback route","status":"passed","testResultsByEnv":{"default":"1b3a20f421573b8aad468c9c322a9ea6"}}

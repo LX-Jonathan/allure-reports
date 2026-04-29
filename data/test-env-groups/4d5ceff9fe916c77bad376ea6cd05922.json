@@ -1,0 +1,1 @@
+{"id":"4d5ceff9fe916c77bad376ea6cd05922","fullName":"client/src/pages/patient/__tests__/patient-messages.test.tsx#renderMessageContent portal links returns plain text when no portal link is present","name":"returns plain text when no portal link is present","status":"passed","testResultsByEnv":{"default":"16383a521b76c7e1eeb3c2bdaf661032"}}

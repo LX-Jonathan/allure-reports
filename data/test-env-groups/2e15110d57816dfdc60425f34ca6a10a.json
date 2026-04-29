@@ -1,0 +1,1 @@
+{"id":"2e15110d57816dfdc60425f34ca6a10a","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended getPatientPortalInvitationsByPatient returns invitations for patient","name":"returns invitations for patient","status":"passed","testResultsByEnv":{"default":"787bd78fef8f685f24952e1b83315dfb"}}

@@ -1,0 +1,1 @@
+{"id":"d6a26059526319335926b12a4677a8b7","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError returns the message of a plain Error when given one","name":"returns the message of a plain Error when given one","status":"passed","testResultsByEnv":{"default":"6e61b747b400e3f7b278a2d925e34139"}}

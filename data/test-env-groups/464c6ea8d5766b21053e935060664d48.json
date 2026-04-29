@@ -1,0 +1,1 @@
+{"id":"464c6ea8d5766b21053e935060664d48","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /assignments/:assignmentId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"afa10ca5d59671a5f8defa80446fd9c1"}}

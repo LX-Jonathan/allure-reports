@@ -1,0 +1,1 @@
+{"id":"3e13f496ac86b70ad1bed1171c3560e2","fullName":"client/src/pages/patient/__tests__/patient-messages.test.tsx#renderMessageContent portal links falls back to the provided label when the URL appears alone","name":"falls back to the provided label when the URL appears alone","status":"passed","testResultsByEnv":{"default":"ba0fb4a59606643a828ff6fcd1be0921"}}

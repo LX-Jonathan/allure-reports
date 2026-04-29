@@ -1,0 +1,1 @@
+{"id":"1fd5bd50bb91ec4e8c7f1dd23f5399c5","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should generate prompt with template name and type","name":"should generate prompt with template name and type","status":"passed","testResultsByEnv":{"default":"d36eeed8de4e9cb69ef8e2454fae5eee"}}

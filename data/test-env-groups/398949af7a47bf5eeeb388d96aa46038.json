@@ -1,0 +1,1 @@
+{"id":"398949af7a47bf5eeeb388d96aa46038","fullName":"client/src/hooks/__tests__/use-patient-lab-issues.test.tsx#usePatientLabIssues flags billing when there is a balance even without unpaid bills","name":"flags billing when there is a balance even without unpaid bills","status":"passed","testResultsByEnv":{"default":"c7d6e335d2e0473910d6e44d7691bd55"}}

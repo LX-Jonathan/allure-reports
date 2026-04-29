@@ -1,0 +1,1 @@
+{"id":"13808227998e3142aaa8e33116f04ef8","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware optionalAuth JWT-based auth should continue without user when token is invalid","name":"should continue without user when token is invalid","status":"passed","testResultsByEnv":{"default":"7e62c1d2270049a05d2a6555a5e77bd8"}}

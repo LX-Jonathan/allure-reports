@@ -1,0 +1,1 @@
+{"id":"0851b3a1120a40b075674091c0fe8bc2","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks fc00::/7 (ULA IPv6) via IP literal","name":"blocks fc00::/7 (ULA IPv6) via IP literal","status":"passed","testResultsByEnv":{"default":"792650675875c7c348b0447ea375ef4c"}}

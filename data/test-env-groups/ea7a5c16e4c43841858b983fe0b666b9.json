@@ -1,0 +1,1 @@
+{"id":"ea7a5c16e4c43841858b983fe0b666b9","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"171007d0f4ba42517fd157ffb722c6cc"}}

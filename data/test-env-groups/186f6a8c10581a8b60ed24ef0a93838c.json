@@ -1,0 +1,1 @@
+{"id":"186f6a8c10581a8b60ed24ef0a93838c","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /837/:id/coding-context returns 404 when claim not found","name":"returns 404 when claim not found","status":"passed","testResultsByEnv":{"default":"0015b8624cb40cffc5d98970cf6a1382"}}

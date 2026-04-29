@@ -1,0 +1,1 @@
+{"id":"42e8ca44733d4587acce06683e13832e","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should throw error when API password retrieval fails","name":"should throw error when API password retrieval fails","status":"passed","testResultsByEnv":{"default":"c66011928f6bf4f69d89051fec717720"}}

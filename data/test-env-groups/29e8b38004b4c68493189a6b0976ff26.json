@@ -1,0 +1,1 @@
+{"id":"29e8b38004b4c68493189a6b0976ff26","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should preserve confidence values from AI response","name":"should preserve confidence values from AI response","status":"passed","testResultsByEnv":{"default":"7be6681f67ae8ac47cbdd0389c410f36"}}

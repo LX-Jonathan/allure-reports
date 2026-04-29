@@ -1,0 +1,1 @@
+{"id":"8a1e67153bacab4aaef7ba4aa2723203","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 403 when user has no organization","name":"returns 403 when user has no organization","status":"passed","testResultsByEnv":{"default":"94072be68725ad32201620c08a7a8b3a"}}

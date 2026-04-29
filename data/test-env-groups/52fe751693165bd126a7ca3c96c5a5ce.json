@@ -1,0 +1,1 @@
+{"id":"52fe751693165bd126a7ca3c96c5a5ce","fullName":"client/src/components/__tests__/insurance-payer-logo.test.tsx#InsurancePayerLogo uses proxy URL when companyId is provided and logoUrl is not http","name":"uses proxy URL when companyId is provided and logoUrl is not http","status":"passed","testResultsByEnv":{"default":"6362c43b38d6bde2ab6ba301f9c829dd"}}

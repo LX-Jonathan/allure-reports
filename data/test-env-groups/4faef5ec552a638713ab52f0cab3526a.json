@@ -1,0 +1,1 @@
+{"id":"4faef5ec552a638713ab52f0cab3526a","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should return null for header with only Bearer","name":"should return null for header with only Bearer","status":"passed","testResultsByEnv":{"default":"211cbbe81f693a7fbae9d68d70ecd556"}}

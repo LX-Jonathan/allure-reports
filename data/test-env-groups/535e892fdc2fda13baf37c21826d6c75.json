@@ -1,0 +1,1 @@
+{"id":"535e892fdc2fda13baf37c21826d6c75","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 400 when required columns are missing","name":"returns 400 when required columns are missing","status":"passed","testResultsByEnv":{"default":"7f7c7b2b839720a53e6b8c6e0052aa4f"}}

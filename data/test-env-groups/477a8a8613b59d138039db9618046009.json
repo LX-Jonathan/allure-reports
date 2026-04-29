@@ -1,0 +1,1 @@
+{"id":"477a8a8613b59d138039db9618046009","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes PATCH /campaigns/:id converts scheduledAt to Date","name":"converts scheduledAt to Date","status":"passed","testResultsByEnv":{"default":"3214304c13d39e60a4f0d3d146617a6b"}}

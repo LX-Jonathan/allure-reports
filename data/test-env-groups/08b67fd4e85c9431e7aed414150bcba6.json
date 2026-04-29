@@ -1,0 +1,1 @@
+{"id":"08b67fd4e85c9431e7aed414150bcba6","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/products/:id (Staff Portal - Update Product) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"75fc5d3bae78c0b2767b2787fb105c60"}}

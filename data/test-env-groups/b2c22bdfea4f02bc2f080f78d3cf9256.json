@@ -1,0 +1,1 @@
+{"id":"b2c22bdfea4f02bc2f080f78d3cf9256","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries/by-source/:source/:sourceId returns entries with lines","name":"returns entries with lines","status":"passed","testResultsByEnv":{"default":"637a6b61eee57e520842d3b778406291"}}

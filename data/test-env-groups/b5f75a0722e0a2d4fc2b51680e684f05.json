@@ -1,0 +1,1 @@
+{"id":"b5f75a0722e0a2d4fc2b51680e684f05","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderCount should return count of non-deleted providers","name":"should return count of non-deleted providers","status":"passed","testResultsByEnv":{"default":"1f25562e606b341852403d1756566dab"}}

@@ -1,0 +1,1 @@
+{"id":"0e3b86e897db1155cd444af1e537d96f","fullName":"server/__tests__/reporting.service.test.ts#ReportingService getCategories should call db select on reportCategories","name":"should call db select on reportCategories","status":"passed","testResultsByEnv":{"default":"9020c368fde01edbbd39ab82723c5ff5"}}

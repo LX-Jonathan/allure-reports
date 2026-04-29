@@ -1,0 +1,1 @@
+{"id":"bc1e33d61bf0d25569338bcb46ebdf1e","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService transitionStatus should return error for invalid transition","name":"should return error for invalid transition","status":"passed","testResultsByEnv":{"default":"73355ab7a2768044bc669169e5c7475e"}}

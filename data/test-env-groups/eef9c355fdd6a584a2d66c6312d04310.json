@@ -1,0 +1,1 @@
+{"id":"eef9c355fdd6a584a2d66c6312d04310","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/validate returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"86f4cb73fa5d5996ffa97270c6a92672"}}

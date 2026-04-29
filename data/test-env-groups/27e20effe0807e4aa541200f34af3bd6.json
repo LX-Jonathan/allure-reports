@@ -1,0 +1,1 @@
+{"id":"27e20effe0807e4aa541200f34af3bd6","fullName":"client/src/components/patient/__tests__/scorecard-tab.test.tsx#ScorecardTab calls onNavigate with clinical when medications card is clicked","name":"calls onNavigate with clinical when medications card is clicked","status":"passed","testResultsByEnv":{"default":"be6899604b2656e577ffa61fbb4d9509"}}

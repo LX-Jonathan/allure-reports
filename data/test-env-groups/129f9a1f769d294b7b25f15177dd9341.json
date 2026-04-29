@@ -1,0 +1,1 @@
+{"id":"129f9a1f769d294b7b25f15177dd9341","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware generateApiKey should return prefix as first 8 characters of key","name":"should return prefix as first 8 characters of key","status":"passed","testResultsByEnv":{"default":"d7efe56ceea0545a47e5d1fbb2aa9138"}}

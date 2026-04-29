@@ -1,0 +1,1 @@
+{"id":"927b190c9a2c975e34daeedd6b91b290","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext labxchange user with multiple superorgs does not lock superOrg with multiple super orgs","name":"does not lock superOrg with multiple super orgs","status":"passed","testResultsByEnv":{"default":"0a6cf062543a14a4ba79a02c6021596e"}}

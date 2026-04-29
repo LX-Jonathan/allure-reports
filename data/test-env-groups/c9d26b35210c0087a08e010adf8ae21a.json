@@ -1,0 +1,1 @@
+{"id":"c9d26b35210c0087a08e010adf8ae21a","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab matches amount with .00 decimals against integer totals","name":"matches amount with .00 decimals against integer totals","status":"passed","testResultsByEnv":{"default":"34cde020badce890a49de8d50308f586"}}

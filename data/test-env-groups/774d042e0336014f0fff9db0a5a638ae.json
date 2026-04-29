@@ -1,0 +1,1 @@
+{"id":"774d042e0336014f0fff9db0a5a638ae","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /fee-schedules/:id returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"763e80672fdf755e71a43be963c458ba"}}

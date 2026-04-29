@@ -1,0 +1,1 @@
+{"id":"4e80e1acd46e469fd38365162432aa1a","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob error handling should throw error when buffer is empty","name":"should throw error when buffer is empty","status":"passed","testResultsByEnv":{"default":"3d729161f70872250467801e821f0087"}}

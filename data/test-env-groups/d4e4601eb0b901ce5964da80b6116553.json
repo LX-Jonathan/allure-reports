@@ -1,0 +1,1 @@
+{"id":"d4e4601eb0b901ce5964da80b6116553","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes DELETE /api/v1/users/:id returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"3c6f3dfa597e39673c3b71597d84e6b0"}}

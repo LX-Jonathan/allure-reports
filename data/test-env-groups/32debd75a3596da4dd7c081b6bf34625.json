@@ -1,0 +1,1 @@
+{"id":"32debd75a3596da4dd7c081b6bf34625","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles/:id/unpublish returns 200 when article is unpublished","name":"returns 200 when article is unpublished","status":"passed","testResultsByEnv":{"default":"4506471d7d94cd37d2d15386cbefe646"}}

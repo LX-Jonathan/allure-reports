@@ -1,0 +1,1 @@
+{"id":"171bb8541c982289331288f01068a50f","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Redis connection should reuse existing Redis connection","name":"should reuse existing Redis connection","status":"passed","testResultsByEnv":{"default":"d2687cad95cb73bf42ac6a3ccc9f1c9f"}}

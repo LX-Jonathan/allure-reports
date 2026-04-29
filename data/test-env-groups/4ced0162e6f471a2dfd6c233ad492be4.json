@@ -1,0 +1,1 @@
+{"id":"4ced0162e6f471a2dfd6c233ad492be4","fullName":"server/workers/__tests__/index.test.ts#workers/index re-exports should export startBulkScanSplitWorker","name":"should export startBulkScanSplitWorker","status":"passed","testResultsByEnv":{"default":"f5a96a312ac4963ee2f9712e122c93ca"}}

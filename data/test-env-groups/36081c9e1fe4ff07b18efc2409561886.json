@@ -1,0 +1,1 @@
+{"id":"36081c9e1fe4ff07b18efc2409561886","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 400 when thread has no associated patient","name":"returns 400 when thread has no associated patient","status":"passed","testResultsByEnv":{"default":"8bef1b2d5b702420b28559863a55038f"}}

@@ -1,0 +1,1 @@
+{"id":"f27bae7d17c4724ddcf464a6d798b7e9","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 400 when isActive is not a boolean","name":"returns 400 when isActive is not a boolean","status":"passed","testResultsByEnv":{"default":"1c6567655fdb06145a90bfd783fe20a5"}}

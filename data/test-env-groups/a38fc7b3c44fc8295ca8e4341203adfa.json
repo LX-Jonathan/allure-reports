@@ -1,0 +1,1 @@
+{"id":"a38fc7b3c44fc8295ca8e4341203adfa","fullName":"client/src/components/check-in/__tests__/WalkInDialog.test.tsx#WalkInDialog registers a new patient and creates a check-in when no duplicates are found","name":"registers a new patient and creates a check-in when no duplicates are found","status":"passed","testResultsByEnv":{"default":"2f8d4d3b51d21fdf941a92fe8debd413"}}

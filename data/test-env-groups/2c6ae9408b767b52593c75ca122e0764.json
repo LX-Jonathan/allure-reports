@@ -1,0 +1,1 @@
+{"id":"2c6ae9408b767b52593c75ca122e0764","fullName":"server/__tests__/bullmq.test.ts#bullmq lib createWorker creates a worker with limiter options","name":"creates a worker with limiter options","status":"passed","testResultsByEnv":{"default":"c139456e8e33266df489e494f3ed7080"}}

@@ -1,0 +1,1 @@
+{"id":"a04ec55ff766bf8a1ca9857ea51af4be","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items returns 400 on validation error (empty cptCode)","name":"returns 400 on validation error (empty cptCode)","status":"passed","testResultsByEnv":{"default":"9cb13c5ed6bd261c96979e52005d13cb"}}

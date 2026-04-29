@@ -1,0 +1,1 @@
+{"id":"b0981065604b8471661709ec28dc7881","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/add returns 400 when parentLabId cannot be determined","name":"returns 400 when parentLabId cannot be determined","status":"passed","testResultsByEnv":{"default":"14de3e584cf34d06cec7c4d8ed743eeb"}}

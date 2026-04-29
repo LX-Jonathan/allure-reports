@@ -1,0 +1,1 @@
+{"id":"e1ba4744fd2fbd9be421485276abc1a3","fullName":"server/routes/__tests__/user-view-portal-labchat.routes.test.ts#User-view portal LabChat preview routes GET /:patientId/portal/doctalk/conversations returns 404 when patient missing","name":"returns 404 when patient missing","status":"passed","testResultsByEnv":{"default":"4c22b780a4612a4ce771ba318901f870"}}

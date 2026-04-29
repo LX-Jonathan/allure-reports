@@ -1,0 +1,1 @@
+{"id":"fd54acb6d416edf7eee3e616bc09e758","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments Extended listAppointments returns empty when patientSearch finds no matching patients","name":"returns empty when patientSearch finds no matching patients","status":"passed","testResultsByEnv":{"default":"60b29ba31b257c457a3d7c8b814a24fc"}}

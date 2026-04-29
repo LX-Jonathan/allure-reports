@@ -1,0 +1,1 @@
+{"id":"2759f387db632adf41adc41170502022","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should return null for header without Bearer prefix","name":"should return null for header without Bearer prefix","status":"passed","testResultsByEnv":{"default":"189fdf50305498fd0b47775c9cf6b8d3"}}

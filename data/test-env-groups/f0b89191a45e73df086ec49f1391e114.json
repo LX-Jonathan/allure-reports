@@ -1,0 +1,1 @@
+{"id":"f0b89191a45e73df086ec49f1391e114","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/frhc-api-configs returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"77714baa4edbba3b2cde2e1397d298f0"}}

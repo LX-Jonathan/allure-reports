@@ -1,0 +1,1 @@
+{"id":"c8253d820624965b05617b5f36a641de","fullName":"server/__tests__/migrate.test.ts#migrate runMigrations should run migrations when sql files exist","name":"should run migrations when sql files exist","status":"passed","testResultsByEnv":{"default":"999791fd06bc221c4225de98559c26aa"}}

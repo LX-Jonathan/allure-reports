@@ -1,0 +1,1 @@
+{"id":"787b60362ae71e9e7b79b00d1ec43a54","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 500 when AI returns non-text response","name":"returns 500 when AI returns non-text response","status":"passed","testResultsByEnv":{"default":"a4bde55583a12aa4e60fbc05460ad053"}}

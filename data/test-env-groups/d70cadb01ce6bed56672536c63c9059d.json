@@ -1,0 +1,1 @@
+{"id":"d70cadb01ce6bed56672536c63c9059d","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules emits NO_ELIGIBLE_COVERAGE when both verifiedList and discoveredList are empty","name":"emits NO_ELIGIBLE_COVERAGE when both verifiedList and discoveredList are empty","status":"passed","testResultsByEnv":{"default":"a7f252b684cccb96416358e482577997"}}

@@ -1,0 +1,1 @@
+{"id":"1854d67397a8c0fa79f4eedd9e981ed1","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq isBullMQConfigured should return false when UPSTASH_REDIS_REST_URL is not set","name":"should return false when UPSTASH_REDIS_REST_URL is not set","status":"passed","testResultsByEnv":{"default":"c83e010ac53197418711d365cfd80979"}}

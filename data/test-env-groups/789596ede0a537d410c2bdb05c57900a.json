@@ -1,0 +1,1 @@
+{"id":"789596ede0a537d410c2bdb05c57900a","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId returns default config when no portal config set","name":"returns default config when no portal config set","status":"passed","testResultsByEnv":{"default":"d0741673c4c231e7f25d1c7c4f423b6f"}}

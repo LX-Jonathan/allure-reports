@@ -1,0 +1,1 @@
+{"id":"76761ded7e5c3b734d968d3f7399e67c","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxy-for (active proxy relationships for caller) only returns active relationships","name":"only returns active relationships","status":"passed","testResultsByEnv":{"default":"2e4b86fe17d3156f56efc8a9dcea8a07"}}

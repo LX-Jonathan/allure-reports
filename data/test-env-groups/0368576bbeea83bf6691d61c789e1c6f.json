@@ -1,0 +1,1 @@
+{"id":"0368576bbeea83bf6691d61c789e1c6f","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should always convert to png with compression level 6","name":"should always convert to png with compression level 6","status":"passed","testResultsByEnv":{"default":"7596ab1c4a2266e70b1598a734df1c54"}}

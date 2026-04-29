@@ -1,0 +1,1 @@
+{"id":"a72536a26192673860585804518341e4","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:id/status (Staff Portal - Update Kit Status) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"d8e07e93662be33c9fdca7fc8adf70b1"}}

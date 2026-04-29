@@ -1,0 +1,1 @@
+{"id":"2d6038c601af9ce93b8124758f9141aa","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets should only show own tickets for non-staff users","name":"should only show own tickets for non-staff users","status":"passed","testResultsByEnv":{"default":"4874603c6aa78e3199d641194e3ee31b"}}

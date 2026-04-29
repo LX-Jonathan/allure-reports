@@ -1,0 +1,1 @@
+{"id":"df6c85cee7a64396dfeefcac070bed28","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should apply accountName filter with LIKE pattern","name":"should apply accountName filter with LIKE pattern","status":"passed","testResultsByEnv":{"default":"8d4cef4a63841ff2d7e18e0335210ceb"}}

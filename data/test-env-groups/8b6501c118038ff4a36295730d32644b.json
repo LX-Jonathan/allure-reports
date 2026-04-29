@@ -1,0 +1,1 @@
+{"id":"8b6501c118038ff4a36295730d32644b","fullName":"server/lib/__tests__/logger.test.ts#logger serializeError — non-Error value serialises a numeric { error } to errorMessage via String()","name":"serialises a numeric { error } to errorMessage via String()","status":"passed","testResultsByEnv":{"default":"899b80c6d814dfcb2f2418daacb50775"}}

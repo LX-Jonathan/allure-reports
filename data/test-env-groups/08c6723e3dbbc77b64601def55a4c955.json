@@ -1,0 +1,1 @@
+{"id":"08c6723e3dbbc77b64601def55a4c955","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 201 when creating biometric as super_admin","name":"returns 201 when creating biometric as super_admin","status":"passed","testResultsByEnv":{"default":"cad2a784bb2c965af5cacd719ec142c5"}}

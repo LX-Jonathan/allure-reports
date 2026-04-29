@@ -1,0 +1,1 @@
+{"id":"78e7fd39f4aaa1081387c1945322cb10","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes PATCH /api/v1/locations/:id returns 403 when user cannot access organization","name":"returns 403 when user cannot access organization","status":"passed","testResultsByEnv":{"default":"1b27dd5020a5c38b991666b4a5e31725"}}

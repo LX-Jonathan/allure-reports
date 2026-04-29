@@ -1,0 +1,1 @@
+{"id":"acaede1c036ba472d73a67f6538ace2e","fullName":"client/src/components/patient/__tests__/insurance-card-preview.test.tsx#InsuranceCardPreview renders nothing when cards have no thumbnails","name":"renders nothing when cards have no thumbnails","status":"passed","testResultsByEnv":{"default":"85271f2ef480cd1ad85df4664470923b"}}

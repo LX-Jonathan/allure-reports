@@ -1,0 +1,1 @@
+{"id":"8c64ab1c917b00d0268247f8981022ae","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createDedicatedConnection should return null when BullMQ is not configured","name":"should return null when BullMQ is not configured","status":"passed","testResultsByEnv":{"default":"0b6ec5651f8f8b163dbc7346bb282858"}}

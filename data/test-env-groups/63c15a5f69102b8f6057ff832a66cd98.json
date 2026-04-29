@@ -1,0 +1,1 @@
+{"id":"63c15a5f69102b8f6057ff832a66cd98","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 500 when service throws error","name":"should return 500 when service throws error","status":"passed","testResultsByEnv":{"default":"e2e4a77852a643560ff68277f576cade"}}

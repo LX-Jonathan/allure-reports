@@ -1,0 +1,1 @@
+{"id":"50d69eac2ec11664585891f611dd0203","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should use in-memory rate limiting when Redis is not configured","name":"should use in-memory rate limiting when Redis is not configured","status":"passed","testResultsByEnv":{"default":"242011939614376a112cc0b139972afe"}}

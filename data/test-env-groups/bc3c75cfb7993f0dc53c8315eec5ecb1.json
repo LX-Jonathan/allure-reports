@@ -1,0 +1,1 @@
+{"id":"bc3c75cfb7993f0dc53c8315eec5ecb1","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getLogsByJob should filter logs by jobId","name":"should filter logs by jobId","status":"passed","testResultsByEnv":{"default":"bb79255e6931984901b1964a453e683e"}}

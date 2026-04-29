@@ -1,0 +1,1 @@
+{"id":"1c34704522cafcc2b0bfab0e144ed5e7","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord diagnoses should use code.text as display fallback","name":"should use code.text as display fallback","status":"passed","testResultsByEnv":{"default":"2789e956ea958def344116d90aace2d7"}}

@@ -1,0 +1,1 @@
+{"id":"be8308ccb197d81e2c5bb74462cafdb2","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useDtcCatalog without accessToken delegates auth handling to patientFetch and omits explicit headers","name":"delegates auth handling to patientFetch and omits explicit headers","status":"passed","testResultsByEnv":{"default":"cf2bc460bc2c5a7f8663f7f2b778c11c"}}

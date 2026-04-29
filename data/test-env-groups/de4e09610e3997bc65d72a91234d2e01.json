@@ -1,0 +1,1 @@
+{"id":"de4e09610e3997bc65d72a91234d2e01","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker startEmailWorker should register ready event handler","name":"should register ready event handler","status":"passed","testResultsByEnv":{"default":"e6ced01b67098a19deff24da18656aab"}}

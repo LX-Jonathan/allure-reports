@@ -1,0 +1,1 @@
+{"id":"c4cf368492b95ba867642455c5c40110","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints DELETE /api/v1/lab-tests/:id/image returns 403 when org_admin accesses different org's test","name":"returns 403 when org_admin accesses different org's test","status":"passed","testResultsByEnv":{"default":"09f02a341cc1f469b0631e0cf1077933"}}

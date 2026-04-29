@@ -1,0 +1,1 @@
+{"id":"e0a4ba203260679903a861914a7acaf9","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /rules/:id (CPT/ICD-10 overrides) ignores non-tunable fields on template-backed rules","name":"ignores non-tunable fields on template-backed rules","status":"passed","testResultsByEnv":{"default":"6fb8126b54e2f538d3027e1fe3b973d6"}}

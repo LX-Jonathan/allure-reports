@@ -1,0 +1,1 @@
+{"id":"f03140a3062e7bd0456200bf11e7aa76","fullName":"server/jobs/__tests__/scheduler.test.ts#getScheduledJobs should indicate billing job configured when Athena is set up","name":"should indicate billing job configured when Athena is set up","status":"passed","testResultsByEnv":{"default":"43cfe119594b68fcee265e9f4e977efb"}}

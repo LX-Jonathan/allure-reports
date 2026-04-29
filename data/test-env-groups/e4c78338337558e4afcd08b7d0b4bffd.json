@@ -1,0 +1,1 @@
+{"id":"e4c78338337558e4afcd08b7d0b4bffd","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations setUserOrganizationAssignments deletes existing and inserts new assignments","name":"deletes existing and inserts new assignments","status":"passed","testResultsByEnv":{"default":"2eb8c53be4b79fe65cf0db868a502f72"}}

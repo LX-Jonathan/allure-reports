@@ -1,0 +1,1 @@
+{"id":"78ced3cf7d80e7d3fc02a84be85ccd2a","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns 500 when AI returns no text block","name":"returns 500 when AI returns no text block","status":"passed","testResultsByEnv":{"default":"2206286b94cbafc114c3b5fef4f254ae"}}

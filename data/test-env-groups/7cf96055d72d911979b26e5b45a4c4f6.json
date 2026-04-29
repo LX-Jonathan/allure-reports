@@ -1,0 +1,1 @@
+{"id":"7cf96055d72d911979b26e5b45a4c4f6","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel does not render the Fix affordance when no onClick is provided","name":"does not render the Fix affordance when no onClick is provided","status":"passed","testResultsByEnv":{"default":"05cf791f6f3821f9e75c4a80018ae1d4"}}

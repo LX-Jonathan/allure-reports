@@ -1,0 +1,1 @@
+{"id":"bba95043dc94431dc9af5377728c969b","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /suspicious-activity-reports/:reportId/review returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"08864bdd51ba861374ac6666760ce973"}}

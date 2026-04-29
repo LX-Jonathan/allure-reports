@@ -1,0 +1,1 @@
+{"id":"a18c609d20cc0bec19f01b627fc36c42","fullName":"client/src/components/__tests__/appointment-qr-scanner.test.tsx#AppointmentQrScanner shows error for invalid (non-UUID) QR code","name":"shows error for invalid (non-UUID) QR code","status":"passed","testResultsByEnv":{"default":"f513273cd3720e05b7752734ae16540f"}}

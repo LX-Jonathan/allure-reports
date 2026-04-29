@@ -1,0 +1,1 @@
+{"id":"75e7c9483f16e567a82ae81db82faf14","fullName":"client/src/contexts/__tests__/dedicated-portal-context.test.tsx#DedicatedPortalContext stores superOrgId in localStorage after fetch","name":"stores superOrgId in localStorage after fetch","status":"passed","testResultsByEnv":{"default":"24597199dcb17997eeda846d9a4fe282"}}

@@ -1,0 +1,1 @@
+{"id":"ca29dadf39f94b4754fcbd974e3151e5","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 for invalid year format","name":"should return 400 for invalid year format","status":"passed","testResultsByEnv":{"default":"a84757e34979105b632ffe97b3e44291"}}

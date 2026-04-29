@@ -1,0 +1,1 @@
+{"id":"5c5404c89b140e4c2c5a73dc690d7674","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware response interception should preserve json response functionality after wrapping","name":"should preserve json response functionality after wrapping","status":"passed","testResultsByEnv":{"default":"7f94f6e582e26c9f4ed40a39d7083ab0"}}

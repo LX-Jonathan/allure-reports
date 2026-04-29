@@ -1,0 +1,1 @@
+{"id":"edfb0fd06116e4a444c0ed147b9e54d5","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes POST /api/v1/locations returns 403 when user has no organization assigned","name":"returns 403 when user has no organization assigned","status":"passed","testResultsByEnv":{"default":"2f6db976acb9aab91c78034278ab7b11"}}

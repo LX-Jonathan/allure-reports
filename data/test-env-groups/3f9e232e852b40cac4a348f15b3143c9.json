@@ -1,0 +1,1 @@
+{"id":"3f9e232e852b40cac4a348f15b3143c9","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore get should return session data when found in redis","name":"should return session data when found in redis","status":"passed","testResultsByEnv":{"default":"562beb2e6bdf6933f3fbcfb125d1ab17"}}

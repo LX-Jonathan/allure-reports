@@ -1,0 +1,1 @@
+{"id":"1dce24d1a2644509246719271f398114","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes GET /locations returns empty array when location-level user has no locationIds","name":"returns empty array when location-level user has no locationIds","status":"passed","testResultsByEnv":{"default":"e04b86c8ff89c68a0cdaa5392a5ae5a6"}}

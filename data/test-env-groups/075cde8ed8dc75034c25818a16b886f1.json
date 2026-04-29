@@ -1,0 +1,1 @@
+{"id":"075cde8ed8dc75034c25818a16b886f1","fullName":"client/src/lib/__tests__/printGoodFaithEstimate.test.ts#buildGoodFaithEstimateHtml includes a row for charity and prompt pay discounts only when > 0","name":"includes a row for charity and prompt pay discounts only when > 0","status":"passed","testResultsByEnv":{"default":"0181fa8872489c0f0150c7d6beaaedda"}}

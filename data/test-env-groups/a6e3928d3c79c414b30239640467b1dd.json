@@ -1,0 +1,1 @@
+{"id":"a6e3928d3c79c414b30239640467b1dd","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should count words correctly ignoring extra whitespace","name":"should count words correctly ignoring extra whitespace","status":"passed","testResultsByEnv":{"default":"d39f70d059db30203fbc0ace51c3a297"}}

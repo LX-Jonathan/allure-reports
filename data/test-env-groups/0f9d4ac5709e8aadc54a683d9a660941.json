@@ -1,0 +1,1 @@
+{"id":"0f9d4ac5709e8aadc54a683d9a660941","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batch-action returns 400 for invalid action","name":"returns 400 for invalid action","status":"passed","testResultsByEnv":{"default":"b944d23cfc597f2424087824e35d3ce4"}}

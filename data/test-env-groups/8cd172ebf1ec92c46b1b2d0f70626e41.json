@@ -1,0 +1,1 @@
+{"id":"8cd172ebf1ec92c46b1b2d0f70626e41","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId/featured-test-views returns 403 when user lacks required role","name":"returns 403 when user lacks required role","status":"passed","testResultsByEnv":{"default":"bb1a24704ba0acbb6f1838d2d9e979bd"}}

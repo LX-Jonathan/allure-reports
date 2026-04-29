@@ -1,0 +1,1 @@
+{"id":"d68c4bc48b06b94644ce6026f131d58b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/scanner/status/:batchId returns 403 when API key invalid","name":"returns 403 when API key invalid","status":"passed","testResultsByEnv":{"default":"e324c51153e110b74eb821c612747a35"}}

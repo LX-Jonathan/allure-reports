@@ -1,0 +1,1 @@
+{"id":"4309f060aa6b409e7db174a61aac2606","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should return zero-result for individual image errors in batch","name":"should return zero-result for individual image errors in batch","status":"passed","testResultsByEnv":{"default":"8b458e4c4a9985e4ac6ef0e244ac17c9"}}

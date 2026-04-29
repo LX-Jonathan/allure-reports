@@ -1,0 +1,1 @@
+{"id":"92503b3a344d5be69d376f6c0484b19a","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: setup_already_completed","name":"es: setup_already_completed","status":"passed","testResultsByEnv":{"default":"9e6b4f56729f417641a6c64abcc354fa"}}

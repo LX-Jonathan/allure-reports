@@ -1,0 +1,1 @@
+{"id":"a312e9074042008e69b0918cf5be4da3","fullName":"client/src/lib/__tests__/authUtils.test.ts#getInitials returns last initial only when first name is missing","name":"returns last initial only when first name is missing","status":"passed","testResultsByEnv":{"default":"b52da54ebad4b77e188996e10c415dd5"}}

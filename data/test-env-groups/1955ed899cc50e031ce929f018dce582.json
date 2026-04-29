@@ -1,0 +1,1 @@
+{"id":"1955ed899cc50e031ce929f018dce582","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 201 with computed line items (flat_fee) and verifies amounts","name":"returns 201 with computed line items (flat_fee) and verifies amounts","status":"passed","testResultsByEnv":{"default":"06af59b8f7a0d306ded78883acd8bcaf"}}

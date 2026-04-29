@@ -1,0 +1,1 @@
+{"id":"246d43e1a5bb3a4e461107021ad893cb","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/link-self (additional edge cases) returns 403 when email does not match","name":"returns 403 when email does not match","status":"passed","testResultsByEnv":{"default":"2f7f1719d8f423a321e349279afcabbd"}}

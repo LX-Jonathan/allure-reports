@@ -1,0 +1,1 @@
+{"id":"7f323150819f8343c2aa05a0379bd416","fullName":"server/lib/__tests__/redis.test.ts#redis.ts isRedisConfigured should return false when only URL is set","name":"should return false when only URL is set","status":"passed","testResultsByEnv":{"default":"b3be627969ee54a84c151de47b9c8e61"}}

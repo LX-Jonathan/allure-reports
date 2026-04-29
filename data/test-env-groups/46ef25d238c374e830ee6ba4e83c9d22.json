@@ -1,0 +1,1 @@
+{"id":"46ef25d238c374e830ee6ba4e83c9d22","fullName":"server/__tests__/worker-process.test.ts#worker-process shutdown function should gracefully shutdown on SIGINT","name":"should gracefully shutdown on SIGINT","status":"passed","testResultsByEnv":{"default":"b7462d8fd8f316dd65bb6a1f0945ca58"}}

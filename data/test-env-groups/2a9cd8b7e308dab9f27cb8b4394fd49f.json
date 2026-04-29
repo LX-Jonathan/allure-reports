@@ -1,0 +1,1 @@
+{"id":"2a9cd8b7e308dab9f27cb8b4394fd49f","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should return default mask for SSN with fewer than 9 digits","name":"should return default mask for SSN with fewer than 9 digits","status":"passed","testResultsByEnv":{"default":"6b42599beebd13fc562989e29045d295"}}

@@ -1,0 +1,1 @@
+{"id":"711ab3708750e7380d50f94978c7228e","fullName":"client/src/pages/__tests__/check-in.test.tsx#CheckInPage hides waive button when user lacks permission","name":"hides waive button when user lacks permission","status":"passed","testResultsByEnv":{"default":"128ba6a87ec2a56d41619069c70a6d51"}}

@@ -1,0 +1,1 @@
+{"id":"47d286bc8e48f685f142562b0a2ee7bd","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 400 when CSV has only header","name":"returns 400 when CSV has only header","status":"passed","testResultsByEnv":{"default":"262db6c92b3876081dae948b5cd90706"}}

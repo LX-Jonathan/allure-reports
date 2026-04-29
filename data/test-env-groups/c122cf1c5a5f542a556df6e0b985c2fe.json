@@ -1,0 +1,1 @@
+{"id":"c122cf1c5a5f542a556df6e0b985c2fe","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - FRHC API Configs deleteFrhcApiConfig should hard delete and return true when found","name":"should hard delete and return true when found","status":"passed","testResultsByEnv":{"default":"9d59ed2647aa064a10c243eb5fb68f78"}}

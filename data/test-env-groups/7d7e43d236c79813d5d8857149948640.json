@@ -1,0 +1,1 @@
+{"id":"7d7e43d236c79813d5d8857149948640","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/pull-records returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"df1d10857f6f22e7c41af470b257a68c"}}

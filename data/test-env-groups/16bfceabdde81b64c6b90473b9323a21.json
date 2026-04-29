@@ -1,0 +1,1 @@
+{"id":"16bfceabdde81b64c6b90473b9323a21","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs/:id should return a super org by id","name":"should return a super org by id","status":"passed","testResultsByEnv":{"default":"bba3ad12aff111ec02d5ffc698da9c49"}}

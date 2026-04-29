@@ -1,0 +1,1 @@
+{"id":"f5ec103d3f38a478b0513d463409d883","fullName":"client/src/hooks/__tests__/useSmartBack.test.ts#buildBackLink uses current window location when no currentPath provided","name":"uses current window location when no currentPath provided","status":"passed","testResultsByEnv":{"default":"897514e195ed18e7f7da153e603e2f28"}}

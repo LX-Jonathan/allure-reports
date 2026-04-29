@@ -1,0 +1,1 @@
+{"id":"bb61200a5c529b2c97e83d5fb66e9193","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should skip tenant config when twilio not enabled","name":"should skip tenant config when twilio not enabled","status":"passed","testResultsByEnv":{"default":"ba9183cd34506d9870e5837501cd2fa0"}}

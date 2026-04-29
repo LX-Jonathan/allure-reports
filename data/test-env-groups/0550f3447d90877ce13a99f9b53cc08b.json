@@ -1,0 +1,1 @@
+{"id":"0550f3447d90877ce13a99f9b53cc08b","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should handle cash drawer debit when credit would be negative","name":"should handle cash drawer debit when credit would be negative","status":"passed","testResultsByEnv":{"default":"a1f25c3e93032d0310607cf212ff4d4b"}}

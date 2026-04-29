@@ -1,0 +1,1 @@
+{"id":"1723b66e6f78a3b54545c87b5a144ff8","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getById should return order when found with full access","name":"should return order when found with full access","status":"passed","testResultsByEnv":{"default":"6888d630646e145f1979a9f4a878ce89"}}

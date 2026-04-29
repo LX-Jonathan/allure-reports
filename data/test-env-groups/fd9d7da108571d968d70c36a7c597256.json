@@ -1,0 +1,1 @@
+{"id":"fd9d7da108571d968d70c36a7c597256","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware locationAdmin chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"7befbbd14dae658f857b39d3e893e3a1"}}

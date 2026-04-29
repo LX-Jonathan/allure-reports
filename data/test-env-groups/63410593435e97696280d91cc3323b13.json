@@ -1,0 +1,1 @@
+{"id":"63410593435e97696280d91cc3323b13","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries/:entryId returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"c65a2503e85e51a734d83b1ea322fdd9"}}

@@ -1,0 +1,1 @@
+{"id":"964f5656857f2dae3f24e74f7ecb5f84","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes GET /api/v1/interfaces/results/queue returns all statuses combined when status=all","name":"returns all statuses combined when status=all","status":"passed","testResultsByEnv":{"default":"804b15721a7153091b0114702a53c83a"}}

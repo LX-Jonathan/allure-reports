@@ -1,0 +1,1 @@
+{"id":"692aad25a780f70b8c6df24ad0ca3c52","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules/:id/events returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"e02a44f8beb236686cce54f7d0e49c65"}}

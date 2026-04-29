@@ -1,0 +1,1 @@
+{"id":"76dee7e55adff44e23c773ea35ce76fe","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider returns 200 with provider profile for linked provider","name":"returns 200 with provider profile for linked provider","status":"passed","testResultsByEnv":{"default":"d9f523e7b14d015f441f9ac2933cc937"}}

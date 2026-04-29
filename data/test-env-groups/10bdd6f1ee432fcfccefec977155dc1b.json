@@ -1,0 +1,1 @@
+{"id":"10bdd6f1ee432fcfccefec977155dc1b","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/plans returns plans array for valid company","name":"returns plans array for valid company","status":"passed","testResultsByEnv":{"default":"e77494f4165f859e1f7c957be00402d9"}}

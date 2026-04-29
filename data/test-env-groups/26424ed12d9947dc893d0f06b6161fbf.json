@@ -1,0 +1,1 @@
+{"id":"26424ed12d9947dc893d0f06b6161fbf","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns 404 when location does not exist","name":"returns 404 when location does not exist","status":"passed","testResultsByEnv":{"default":"6171d37630cb370548f8d7076913010f"}}

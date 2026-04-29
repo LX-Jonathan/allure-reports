@@ -1,0 +1,1 @@
+{"id":"651af7f78e79431b68a13952321b6db1","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/browse-national returns paginated national companies","name":"returns paginated national companies","status":"passed","testResultsByEnv":{"default":"6a5e86bda50612dea631fabf58b2514c"}}

@@ -1,0 +1,1 @@
+{"id":"0a512ec453bd96a2843e05146146c9bf","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should return 403 when cookie token is missing","name":"should return 403 when cookie token is missing","status":"passed","testResultsByEnv":{"default":"956416fc7df617c1f5c71fd131f91a03"}}

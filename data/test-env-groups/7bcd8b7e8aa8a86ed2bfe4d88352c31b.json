@@ -1,0 +1,1 @@
+{"id":"7bcd8b7e8aa8a86ed2bfe4d88352c31b","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createWorker should apply rate limiter when provided","name":"should apply rate limiter when provided","status":"passed","testResultsByEnv":{"default":"0afd78ec091a16d165c707b85119adb0"}}

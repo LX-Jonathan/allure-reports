@@ -1,0 +1,1 @@
+{"id":"a8dbb0f999bd4907a93f0756715099df","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"9c69baafb843cdcdb10fe4389ada059a"}}

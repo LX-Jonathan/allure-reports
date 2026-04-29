@@ -1,0 +1,1 @@
+{"id":"841df28f7d33110ed092a193f8da32b0","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests/compendium-configs should return 400 without labId","name":"should return 400 without labId","status":"passed","testResultsByEnv":{"default":"51432051841ae3d721cc8e8df3e9653b"}}

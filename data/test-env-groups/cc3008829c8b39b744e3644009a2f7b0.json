@@ -1,0 +1,1 @@
+{"id":"cc3008829c8b39b744e3644009a2f7b0","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate case insensitivity should detect template regardless of case - mixed case","name":"should detect template regardless of case - mixed case","status":"passed","testResultsByEnv":{"default":"b1cf0958573401e0657bc7f3f40eb61d"}}

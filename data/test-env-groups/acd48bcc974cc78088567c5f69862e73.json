@@ -1,0 +1,1 @@
+{"id":"acd48bcc974cc78088567c5f69862e73","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"5ca40157ec4635a7bedf1cda54d85096"}}

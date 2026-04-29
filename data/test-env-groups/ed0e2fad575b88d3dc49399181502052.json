@@ -1,0 +1,1 @@
+{"id":"ed0e2fad575b88d3dc49399181502052","fullName":"server/__tests__/orders.routes.test.ts#orders.routes PATCH /api/v1/orders/:id/status should reject forbidden super org access","name":"should reject forbidden super org access","status":"passed","testResultsByEnv":{"default":"6d7f9ee853dca3f18a9f9b75c773c704"}}

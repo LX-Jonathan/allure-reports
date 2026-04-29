@@ -1,0 +1,1 @@
+{"id":"6e2c25fe40c13a8c288c1345d9b82163","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should map 'workers_comp' to 'Workers Compensation'","name":"should map 'workers_comp' to 'Workers Compensation'","status":"passed","testResultsByEnv":{"default":"361e63771816c15488e6a1dc25b1446e"}}

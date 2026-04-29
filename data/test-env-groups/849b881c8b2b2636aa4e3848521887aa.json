@@ -1,0 +1,1 @@
+{"id":"849b881c8b2b2636aa4e3848521887aa","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent payments renders one row per payment with amount, source, and status","name":"renders one row per payment with amount, source, and status","status":"passed","testResultsByEnv":{"default":"14ece8a061c9ff4d5c48eb88637a74e5"}}

@@ -1,0 +1,1 @@
+{"id":"6a7daa55536b9a71be8aacdd96df5225","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should default paymentType to 'Unknown' when not provided","name":"should default paymentType to 'Unknown' when not provided","status":"passed","testResultsByEnv":{"default":"85a3570c5fc27bca785475b65c3f6836"}}

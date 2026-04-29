@@ -1,0 +1,1 @@
+{"id":"8e65c5e6284940e16c8167f0707fbfe6","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/close returns validation error for negative actualCash","name":"returns validation error for negative actualCash","status":"passed","testResultsByEnv":{"default":"c4c114ee54ac320adb9bdcc322a53186"}}

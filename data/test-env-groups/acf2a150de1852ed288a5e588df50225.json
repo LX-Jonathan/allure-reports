@@ -1,0 +1,1 @@
+{"id":"acf2a150de1852ed288a5e588df50225","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: totp_not_enabled","name":"en: totp_not_enabled","status":"passed","testResultsByEnv":{"default":"82bb675ca0d6a1fa7c3b6e568a8dfca4"}}

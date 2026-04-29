@@ -1,0 +1,1 @@
+{"id":"51c70a471fa04f907ee2bc9c0fdcac88","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes DELETE /:id returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"73edf7a447ff70f5c7a7a73d885f12c1"}}

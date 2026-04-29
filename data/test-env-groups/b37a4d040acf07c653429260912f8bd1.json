@@ -1,0 +1,1 @@
+{"id":"b37a4d040acf07c653429260912f8bd1","fullName":"server/__tests__/reporting.service.test.ts#ReportingService getCategoryById should return null when not found","name":"should return null when not found","status":"passed","testResultsByEnv":{"default":"9654c36660a155fd393825ec3dac1739"}}

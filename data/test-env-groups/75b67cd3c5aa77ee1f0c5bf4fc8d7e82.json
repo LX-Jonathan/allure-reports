@@ -1,0 +1,1 @@
+{"id":"75b67cd3c5aa77ee1f0c5bf4fc8d7e82","fullName":"client/src/pages/__tests__/change-password.test.tsx#ChangePasswordPage calls authenticatedFetch when form is valid","name":"calls authenticatedFetch when form is valid","status":"passed","testResultsByEnv":{"default":"42b87fd6d1cb077b2f05babe1aec9368"}}

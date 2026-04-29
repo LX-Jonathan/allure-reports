@@ -1,0 +1,1 @@
+{"id":"09fe698958973bb04e0f0841786deb1a","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner does not enumerate cameras when dialog is closed","name":"does not enumerate cameras when dialog is closed","status":"passed","testResultsByEnv":{"default":"cfa5ba8ba45710dee73efa9933390d2c"}}

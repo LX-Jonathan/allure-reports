@@ -1,0 +1,1 @@
+{"id":"102623ded8face58f6bb4b95794724fe","fullName":"client/src/pages/__tests__/appointment-config.test.tsx#AppointmentConfigPage renders schedule name as required (shows error on empty submit)","name":"renders schedule name as required (shows error on empty submit)","status":"passed","testResultsByEnv":{"default":"442484fe9400080bee4963ff68066039"}}

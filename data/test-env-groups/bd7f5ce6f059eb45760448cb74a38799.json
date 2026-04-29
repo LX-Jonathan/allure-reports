@@ -1,0 +1,1 @@
+{"id":"bd7f5ce6f059eb45760448cb74a38799","fullName":"server/routes/__tests__/labchat-portal-link.routes.test.ts#POST /api/v1/labchat/clients/:orgId/threads/:threadId/portal-link returns 400 when the thread has no associated patient","name":"returns 400 when the thread has no associated patient","status":"passed","testResultsByEnv":{"default":"bfcaf2671f7f5cd42f92a1d15fb0a0eb"}}

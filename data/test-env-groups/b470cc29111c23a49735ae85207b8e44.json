@@ -1,0 +1,1 @@
+{"id":"b470cc29111c23a49735ae85207b8e44","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory validateBody middleware should validate request body and call next on success","name":"should validate request body and call next on success","status":"passed","testResultsByEnv":{"default":"63ba06e1ec92c7291320398a52e59a12"}}

@@ -1,0 +1,1 @@
+{"id":"3a8ca68b53ed97e427468de8388129e5","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/:id/validate returns validation errors for incomplete claim","name":"returns validation errors for incomplete claim","status":"passed","testResultsByEnv":{"default":"7acf66e115d4c9f2c957d79665259d73"}}

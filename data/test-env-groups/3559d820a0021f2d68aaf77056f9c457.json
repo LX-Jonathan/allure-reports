@@ -1,0 +1,1 @@
+{"id":"3559d820a0021f2d68aaf77056f9c457","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return stale when orphaned cache has no job submittedAt","name":"should return stale when orphaned cache has no job submittedAt","status":"passed","testResultsByEnv":{"default":"55837448fd53bf91d3f71f5837cd844b"}}

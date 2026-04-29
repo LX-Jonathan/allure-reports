@@ -1,0 +1,1 @@
+{"id":"1d98ea905fe1813943ce6d00ef899314","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns validation error for missing locationId","name":"returns validation error for missing locationId","status":"passed","testResultsByEnv":{"default":"0c82e591cab5a7e60fcee4fd632c5ab6"}}

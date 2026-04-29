@@ -1,0 +1,1 @@
+{"id":"9f14076697bf94c365e6eed88512dfcf","fullName":"client/src/components/__tests__/insurance-company-link.test.tsx#InsuranceCompanyLink renders as span when no companyId and no children","name":"renders as span when no companyId and no children","status":"passed","testResultsByEnv":{"default":"a8afc23aa3843114063961d05a6bccdc"}}

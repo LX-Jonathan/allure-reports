@@ -1,0 +1,1 @@
+{"id":"7a86cde35fdc0b22a0b40ed1f139c7e5","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner sets ProductKey from licenseKey prop when SDK is loaded","name":"sets ProductKey from licenseKey prop when SDK is loaded","status":"passed","testResultsByEnv":{"default":"a12ddf2a69d496101847195930d01b92"}}

@@ -1,0 +1,1 @@
+{"id":"9dbce6010972597219bce01848b5b528","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients additional branches returns null SSN in response when no SSN provided","name":"returns null SSN in response when no SSN provided","status":"passed","testResultsByEnv":{"default":"afd7f1b7437fe03ecf703ef61af47ed5"}}

@@ -1,0 +1,1 @@
+{"id":"e654aec5b212c534990f3073bb3fdb50","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications Routes GET /api/v1/medications returns 200 with medications list","name":"returns 200 with medications list","status":"passed","testResultsByEnv":{"default":"c66a92e6a7be02a1a716f2585399e29f"}}

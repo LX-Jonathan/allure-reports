@@ -1,0 +1,1 @@
+{"id":"3963cd9f1ec2a28bcdd910d7c5d20ecf","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getLogsByBatch should filter logs by batchId","name":"should filter logs by batchId","status":"passed","testResultsByEnv":{"default":"855ca1b4499048a1984697157da2bdf2"}}

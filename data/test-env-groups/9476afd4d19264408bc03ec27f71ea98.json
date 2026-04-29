@@ -1,0 +1,1 @@
+{"id":"9476afd4d19264408bc03ec27f71ea98","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST / returns 403 when non-super_admin creates template for another org","name":"returns 403 when non-super_admin creates template for another org","status":"passed","testResultsByEnv":{"default":"9da7d502f61e6fa295877cca02b73f62"}}

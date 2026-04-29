@@ -1,0 +1,1 @@
+{"id":"ff9934c371565e6381865f238cfa7cd1","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/quickstarts/:id/publish returns 200 when quickstart is published","name":"returns 200 when quickstart is published","status":"passed","testResultsByEnv":{"default":"bf837975b90dcff7a3272d5f519f0204"}}

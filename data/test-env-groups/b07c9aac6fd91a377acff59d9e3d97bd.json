@@ -1,0 +1,1 @@
+{"id":"b07c9aac6fd91a377acff59d9e3d97bd","fullName":"client/src/stores/__tests__/tenantStore.test.ts#useTenantStore setLockStates updates all lock flags","name":"setLockStates updates all lock flags","status":"passed","testResultsByEnv":{"default":"b9b54f001512e6cc805eb6ba0652bca6"}}

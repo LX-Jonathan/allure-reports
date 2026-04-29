@@ -1,0 +1,1 @@
+{"id":"2c00dff8ce4cb01ffb161fe0fde16597","fullName":"client/src/components/patient/__tests__/lab-summary-overview.test.tsx#LabSummaryOverview renders the loading skeleton grid before data arrives","name":"renders the loading skeleton grid before data arrives","status":"passed","testResultsByEnv":{"default":"e580b533fde6ecc80ca6bc81eda88868"}}

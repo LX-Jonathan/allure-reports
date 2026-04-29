@@ -1,0 +1,1 @@
+{"id":"538903ba17f1390dd9f9ee9ec43717d7","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch includes auth header when token is stored","name":"includes auth header when token is stored","status":"passed","testResultsByEnv":{"default":"10faed75ef28406a69c234233e538d4a"}}

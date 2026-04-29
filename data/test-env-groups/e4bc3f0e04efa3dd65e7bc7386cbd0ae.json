@@ -1,0 +1,1 @@
+{"id":"e4bc3f0e04efa3dd65e7bc7386cbd0ae","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory GET /:id (get single) should filter soft-deleted records when softDelete is enabled","name":"should filter soft-deleted records when softDelete is enabled","status":"passed","testResultsByEnv":{"default":"fb9dd50d0b108141653ff51e394f4f68"}}

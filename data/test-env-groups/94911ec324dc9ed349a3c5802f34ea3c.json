@@ -1,0 +1,1 @@
+{"id":"94911ec324dc9ed349a3c5802f34ea3c","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 500 when AI returns invalid JSON","name":"returns 500 when AI returns invalid JSON","status":"passed","testResultsByEnv":{"default":"ab2f4c80a63ac9a6a38edf01b75225f5"}}

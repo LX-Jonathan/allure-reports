@@ -1,0 +1,1 @@
+{"id":"5dc0ec14153db6258ba1a8c1e2e1fd75","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should omit order number from description when null","name":"should omit order number from description when null","status":"passed","testResultsByEnv":{"default":"9f34e37f72fd0286e1ba10e35076335f"}}

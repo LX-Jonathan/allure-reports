@@ -1,0 +1,1 @@
+{"id":"bb9c5e402d46c1a057ae2cb74c7aa717","fullName":"server/middleware/__tests__/rateLimit.test.ts#sensitiveRateLimitMiddleware Redis rate limiting should use Redis sensitive rate limiter when configured","name":"should use Redis sensitive rate limiter when configured","status":"passed","testResultsByEnv":{"default":"3de4c5f9daddf3ee27efecfb8ea304fc"}}

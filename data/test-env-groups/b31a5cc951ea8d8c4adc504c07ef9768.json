@@ -1,0 +1,1 @@
+{"id":"b31a5cc951ea8d8c4adc504c07ef9768","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Test Groups Routes DELETE /api/v1/test-groups/:id returns 403 when org_admin deletes different org's group","name":"returns 403 when org_admin deletes different org's group","status":"passed","testResultsByEnv":{"default":"ca7df201a8c73abd8284e88770a0b947"}}

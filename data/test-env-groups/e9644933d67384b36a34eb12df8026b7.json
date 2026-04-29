@@ -1,0 +1,1 @@
+{"id":"e9644933d67384b36a34eb12df8026b7","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service getAndromedaReadinessSummary should return null when no check exists","name":"should return null when no check exists","status":"passed","testResultsByEnv":{"default":"dc07c561ae6f2e6f2e4f1417b49c3fcf"}}

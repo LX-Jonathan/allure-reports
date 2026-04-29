@@ -1,0 +1,1 @@
+{"id":"33692df664e3032d66d51ecfdf4dc27a","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST / returns 400 for invalid body (missing discipline)","name":"returns 400 for invalid body (missing discipline)","status":"passed","testResultsByEnv":{"default":"a2a9cb8d68a0c3b3c268d8c858cd1c39"}}

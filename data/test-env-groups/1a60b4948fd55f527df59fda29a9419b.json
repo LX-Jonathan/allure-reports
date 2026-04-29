@@ -1,0 +1,1 @@
+{"id":"1a60b4948fd55f527df59fda29a9419b","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes PATCH /api/v1/lab-tests/:id should update a lab test","name":"should update a lab test","status":"passed","testResultsByEnv":{"default":"40bd6bac1501b09e9733b0fd8452d74a"}}

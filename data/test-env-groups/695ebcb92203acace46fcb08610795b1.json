@@ -1,0 +1,1 @@
+{"id":"695ebcb92203acace46fcb08610795b1","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes GET /api/v1/master-patients/:id returns master patient with linked patients","name":"returns master patient with linked patients","status":"passed","testResultsByEnv":{"default":"a329f58b527a4bea0333086fd53f967d"}}

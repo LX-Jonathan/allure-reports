@@ -1,0 +1,1 @@
+{"id":"cdc9d7568a7ecd62a6475288894304f2","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext store reset on logout resets store when user becomes null after being initialized","name":"resets store when user becomes null after being initialized","status":"passed","testResultsByEnv":{"default":"44785bbb71dfbea0b46c07e5a06732ca"}}

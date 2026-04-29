@@ -1,0 +1,1 @@
+{"id":"d4fa9239faeb3096821af5727ac894b0","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/remove returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"79c7b871d5c62205b597e4be54cd0e03"}}

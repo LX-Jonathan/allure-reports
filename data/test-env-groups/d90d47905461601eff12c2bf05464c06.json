@@ -1,0 +1,1 @@
+{"id":"d90d47905461601eff12c2bf05464c06","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/scan-upload returns 400 when organization or location missing","name":"returns 400 when organization or location missing","status":"passed","testResultsByEnv":{"default":"2f7432582d8cb7a7b75044dc3202aa05"}}

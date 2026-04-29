@@ -1,0 +1,1 @@
+{"id":"4b460139915051220c8edb696a54c90d","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should register list keys under the list tag (scale-redis-keys)","name":"should register list keys under the list tag (scale-redis-keys)","status":"passed","testResultsByEnv":{"default":"c938b3d5616dc5800cf4e92ab8565e83"}}

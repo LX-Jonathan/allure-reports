@@ -1,0 +1,1 @@
+{"id":"ad3e824b56d9d40373d70598bdcadc07","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeOCRText should include wordCount in metadata","name":"should include wordCount in metadata","status":"passed","testResultsByEnv":{"default":"aa6188e11e0d44f2c2fd28baaece8eed"}}

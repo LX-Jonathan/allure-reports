@@ -1,0 +1,1 @@
+{"id":"ecb0f562357698131acea1c63161b36c","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should use global credentials on tenant fallback","name":"should use global credentials on tenant fallback","status":"passed","testResultsByEnv":{"default":"59ddf642909e288d9a741a0586e1d4f1"}}

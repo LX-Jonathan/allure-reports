@@ -1,0 +1,1 @@
+{"id":"9d5daa5d3db6f33617064f270e394ae7","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes GET /stats does not apply filters for full-access user","name":"does not apply filters for full-access user","status":"passed","testResultsByEnv":{"default":"d511a2ac39eb96910c58b7dda4a85e17"}}

@@ -1,0 +1,1 @@
+{"id":"ac47b070aa36dc006d891b26ada6fe3e","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: email_send_failed","name":"es: email_send_failed","status":"passed","testResultsByEnv":{"default":"081a9955749bcdf59188d567cc834b61"}}

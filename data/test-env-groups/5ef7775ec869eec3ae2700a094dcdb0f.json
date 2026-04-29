@@ -1,0 +1,1 @@
+{"id":"5ef7775ec869eec3ae2700a094dcdb0f","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms error handling should log specific message for error code 21610 (opt-out)","name":"should log specific message for error code 21610 (opt-out)","status":"passed","testResultsByEnv":{"default":"36e5a1f71a2e8760e9e91bda01097d54"}}

@@ -1,0 +1,1 @@
+{"id":"66992a8661efd83b895c2a88de0394c1","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan createBulkScanItems should return empty array when items is empty","name":"should return empty array when items is empty","status":"passed","testResultsByEnv":{"default":"cc75ab3c632bae05f01ac6232ebd2a48"}}

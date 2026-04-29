@@ -1,0 +1,1 @@
+{"id":"230daf65090a0b696a4eeadd71fdfeb1","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness insurance data evaluation should not flag payer when payerId is present","name":"should not flag payer when payerId is present","status":"passed","testResultsByEnv":{"default":"28f46d491fb0b738047eab36773a2033"}}

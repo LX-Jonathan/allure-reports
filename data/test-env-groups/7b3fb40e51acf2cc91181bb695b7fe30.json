@@ -1,0 +1,1 @@
+{"id":"7b3fb40e51acf2cc91181bb695b7fe30","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should return false for invalid phone number","name":"should return false for invalid phone number","status":"passed","testResultsByEnv":{"default":"c0b42ae7aa9944bffcfafc8431202406"}}

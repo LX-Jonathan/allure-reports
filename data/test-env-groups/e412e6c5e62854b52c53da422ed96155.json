@@ -1,0 +1,1 @@
+{"id":"e412e6c5e62854b52c53da422ed96155","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items/bulk returns 500 on db error during bulk insert","name":"returns 500 on db error during bulk insert","status":"passed","testResultsByEnv":{"default":"268a71742b819453973f3a672d362221"}}

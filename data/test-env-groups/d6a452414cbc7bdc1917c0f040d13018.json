@@ -1,0 +1,1 @@
+{"id":"d6a452414cbc7bdc1917c0f040d13018","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /labs returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"3ce1be4148875e15a97375e3770d8830"}}

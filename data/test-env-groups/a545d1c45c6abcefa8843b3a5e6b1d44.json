@@ -1,0 +1,1 @@
+{"id":"a545d1c45c6abcefa8843b3a5e6b1d44","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply normalize when option is true","name":"should apply normalize when option is true","status":"passed","testResultsByEnv":{"default":"5b80ddc4247c16465e7c5c217785dca1"}}

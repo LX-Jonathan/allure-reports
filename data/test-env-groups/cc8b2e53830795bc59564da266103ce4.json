@@ -1,0 +1,1 @@
+{"id":"cc8b2e53830795bc59564da266103ce4","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/:slug/inquiries returns 201 when inquiry submitted successfully","name":"returns 201 when inquiry submitted successfully","status":"passed","testResultsByEnv":{"default":"06ad8293eef67e84b2da696bb29c9aa4"}}

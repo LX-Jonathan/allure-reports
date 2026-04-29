@@ -1,0 +1,1 @@
+{"id":"d8ec069aeee379b30b7055423370dfba","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/abn-worklist returns 200 with medicalNecessityResults in metadata","name":"returns 200 with medicalNecessityResults in metadata","status":"passed","testResultsByEnv":{"default":"a4fe3e10914d0bf9a18f888be89b762b"}}

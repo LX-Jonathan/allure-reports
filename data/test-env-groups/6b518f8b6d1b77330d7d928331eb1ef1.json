@@ -1,0 +1,1 @@
+{"id":"6b518f8b6d1b77330d7d928331eb1ef1","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should use tenant config when parentLabId provided and config exists","name":"should use tenant config when parentLabId provided and config exists","status":"passed","testResultsByEnv":{"default":"80239812019858ec40ce594128b13104"}}

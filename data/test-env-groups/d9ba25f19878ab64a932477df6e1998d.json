@@ -1,0 +1,1 @@
+{"id":"d9ba25f19878ab64a932477df6e1998d","fullName":"client/src/lib/__tests__/discipline-config.test.ts#getDisciplineConfigSafe returns null for unknown discipline with no customs","name":"returns null for unknown discipline with no customs","status":"passed","testResultsByEnv":{"default":"81f67a500e3c93f54b5d3b6ab7252cbf"}}

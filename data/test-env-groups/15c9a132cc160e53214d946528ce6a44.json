@@ -1,0 +1,1 @@
+{"id":"15c9a132cc160e53214d946528ce6a44","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logJobComplete should not set cost when no tokens","name":"should not set cost when no tokens","status":"passed","testResultsByEnv":{"default":"0fdbbe9567c5460328c369ad9115f100"}}

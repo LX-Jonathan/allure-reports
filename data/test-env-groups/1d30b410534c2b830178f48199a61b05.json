@@ -1,0 +1,1 @@
+{"id":"1d30b410534c2b830178f48199a61b05","fullName":"server/services/__tests__/athenaSync.test.ts#helper function logic effectiveErrorType logic should fall back to sourceType when all others are empty","name":"should fall back to sourceType when all others are empty","status":"passed","testResultsByEnv":{"default":"637b82a1dd5d9bce93c02c229b6b34ab"}}

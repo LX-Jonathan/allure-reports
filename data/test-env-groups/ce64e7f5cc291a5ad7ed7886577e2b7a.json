@@ -1,0 +1,1 @@
+{"id":"ce64e7f5cc291a5ad7ed7886577e2b7a","fullName":"client/src/lib/__tests__/printGoodFaithEstimate.test.ts#buildGoodFaithEstimateHtml escapes HTML in patient name, payer name, and disclaimer","name":"escapes HTML in patient name, payer name, and disclaimer","status":"passed","testResultsByEnv":{"default":"8973372535eb5df66dfb7f8f629b4a04"}}

@@ -1,0 +1,1 @@
+{"id":"50658fa331f809fb712736811f8a3f1b","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireSuperOrg should allow super_admin to access any super org","name":"should allow super_admin to access any super org","status":"passed","testResultsByEnv":{"default":"df37de4cae342b98544453172ab32659"}}

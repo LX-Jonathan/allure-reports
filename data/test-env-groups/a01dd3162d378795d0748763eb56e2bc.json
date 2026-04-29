@@ -1,0 +1,1 @@
+{"id":"a01dd3162d378795d0748763eb56e2bc","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status returns 403 for super org mismatch","name":"returns 403 for super org mismatch","status":"passed","testResultsByEnv":{"default":"e5f3e515d1ecca0a3abc564531e78330"}}

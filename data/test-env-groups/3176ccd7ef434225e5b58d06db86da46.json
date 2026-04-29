@@ -1,0 +1,1 @@
+{"id":"3176ccd7ef434225e5b58d06db86da46","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate fee calculation - insured patient should skip deductible when already met","name":"should skip deductible when already met","status":"passed","testResultsByEnv":{"default":"807efa71b5a3c86b65528e97d1f70b52"}}

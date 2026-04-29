@@ -1,0 +1,1 @@
+{"id":"dee3c8c5ecd5e157b672fe0172df86c2","fullName":"client/src/pages/__tests__/appointments.test.tsx#AppointmentsPage renders a coverage warning badge on rows whose patient has a flagged check-in","name":"renders a coverage warning badge on rows whose patient has a flagged check-in","status":"passed","testResultsByEnv":{"default":"94c683396059767f934f8865ff9cb989"}}

@@ -1,0 +1,1 @@
+{"id":"49d483d3b747cf2b532da0571f52f558","fullName":"client/src/hooks/__tests__/usePatientCart.test.tsx#usePatientCart - getTotalPrice treats missing prices as zero","name":"treats missing prices as zero","status":"passed","testResultsByEnv":{"default":"bc0acd119341636247b60209c4459ef4"}}

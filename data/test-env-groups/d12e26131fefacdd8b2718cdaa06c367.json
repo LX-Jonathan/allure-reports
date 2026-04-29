@@ -1,0 +1,1 @@
+{"id":"d12e26131fefacdd8b2718cdaa06c367","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useStaffDtcDashboard extra coverage fetches dashboard stats when parentLabId is provided","name":"fetches dashboard stats when parentLabId is provided","status":"passed","testResultsByEnv":{"default":"940e9fbf5e53cc6a9233b78af525320a"}}

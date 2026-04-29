@@ -1,0 +1,1 @@
+{"id":"fe18828ac7a9dd333bac77be8c629db4","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 403 for org_admin role","name":"returns 403 for org_admin role","status":"passed","testResultsByEnv":{"default":"de9070e8bc4c6962eee0fd144ce4bbbe"}}

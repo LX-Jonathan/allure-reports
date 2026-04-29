@@ -1,0 +1,1 @@
+{"id":"14e15addf87300200341effbd4e14d5f","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should handle batch with zero values","name":"should handle batch with zero values","status":"passed","testResultsByEnv":{"default":"62a6397c27333e054a8313e8437984e0"}}

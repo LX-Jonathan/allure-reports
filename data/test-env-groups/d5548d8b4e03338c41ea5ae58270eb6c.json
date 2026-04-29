@@ -1,0 +1,1 @@
+{"id":"d5548d8b4e03338c41ea5ae58270eb6c","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should register key in Redis on set for organizationId pattern","name":"should register key in Redis on set for organizationId pattern","status":"passed","testResultsByEnv":{"default":"1e9a66a2ebaf35cf60074e430964db08"}}

@@ -1,0 +1,1 @@
+{"id":"70efe24e1aa7772a7c3351e9a95a0f38","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/upload-url should return 200 with upload URL","name":"should return 200 with upload URL","status":"passed","testResultsByEnv":{"default":"9a3534e836eec538429af5c99ca9d856"}}

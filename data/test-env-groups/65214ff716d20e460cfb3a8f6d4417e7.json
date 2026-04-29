@@ -1,0 +1,1 @@
+{"id":"65214ff716d20e460cfb3a8f6d4417e7","fullName":"client/src/pages/__tests__/patient-new.test.tsx#PatientNewPage extra phone numbers returns a removed phone type back to the dropdown","name":"returns a removed phone type back to the dropdown","status":"passed","testResultsByEnv":{"default":"efad0ea6b323ba36fa150047d9e786e6"}}

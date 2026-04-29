@@ -1,0 +1,1 @@
+{"id":"9ad987e68ce61bd3955bfd3e9dc12e29","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots returns 400 for invalid patientId UUID","name":"returns 400 for invalid patientId UUID","status":"passed","testResultsByEnv":{"default":"6ff4c8199f927740d5615e503a4dadcd"}}

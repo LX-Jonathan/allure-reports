@@ -1,0 +1,1 @@
+{"id":"2693f2f3e974fc7cfb75c19dc400d028","fullName":"server/middleware/__tests__/rateLimit.test.ts#sensitiveRateLimitMiddleware Redis rate limiting should fall back when getSensitiveRateLimiter returns null","name":"should fall back when getSensitiveRateLimiter returns null","status":"passed","testResultsByEnv":{"default":"65ddc99a1b03895d346ad553f090c2f4"}}

@@ -1,0 +1,1 @@
+{"id":"04733f918c627b8ea0d512c11581f1b7","fullName":"server/config/__tests__/env.test.ts#env schema validation allows optional Redis fields to be undefined","name":"allows optional Redis fields to be undefined","status":"passed","testResultsByEnv":{"default":"29b2e955857c9dc59768acf6b4e2cda9"}}

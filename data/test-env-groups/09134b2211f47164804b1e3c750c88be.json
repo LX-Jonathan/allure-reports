@@ -1,0 +1,1 @@
+{"id":"09134b2211f47164804b1e3c750c88be","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding/:id/publish returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"bbbb421a7b2bb5be203e63d0cacbee6d"}}

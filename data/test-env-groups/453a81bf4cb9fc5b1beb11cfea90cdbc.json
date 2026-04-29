@@ -1,0 +1,1 @@
+{"id":"453a81bf4cb9fc5b1beb11cfea90cdbc","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy Pre-Registration Links deletePreRegistrationLink should hard-delete and return true","name":"deletePreRegistrationLink should hard-delete and return true","status":"passed","testResultsByEnv":{"default":"b72ab3a2f90085a1e7d73a671a005e75"}}

@@ -1,0 +1,1 @@
+{"id":"e1b739bd7f3fa6e2f732c8ad97b63a26","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 200 for super_admin even if not participant","name":"returns 200 for super_admin even if not participant","status":"passed","testResultsByEnv":{"default":"4a8919cb2c7dbf9d6f402a007f53571d"}}

@@ -1,0 +1,1 @@
+{"id":"bc56f2889c3c295da61efabae92dd227","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalSessions returns active sessions for user","name":"returns active sessions for user","status":"passed","testResultsByEnv":{"default":"88b51c1689d5656cbb8fe533da7febc3"}}

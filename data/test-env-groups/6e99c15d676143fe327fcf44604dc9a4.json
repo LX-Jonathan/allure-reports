@@ -1,0 +1,1 @@
+{"id":"6e99c15d676143fe327fcf44604dc9a4","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Favorite Additional Branches PATCH /api/v1/medications/:id/favorite returns 400 when isFavorite is not a boolean","name":"returns 400 when isFavorite is not a boolean","status":"passed","testResultsByEnv":{"default":"a2da6c53d710c430f65be4b59ba36da7"}}

@@ -1,0 +1,1 @@
+{"id":"b80d24ec65259fd4b5821726a63f74b2","fullName":"server/workers/__tests__/report-generation.worker.test.ts#startReportGenerationWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"6f2d6c3b3a5001845a3f9c00e3da8358"}}

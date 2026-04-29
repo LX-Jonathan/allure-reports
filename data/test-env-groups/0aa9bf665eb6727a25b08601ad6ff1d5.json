@@ -1,0 +1,1 @@
+{"id":"0aa9bf665eb6727a25b08601ad6ff1d5","fullName":"server/routes/__tests__/patient-auth-recovery-codes.routes.test.ts#patient-auth recovery codes POST /recovery-codes/generate invalidates prior codes when regenerating","name":"invalidates prior codes when regenerating","status":"passed","testResultsByEnv":{"default":"ae2663a6b758d1b193770aa16f8fab96"}}

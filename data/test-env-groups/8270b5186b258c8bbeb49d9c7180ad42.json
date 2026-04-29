@@ -1,0 +1,1 @@
+{"id":"8270b5186b258c8bbeb49d9c7180ad42","fullName":"client/src/lib/__tests__/utils.test.ts#normalizeConfidenceToPct converts 0-1 scale values to percentages","name":"converts 0-1 scale values to percentages","status":"passed","testResultsByEnv":{"default":"fc656ba146ab80f356ed3a5031888cdb"}}

@@ -1,0 +1,1 @@
+{"id":"d5461061a3fcb00539844dc7c448503c","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/:id/generate-mappings should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"2216ce0b7314424e6e0467015a7eebba"}}

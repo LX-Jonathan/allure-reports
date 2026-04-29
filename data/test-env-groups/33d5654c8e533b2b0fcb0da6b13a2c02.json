@@ -1,0 +1,1 @@
+{"id":"33d5654c8e533b2b0fcb0da6b13a2c02","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService memoize should support custom TTL","name":"should support custom TTL","status":"passed","testResultsByEnv":{"default":"d99c6c5995edb4c23e19c3b03b4d5d7c"}}

@@ -1,0 +1,1 @@
+{"id":"8c22d48b54d394eec6ef368bd92173e0","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getLocations should filter by parentLabId and return empty when no orgs found","name":"should filter by parentLabId and return empty when no orgs found","status":"passed","testResultsByEnv":{"default":"eb82f7e7c66c3ec463ad58c5ed222b1f"}}

@@ -1,0 +1,1 @@
+{"id":"ae41e76b980a713fb93ff9005898a109","fullName":"client/src/components/patient/__tests__/scorecard-tab.test.tsx#ScorecardTab shows unsolicited results alert when count > 0","name":"shows unsolicited results alert when count > 0","status":"passed","testResultsByEnv":{"default":"d50bfe71c973f69c802a3dd6db54d4cb"}}

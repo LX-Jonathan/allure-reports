@@ -1,0 +1,1 @@
+{"id":"2e18f2798879913e445cdfcc37634193","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements returns no requirements when cptCodes is empty","name":"returns no requirements when cptCodes is empty","status":"passed","testResultsByEnv":{"default":"5248a0bfbaacf4fe91ad9a964c415cf7"}}

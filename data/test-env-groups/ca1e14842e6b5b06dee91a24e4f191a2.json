@@ -1,0 +1,1 @@
+{"id":"ca1e14842e6b5b06dee91a24e4f191a2","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes DELETE /api/prompt-pay/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"efc438f2f994e6a23f0beba6d678b315"}}

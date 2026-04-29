@@ -1,0 +1,1 @@
+{"id":"b9cc0fb1ee8733cba61fb5aa1b75f5ff","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/error-types returns 200 with error types filtered by sourceType","name":"returns 200 with error types filtered by sourceType","status":"passed","testResultsByEnv":{"default":"236558408004f26a07e7f08abff380cd"}}

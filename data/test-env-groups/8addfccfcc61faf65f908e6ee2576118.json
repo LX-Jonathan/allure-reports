@@ -1,0 +1,1 @@
+{"id":"8addfccfcc61faf65f908e6ee2576118","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes DELETE /api/v1/favorites/:id deletes favorite and returns success message","name":"deletes favorite and returns success message","status":"passed","testResultsByEnv":{"default":"638c22602003afcb037ceffb3c5ec9e3"}}

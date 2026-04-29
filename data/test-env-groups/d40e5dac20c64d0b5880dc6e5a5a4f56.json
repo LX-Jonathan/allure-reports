@@ -1,0 +1,1 @@
+{"id":"d40e5dac20c64d0b5880dc6e5a5a4f56","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/claims-trend returns 200 with report data","name":"returns 200 with report data","status":"passed","testResultsByEnv":{"default":"5dc8d16227dd1a15b4b284ae5359991b"}}

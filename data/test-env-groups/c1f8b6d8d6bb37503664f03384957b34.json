@@ -1,0 +1,1 @@
+{"id":"c1f8b6d8d6bb37503664f03384957b34","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should skip org rate lookup when no parentLabId","name":"should skip org rate lookup when no parentLabId","status":"passed","testResultsByEnv":{"default":"3ffa049c1e106a3ad1d0010d03c3d0d6"}}

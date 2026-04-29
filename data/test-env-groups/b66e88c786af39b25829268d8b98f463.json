@@ -1,0 +1,1 @@
+{"id":"b66e88c786af39b25829268d8b98f463","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch fetches CSRF from server when no cookie exists for POST","name":"fetches CSRF from server when no cookie exists for POST","status":"passed","testResultsByEnv":{"default":"761dbad00b94a9f762a1cc8ce56cec65"}}

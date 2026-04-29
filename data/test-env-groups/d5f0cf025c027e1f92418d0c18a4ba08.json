@@ -1,0 +1,1 @@
+{"id":"d5f0cf025c027e1f92418d0c18a4ba08","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create-and-link returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"4d0d6984a95e093f11ad6e011e35d35d"}}

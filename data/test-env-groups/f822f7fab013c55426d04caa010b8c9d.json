@@ -1,0 +1,1 @@
+{"id":"f822f7fab013c55426d04caa010b8c9d","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return stale when completed job has no processing tracker","name":"should return stale when completed job has no processing tracker","status":"passed","testResultsByEnv":{"default":"2cdffeee78a7de179259aec885875724"}}

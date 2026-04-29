@@ -1,0 +1,1 @@
+{"id":"46ea12f99bf998251104842c961aa5d5","fullName":"server/lib/__tests__/stripe-verify-failure-alerter.test.ts#recordStripeVerifyFailure alert state snapshot is restored to null by the test reset hook","name":"is restored to null by the test reset hook","status":"passed","testResultsByEnv":{"default":"198ce196ae194b8f939912268025db11"}}

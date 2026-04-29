@@ -1,0 +1,1 @@
+{"id":"6f853f2204789ddd2ac1744069da770e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:id returns 403 when patient belongs to different org","name":"returns 403 when patient belongs to different org","status":"passed","testResultsByEnv":{"default":"81884deefbe16944e9250558b49d166f"}}

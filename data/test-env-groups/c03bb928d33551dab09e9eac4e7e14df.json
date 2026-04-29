@@ -1,0 +1,1 @@
+{"id":"c03bb928d33551dab09e9eac4e7e14df","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts DELETE /chart-of-accounts/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"74cd4bab03833dbdd7e4b586c9a3a6b5"}}

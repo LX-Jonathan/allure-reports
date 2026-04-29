@@ -1,0 +1,1 @@
+{"id":"ecdc74bdb560d92203ea8a4e479c1d5d","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToTemp should log file size in KB","name":"should log file size in KB","status":"passed","testResultsByEnv":{"default":"893fa46acc4e680951e0a2bf7ca4d9ed"}}

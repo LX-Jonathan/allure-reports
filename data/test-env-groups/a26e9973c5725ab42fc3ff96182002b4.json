@@ -1,0 +1,1 @@
+{"id":"a26e9973c5725ab42fc3ff96182002b4","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Rule Templates (system-level library) POST /rule-templates/:id/retire and /unretire retires a template","name":"retires a template","status":"passed","testResultsByEnv":{"default":"c0475d702cd4ab66d7fc2315efc71351"}}

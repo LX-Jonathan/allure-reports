@@ -1,0 +1,1 @@
+{"id":"f07d94d77203913bc6278a68f30347c1","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should parse conversation id as integer","name":"should parse conversation id as integer","status":"passed","testResultsByEnv":{"default":"18ea1a6d2989128abfe5c07eda9480d4"}}

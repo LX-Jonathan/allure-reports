@@ -1,0 +1,1 @@
+{"id":"80442695ca4ce02820673af5e72b74dc","fullName":"client/src/components/patient/__tests__/verification-helpers.test.tsx#verification-helpers maskSSN returns the original value when shorter than 4 chars","name":"returns the original value when shorter than 4 chars","status":"passed","testResultsByEnv":{"default":"a60b703ad3dbfac63a8140daf70937c5"}}

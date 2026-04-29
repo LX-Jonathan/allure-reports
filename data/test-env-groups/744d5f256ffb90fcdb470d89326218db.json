@@ -1,0 +1,1 @@
+{"id":"744d5f256ffb90fcdb470d89326218db","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Pending Insurance Updates approvePendingInsuranceUpdate returns null when update not pending","name":"returns null when update not pending","status":"passed","testResultsByEnv":{"default":"1b92b5ca02899cd86ae6100f6cf5fb90"}}

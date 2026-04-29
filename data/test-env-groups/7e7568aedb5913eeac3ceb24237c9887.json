@@ -1,0 +1,1 @@
+{"id":"7e7568aedb5913eeac3ceb24237c9887","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients returns 403 when user has no organization assigned","name":"returns 403 when user has no organization assigned","status":"passed","testResultsByEnv":{"default":"79167b195f13ac032720de9038259d25"}}

@@ -1,0 +1,1 @@
+{"id":"37d13c498ed008488e740a88b1c5405d","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/contextual-help returns 201 when mapping is created","name":"returns 201 when mapping is created","status":"passed","testResultsByEnv":{"default":"0e751677b1010e10c131e385da0b2525"}}

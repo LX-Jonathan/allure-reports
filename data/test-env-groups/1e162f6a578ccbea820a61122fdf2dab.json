@@ -1,0 +1,1 @@
+{"id":"1e162f6a578ccbea820a61122fdf2dab","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes POST /api/v1/locations returns 400 on Zod validation error","name":"returns 400 on Zod validation error","status":"passed","testResultsByEnv":{"default":"cdbbd41a31db9edb3e2c0d9ee23c4323"}}

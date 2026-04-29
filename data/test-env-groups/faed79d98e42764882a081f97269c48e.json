@@ -1,0 +1,1 @@
+{"id":"faed79d98e42764882a081f97269c48e","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/insurance should add insurance to order","name":"should add insurance to order","status":"passed","testResultsByEnv":{"default":"676b530525143957817b04fe75e5db7e"}}

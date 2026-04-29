@@ -1,0 +1,1 @@
+{"id":"19c3845d27f51ba9b23552d8b048ffb2","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#isMarketplaceProfileFallbackOnly returns true when id is missing","name":"returns true when id is missing","status":"passed","testResultsByEnv":{"default":"0cd904f4538cbb914a0c018278501c5a"}}

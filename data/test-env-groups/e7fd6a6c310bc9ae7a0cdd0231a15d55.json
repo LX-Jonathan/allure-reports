@@ -1,0 +1,1 @@
+{"id":"e7fd6a6c310bc9ae7a0cdd0231a15d55","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob progress updates should update database at progress intervals","name":"should update database at progress intervals","status":"passed","testResultsByEnv":{"default":"e35c2246e5a9ab356719a8caebb14c0d"}}

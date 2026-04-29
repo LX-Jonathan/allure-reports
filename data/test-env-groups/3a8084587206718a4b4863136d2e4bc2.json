@@ -1,0 +1,1 @@
+{"id":"3a8084587206718a4b4863136d2e4bc2","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/search-patient returns 403 when org access denied","name":"returns 403 when org access denied","status":"passed","testResultsByEnv":{"default":"344e21851695c6d4c8199a7ad4add99c"}}

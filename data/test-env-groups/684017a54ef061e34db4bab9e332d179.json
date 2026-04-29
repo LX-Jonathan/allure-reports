@@ -1,0 +1,1 @@
+{"id":"684017a54ef061e34db4bab9e332d179","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:kitId/release-results (Staff Portal - Release Results) returns 404 when kit not found","name":"returns 404 when kit not found","status":"passed","testResultsByEnv":{"default":"0b5dbf1bc1919915f18371d9dadf5a0c"}}

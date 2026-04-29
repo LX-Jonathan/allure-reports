@@ -1,0 +1,1 @@
+{"id":"34a0a536a06486b6e8b8daa9eab69206","fullName":"client/src/hooks/__tests__/useOrderFixDialogs.test.tsx#useOrderFixDialogs fixCoveragePreview resets to idle when the dialog closes","name":"resets to idle when the dialog closes","status":"passed","testResultsByEnv":{"default":"f768a6351986391c91f2ecface66a27b"}}

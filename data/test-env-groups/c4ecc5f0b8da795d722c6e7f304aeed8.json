@@ -1,0 +1,1 @@
+{"id":"c4ecc5f0b8da795d722c6e7f304aeed8","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should pass parentLabId through to sendSms","name":"should pass parentLabId through to sendSms","status":"passed","testResultsByEnv":{"default":"600c906f9974b7bf276c07f1ba500cb2"}}

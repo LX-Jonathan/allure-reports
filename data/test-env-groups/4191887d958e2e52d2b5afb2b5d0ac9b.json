@@ -1,0 +1,1 @@
+{"id":"4191887d958e2e52d2b5afb2b5d0ac9b","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment sets error when service is unavailable","name":"checkEnvironment sets error when service is unavailable","status":"passed","testResultsByEnv":{"default":"c8366c9583bfcfe0a06c423a2441f79a"}}

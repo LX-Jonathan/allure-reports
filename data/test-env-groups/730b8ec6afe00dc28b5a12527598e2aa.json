@@ -1,0 +1,1 @@
+{"id":"730b8ec6afe00dc28b5a12527598e2aa","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages/upload returns 400 when no file","name":"returns 400 when no file","status":"passed","testResultsByEnv":{"default":"8d3c01efe1c95636c1573d0305feb644"}}

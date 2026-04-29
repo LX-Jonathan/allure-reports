@@ -1,0 +1,1 @@
+{"id":"571df9d2ed97673843ab3a8cf7fb19a4","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET / returns the status payload for super_admin","name":"returns the status payload for super_admin","status":"passed","testResultsByEnv":{"default":"5035f2f9016d7dc8ae001617ff495c45"}}

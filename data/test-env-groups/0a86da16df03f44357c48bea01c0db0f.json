@@ -1,0 +1,1 @@
+{"id":"0a86da16df03f44357c48bea01c0db0f","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/schedules/:scheduleId returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"0b658fa27cafbdbd43b7909b894d72b4"}}

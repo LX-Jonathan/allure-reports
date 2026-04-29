@@ -1,0 +1,1 @@
+{"id":"b65398d92cff2f9b09e82f2c04e580e7","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes GET /api/payment-plans returns 200 with list of plans","name":"returns 200 with list of plans","status":"passed","testResultsByEnv":{"default":"964eb3e155ef566ecf0d28ce5e5e7eec"}}

@@ -1,0 +1,1 @@
+{"id":"e604d9085d140800f955bb799cc6317c","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog defaults type to order_issue when orderId provided","name":"defaults type to order_issue when orderId provided","status":"passed","testResultsByEnv":{"default":"d806355cf1394214f432e5811308848c"}}

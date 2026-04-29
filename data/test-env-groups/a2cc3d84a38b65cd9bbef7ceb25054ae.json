@@ -1,0 +1,1 @@
+{"id":"a2cc3d84a38b65cd9bbef7ceb25054ae","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service listJobArtifacts should return empty array when no artifacts","name":"should return empty array when no artifacts","status":"passed","testResultsByEnv":{"default":"66fb476479a0afd434db3b0980c380b1"}}

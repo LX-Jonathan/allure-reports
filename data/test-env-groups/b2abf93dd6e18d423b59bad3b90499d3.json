@@ -1,0 +1,1 @@
+{"id":"b2abf93dd6e18d423b59bad3b90499d3","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/notify-results should return 400 if patient has no phone for SMS","name":"should return 400 if patient has no phone for SMS","status":"passed","testResultsByEnv":{"default":"3ff92be9293d001c48c8491905294751"}}

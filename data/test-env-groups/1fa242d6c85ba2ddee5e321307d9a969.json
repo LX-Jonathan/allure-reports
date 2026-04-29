@@ -1,0 +1,1 @@
+{"id":"1fa242d6c85ba2ddee5e321307d9a969","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"350807d39410b4aa2c9fe82e6eb9cf80"}}

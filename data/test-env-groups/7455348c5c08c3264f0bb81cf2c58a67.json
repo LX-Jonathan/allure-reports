@@ -1,0 +1,1 @@
+{"id":"7455348c5c08c3264f0bb81cf2c58a67","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/fee-schedule-prices returns 200 with prices when fee schedule matches","name":"returns 200 with prices when fee schedule matches","status":"passed","testResultsByEnv":{"default":"59434d8082ad171a5a86dad4e8ff9ce5"}}

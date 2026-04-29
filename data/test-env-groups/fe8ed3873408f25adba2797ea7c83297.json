@@ -1,0 +1,1 @@
+{"id":"fe8ed3873408f25adba2797ea7c83297","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Providers createProvider creates provider without org/location associations","name":"creates provider without org/location associations","status":"passed","testResultsByEnv":{"default":"35dec00a8fd246e6a4a235f2a7a7f87c"}}

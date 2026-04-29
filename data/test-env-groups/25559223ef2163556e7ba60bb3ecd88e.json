@@ -1,0 +1,1 @@
+{"id":"25559223ef2163556e7ba60bb3ecd88e","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda submitOrderToAndromeda should throw error when credentials are not configured","name":"should throw error when credentials are not configured","status":"passed","testResultsByEnv":{"default":"8296c28a9b99f594c5f1568bd50ed6d2"}}

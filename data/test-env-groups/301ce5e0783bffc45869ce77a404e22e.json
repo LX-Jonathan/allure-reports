@@ -1,0 +1,1 @@
+{"id":"301ce5e0783bffc45869ce77a404e22e","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes GET /pre-registration-links returns empty array when no orgId for non-full-access user","name":"returns empty array when no orgId for non-full-access user","status":"passed","testResultsByEnv":{"default":"4f08be4b0ba429f1daa1e382ede9f4b2"}}

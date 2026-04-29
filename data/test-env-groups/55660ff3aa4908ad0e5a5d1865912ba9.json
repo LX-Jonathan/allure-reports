@@ -1,0 +1,1 @@
+{"id":"55660ff3aa4908ad0e5a5d1865912ba9","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages/upload rejects upload on closed threads","name":"rejects upload on closed threads","status":"passed","testResultsByEnv":{"default":"f79b5d31a23aacb07e4ba886a3ac8652"}}

@@ -1,0 +1,1 @@
+{"id":"f1b9e8ded293e76ca03f599bf2a5554a","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#formatMoneyCents formats large amounts with thousands separators","name":"formats large amounts with thousands separators","status":"passed","testResultsByEnv":{"default":"d3df28dc49a027ad533ca170395197f2"}}

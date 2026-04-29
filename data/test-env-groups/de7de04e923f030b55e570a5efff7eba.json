@@ -1,0 +1,1 @@
+{"id":"de7de04e923f030b55e570a5efff7eba","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage does not render img when fetch fails","name":"does not render img when fetch fails","status":"passed","testResultsByEnv":{"default":"82d8182aa5a9b4983f5973ac48299f9f"}}

@@ -1,0 +1,1 @@
+{"id":"3bd601f7f45f98c9661d5aa1d0fd8584","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent returns 404 when template not found","name":"returns 404 when template not found","status":"passed","testResultsByEnv":{"default":"1d7035947c31b094df5b4573dbdd3ed1"}}

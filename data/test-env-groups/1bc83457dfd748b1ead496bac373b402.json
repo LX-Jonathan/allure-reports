@@ -1,0 +1,1 @@
+{"id":"1bc83457dfd748b1ead496bac373b402","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate happy path - matching templates should detect Dermatology template","name":"should detect Dermatology template","status":"passed","testResultsByEnv":{"default":"4edc1abe2b0a3291a0bf6076556031bc"}}

@@ -1,0 +1,1 @@
+{"id":"6c96762558c3532028181ab91b8b3c2a","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/propensity-to-pay returns 500 when an unexpected database error occurs","name":"returns 500 when an unexpected database error occurs","status":"passed","testResultsByEnv":{"default":"fbb726822814b36c8e93827ab55c71c3"}}

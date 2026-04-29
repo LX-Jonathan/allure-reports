@@ -1,0 +1,1 @@
+{"id":"31bfeb73d3cdd5d1943ab80c83877238","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should mark batch as completed when all items succeed","name":"should mark batch as completed when all items succeed","status":"passed","testResultsByEnv":{"default":"e657836dd9d0591008f0705ded1a077b"}}

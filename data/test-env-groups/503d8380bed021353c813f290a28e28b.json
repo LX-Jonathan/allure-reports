@@ -1,0 +1,1 @@
+{"id":"503d8380bed021353c813f290a28e28b","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware staff chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"c9c62447a46a9a3eddd41b032a12beaa"}}

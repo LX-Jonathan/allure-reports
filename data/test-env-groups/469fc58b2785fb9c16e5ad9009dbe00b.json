@@ -1,0 +1,1 @@
+{"id":"469fc58b2785fb9c16e5ad9009dbe00b","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/apply-mappings counts failed when company not found","name":"counts failed when company not found","status":"passed","testResultsByEnv":{"default":"7bf18de1040ad014fd7d16545693b5b3"}}

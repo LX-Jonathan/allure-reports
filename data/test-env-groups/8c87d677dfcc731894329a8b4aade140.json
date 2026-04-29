@@ -1,0 +1,1 @@
+{"id":"8c87d677dfcc731894329a8b4aade140","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes DELETE /api/v1/lab-tests/:id should delete a lab test","name":"should delete a lab test","status":"passed","testResultsByEnv":{"default":"6798086f314e50a034f8e9c7fd03140f"}}

@@ -1,0 +1,1 @@
+{"id":"c00aadb93331d0f6be64889feeb8f288","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/add returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"ab7b066ec4bd37e413a249b84f31a533"}}

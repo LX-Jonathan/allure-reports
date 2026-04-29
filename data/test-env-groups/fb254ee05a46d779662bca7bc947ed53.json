@@ -1,0 +1,1 @@
+{"id":"fb254ee05a46d779662bca7bc947ed53","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results/:id returns 403 when result is from different superOrg","name":"returns 403 when result is from different superOrg","status":"passed","testResultsByEnv":{"default":"2074e0066e656f30d74566ffeefb485f"}}

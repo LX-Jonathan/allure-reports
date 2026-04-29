@@ -1,0 +1,1 @@
+{"id":"2f91101384aee3629cbd523b659a2ce3","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/ai-map returns message when no companies to process","name":"returns message when no companies to process","status":"passed","testResultsByEnv":{"default":"7e39378dbda6f674ca8d4277d67c0d22"}}

@@ -1,0 +1,1 @@
+{"id":"de25c600956c72456aebc8a7e3ad1034","fullName":"server/__tests__/staff-notifications.routes.test.ts#staff notifications routes rejects mark-unread for users not on the staff inbox allow-list","name":"rejects mark-unread for users not on the staff inbox allow-list","status":"passed","testResultsByEnv":{"default":"0fe7d024c736d7544cc3383b621221cb"}}

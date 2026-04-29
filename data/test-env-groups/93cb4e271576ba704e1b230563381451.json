@@ -1,0 +1,1 @@
+{"id":"93cb4e271576ba704e1b230563381451","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes DELETE /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"72d9842af30e66e54492c6a0a03bcd70"}}

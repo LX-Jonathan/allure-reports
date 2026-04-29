@@ -1,0 +1,1 @@
+{"id":"4d18c3fd6cfe17e6aa1fb4f4033e7242","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should skip tenant config when settings.messaging is missing","name":"should skip tenant config when settings.messaging is missing","status":"passed","testResultsByEnv":{"default":"d0325d0eeb8ea9b1c1fe9a40dd22664d"}}

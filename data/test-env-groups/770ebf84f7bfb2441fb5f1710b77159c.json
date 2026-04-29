@@ -1,0 +1,1 @@
+{"id":"770ebf84f7bfb2441fb5f1710b77159c","fullName":"server/data/__tests__/baseline-chart-of-accounts.test.ts#baselineChartOfAccounts every entry has a non-empty accountCode string","name":"every entry has a non-empty accountCode string","status":"passed","testResultsByEnv":{"default":"00584782b79395af65b2029161937d04"}}

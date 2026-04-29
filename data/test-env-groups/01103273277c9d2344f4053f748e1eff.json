@@ -1,0 +1,1 @@
+{"id":"01103273277c9d2344f4053f748e1eff","fullName":"server/lib/__tests__/auth.test.ts#auth generateSecureToken should generate token with custom length","name":"should generate token with custom length","status":"passed","testResultsByEnv":{"default":"35d3d4da07a1c7f5364724a566293c21"}}

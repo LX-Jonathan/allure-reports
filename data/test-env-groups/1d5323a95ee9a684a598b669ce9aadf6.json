@@ -1,0 +1,1 @@
+{"id":"1d5323a95ee9a684a598b669ce9aadf6","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins createVisitCheckin inserts a walk-in check-in and returns the created row","name":"inserts a walk-in check-in and returns the created row","status":"passed","testResultsByEnv":{"default":"55d5ee7e572093c4b42270baa7232640"}}

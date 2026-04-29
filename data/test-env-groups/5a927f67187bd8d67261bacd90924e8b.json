@@ -1,0 +1,1 @@
+{"id":"5a927f67187bd8d67261bacd90924e8b","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 403 for unauthorized role (staff)","name":"returns 403 for unauthorized role (staff)","status":"passed","testResultsByEnv":{"default":"3dfefc69371b20b8cd464d6c11a1bbc1"}}

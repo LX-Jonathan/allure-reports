@@ -1,0 +1,1 @@
+{"id":"5f130d124b5bcc05613fb6457132ab88","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is configured getReportGenerationQueue should return a Queue instance","name":"getReportGenerationQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"c81242ac4a32a0a505fb41b958ffb94a"}}

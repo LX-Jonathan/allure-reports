@@ -1,0 +1,1 @@
+{"id":"a17e4cf433feea9965c8e88fe80efd1c","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes DELETE /api/v1/locations/:id returns 403 when user cannot access organization","name":"returns 403 when user cannot access organization","status":"passed","testResultsByEnv":{"default":"70fc70d6129f5f036929ca9cdc0d7828"}}

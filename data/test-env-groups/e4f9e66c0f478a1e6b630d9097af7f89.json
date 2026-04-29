@@ -1,0 +1,1 @@
+{"id":"e4f9e66c0f478a1e6b630d9097af7f89","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs defaults isParentLab to true when not provided","name":"defaults isParentLab to true when not provided","status":"passed","testResultsByEnv":{"default":"4a7f7f556a43bca195bd1b07530afe41"}}

@@ -1,0 +1,1 @@
+{"id":"e9524a2514c539adfe1d476d3fcf099c","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should rethrow errors from worker initialization","name":"should rethrow errors from worker initialization","status":"passed","testResultsByEnv":{"default":"72edc76be1c1f189d33f9cbe7154389f"}}

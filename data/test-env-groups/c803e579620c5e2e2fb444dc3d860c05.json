@@ -1,0 +1,1 @@
+{"id":"c803e579620c5e2e2fb444dc3d860c05","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify verifies the saved key when no candidate is supplied","name":"verifies the saved key when no candidate is supplied","status":"passed","testResultsByEnv":{"default":"8436fece901e7bfd610e3a7c09d93da2"}}

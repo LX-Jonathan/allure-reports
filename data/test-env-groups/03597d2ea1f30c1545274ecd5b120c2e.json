@@ -1,0 +1,1 @@
+{"id":"03597d2ea1f30c1545274ecd5b120c2e","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should pass image buffer to worker.recognize","name":"should pass image buffer to worker.recognize","status":"passed","testResultsByEnv":{"default":"fb41f509f76f11092dfd2ce0f18f8d6a"}}

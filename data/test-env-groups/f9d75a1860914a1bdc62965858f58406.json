@@ -1,0 +1,1 @@
+{"id":"f9d75a1860914a1bdc62965858f58406","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: token_reuse_detected","name":"es: token_reuse_detected","status":"passed","testResultsByEnv":{"default":"1c11b62efc0bc2c633deafe41a07571d"}}

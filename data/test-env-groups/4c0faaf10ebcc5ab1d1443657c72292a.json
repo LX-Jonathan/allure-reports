@@ -1,0 +1,1 @@
+{"id":"4c0faaf10ebcc5ab1d1443657c72292a","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /payments/:paymentId returns payment with refunds","name":"returns payment with refunds","status":"passed","testResultsByEnv":{"default":"f5202af68be78f665995bb7047136b70"}}

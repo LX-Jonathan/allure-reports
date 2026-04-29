@@ -1,0 +1,1 @@
+{"id":"367c5f99a421db0f1076d745ce7fcf10","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/abn-worklist scopes rows and stats to the supplied patientId","name":"scopes rows and stats to the supplied patientId","status":"passed","testResultsByEnv":{"default":"72948b836d1d43fbe82817a2ecd7f095"}}

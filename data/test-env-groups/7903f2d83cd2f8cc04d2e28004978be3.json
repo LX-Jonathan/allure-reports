@@ -1,0 +1,1 @@
+{"id":"7903f2d83cd2f8cc04d2e28004978be3","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations returns 400 when locationId is missing","name":"returns 400 when locationId is missing","status":"passed","testResultsByEnv":{"default":"d75b6904820de11b227af6185fe7cbba"}}

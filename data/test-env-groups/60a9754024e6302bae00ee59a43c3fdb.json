@@ -1,0 +1,1 @@
+{"id":"60a9754024e6302bae00ee59a43c3fdb","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter labxchange userType (full access) should return full access filter for labxchange","name":"should return full access filter for labxchange","status":"passed","testResultsByEnv":{"default":"b5ac578f9028a3340c6432200f4cee1a"}}

@@ -1,0 +1,1 @@
+{"id":"5c92d7db12b22261e3729d05bc20f4be","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should credit DTC product sales for subtotal","name":"should credit DTC product sales for subtotal","status":"passed","testResultsByEnv":{"default":"9566431ca1df2d19e016b5d033a470c6"}}

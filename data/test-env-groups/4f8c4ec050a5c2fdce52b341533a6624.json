@@ -1,0 +1,1 @@
+{"id":"4f8c4ec050a5c2fdce52b341533a6624","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"5d3bad22462cb8b0bcd5d465f84288b1"}}

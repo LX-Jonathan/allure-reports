@@ -1,0 +1,1 @@
+{"id":"5d5b132eb6db6bebc2391cdcd4d35d4b","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireUserType returns 401 when req.user is missing","name":"returns 401 when req.user is missing","status":"passed","testResultsByEnv":{"default":"cbaf054a8cec13fcb1927fdaba8816a1"}}

@@ -1,0 +1,1 @@
+{"id":"2c1db8354dc94f386c5fe02cbcd7d1c8","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes PATCH /:id returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"f20cfdb209ee388ad284bb4526495a67"}}

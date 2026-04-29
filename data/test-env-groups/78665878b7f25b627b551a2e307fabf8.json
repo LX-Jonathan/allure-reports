@@ -1,0 +1,1 @@
+{"id":"78665878b7f25b627b551a2e307fabf8","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions initializePermissions should insert permissions that don't exist yet","name":"should insert permissions that don't exist yet","status":"passed","testResultsByEnv":{"default":"a94e2d612c4fd092d2bce9b816b7a1d9"}}

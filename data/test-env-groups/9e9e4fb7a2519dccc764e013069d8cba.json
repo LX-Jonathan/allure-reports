@@ -1,0 +1,1 @@
+{"id":"9e9e4fb7a2519dccc764e013069d8cba","fullName":"client/src/pages/__tests__/patient-portal-hub.test.tsx#PatientPortalHubPage redirects /patient-portal to /patient-portal/dashboard for a super_admin user","name":"redirects /patient-portal to /patient-portal/dashboard for a super_admin user","status":"passed","testResultsByEnv":{"default":"db0ec1ecc6dc73c3c1a443e082493eb5"}}

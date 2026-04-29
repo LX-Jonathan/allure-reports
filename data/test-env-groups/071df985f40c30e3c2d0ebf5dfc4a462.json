@@ -1,0 +1,1 @@
+{"id":"071df985f40c30e3c2d0ebf5dfc4a462","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/logo returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"24826e17c2a44fafad5b56db29f4eb8a"}}

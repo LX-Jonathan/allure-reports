@@ -1,0 +1,1 @@
+{"id":"e8f92d4c4d14b55150273a36f04cc301","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getOrgCount should return count of non-deleted orgs","name":"should return count of non-deleted orgs","status":"passed","testResultsByEnv":{"default":"34f82ca6b95dcea49b241b9d80895810"}}

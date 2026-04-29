@@ -1,0 +1,1 @@
+{"id":"d0a2dd706bdfd01643dd94824a3f7fec","fullName":"client/src/components/payments/__tests__/payment-detail-dialog.test.tsx#PaymentDetailDialog read-only view hides the Open in POS link for reversal entries themselves","name":"hides the Open in POS link for reversal entries themselves","status":"passed","testResultsByEnv":{"default":"e47ac88baec85a9d2a85632930d1c7f5"}}

@@ -1,0 +1,1 @@
+{"id":"cc01f69ca04f4cf114a4725dbb7147d6","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService deleteShare should return false when user cannot modify","name":"should return false when user cannot modify","status":"passed","testResultsByEnv":{"default":"cebcdea9ac3f45159a1c482523ff5db4"}}

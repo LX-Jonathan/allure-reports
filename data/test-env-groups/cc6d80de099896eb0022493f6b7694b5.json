@@ -1,0 +1,1 @@
+{"id":"cc6d80de099896eb0022493f6b7694b5","fullName":"client/src/pages/__tests__/lab-test-form.test.tsx#LabTestFormPage Delete container image in edit mode calls delete API for container image","name":"calls delete API for container image","status":"passed","testResultsByEnv":{"default":"6ed1b1a9d3e03582344a60930f74bb65"}}

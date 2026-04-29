@@ -1,0 +1,1 @@
+{"id":"e0199775e272164e0b21dc207b124071","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#classifyImageConfidence returns 'weak' for low scores (< 50)","name":"returns 'weak' for low scores (< 50)","status":"passed","testResultsByEnv":{"default":"0e806cd0b4974611a4e72fbd13584a1e"}}

@@ -1,0 +1,1 @@
+{"id":"ebe5f2d8782b3d4a9e2a49e792fe3f68","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"feae1444764d833e15eeca3b188b4cb0"}}

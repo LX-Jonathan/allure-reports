@@ -1,0 +1,1 @@
+{"id":"a45137ea5ce1e5b2d0ea86e9c6f4250e","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should send done event and end response after streaming","name":"should send done event and end response after streaming","status":"passed","testResultsByEnv":{"default":"5e654ec6817b2f2bd1b2f43ecd9ad922"}}

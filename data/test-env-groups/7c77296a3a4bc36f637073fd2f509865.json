@@ -1,0 +1,1 @@
+{"id":"7c77296a3a4bc36f637073fd2f509865","fullName":"client/src/hooks/__tests__/useDxDropdownDirtyTracker.test.ts#useDxDropdownDirtyTracker fires onDirtyClose when the dropdown closes after a change","name":"fires onDirtyClose when the dropdown closes after a change","status":"passed","testResultsByEnv":{"default":"c37495f9e1dbb5f911276b3b121977a2"}}

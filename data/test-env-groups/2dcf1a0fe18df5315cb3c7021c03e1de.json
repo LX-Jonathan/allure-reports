@@ -1,0 +1,1 @@
+{"id":"2dcf1a0fe18df5315cb3c7021c03e1de","fullName":"server/services/__tests__/payment-application.test.ts#applyPaymentToPlan rejects non-positive amounts","name":"rejects non-positive amounts","status":"passed","testResultsByEnv":{"default":"c31a3e2fcf6e69e2516ea875068181cd"}}

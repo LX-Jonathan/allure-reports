@@ -1,0 +1,1 @@
+{"id":"dccfc03da2c3d6c2cc1801edadcb8577","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles/:id/unpublish returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"53cb130ce52195a8754c7c4653d02178"}}

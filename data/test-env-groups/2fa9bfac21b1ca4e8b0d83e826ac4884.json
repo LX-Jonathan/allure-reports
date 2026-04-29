@@ -1,0 +1,1 @@
+{"id":"2fa9bfac21b1ca4e8b0d83e826ac4884","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should map 'self_pay' to 'C'","name":"should map 'self_pay' to 'C'","status":"passed","testResultsByEnv":{"default":"41995495916d743eb96a8e99619f89d0"}}

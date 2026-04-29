@@ -1,0 +1,1 @@
+{"id":"711e5c795fe7269b902ea3e041c88b37","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 403 for location_admin role","name":"returns 403 for location_admin role","status":"passed","testResultsByEnv":{"default":"4d482945e6bc0a91ef7ff5aeee43342e"}}

@@ -1,0 +1,1 @@
+{"id":"a8580c58b4398297293a37b9b9954d21","fullName":"server/lib/__tests__/email.test.ts#email sendProviderSignatureRequiredEmail sends signature required email with order number in subject","name":"sends signature required email with order number in subject","status":"passed","testResultsByEnv":{"default":"f6e9686dca8527330b05c76edfecf50c"}}

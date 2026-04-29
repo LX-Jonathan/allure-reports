@@ -1,0 +1,1 @@
+{"id":"c2a48e38b6c665b364d1317371597730","fullName":"server/lib/__tests__/email.test.ts#email sendWelcomeEmail includes first name in greeting","name":"includes first name in greeting","status":"passed","testResultsByEnv":{"default":"ba9e6664e6c8dd3964a022d683d8ffca"}}

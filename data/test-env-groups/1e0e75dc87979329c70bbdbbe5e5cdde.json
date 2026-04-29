@@ -1,0 +1,1 @@
+{"id":"1e0e75dc87979329c70bbdbbe5e5cdde","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/bulk/batches/:batchId returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"9f5f2fdd9aa31406116e2163f43781ca"}}

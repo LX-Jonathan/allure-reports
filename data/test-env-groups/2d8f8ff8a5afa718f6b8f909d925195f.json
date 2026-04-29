@@ -1,0 +1,1 @@
+{"id":"2d8f8ff8a5afa718f6b8f909d925195f","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/products (Staff Portal - Create Product) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"6e6014598c7fba7fde44b194bb296c3a"}}

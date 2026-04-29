@@ -1,0 +1,1 @@
+{"id":"fc49a55b8ff6e83d22bebcb32d1e8697","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes PATCH /templates/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9daca7728ae21b0a25e5c4c8e2f28790"}}

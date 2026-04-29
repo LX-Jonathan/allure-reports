@@ -1,0 +1,1 @@
+{"id":"b1257aef2b97520c2d1ecaa31f723114","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Bulk Scan deleteBulkScanBatch returns true on delete","name":"returns true on delete","status":"passed","testResultsByEnv":{"default":"5c3c708b49f6d831f65ced0ec7511cf5"}}

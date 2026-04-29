@@ -1,0 +1,1 @@
+{"id":"05de458f966f27b827fe31a49ac9bcde","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes GET /api/v1/aoe-lists/:id returns 403 when org_admin accesses different org's AOE list","name":"returns 403 when org_admin accesses different org's AOE list","status":"passed","testResultsByEnv":{"default":"1c8c7365a95dd647fda4051f5bf5034c"}}

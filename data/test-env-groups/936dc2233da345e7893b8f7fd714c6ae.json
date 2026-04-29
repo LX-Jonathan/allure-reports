@@ -1,0 +1,1 @@
+{"id":"936dc2233da345e7893b8f7fd714c6ae","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/diagnostic/test-vision returns 400 when non-image file (PDF) is uploaded","name":"returns 400 when non-image file (PDF) is uploaded","status":"passed","testResultsByEnv":{"default":"456fd211d95a75d76990ab0e91ca0c76"}}

@@ -1,0 +1,1 @@
+{"id":"0831507e712785d585454d82b8c82ed0","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/patients/:patientId/summary returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"2fab83e21509f5b9080759798065fa19"}}

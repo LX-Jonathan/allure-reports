@@ -1,0 +1,1 @@
+{"id":"ac85a581395ab0c1b2d6a059d5cb41ed","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when location is not provided","name":"should return error when location is not provided","status":"passed","testResultsByEnv":{"default":"5bbcc16c6e125ebad59e3422a0039327"}}

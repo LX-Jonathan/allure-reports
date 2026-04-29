@@ -1,0 +1,1 @@
+{"id":"e9f19a35ac25d910ef8db58e49118ee3","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent defaults currency to USD (lowered)","name":"defaults currency to USD (lowered)","status":"passed","testResultsByEnv":{"default":"6841b42bf31d9b6f38bb6bc38f862f58"}}

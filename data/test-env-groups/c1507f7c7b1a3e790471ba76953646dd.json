@@ -1,0 +1,1 @@
+{"id":"c1507f7c7b1a3e790471ba76953646dd","fullName":"client/src/hooks/__tests__/use-mobile.test.tsx#useIsMobile removes event listener on unmount","name":"removes event listener on unmount","status":"passed","testResultsByEnv":{"default":"eb2717e493f1acf8fb43df7ff2c4e360"}}

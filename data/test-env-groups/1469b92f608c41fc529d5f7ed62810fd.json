@@ -1,0 +1,1 @@
+{"id":"1469b92f608c41fc529d5f7ed62810fd","fullName":"client/src/stores/__tests__/orderDialogStore.test.ts#useOrderDialogStore openDialog opens the dialog with a patient and success callback","name":"opens the dialog with a patient and success callback","status":"passed","testResultsByEnv":{"default":"54596776c43b5704f6e3db99b6118b2c"}}

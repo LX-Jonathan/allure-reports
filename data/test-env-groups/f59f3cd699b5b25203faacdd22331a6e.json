@@ -1,0 +1,1 @@
+{"id":"f59f3cd699b5b25203faacdd22331a6e","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should default to account level when level is not specified","name":"should default to account level when level is not specified","status":"passed","testResultsByEnv":{"default":"5964b767a941f05fed4c84350ba093bb"}}

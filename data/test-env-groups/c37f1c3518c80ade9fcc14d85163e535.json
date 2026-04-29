@@ -1,0 +1,1 @@
+{"id":"c37f1c3518c80ade9fcc14d85163e535","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/auto-link returns 400 when patientId missing","name":"returns 400 when patientId missing","status":"passed","testResultsByEnv":{"default":"3a43782f08be111ee88ff1ff6e5b6b05"}}

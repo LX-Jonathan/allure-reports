@@ -1,0 +1,1 @@
+{"id":"f3bb4180d076ba1320296a129e356365","fullName":"server/__tests__/reporting.service.test.ts#ReportingService getCategories should return empty array when no categories","name":"should return empty array when no categories","status":"passed","testResultsByEnv":{"default":"c61f14b31da36d17341054edb1cc7b16"}}

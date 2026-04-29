@@ -1,0 +1,1 @@
+{"id":"a7ffe6b2e4cfc683095c7967d524c38b","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended GET /api/v1/diagnosis-codes/batch-lookup returns empty object for codes with no valid format","name":"returns empty object for codes with no valid format","status":"passed","testResultsByEnv":{"default":"644c237e9b9f7321773abe23740fb418"}}

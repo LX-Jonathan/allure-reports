@@ -1,0 +1,1 @@
+{"id":"4178fef5ce291fcd49c6c7a4ae75fbf5","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findMany should not apply where clause when no filters for full access","name":"should not apply where clause when no filters for full access","status":"passed","testResultsByEnv":{"default":"761a58d7e23609fc87f4d5ef06f18371"}}

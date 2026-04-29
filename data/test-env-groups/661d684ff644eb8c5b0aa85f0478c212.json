@@ -1,0 +1,1 @@
+{"id":"661d684ff644eb8c5b0aa85f0478c212","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should initialize scheduler on startup when it wins leadership","name":"should initialize scheduler on startup when it wins leadership","status":"passed","testResultsByEnv":{"default":"de33ea7adfd6de759ef52d8e80e5ad13"}}

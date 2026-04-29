@@ -1,0 +1,1 @@
+{"id":"82dd6d88021ee10f5bfa0bc61c32e927","fullName":"client/src/hooks/__tests__/useDymoLabel.test.ts#useDymoLabel getPreview returns null when renderLabel rejects","name":"getPreview returns null when renderLabel rejects","status":"passed","testResultsByEnv":{"default":"8898ade994472584e603b1913b8e1823"}}

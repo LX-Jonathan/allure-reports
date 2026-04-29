@@ -1,0 +1,1 @@
+{"id":"cbe8fa2b87f161e31b91854fdc12f235","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) POST / returns 400 for invalid body (missing labId)","name":"returns 400 for invalid body (missing labId)","status":"passed","testResultsByEnv":{"default":"ac8dfa79b099e31d93d1081f482081ad"}}

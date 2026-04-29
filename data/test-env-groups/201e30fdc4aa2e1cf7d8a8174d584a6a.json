@@ -1,0 +1,1 @@
+{"id":"201e30fdc4aa2e1cf7d8a8174d584a6a","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /837/:id/coding-context returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"b435fa8953b5eb92fa728a9240c43248"}}

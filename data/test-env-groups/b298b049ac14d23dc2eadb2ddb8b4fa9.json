@@ -1,0 +1,1 @@
+{"id":"b298b049ac14d23dc2eadb2ddb8b4fa9","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns validation error for negative amount","name":"returns validation error for negative amount","status":"passed","testResultsByEnv":{"default":"9379e5b7c3088464f9f100cf37a0aecc"}}

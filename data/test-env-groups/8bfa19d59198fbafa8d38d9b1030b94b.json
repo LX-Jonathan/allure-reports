@@ -1,0 +1,1 @@
+{"id":"8bfa19d59198fbafa8d38d9b1030b94b","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch makes GET request without CSRF token","name":"makes GET request without CSRF token","status":"passed","testResultsByEnv":{"default":"181ea3dc5e7d6a4fe5bbbedc84101f16"}}

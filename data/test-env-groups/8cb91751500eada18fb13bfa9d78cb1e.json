@@ -1,0 +1,1 @@
+{"id":"8cb91751500eada18fb13bfa9d78cb1e","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"7cacf728310baeeabe53769ba8dc1dc2"}}

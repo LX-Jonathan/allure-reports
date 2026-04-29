@@ -1,0 +1,1 @@
+{"id":"18f914ab04f15ff94da1cd72c270d0d3","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logBatchComplete should log info with item count and duration","name":"should log info with item count and duration","status":"passed","testResultsByEnv":{"default":"a6cb8bcbc30fa436046f1b0218c61f37"}}

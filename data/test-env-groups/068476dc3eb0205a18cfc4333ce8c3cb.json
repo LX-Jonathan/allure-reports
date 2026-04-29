@@ -1,0 +1,1 @@
+{"id":"068476dc3eb0205a18cfc4333ce8c3cb","fullName":"server/lib/__tests__/email.test.ts#email sendDtcOrderConfirmationEmail handles empty items array","name":"handles empty items array","status":"passed","testResultsByEnv":{"default":"fb85fcec8b773364a85ed60bd94929aa"}}

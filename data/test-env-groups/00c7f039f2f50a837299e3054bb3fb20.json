@@ -1,0 +1,1 @@
+{"id":"00c7f039f2f50a837299e3054bb3fb20","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract sanitizes invalid field types to text","name":"sanitizes invalid field types to text","status":"passed","testResultsByEnv":{"default":"c0b40d6d2c00f6b2520a224a8c77444a"}}

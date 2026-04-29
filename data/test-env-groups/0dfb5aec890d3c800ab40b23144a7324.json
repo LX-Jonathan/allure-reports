@@ -1,0 +1,1 @@
+{"id":"0dfb5aec890d3c800ab40b23144a7324","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#checkCircuitBreaker should return false when circuit is closed","name":"should return false when circuit is closed","status":"passed","testResultsByEnv":{"default":"6441faa9582840e3fb400f19e350a48a"}}

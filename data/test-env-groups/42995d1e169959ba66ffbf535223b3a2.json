@@ -1,0 +1,1 @@
+{"id":"42995d1e169959ba66ffbf535223b3a2","fullName":"client/src/pages/__tests__/user-view-portal.test.tsx#UserViewPortal navigates to unknown route falls back to dashboard","name":"navigates to unknown route falls back to dashboard","status":"passed","testResultsByEnv":{"default":"7c3db2a54879573d60042f10f058e82e"}}

@@ -1,0 +1,1 @@
+{"id":"07a8eeeb2d3bcb8b42593ba7832c4492","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/eligibility-requests returns 200 with eligibility requests","name":"returns 200 with eligibility requests","status":"passed","testResultsByEnv":{"default":"a0f8935400aff88b1799edd04a0a589e"}}

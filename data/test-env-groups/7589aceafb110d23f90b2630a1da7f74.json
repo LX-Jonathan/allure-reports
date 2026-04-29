@@ -1,0 +1,1 @@
+{"id":"7589aceafb110d23f90b2630a1da7f74","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/circuit-breaker/:queueType/open should use default reason if not provided","name":"should use default reason if not provided","status":"passed","testResultsByEnv":{"default":"89711b42cfba77815da20fe6a09c741c"}}

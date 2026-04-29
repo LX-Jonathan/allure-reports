@@ -1,0 +1,1 @@
+{"id":"abd7236cdd7bdb2baabd09a713eb44e2","fullName":"server/__tests__/bullmq.test.ts#bullmq lib createDedicatedConnection creates a new IORedis connection with label","name":"creates a new IORedis connection with label","status":"passed","testResultsByEnv":{"default":"213992deb4b2e9a7d13e65b3964271ee"}}

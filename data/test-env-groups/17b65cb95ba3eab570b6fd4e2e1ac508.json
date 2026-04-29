@@ -1,0 +1,1 @@
+{"id":"17b65cb95ba3eab570b6fd4e2e1ac508","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckins ignores empty locationIds array","name":"ignores empty locationIds array","status":"passed","testResultsByEnv":{"default":"af78afd056333a4106d14e135462cbfd"}}

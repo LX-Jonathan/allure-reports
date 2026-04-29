@@ -1,0 +1,1 @@
+{"id":"b0c5060c957360cd5c56a4a912ccdc39","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status returns 200 on successful status update","name":"returns 200 on successful status update","status":"passed","testResultsByEnv":{"default":"f6d5be86b57b7b1a71c82c523c5e9e81"}}

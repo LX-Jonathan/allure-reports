@@ -1,0 +1,1 @@
+{"id":"3ced18f091aca725ad50fe34b0442fad","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/messages-by-org returns 200 with messages grouped by org","name":"returns 200 with messages grouped by org","status":"passed","testResultsByEnv":{"default":"2abb1c42cde37abb0bc3d0d35685d36b"}}

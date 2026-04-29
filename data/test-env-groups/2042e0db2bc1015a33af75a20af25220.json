@@ -1,0 +1,1 @@
+{"id":"2042e0db2bc1015a33af75a20af25220","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromRedis should log deleted key on success","name":"should log deleted key on success","status":"passed","testResultsByEnv":{"default":"06acd2a43db14b6e6a1cf06e75ddc136"}}

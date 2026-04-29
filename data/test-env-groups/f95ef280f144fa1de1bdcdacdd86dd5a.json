@@ -1,0 +1,1 @@
+{"id":"f95ef280f144fa1de1bdcdacdd86dd5a","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /labs returns empty array for limited access user without labId or parentLabId","name":"returns empty array for limited access user without labId or parentLabId","status":"passed","testResultsByEnv":{"default":"580b8ce8a935ab6960399fac3542943f"}}

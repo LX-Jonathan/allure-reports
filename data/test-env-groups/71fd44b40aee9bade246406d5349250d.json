@@ -1,0 +1,1 @@
+{"id":"71fd44b40aee9bade246406d5349250d","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler should schedule all cron jobs when Athena is configured","name":"should schedule all cron jobs when Athena is configured","status":"passed","testResultsByEnv":{"default":"a68cb2f344b47340985c7df5c34bfa03"}}

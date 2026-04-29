@@ -1,0 +1,1 @@
+{"id":"3b406d06bd012b9affa3abf517936c12","fullName":"server/__tests__/orders.routes.test.ts#orders.routes DELETE /api/v1/orders/:id/insurance/:insuranceId should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"a4a0a991295790a7cbf12d3b88c5fa05"}}

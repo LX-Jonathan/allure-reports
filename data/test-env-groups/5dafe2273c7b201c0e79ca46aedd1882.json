@@ -1,0 +1,1 @@
+{"id":"5dafe2273c7b201c0e79ca46aedd1882","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should return 400 for empty CPT code","name":"should return 400 for empty CPT code","status":"passed","testResultsByEnv":{"default":"f8f05ce412f34524e85cccb965eb31e4"}}

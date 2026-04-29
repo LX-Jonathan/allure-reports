@@ -1,0 +1,1 @@
+{"id":"439409f4b9803ec37e9f3502b9fcec94","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary hides the 'ending soon' badge after the reset date has passed","name":"hides the 'ending soon' badge after the reset date has passed","status":"passed","testResultsByEnv":{"default":"aeea980ce3eacaeedc483b9129c21b93"}}

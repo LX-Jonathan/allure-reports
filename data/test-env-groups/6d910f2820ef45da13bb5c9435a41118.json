@@ -1,0 +1,1 @@
+{"id":"6d910f2820ef45da13bb5c9435a41118","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"7f85f5d2d4264c5f0ef471463b79331d"}}

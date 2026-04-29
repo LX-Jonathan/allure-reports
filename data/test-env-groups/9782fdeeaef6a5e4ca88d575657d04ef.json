@@ -1,0 +1,1 @@
+{"id":"9782fdeeaef6a5e4ca88d575657d04ef","fullName":"client/src/components/orders/__tests__/OrderSidebar.test.tsx#OrderSidebar fee estimation – Sign + Print (task-1612) disables the Sign button when feeEstimationStale is true","name":"disables the Sign button when feeEstimationStale is true","status":"passed","testResultsByEnv":{"default":"0ded9d74739ce610b60baedb5802bdeb"}}

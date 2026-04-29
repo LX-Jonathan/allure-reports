@@ -1,0 +1,1 @@
+{"id":"8a0dc8e66e8a01275bb373f285fac7a9","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware orgAdmin chain should require org_admin or super_admin roles","name":"should require org_admin or super_admin roles","status":"passed","testResultsByEnv":{"default":"67a1c24d9ca4d6475d065de9a474f9e3"}}

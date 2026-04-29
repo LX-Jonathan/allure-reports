@@ -1,0 +1,1 @@
+{"id":"8cb3073ffa0f132b75cafdd42fe13af6","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatientGuarantors returns guarantors for patient","name":"returns guarantors for patient","status":"passed","testResultsByEnv":{"default":"cdd8db126f3561642ccb412eeffaaffc"}}

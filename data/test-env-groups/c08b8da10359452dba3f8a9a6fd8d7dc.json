@@ -1,0 +1,1 @@
+{"id":"c08b8da10359452dba3f8a9a6fd8d7dc","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes DELETE /api/fee-schedules/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"42f5313f23bd5ba34e9f692965c48ae1"}}

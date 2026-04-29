@@ -1,0 +1,1 @@
+{"id":"92376410c8f570277c2eb5c9891ccc34","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients DOB search patterns searches by MM-DD-YYYY dash format","name":"searches by MM-DD-YYYY dash format","status":"passed","testResultsByEnv":{"default":"785bb3654c148113ecd10b11dd19606e"}}

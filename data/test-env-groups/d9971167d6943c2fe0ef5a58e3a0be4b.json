@@ -1,0 +1,1 @@
+{"id":"d9971167d6943c2fe0ef5a58e3a0be4b","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PUT /api/v1/providers/my-signature returns 400 when signature is not base64 PNG","name":"returns 400 when signature is not base64 PNG","status":"passed","testResultsByEnv":{"default":"930b8e49ec745aa594e76a9d890bb8c3"}}

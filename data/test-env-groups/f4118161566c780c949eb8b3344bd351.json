@@ -1,0 +1,1 @@
+{"id":"f4118161566c780c949eb8b3344bd351","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient returns 200 and releases result to patient","name":"returns 200 and releases result to patient","status":"passed","testResultsByEnv":{"default":"3955e0b45a4ee4a39af5d0f16b3da512"}}

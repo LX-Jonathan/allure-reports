@@ -1,0 +1,1 @@
+{"id":"dcfe4bfdf81d4721c163a0ce1b42c07d","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should not clear cache when forceFullSync is false or absent","name":"should not clear cache when forceFullSync is false or absent","status":"passed","testResultsByEnv":{"default":"239c7f4ed8e4f9f2103d6689582793d5"}}

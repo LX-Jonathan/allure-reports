@@ -1,0 +1,1 @@
+{"id":"b574881340e7f6cb02949ae7da607d37","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 for invalid month format","name":"should return 400 for invalid month format","status":"passed","testResultsByEnv":{"default":"38abb51b77f20d254f6cd25919e16a65"}}

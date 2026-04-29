@@ -1,0 +1,1 @@
+{"id":"290137a0d1f423cb4990c3e37fd8ebd8","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info — additional branches returns 400 when DNS resolution fails","name":"returns 400 when DNS resolution fails","status":"passed","testResultsByEnv":{"default":"f545f96986cfed94ed3156703e360b97"}}

@@ -1,0 +1,1 @@
+{"id":"805ce45b05668fa6bfe1f15429e548c9","fullName":"client/src/components/__tests__/working-patient-selector.test.tsx#WorkingPatientSelector renders the badge when a working patient is set and clears it on click","name":"renders the badge when a working patient is set and clears it on click","status":"passed","testResultsByEnv":{"default":"54c7ef77300b645dd376476b42488307"}}

@@ -1,0 +1,1 @@
+{"id":"fa2cff8eb9f250e80fd9d1caef04abbd","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#Staff /admin endpoints rejects non-staff roles","name":"rejects non-staff roles","status":"passed","testResultsByEnv":{"default":"1d9268dcef0d9d303b121a1227e5a907"}}

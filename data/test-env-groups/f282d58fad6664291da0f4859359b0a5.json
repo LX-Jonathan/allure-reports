@@ -1,0 +1,1 @@
+{"id":"f282d58fad6664291da0f4859359b0a5","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:patientId/insurance/:insuranceId returns 403 when organization access denied","name":"returns 403 when organization access denied","status":"passed","testResultsByEnv":{"default":"d904ce652103f23d66f32818e352ab76"}}

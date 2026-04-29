@@ -1,0 +1,1 @@
+{"id":"4373e0c21cf75499296f8bcc3851b9d1","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 400 on validation error (invalid roleId)","name":"returns 400 on validation error (invalid roleId)","status":"passed","testResultsByEnv":{"default":"d3a6bc5306fd2b3dcc50507df035d88a"}}

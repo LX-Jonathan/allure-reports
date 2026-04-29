@@ -1,0 +1,1 @@
+{"id":"e35e6dfe2ca8926f01de97520011559c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations removeRolePermission throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"6009bcf462b4e15e5e2a1d3189f77fdc"}}

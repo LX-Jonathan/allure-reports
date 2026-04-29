@@ -1,0 +1,1 @@
+{"id":"67ad4a98a3d60739e2b3277422f910b9","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances providerCache should be configured with prefix 'provider' and TTL 600","name":"providerCache should be configured with prefix 'provider' and TTL 600","status":"passed","testResultsByEnv":{"default":"9d008c418bf0fbd001a895dbf60cabd3"}}

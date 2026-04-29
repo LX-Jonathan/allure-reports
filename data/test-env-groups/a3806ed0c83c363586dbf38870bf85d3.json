@@ -1,0 +1,1 @@
+{"id":"a3806ed0c83c363586dbf38870bf85d3","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id should return 200 for ticket owner","name":"should return 200 for ticket owner","status":"passed","testResultsByEnv":{"default":"8b85640b03c45a2c5eb40e6fe892befa"}}

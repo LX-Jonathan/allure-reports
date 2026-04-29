@@ -1,0 +1,1 @@
+{"id":"8d737dace7cc6c7781f2b000984dca95","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients returns empty list for location-level user with no locations","name":"returns empty list for location-level user with no locations","status":"passed","testResultsByEnv":{"default":"496725d9c97f8c569177f4d587efcee5"}}

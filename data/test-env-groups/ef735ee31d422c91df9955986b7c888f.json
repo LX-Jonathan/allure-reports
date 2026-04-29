@@ -1,0 +1,1 @@
+{"id":"ef735ee31d422c91df9955986b7c888f","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth token parsing should call parseAuthorizationHeader with undefined when no header","name":"should call parseAuthorizationHeader with undefined when no header","status":"passed","testResultsByEnv":{"default":"4153a2bdb8eef79fafd5174b3ef9f407"}}

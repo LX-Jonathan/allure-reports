@@ -1,0 +1,1 @@
+{"id":"a2e0b15612c516761d5d710500c2fb71","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id deletes successfully and sets audit context","name":"deletes successfully and sets audit context","status":"passed","testResultsByEnv":{"default":"47ddc587827c75a0ef1dd3ad95505303"}}

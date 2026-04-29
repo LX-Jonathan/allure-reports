@@ -1,0 +1,1 @@
+{"id":"eb3a8ee22a0f5b953677d99dbbbab8be","fullName":"client/src/components/patient/__tests__/eligibility-check-dialog.test.tsx#EligibilityCheckDialog queues unknown insurance via API and then accepts it","name":"queues unknown insurance via API and then accepts it","status":"passed","testResultsByEnv":{"default":"dff39e8e2cd4986fffeacb7a886b5040"}}

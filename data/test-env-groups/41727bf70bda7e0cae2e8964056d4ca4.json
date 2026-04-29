@@ -1,0 +1,1 @@
+{"id":"41727bf70bda7e0cae2e8964056d4ca4","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should return 400 for invalid priority","name":"should return 400 for invalid priority","status":"passed","testResultsByEnv":{"default":"8b8aa979ebddc0856fc969d0c353bf03"}}

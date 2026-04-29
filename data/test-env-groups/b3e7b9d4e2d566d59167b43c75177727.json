@@ -1,0 +1,1 @@
+{"id":"b3e7b9d4e2d566d59167b43c75177727","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should not include variance in description when zero","name":"should not include variance in description when zero","status":"passed","testResultsByEnv":{"default":"a325a82dee41aa667cbb3c861aea8135"}}

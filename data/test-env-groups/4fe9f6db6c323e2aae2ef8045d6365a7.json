@@ -1,0 +1,1 @@
+{"id":"4fe9f6db6c323e2aae2ef8045d6365a7","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status returns 403 for organization mismatch","name":"returns 403 for organization mismatch","status":"passed","testResultsByEnv":{"default":"7aaa31863a88d063209f8a266a82f175"}}

@@ -1,0 +1,1 @@
+{"id":"f0769e47edb2d430b78822ed043382f9","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log rate limit error for status 429","name":"should log rate limit error for status 429","status":"passed","testResultsByEnv":{"default":"0f5f0a2ca1931938952797e587b78e1a"}}

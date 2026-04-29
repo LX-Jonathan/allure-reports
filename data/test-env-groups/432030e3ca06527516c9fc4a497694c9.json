@@ -1,0 +1,1 @@
+{"id":"432030e3ca06527516c9fc4a497694c9","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should set default priority to routine when not provided","name":"should set default priority to routine when not provided","status":"passed","testResultsByEnv":{"default":"257aac2b3293b6b95fbe6781eea9fe21"}}

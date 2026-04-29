@@ -1,0 +1,1 @@
+{"id":"f86d8971eecb8ab53bf2078379291cd4","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes PUT /api/order-intake/:id/mappings returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"02e97ce57ad9f647577039360ef0d304"}}

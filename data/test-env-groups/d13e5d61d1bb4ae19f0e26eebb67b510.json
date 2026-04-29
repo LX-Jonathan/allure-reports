@@ -1,0 +1,1 @@
+{"id":"d13e5d61d1bb4ae19f0e26eebb67b510","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/manual-result sends patient email when auto-release and notifyPatient is enabled","name":"sends patient email when auto-release and notifyPatient is enabled","status":"passed","testResultsByEnv":{"default":"6a7e42c4b394771cb1d94dfa20235fb8"}}

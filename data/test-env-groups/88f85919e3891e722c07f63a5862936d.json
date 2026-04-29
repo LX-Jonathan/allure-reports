@@ -1,0 +1,1 @@
+{"id":"88f85919e3891e722c07f63a5862936d","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries createJournalEntry (via exported functions) should skip lines with both debit and credit equal to 0","name":"should skip lines with both debit and credit equal to 0","status":"passed","testResultsByEnv":{"default":"cbea7677d48f0e3e66e0dd8781cb5de8"}}

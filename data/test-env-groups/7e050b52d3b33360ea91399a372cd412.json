@@ -1,0 +1,1 @@
+{"id":"7e050b52d3b33360ea91399a372cd412","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/check-requirement returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"1fe5f246fdcbc1cb40c8df427c524283"}}

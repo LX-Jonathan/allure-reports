@@ -1,0 +1,1 @@
+{"id":"6f6090c83e12ed820d7b37e96e31b590","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useFirstSavedAddressString returns null when no addresses are present","name":"returns null when no addresses are present","status":"passed","testResultsByEnv":{"default":"7069ba770fd5a2cebca53422ac99f9f7"}}

@@ -1,0 +1,1 @@
+{"id":"663fd294e7426a6b2e39a8e0e4ce1ed1","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/import/:id returns 403 when non-owner non-super_admin tries to access","name":"returns 403 when non-owner non-super_admin tries to access","status":"passed","testResultsByEnv":{"default":"6cc133a236814d2732a6b3b4e86dbcc5"}}

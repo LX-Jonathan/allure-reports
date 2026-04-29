@@ -1,0 +1,1 @@
+{"id":"39b986d9497808168827c762b9311129","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses default phone when phone is missing","name":"uses default phone when phone is missing","status":"passed","testResultsByEnv":{"default":"12f3f0a73aae36de36acf74a76abf53d"}}

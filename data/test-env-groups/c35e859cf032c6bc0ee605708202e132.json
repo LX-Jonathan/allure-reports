@@ -1,0 +1,1 @@
+{"id":"c35e859cf032c6bc0ee605708202e132","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 200 when updating conversation name","name":"returns 200 when updating conversation name","status":"passed","testResultsByEnv":{"default":"6818600d859e8804ac1abbfd895a941d"}}

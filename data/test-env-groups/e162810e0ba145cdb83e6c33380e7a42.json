@@ -1,0 +1,1 @@
+{"id":"e162810e0ba145cdb83e6c33380e7a42","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/upload-url returns 400 for non-PDF file type","name":"returns 400 for non-PDF file type","status":"passed","testResultsByEnv":{"default":"cb82f6234915b640f83fa123e5a7bee8"}}

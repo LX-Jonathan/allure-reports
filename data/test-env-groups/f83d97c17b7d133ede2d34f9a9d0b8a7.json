@@ -1,0 +1,1 @@
+{"id":"f83d97c17b7d133ede2d34f9a9d0b8a7","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /ai-schema returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"ae54e431baa88bd9dccdba88b8f0b346"}}

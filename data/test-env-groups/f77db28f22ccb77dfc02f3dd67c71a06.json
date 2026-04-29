@@ -1,0 +1,1 @@
+{"id":"f77db28f22ccb77dfc02f3dd67c71a06","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/insurance/:insuranceId returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"2cb24611346e0fe3396746b1aa9e8770"}}

@@ -1,0 +1,1 @@
+{"id":"5dd88dd3b3676a7a6b17bf1d0196be43","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests/specimen-options should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"4b44755f412cf8c22a49067d8d29ac3a"}}

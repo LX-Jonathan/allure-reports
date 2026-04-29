@@ -1,0 +1,1 @@
+{"id":"9e96407534472e2c7eb868df74886511","fullName":"server/__tests__/reporting.service.test.ts#ReportingService getDateRange should return default 30-day range for unknown type","name":"should return default 30-day range for unknown type","status":"passed","testResultsByEnv":{"default":"9e049b29c830a44374f2f719536e092e"}}

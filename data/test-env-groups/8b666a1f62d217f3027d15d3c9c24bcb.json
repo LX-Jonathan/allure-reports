@@ -1,0 +1,1 @@
+{"id":"8b666a1f62d217f3027d15d3c9c24bcb","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapGuarantorGenderForAndromeda should return 'O' for null","name":"should return 'O' for null","status":"passed","testResultsByEnv":{"default":"3e8a76904bacf40937b4a7982caa1549"}}

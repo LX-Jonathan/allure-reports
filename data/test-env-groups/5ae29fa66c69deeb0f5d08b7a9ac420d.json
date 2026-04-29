@@ -1,0 +1,1 @@
+{"id":"5ae29fa66c69deeb0f5d08b7a9ac420d","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - User Invites markInviteAsAccepted should set acceptedAt timestamp","name":"should set acceptedAt timestamp","status":"passed","testResultsByEnv":{"default":"82f700763f8319467421b58ffea0f267"}}

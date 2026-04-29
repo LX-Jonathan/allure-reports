@@ -1,0 +1,1 @@
+{"id":"969e47ddccb30b458513a3816e26f017","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 400 when FRHC API not configured","name":"returns 400 when FRHC API not configured","status":"passed","testResultsByEnv":{"default":"48bb5ca49288644d78f753fe23510979"}}

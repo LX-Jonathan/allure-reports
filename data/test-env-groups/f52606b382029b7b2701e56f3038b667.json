@@ -1,0 +1,1 @@
+{"id":"f52606b382029b7b2701e56f3038b667","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog defaults type to result_issue when resultId provided","name":"defaults type to result_issue when resultId provided","status":"passed","testResultsByEnv":{"default":"15ee679a7a1fa6758d41b7d2c0cfac5e"}}

@@ -1,0 +1,1 @@
+{"id":"c35f90ffa9529e6f7d286b98ff513171","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs/:id/available-tests returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"00506f06d1c9e5371df02f29ebe26b52"}}

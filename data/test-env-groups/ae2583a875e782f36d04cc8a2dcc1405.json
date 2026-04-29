@@ -1,0 +1,1 @@
+{"id":"ae2583a875e782f36d04cc8a2dcc1405","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes DELETE /campaigns/:id returns 404 when campaign not found","name":"returns 404 when campaign not found","status":"passed","testResultsByEnv":{"default":"6e96b0c43a34e64eedb37ef3844cdcf2"}}

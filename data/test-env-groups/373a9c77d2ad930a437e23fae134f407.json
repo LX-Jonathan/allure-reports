@@ -1,0 +1,1 @@
+{"id":"373a9c77d2ad930a437e23fae134f407","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Order History and Analytics GET /api/v1/lab-tests/:id/fee-schedules returns empty when org has no parentLabId","name":"returns empty when org has no parentLabId","status":"passed","testResultsByEnv":{"default":"d77f16d11df8dc3ce3bb9cea5d535e29"}}

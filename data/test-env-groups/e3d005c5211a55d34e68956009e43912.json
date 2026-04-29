@@ -1,0 +1,1 @@
+{"id":"e3d005c5211a55d34e68956009e43912","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns null when no active assignments by org","name":"returns null when no active assignments by org","status":"passed","testResultsByEnv":{"default":"7852e78009a31179bc961bb9f891c744"}}

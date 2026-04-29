@@ -1,0 +1,1 @@
+{"id":"ff40ebfe578c0646de8cfee577aefe95","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord procedures should use performedPeriod.start when performedDateTime is missing","name":"should use performedPeriod.start when performedDateTime is missing","status":"passed","testResultsByEnv":{"default":"1212607d5d793d76f22b0077592ab2a3"}}

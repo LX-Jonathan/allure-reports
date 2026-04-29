@@ -1,0 +1,1 @@
+{"id":"fbd31e3aebe07da52f161da119ece093","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /:id returns 404 when contract not found","name":"returns 404 when contract not found","status":"passed","testResultsByEnv":{"default":"9f05381b934f4a2c686a599b3690eaad"}}

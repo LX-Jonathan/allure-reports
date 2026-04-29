@@ -1,0 +1,1 @@
+{"id":"962c6c0639734c941b0e254e1f9fdef5","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/admin/:parentLabId/generate returns 400 for invalid URL format","name":"returns 400 for invalid URL format","status":"passed","testResultsByEnv":{"default":"dbcd7007cc4448b43b5c7c296a7ce6bb"}}

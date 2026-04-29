@@ -1,0 +1,1 @@
+{"id":"c6245e10fc4f41042fa5e59382c08ca9","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations falls back to active org links when patientUser has no patientId","name":"falls back to active org links when patientUser has no patientId","status":"passed","testResultsByEnv":{"default":"1347ce81b743d2f3110e81bab6b188ff"}}

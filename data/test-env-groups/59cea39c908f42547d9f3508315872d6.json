@@ -1,0 +1,1 @@
+{"id":"59cea39c908f42547d9f3508315872d6","fullName":"server/routes/__tests__/audit.routes.test.ts#Audit Routes GET /api/v1/audit-logs returns 403 when user cannot access patient's lab","name":"returns 403 when user cannot access patient's lab","status":"passed","testResultsByEnv":{"default":"20915f06c8f808cb4e7ad449c930a960"}}

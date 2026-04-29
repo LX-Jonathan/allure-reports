@@ -1,0 +1,1 @@
+{"id":"7c3f4d1d7a20d87a8a55dfc518cbec44","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore constructor should use custom ttl when provided","name":"should use custom ttl when provided","status":"passed","testResultsByEnv":{"default":"69e228df1b51bd139629a518dac44f1e"}}

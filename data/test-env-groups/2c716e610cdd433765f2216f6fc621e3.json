@@ -1,0 +1,1 @@
+{"id":"2c716e610cdd433765f2216f6fc621e3","fullName":"client/src/components/patient/__tests__/lab-attention-section.test.tsx#LabAttentionSection billing row hides the balance text when balance is zero","name":"hides the balance text when balance is zero","status":"passed","testResultsByEnv":{"default":"7adeba214456c5c9228f9e572a58a942"}}

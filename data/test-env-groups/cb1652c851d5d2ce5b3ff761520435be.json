@@ -1,0 +1,1 @@
+{"id":"cb1652c851d5d2ce5b3ff761520435be","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: invite_user_not_found","name":"en: invite_user_not_found","status":"passed","testResultsByEnv":{"default":"0e6705ab8958b496e7b17f1d45e1b17f"}}

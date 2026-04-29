@@ -1,0 +1,1 @@
+{"id":"65c02612abb13e4f7cde7ddd642a15e8","fullName":"client/src/pages/__tests__/patient-portal-hub.test.tsx#PatientPortalHubPage does not show the admin group label in the side nav for non-admin users","name":"does not show the admin group label in the side nav for non-admin users","status":"passed","testResultsByEnv":{"default":"c06e0a8c8910a8d4d61d802f88565934"}}

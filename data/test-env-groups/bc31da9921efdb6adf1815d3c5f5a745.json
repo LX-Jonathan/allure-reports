@@ -1,0 +1,1 @@
+{"id":"bc31da9921efdb6adf1815d3c5f5a745","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 400 when role does not exist","name":"returns 400 when role does not exist","status":"passed","testResultsByEnv":{"default":"72e9dee1725b972e4240b3e369fe1554"}}

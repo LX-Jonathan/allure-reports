@@ -1,0 +1,1 @@
+{"id":"fb374d30d6ef436695c3beb08b23aaea","fullName":"server/__tests__/orders.routes.test.ts#orders.routes GET /api/v1/orders/:id/audit-log should enforce access control for non-full-access users","name":"should enforce access control for non-full-access users","status":"passed","testResultsByEnv":{"default":"c53e9a10048b59df889e1e78ee5b9efb"}}

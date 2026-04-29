@@ -1,0 +1,1 @@
+{"id":"32f93d4c68ea73ddf7021a4948965de0","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 404 when biometric not found","name":"returns 404 when biometric not found","status":"passed","testResultsByEnv":{"default":"15b54a1948953df3df57a18b03eb82eb"}}

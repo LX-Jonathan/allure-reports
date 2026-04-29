@@ -1,0 +1,1 @@
+{"id":"e9f86c05402bb79b1c238ebd689d9672","fullName":"server/__tests__/verification-confidence.test.ts#deriveDemographicsVerificationConfidence maps Red AccuracyColor to a low confidence","name":"maps Red AccuracyColor to a low confidence","status":"passed","testResultsByEnv":{"default":"036d8a645668f05ae495a51d9660634c"}}

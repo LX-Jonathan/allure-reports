@@ -1,0 +1,1 @@
+{"id":"6005f5764f1d6886baedcb183788cb0a","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should skip non-transactional send when DB row has no patientId","name":"should skip non-transactional send when DB row has no patientId","status":"passed","testResultsByEnv":{"default":"a840c4454eb266b139fd3d92bdd8c158"}}

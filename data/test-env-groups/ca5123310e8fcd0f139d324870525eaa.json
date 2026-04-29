@@ -1,0 +1,1 @@
+{"id":"ca5123310e8fcd0f139d324870525eaa","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f3aad3d29794782486889150019b39e2"}}

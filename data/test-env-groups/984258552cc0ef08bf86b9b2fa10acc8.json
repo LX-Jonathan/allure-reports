@@ -1,0 +1,1 @@
+{"id":"984258552cc0ef08bf86b9b2fa10acc8","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions createRole should create a new role and return it","name":"should create a new role and return it","status":"passed","testResultsByEnv":{"default":"9db9156f44bd7fde99f1f70e4ca42862"}}

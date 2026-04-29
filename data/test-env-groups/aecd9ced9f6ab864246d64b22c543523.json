@@ -1,0 +1,1 @@
+{"id":"aecd9ced9f6ab864246d64b22c543523","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes Auth middleware does not disable auth in production even with SIDECAR_AUTH_DISABLED","name":"does not disable auth in production even with SIDECAR_AUTH_DISABLED","status":"passed","testResultsByEnv":{"default":"a4ba1893d7915ddc2d154008bae48a7f"}}

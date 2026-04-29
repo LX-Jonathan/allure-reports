@@ -1,0 +1,1 @@
+{"id":"3d6590e3c8813b156ba676b5c59c97ee","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /cancel-payment-intent returns 500 for other Stripe errors","name":"returns 500 for other Stripe errors","status":"passed","testResultsByEnv":{"default":"ef2375d46515acb44c7f47fe95cabd05"}}

@@ -1,0 +1,1 @@
+{"id":"f24cbd499158e445b9aa5f0fc7b020ff","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should normalize SSN by removing non-digits","name":"should normalize SSN by removing non-digits","status":"passed","testResultsByEnv":{"default":"9a69c25e7d3da2f681c9e3a37e43e1a9"}}

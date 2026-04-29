@@ -1,0 +1,1 @@
+{"id":"d5c7ac239987af47222decd7c6f7b596","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should filter by user locations for location users","name":"should filter by user locations for location users","status":"passed","testResultsByEnv":{"default":"b130c0eb9e441b2ab362332bec7b5bad"}}

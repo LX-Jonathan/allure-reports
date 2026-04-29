@@ -1,0 +1,1 @@
+{"id":"3a809107a220eeb6d9dae68ceb8080b5","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings practitionerToFhir includes NPI identifier when present","name":"includes NPI identifier when present","status":"passed","testResultsByEnv":{"default":"660ee87badd9b1390129a6f1885be12a"}}

@@ -1,0 +1,1 @@
+{"id":"aeb26a183533a8f1cf8f9279ff915cb1","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns 400 when drawer already open at location","name":"returns 400 when drawer already open at location","status":"passed","testResultsByEnv":{"default":"4ea37effab221f9e035e5b347a6224cf"}}

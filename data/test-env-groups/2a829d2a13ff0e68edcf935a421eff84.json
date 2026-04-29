@@ -1,0 +1,1 @@
+{"id":"2a829d2a13ff0e68edcf935a421eff84","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors updatePatientGuarantor should return null when not found","name":"updatePatientGuarantor should return null when not found","status":"passed","testResultsByEnv":{"default":"8b7d2f6b796a51883609295643b10cc1"}}

@@ -1,0 +1,1 @@
+{"id":"130892cec7b5a7f7f29d7b79bdc81b11","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueLoginCodeEmail should include code in email content","name":"should include code in email content","status":"passed","testResultsByEnv":{"default":"62d3eb3bfc149220d86393ff1b54f575"}}

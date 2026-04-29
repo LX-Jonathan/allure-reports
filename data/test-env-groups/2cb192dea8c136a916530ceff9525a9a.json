@@ -1,0 +1,1 @@
+{"id":"2cb192dea8c136a916530ceff9525a9a","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId returns 403 when tenant access denied","name":"returns 403 when tenant access denied","status":"passed","testResultsByEnv":{"default":"e978bd388cfbff1c436a82f14ac00b5b"}}

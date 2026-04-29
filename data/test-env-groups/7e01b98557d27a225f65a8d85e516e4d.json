@@ -1,0 +1,1 @@
+{"id":"7e01b98557d27a225f65a8d85e516e4d","fullName":"client/src/components/__tests__/appointment-qr-scanner.test.tsx#AppointmentQrScanner calls onScanComplete with valid UUID barcode","name":"calls onScanComplete with valid UUID barcode","status":"passed","testResultsByEnv":{"default":"feddeebd01396c3fd0add267075c0763"}}

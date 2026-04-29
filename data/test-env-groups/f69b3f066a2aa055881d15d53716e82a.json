@@ -1,0 +1,1 @@
+{"id":"f69b3f066a2aa055881d15d53716e82a","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:id returns 204 when schedule is deleted successfully","name":"returns 204 when schedule is deleted successfully","status":"passed","testResultsByEnv":{"default":"593afa16b0a76311f86f7cb89140a57d"}}

@@ -1,0 +1,1 @@
+{"id":"90318e716cd8929412f163aeb60816dc","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob Redis file storage should throw error when Redis file not found","name":"should throw error when Redis file not found","status":"passed","testResultsByEnv":{"default":"42ac59bf3f22aef3e05cd9a161a8442c"}}

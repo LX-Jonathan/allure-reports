@@ -1,0 +1,1 @@
+{"id":"b483b695cac9627826e6b7f9d21d6535","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth Replit OIDC session-based auth should fall through to JWT auth when isAuthenticated returns false","name":"should fall through to JWT auth when isAuthenticated returns false","status":"passed","testResultsByEnv":{"default":"c80a110d688ff581e6621c13c2e18eaa"}}

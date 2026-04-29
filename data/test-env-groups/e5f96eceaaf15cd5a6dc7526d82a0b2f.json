@@ -1,0 +1,1 @@
+{"id":"e5f96eceaaf15cd5a6dc7526d82a0b2f","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should extract text and return structured result","name":"should extract text and return structured result","status":"passed","testResultsByEnv":{"default":"9de3cb04915e98f9451bcee7860eee33"}}

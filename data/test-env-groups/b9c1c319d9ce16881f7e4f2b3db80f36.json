@@ -1,0 +1,1 @@
+{"id":"b9c1c319d9ce16881f7e4f2b3db80f36","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/link-national returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"3356816968cf3cb40504556708f2496d"}}

@@ -1,0 +1,1 @@
+{"id":"35e1f8e6faa1a36ea317e2aad0899881","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware edge cases should maintain reference equality for requireAuth across chains","name":"should maintain reference equality for requireAuth across chains","status":"passed","testResultsByEnv":{"default":"da9bde450a25265a6dd24e97d2000aa1"}}

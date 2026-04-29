@@ -1,0 +1,1 @@
+{"id":"8c3070455be53f81e46ab23bc289e551","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports/:id/shares returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"62ba53f0d500a4a361585f84d1af5ff0"}}

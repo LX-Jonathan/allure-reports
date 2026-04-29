@@ -1,0 +1,1 @@
+{"id":"db1536e3be033f1e53bebd4d4c1950a6","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/upload returns 200 on successful sync upload","name":"returns 200 on successful sync upload","status":"passed","testResultsByEnv":{"default":"8255083e0bd79b75bcb7c24addee7a29"}}

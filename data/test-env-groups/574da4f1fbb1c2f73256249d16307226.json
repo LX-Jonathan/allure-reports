@@ -1,0 +1,1 @@
+{"id":"574da4f1fbb1c2f73256249d16307226","fullName":"server/lib/__tests__/responses.test.ts#serverError should return 500 status with default error message","name":"should return 500 status with default error message","status":"passed","testResultsByEnv":{"default":"2113d33f21d74703aa992119daef1d2b"}}

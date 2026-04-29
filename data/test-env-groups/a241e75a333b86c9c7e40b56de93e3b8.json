@@ -1,0 +1,1 @@
+{"id":"a241e75a333b86c9c7e40b56de93e3b8","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/from-intake returns 400 when patient is required but not provided","name":"returns 400 when patient is required but not provided","status":"passed","testResultsByEnv":{"default":"438c7bdffd6d19281e9156163bcae688"}}

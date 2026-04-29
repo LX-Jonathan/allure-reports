@@ -1,0 +1,1 @@
+{"id":"7f85d57d4c11388f7ca1445d8865d393","fullName":"server/lib/__tests__/stripe-verify-failure-alerter.test.ts#recordStripeVerifyFailure treats a plain array result from db.execute the same as { rows }","name":"treats a plain array result from db.execute the same as { rows }","status":"passed","testResultsByEnv":{"default":"698a5e610f4acddf86e818caad0fe7a3"}}

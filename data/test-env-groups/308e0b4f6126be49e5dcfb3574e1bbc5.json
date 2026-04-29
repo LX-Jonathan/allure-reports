@@ -1,0 +1,1 @@
+{"id":"308e0b4f6126be49e5dcfb3574e1bbc5","fullName":"server/routes/__tests__/index.routes.test.ts#Routes Index Route registration registers health endpoint at /api/health","name":"registers health endpoint at /api/health","status":"passed","testResultsByEnv":{"default":"12cf123a2476d4f2c84c98e13252d4d6"}}

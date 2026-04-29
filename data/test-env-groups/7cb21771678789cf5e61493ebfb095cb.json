@@ -1,0 +1,1 @@
+{"id":"7cb21771678789cf5e61493ebfb095cb","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert renders the card variant with the configure button when admin","name":"renders the card variant with the configure button when admin","status":"passed","testResultsByEnv":{"default":"f74ca88162ad18b17e5aa694578d2830"}}

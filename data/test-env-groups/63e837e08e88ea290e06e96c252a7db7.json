@@ -1,0 +1,1 @@
+{"id":"63e837e08e88ea290e06e96c252a7db7","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes PUT /api/v1/reports/:id/schedules/:scheduleId returns 200 and updates schedule","name":"returns 200 and updates schedule","status":"passed","testResultsByEnv":{"default":"931b3e4545374a39a33e1cafef45f2c8"}}

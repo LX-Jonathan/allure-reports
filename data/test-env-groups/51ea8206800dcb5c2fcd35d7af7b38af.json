@@ -1,0 +1,1 @@
+{"id":"51ea8206800dcb5c2fcd35d7af7b38af","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /ai-map-form returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"5bb281c7e71288f5a60007f4713555ce"}}

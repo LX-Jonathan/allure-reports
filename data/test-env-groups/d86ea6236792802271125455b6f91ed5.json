@@ -1,0 +1,1 @@
+{"id":"d86ea6236792802271125455b6f91ed5","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"8bbd329fa05797e76829a1188bd196b4"}}

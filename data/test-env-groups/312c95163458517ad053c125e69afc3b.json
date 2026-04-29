@@ -1,0 +1,1 @@
+{"id":"312c95163458517ad053c125e69afc3b","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:id returns 500 when storage throws an error","name":"returns 500 when storage throws an error","status":"passed","testResultsByEnv":{"default":"251382899aacb3db86ebf2703475dff4"}}

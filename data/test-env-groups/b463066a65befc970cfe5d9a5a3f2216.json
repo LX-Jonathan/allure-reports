@@ -1,0 +1,1 @@
+{"id":"b463066a65befc970cfe5d9a5a3f2216","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - FDA Lookup GET /api/v1/medications/fda-lookup returns 400 when query parameter is missing","name":"returns 400 when query parameter is missing","status":"passed","testResultsByEnv":{"default":"a46de61e6c45839a360f21f23494ab26"}}

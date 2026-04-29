@@ -1,0 +1,1 @@
+{"id":"452f1727d8ead766aa880fa4a49a7697","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules/:id returns 403 for user without organization access","name":"returns 403 for user without organization access","status":"passed","testResultsByEnv":{"default":"19a9ea1822666e10884dbc3f50764c19"}}

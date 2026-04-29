@@ -1,0 +1,1 @@
+{"id":"6e284c145b43e3a22bf7116c4e5a46e4","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment rejects refunding a payment with no credit portion","name":"rejects refunding a payment with no credit portion","status":"passed","testResultsByEnv":{"default":"3d767fa60f828708112a690af69d5d8a"}}

@@ -1,0 +1,1 @@
+{"id":"d680dbd181be0cb4d99997f3fb6294c8","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins updateVisitCheckin returns undefined when no row matches","name":"returns undefined when no row matches","status":"passed","testResultsByEnv":{"default":"9bc38d75197572b4b9ee5621adbeb29a"}}

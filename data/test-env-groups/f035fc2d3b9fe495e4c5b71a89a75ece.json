@@ -1,0 +1,1 @@
+{"id":"f035fc2d3b9fe495e4c5b71a89a75ece","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"474b881aea59c9e54faab2a32358d478"}}

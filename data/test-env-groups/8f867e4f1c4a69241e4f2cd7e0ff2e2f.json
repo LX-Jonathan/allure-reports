@@ -1,0 +1,1 @@
+{"id":"8f867e4f1c4a69241e4f2cd7e0ff2e2f","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET /:id allows access when parentLabId matches","name":"allows access when parentLabId matches","status":"passed","testResultsByEnv":{"default":"397e3a9188063e17db10e56edfb6bcbc"}}

@@ -1,0 +1,1 @@
+{"id":"7118d3ff0a0756ad8244ca2ba77d1c75","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs should filter orgs to user's org for non-full-access","name":"should filter orgs to user's org for non-full-access","status":"passed","testResultsByEnv":{"default":"172304b173afbb50f2825ce77a8f8821"}}

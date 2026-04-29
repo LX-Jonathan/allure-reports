@@ -1,0 +1,1 @@
+{"id":"8d2405a0ce27b1135747c6fa101ff572","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#processMedicalNecessityJob successful processing should calculate summary correctly","name":"should calculate summary correctly","status":"passed","testResultsByEnv":{"default":"41955442bc675c3559bc8539e90fafa8"}}

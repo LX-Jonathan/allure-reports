@@ -1,0 +1,1 @@
+{"id":"7c0274859957c7932d99f9c098e331e8","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId returns 400 for invalid status enum","name":"returns 400 for invalid status enum","status":"passed","testResultsByEnv":{"default":"1d9cc907a5d002580c858cee077593a3"}}

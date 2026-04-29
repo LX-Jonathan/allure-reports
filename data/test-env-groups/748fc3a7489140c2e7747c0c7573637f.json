@@ -1,0 +1,1 @@
+{"id":"748fc3a7489140c2e7747c0c7573637f","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should require locationId","name":"should require locationId","status":"passed","testResultsByEnv":{"default":"3c6201bf14362726c95865f07f4d9b87"}}

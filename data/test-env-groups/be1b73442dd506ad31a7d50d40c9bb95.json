@@ -1,0 +1,1 @@
+{"id":"be1b73442dd506ad31a7d50d40c9bb95","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /capture-payment returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"37d25a8953b7c9fcd8094fbb0ace75ac"}}

@@ -1,0 +1,1 @@
+{"id":"1259364f326d3987a464192ec046b4cb","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getFilteredClaims should filter by search term (patientName)","name":"should filter by search term (patientName)","status":"passed","testResultsByEnv":{"default":"b80dc670d004a9ea6f3e7ceec6af3e2a"}}

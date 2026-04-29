@@ -1,0 +1,1 @@
+{"id":"f1a4c2a68d6ec648704649b7aacbec73","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness order and patient lookup should throw when order is not found","name":"should throw when order is not found","status":"passed","testResultsByEnv":{"default":"26f807e0fd5d7a60be1dbb074069b066"}}

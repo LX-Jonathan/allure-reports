@@ -1,0 +1,1 @@
+{"id":"8ce3b9a479348ab82b5e201aebf59e44","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/circuit-breaker/:queueType/open should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"41fb4b4f1832ff73391e71eecdea32a5"}}

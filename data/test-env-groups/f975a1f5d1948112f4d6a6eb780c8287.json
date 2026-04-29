@@ -1,0 +1,1 @@
+{"id":"f975a1f5d1948112f4d6a6eb780c8287","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service executeAthenaQuery throws when query status is FAILED","name":"throws when query status is FAILED","status":"passed","testResultsByEnv":{"default":"bb0029e539be9dc5660c1ebd8a201975"}}

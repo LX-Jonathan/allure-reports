@@ -1,0 +1,1 @@
+{"id":"15a25ab45888ac908b4c3a1d2464e49f","fullName":"client/src/components/patient/__tests__/ehr-tab.test.tsx#EhrTab shows N/A when externalPid is missing","name":"shows N/A when externalPid is missing","status":"passed","testResultsByEnv":{"default":"82e14bc255de0a3e8bade9b78d76d0ca"}}

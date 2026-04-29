@@ -1,0 +1,1 @@
+{"id":"fb45c3072cd432cc3b4f6cc60f5d7406","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should update email status to processing at start","name":"should update email status to processing at start","status":"passed","testResultsByEnv":{"default":"ca6311fbf5ea7c8f691121b3b5a2b6d9"}}

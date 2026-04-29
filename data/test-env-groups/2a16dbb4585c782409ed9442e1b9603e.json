@@ -1,0 +1,1 @@
+{"id":"2a16dbb4585c782409ed9442e1b9603e","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print allows non-super_admin when template belongs to same superOrg","name":"allows non-super_admin when template belongs to same superOrg","status":"passed","testResultsByEnv":{"default":"984b31ddd00f434078579fd380e0cf2f"}}

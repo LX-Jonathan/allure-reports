@@ -1,0 +1,1 @@
+{"id":"517efd75bfdc4f80945e4ba023a560b4","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes PATCH /api/v1/fee-estimation/queue/:id should update status of a fee estimation","name":"should update status of a fee estimation","status":"passed","testResultsByEnv":{"default":"2862f7b959e715137edd19e27b8c64bc"}}

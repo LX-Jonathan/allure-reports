@@ -1,0 +1,1 @@
+{"id":"2e7392384b570be5435cf9781222c8dd","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /my-linked-labs returns empty list when user has no labId","name":"returns empty list when user has no labId","status":"passed","testResultsByEnv":{"default":"22a107b5ac700ecc4ba368d2402f4430"}}

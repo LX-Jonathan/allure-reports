@@ -1,0 +1,1 @@
+{"id":"0d6f3974c5f9e7902316e17e48aa3f39","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/link-self returns 400 when already linked to a provider","name":"returns 400 when already linked to a provider","status":"passed","testResultsByEnv":{"default":"f509b899cba3821a515047860d9f618e"}}

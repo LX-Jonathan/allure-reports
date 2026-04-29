@@ -1,0 +1,1 @@
+{"id":"ae6d4d6de55e7d21836a8ea413a7e19e","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Container Image Endpoints GET /api/v1/lab-tests/:id/container-image returns 404 when no container image is configured","name":"returns 404 when no container image is configured","status":"passed","testResultsByEnv":{"default":"41316c8cc0e3015f5c79d4280c9b9804"}}

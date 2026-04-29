@@ -1,0 +1,1 @@
+{"id":"08ae56a57328b23b16a5d8d845c6b2a9","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /locations/:id returns 403 when location-level user cannot access location","name":"returns 403 when location-level user cannot access location","status":"passed","testResultsByEnv":{"default":"4b0785f0bb0b8639ac209b7b197edc84"}}

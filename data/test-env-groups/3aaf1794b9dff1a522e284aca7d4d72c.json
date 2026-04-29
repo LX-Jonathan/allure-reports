@@ -1,0 +1,1 @@
+{"id":"3aaf1794b9dff1a522e284aca7d4d72c","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/sources/:sourceId/destinations returns not configured when off","name":"returns not configured when off","status":"passed","testResultsByEnv":{"default":"78ef45467f1fcc541de7caf4bacdee06"}}

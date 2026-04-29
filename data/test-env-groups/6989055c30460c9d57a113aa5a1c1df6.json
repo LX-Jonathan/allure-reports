@@ -1,0 +1,1 @@
+{"id":"6989055c30460c9d57a113aa5a1c1df6","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should not create operating checking debit when actualCash is 0","name":"should not create operating checking debit when actualCash is 0","status":"passed","testResultsByEnv":{"default":"a641df34a4441ec705afdf03ea1489ee"}}

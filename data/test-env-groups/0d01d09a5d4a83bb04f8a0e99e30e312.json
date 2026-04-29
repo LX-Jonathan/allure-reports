@@ -1,0 +1,1 @@
+{"id":"0d01d09a5d4a83bb04f8a0e99e30e312","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireRole should return 403 when user does not have required role","name":"should return 403 when user does not have required role","status":"passed","testResultsByEnv":{"default":"6140bbcee1004d08ea1a2ed8eba70ab5"}}

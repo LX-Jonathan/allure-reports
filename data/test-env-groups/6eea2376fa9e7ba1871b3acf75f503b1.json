@@ -1,0 +1,1 @@
+{"id":"6eea2376fa9e7ba1871b3acf75f503b1","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Lab client cross-client access guard denies sibling client access ('GET /clients/:orgId/threads')","name":"denies sibling client access ('GET /clients/:orgId/threads')","status":"passed","testResultsByEnv":{"default":"80f30205ed9b96d647523036ca791632"}}

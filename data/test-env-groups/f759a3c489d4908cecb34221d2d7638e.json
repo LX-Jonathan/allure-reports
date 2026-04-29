@@ -1,0 +1,1 @@
+{"id":"f759a3c489d4908cecb34221d2d7638e","fullName":"client/src/components/patient/__tests__/financial-assistance-badge.test.tsx#FinancialAssistanceBadge does not render expires-soon indicator when no expiration is set","name":"does not render expires-soon indicator when no expiration is set","status":"passed","testResultsByEnv":{"default":"9615d25dbbec352a2fb65c555368ee49"}}

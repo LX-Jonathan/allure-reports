@@ -1,0 +1,1 @@
+{"id":"0c931a36f85bce15124c5ef5510d01c1","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create-and-link returns 400 when name or parentLabId is missing","name":"returns 400 when name or parentLabId is missing","status":"passed","testResultsByEnv":{"default":"0088cbe680c996084a299398d8bd3270"}}

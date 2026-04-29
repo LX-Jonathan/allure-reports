@@ -1,0 +1,1 @@
+{"id":"b82ac2e8aeda8096054092b8658acd73","fullName":"server/lib/__tests__/auth.test.ts#auth hasPermission should return true for viewer with view:orders permission","name":"should return true for viewer with view:orders permission","status":"passed","testResultsByEnv":{"default":"019e06ec05eeb98267ae2936c305df4b"}}

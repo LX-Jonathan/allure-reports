@@ -1,0 +1,1 @@
+{"id":"d22e89ff9bcb5cb89b1a829b6df9bf71","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processDataImportJob final status should set completed status when all rows succeed","name":"should set completed status when all rows succeed","status":"passed","testResultsByEnv":{"default":"68124c31303714bfe5525a547e708a8f"}}

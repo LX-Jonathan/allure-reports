@@ -1,0 +1,1 @@
+{"id":"0418dc2f54cb427981e3dee01e276c0f","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes POST /:id/send sends without attachments when attachPdf=false","name":"sends without attachments when attachPdf=false","status":"passed","testResultsByEnv":{"default":"6560de8260a5cefbf715a0822cde9582"}}

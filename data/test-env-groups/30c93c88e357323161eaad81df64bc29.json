@@ -1,0 +1,1 @@
+{"id":"30c93c88e357323161eaad81df64bc29","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueWelcomeEmail should include login URL in content","name":"should include login URL in content","status":"passed","testResultsByEnv":{"default":"9ef200f49641d858d39c67882e01cbf9"}}

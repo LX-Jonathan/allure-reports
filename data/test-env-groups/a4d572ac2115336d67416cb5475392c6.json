@@ -1,0 +1,1 @@
+{"id":"a4d572ac2115336d67416cb5475392c6","fullName":"server/__tests__/migrate.test.ts#migrate runMigrations should close pool even after migration failure","name":"should close pool even after migration failure","status":"passed","testResultsByEnv":{"default":"a44bc7eb59aa6742ee2329d961dea4d0"}}

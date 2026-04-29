@@ -1,0 +1,1 @@
+{"id":"318a93cc5e5ee042adcab6fa6e1b6d82","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#processMedicalNecessityJob successful processing should calculate abnRequired correctly","name":"should calculate abnRequired correctly","status":"passed","testResultsByEnv":{"default":"70c5119429ec4900421df8352beabd9b"}}

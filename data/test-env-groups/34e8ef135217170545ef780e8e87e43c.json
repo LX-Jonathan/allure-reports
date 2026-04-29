@@ -1,0 +1,1 @@
+{"id":"34e8ef135217170545ef780e8e87e43c","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes DELETE / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"196a5c57dc582ced8a0c162171421c9b"}}

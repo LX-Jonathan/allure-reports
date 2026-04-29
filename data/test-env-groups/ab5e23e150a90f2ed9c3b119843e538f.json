@@ -1,0 +1,1 @@
+{"id":"ab5e23e150a90f2ed9c3b119843e538f","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError returns the fallback for non-Error throwables","name":"returns the fallback for non-Error throwables","status":"passed","testResultsByEnv":{"default":"e9e3447dce34cd0e493bc22f6db5d3ce"}}

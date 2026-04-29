@@ -1,0 +1,1 @@
+{"id":"d033ec46b3c18f6c15fef59bd844a931","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 200 with PDF content-type for super_admin","name":"returns 200 with PDF content-type for super_admin","status":"passed","testResultsByEnv":{"default":"f4c8b934bdff3f785a54632feb6fbe5c"}}

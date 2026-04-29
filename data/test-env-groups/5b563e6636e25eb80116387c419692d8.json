@@ -1,0 +1,1 @@
+{"id":"5b563e6636e25eb80116387c419692d8","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should return 0 word count for empty text","name":"should return 0 word count for empty text","status":"passed","testResultsByEnv":{"default":"67553a5a3ea3bb26500998dc7c0f48d4"}}

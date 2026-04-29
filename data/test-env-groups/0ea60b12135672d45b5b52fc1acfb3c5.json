@@ -1,0 +1,1 @@
+{"id":"0ea60b12135672d45b5b52fc1acfb3c5","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes DELETE /api/v1/billing-resolution/accounts/:id returns 200 on successful soft-delete","name":"returns 200 on successful soft-delete","status":"passed","testResultsByEnv":{"default":"46004dcb17339c5a9a0a5e0a8a6a896b"}}

@@ -1,0 +1,1 @@
+{"id":"5e1f5d4090ca1a44f45db9fb6d23b7fb","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3f955a766ae8ce8e565dc9543f8cc7d0"}}

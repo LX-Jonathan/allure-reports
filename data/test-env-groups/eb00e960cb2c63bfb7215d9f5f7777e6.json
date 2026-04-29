@@ -1,0 +1,1 @@
+{"id":"eb00e960cb2c63bfb7215d9f5f7777e6","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getRoleById returns role when found","name":"returns role when found","status":"passed","testResultsByEnv":{"default":"6fb8e9c1311e485fb459601acb74e47c"}}

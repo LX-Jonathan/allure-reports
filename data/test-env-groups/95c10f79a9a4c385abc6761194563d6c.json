@@ -1,0 +1,1 @@
+{"id":"95c10f79a9a4c385abc6761194563d6c","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 200 with import results","name":"returns 200 with import results","status":"passed","testResultsByEnv":{"default":"63497d09166488661298bada46473c0d"}}

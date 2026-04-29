@@ -1,0 +1,1 @@
+{"id":"80750e5078b48494c4573fe8384d540f","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) returns 400 when DNS resolution fails","name":"returns 400 when DNS resolution fails","status":"passed","testResultsByEnv":{"default":"bd85626bbe2ebbc80a54da9cf3e97316"}}

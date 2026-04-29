@@ -1,0 +1,1 @@
+{"id":"788b9b1460fd7384f4d8798c91c6d879","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes POST /api/v1/super-orgs should handle 500 error on creation","name":"should handle 500 error on creation","status":"passed","testResultsByEnv":{"default":"e0b35a75598b7a3e39040cbdac27cfc2"}}

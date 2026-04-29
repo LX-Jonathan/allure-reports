@@ -1,0 +1,1 @@
+{"id":"751155395416886f6215187ee9c87240","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should work with tenant config when global env is not configured","name":"should work with tenant config when global env is not configured","status":"passed","testResultsByEnv":{"default":"05b7d3410dd31aae4aed3cbc9a9abf57"}}

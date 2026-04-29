@@ -1,0 +1,1 @@
+{"id":"12d1294740e2dd1bac0bed7db2bfbc4b","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/check returns 400 when email is missing","name":"returns 400 when email is missing","status":"passed","testResultsByEnv":{"default":"c86283913af10ea9dc49cd717edb0baa"}}

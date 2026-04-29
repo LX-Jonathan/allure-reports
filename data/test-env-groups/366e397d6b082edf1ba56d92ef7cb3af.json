@@ -1,0 +1,1 @@
+{"id":"366e397d6b082edf1ba56d92ef7cb3af","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/confirm-mappings returns 200 on successful confirmation","name":"returns 200 on successful confirmation","status":"passed","testResultsByEnv":{"default":"657b04d3840a8ce0ef01e11bc6295b53"}}

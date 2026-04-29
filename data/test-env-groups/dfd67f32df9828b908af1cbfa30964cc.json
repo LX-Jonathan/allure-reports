@@ -1,0 +1,1 @@
+{"id":"dfd67f32df9828b908af1cbfa30964cc","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getLocations returns empty array when none","name":"returns empty array when none","status":"passed","testResultsByEnv":{"default":"c852774279ab8cd1206d2c38166e91f5"}}

@@ -1,0 +1,1 @@
+{"id":"76f6801daa7a141e64ef15f654f28549","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/data-issues/bulk returns 400 when ids array is missing or empty","name":"returns 400 when ids array is missing or empty","status":"passed","testResultsByEnv":{"default":"ef4d53e3699c90265a7bc728f87f79f0"}}

@@ -1,0 +1,1 @@
+{"id":"645afcfb407b4b6bc0c388cbfa1a1dbe","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"f6428213e6248e20d9e5677e52bf2d40"}}

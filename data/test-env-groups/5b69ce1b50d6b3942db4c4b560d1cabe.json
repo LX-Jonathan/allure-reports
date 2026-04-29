@@ -1,0 +1,1 @@
+{"id":"5b69ce1b50d6b3942db4c4b560d1cabe","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins getVisitCheckinByAppointmentId returns undefined when no check-in exists for appointment","name":"returns undefined when no check-in exists for appointment","status":"passed","testResultsByEnv":{"default":"a6b9d21603caa9c035af47d892438f75"}}

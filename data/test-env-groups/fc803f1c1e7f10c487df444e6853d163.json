@@ -1,0 +1,1 @@
+{"id":"fc803f1c1e7f10c487df444e6853d163","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/upload-url should return 400 for missing contentType","name":"should return 400 for missing contentType","status":"passed","testResultsByEnv":{"default":"a2b40840bb6ae913c1569534f7d44303"}}

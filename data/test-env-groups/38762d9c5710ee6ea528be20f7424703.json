@@ -1,0 +1,1 @@
+{"id":"38762d9c5710ee6ea528be20f7424703","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"9a72afb1bf103364a994d340380762c3"}}

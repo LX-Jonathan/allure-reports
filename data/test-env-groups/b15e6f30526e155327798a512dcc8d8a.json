@@ -1,0 +1,1 @@
+{"id":"b15e6f30526e155327798a512dcc8d8a","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status (with BullMQ enabled) returns 400 when all job IDs are invalid format","name":"returns 400 when all job IDs are invalid format","status":"passed","testResultsByEnv":{"default":"a4b87ff450d445bd27b8777b77b95fd5"}}

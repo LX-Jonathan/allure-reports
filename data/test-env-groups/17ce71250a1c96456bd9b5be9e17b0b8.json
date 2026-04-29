@@ -1,0 +1,1 @@
+{"id":"17ce71250a1c96456bd9b5be9e17b0b8","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes DELETE /api/v1/fee-estimation/queue/:id should return 404 when estimation not found","name":"should return 404 when estimation not found","status":"passed","testResultsByEnv":{"default":"f14b27bf3615f9344475d3c4ec06806d"}}

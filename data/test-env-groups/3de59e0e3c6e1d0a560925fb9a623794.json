@@ -1,0 +1,1 @@
+{"id":"3de59e0e3c6e1d0a560925fb9a623794","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/frhc-api-configs/:id returns 404 when config not found","name":"returns 404 when config not found","status":"passed","testResultsByEnv":{"default":"b9b997e4c0e83d576245fee1da25dfd4"}}

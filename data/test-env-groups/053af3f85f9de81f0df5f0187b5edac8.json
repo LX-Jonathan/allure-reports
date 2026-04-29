@@ -1,0 +1,1 @@
+{"id":"053af3f85f9de81f0df5f0187b5edac8","fullName":"client/src/components/__tests__/working-patient-filter-chip.test.tsx#useWorkingPatientFilter does not persist dismissal across unmount (simulating page navigation)","name":"does not persist dismissal across unmount (simulating page navigation)","status":"passed","testResultsByEnv":{"default":"409f3dd6fa528b52f077001ff89bef22"}}

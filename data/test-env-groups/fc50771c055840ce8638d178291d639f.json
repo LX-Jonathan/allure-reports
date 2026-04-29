@@ -1,0 +1,1 @@
+{"id":"fc50771c055840ce8638d178291d639f","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/:id returns 200 with flu shot by ID for super_admin","name":"returns 200 with flu shot by ID for super_admin","status":"passed","testResultsByEnv":{"default":"8f8c2eb88879d39f56f44fc2d143e222"}}

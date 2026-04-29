@@ -1,0 +1,1 @@
+{"id":"4acb7faf88eab7973cba6a86734459bf","fullName":"client/src/pages/patient/__tests__/patient-messages.test.tsx#renderMessageContent portal links shows an 'expired' tooltip when the link is older than the TTL","name":"shows an 'expired' tooltip when the link is older than the TTL","status":"passed","testResultsByEnv":{"default":"8ff8c24c09256702370df23aee11b0c8"}}

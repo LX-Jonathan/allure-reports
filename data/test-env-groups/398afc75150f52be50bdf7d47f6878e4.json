@@ -1,0 +1,1 @@
+{"id":"398afc75150f52be50bdf7d47f6878e4","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 400 for missing required fields","name":"returns 400 for missing required fields","status":"passed","testResultsByEnv":{"default":"e728dbd81944803177eec70ca03716c9"}}

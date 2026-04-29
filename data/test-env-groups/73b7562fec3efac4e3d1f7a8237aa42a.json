@@ -1,0 +1,1 @@
+{"id":"73b7562fec3efac4e3d1f7a8237aa42a","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog falls back to insurance.copayAmount when coverage found but no copay","name":"falls back to insurance.copayAmount when coverage found but no copay","status":"passed","testResultsByEnv":{"default":"d16fd19dfcecb42c87ce2eec1a0da7d7"}}

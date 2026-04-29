@@ -1,0 +1,1 @@
+{"id":"cfd417d3ecdff95f04813d27733853a0","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/:slug returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"4b7bf6029ea9ddd9f86092e07ad6eb44"}}

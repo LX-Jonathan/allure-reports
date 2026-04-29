@@ -1,0 +1,1 @@
+{"id":"9255da390cd2c0a6a8a523649b1e6f7b","fullName":"client/src/hooks/__tests__/use-patient-lab-issues.test.tsx#usePatientLabIssues flags consent when either email or sms is missing","name":"flags consent when either email or sms is missing","status":"passed","testResultsByEnv":{"default":"d8a4c786a4a7c7831642ef34449f36de"}}

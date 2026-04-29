@@ -1,0 +1,1 @@
+{"id":"7b25115fd0f0666e58d61e4ac61197b1","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Trading Partners getTradingPartnerCount returns 0 when empty","name":"returns 0 when empty","status":"passed","testResultsByEnv":{"default":"94d0df05d9883c126c625ebf52c5c4f7"}}

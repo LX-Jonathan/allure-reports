@@ -1,0 +1,1 @@
+{"id":"c3ec510b1a3c5ce109a6640d3d9b67bc","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireUserType defaults missing userType to lab_client when checking allowed list","name":"defaults missing userType to lab_client when checking allowed list","status":"passed","testResultsByEnv":{"default":"03b880b8fc2f650d8075ebb7ceaf3f04"}}

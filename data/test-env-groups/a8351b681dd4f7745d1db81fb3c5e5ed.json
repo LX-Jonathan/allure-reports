@@ -1,0 +1,1 @@
+{"id":"a8351b681dd4f7745d1db81fb3c5e5ed","fullName":"server/lib/__tests__/email.test.ts#email sendLoginCode mentions 10 minute expiry","name":"mentions 10 minute expiry","status":"passed","testResultsByEnv":{"default":"6114fd223f596ccc5db7d32140a751a5"}}

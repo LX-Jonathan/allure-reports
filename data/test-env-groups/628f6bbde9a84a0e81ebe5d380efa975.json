@@ -1,0 +1,1 @@
+{"id":"628f6bbde9a84a0e81ebe5d380efa975","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related findPotentialDuplicates should cap confidence score at 100","name":"should cap confidence score at 100","status":"passed","testResultsByEnv":{"default":"6df07a22c23e1f81794c01885f9be01e"}}

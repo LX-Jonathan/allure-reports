@@ -1,0 +1,1 @@
+{"id":"eb72bf7fa44c16a2ebc934443c0520e1","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate should return 400 when no CPT codes or testIds provided","name":"should return 400 when no CPT codes or testIds provided","status":"passed","testResultsByEnv":{"default":"df86f453bbb83f183b0e334d1591f41b"}}

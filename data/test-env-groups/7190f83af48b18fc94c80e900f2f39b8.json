@@ -1,0 +1,1 @@
+{"id":"7190f83af48b18fc94c80e900f2f39b8","fullName":"client/src/components/__tests__/range-bar.test.tsx#canRenderRangeBar returns false for unparseable refRange","name":"returns false for unparseable refRange","status":"passed","testResultsByEnv":{"default":"8b9406db40c2100db168125c970f1570"}}

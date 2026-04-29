@@ -1,0 +1,1 @@
+{"id":"c16baec8509ba9b86eb19b1d4daef7bd","fullName":"server/__tests__/lxu.routes.test.ts#lxu routes GET /api/v1/lxu/quickstarts returns active quickstarts with categories","name":"returns active quickstarts with categories","status":"passed","testResultsByEnv":{"default":"c248bfb47b6362de004d3fdf4d7ff11c"}}

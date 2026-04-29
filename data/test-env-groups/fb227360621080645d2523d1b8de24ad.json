@@ -1,0 +1,1 @@
+{"id":"fb227360621080645d2523d1b8de24ad","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService findMatchingProvider should return null when no NPI and no name provided","name":"should return null when no NPI and no name provided","status":"passed","testResultsByEnv":{"default":"10596f941cf0fd404c41a2792deb6e92"}}

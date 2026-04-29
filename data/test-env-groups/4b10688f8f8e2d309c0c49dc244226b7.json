@@ -1,0 +1,1 @@
+{"id":"4b10688f8f8e2d309c0c49dc244226b7","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should return 500 when error occurs before headers sent","name":"should return 500 when error occurs before headers sent","status":"passed","testResultsByEnv":{"default":"885f57c6935ef9ef701191cd8cd034cf"}}

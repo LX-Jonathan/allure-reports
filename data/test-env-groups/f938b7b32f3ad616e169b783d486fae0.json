@@ -1,0 +1,1 @@
+{"id":"f938b7b32f3ad616e169b783d486fae0","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/source-pdf returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"a8ef651b63a13b1fe60eab429ba4ead3"}}

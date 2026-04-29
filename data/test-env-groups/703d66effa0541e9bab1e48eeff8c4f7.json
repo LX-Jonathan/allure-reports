@@ -1,0 +1,1 @@
+{"id":"703d66effa0541e9bab1e48eeff8c4f7","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/confirm-upload returns 400 when fileKey is missing","name":"returns 400 when fileKey is missing","status":"passed","testResultsByEnv":{"default":"31ba4a6dd7a7609315ad40b24587318a"}}

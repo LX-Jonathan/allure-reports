@@ -1,0 +1,1 @@
+{"id":"909e7e5dd6e546cdc615b364e8d7d511","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should truncate at exactly 1550 chars plus suffix","name":"should truncate at exactly 1550 chars plus suffix","status":"passed","testResultsByEnv":{"default":"0175cce16247543bfa4424a31e192012"}}

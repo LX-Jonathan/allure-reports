@@ -1,0 +1,1 @@
+{"id":"970c846ea0e221bc355c87fcba0db1eb","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep returns zeros when there are no active patient/lab pairs","name":"returns zeros when there are no active patient/lab pairs","status":"passed","testResultsByEnv":{"default":"b5bc15c4fea4df2e2f0f13d4fe8525b8"}}

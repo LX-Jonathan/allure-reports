@@ -1,0 +1,1 @@
+{"id":"0e6755a845beeb6c23099a77a7b54314","fullName":"server/__tests__/migrate.test.ts#migrate runMigrations should skip when no migration files exist","name":"should skip when no migration files exist","status":"passed","testResultsByEnv":{"default":"8d52e749011d567b7fab8a22fffef613"}}

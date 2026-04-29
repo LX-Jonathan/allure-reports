@@ -1,0 +1,1 @@
+{"id":"626fbfaf8b976b1c0c2292db91e29411","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should not log login code when no code in subject","name":"should not log login code when no code in subject","status":"passed","testResultsByEnv":{"default":"357d59020c8331f0ad88602bf0030977"}}

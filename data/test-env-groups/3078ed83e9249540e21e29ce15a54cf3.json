@@ -1,0 +1,1 @@
+{"id":"3078ed83e9249540e21e29ce15a54cf3","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireRole should call next when user has required role","name":"should call next when user has required role","status":"passed","testResultsByEnv":{"default":"c68e2f3a3343c4710b99a2ca1b6374f5"}}

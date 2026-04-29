@@ -1,0 +1,1 @@
+{"id":"1b0d58e35096e7843646d29eb433b18e","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes POST /api/v1/system/scheduled-jobs/:jobId/run returns 400 when job trigger fails","name":"returns 400 when job trigger fails","status":"passed","testResultsByEnv":{"default":"78fd55d1da6ed3097768e6c59b06683b"}}

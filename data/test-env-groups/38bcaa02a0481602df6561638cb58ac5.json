@@ -1,0 +1,1 @@
+{"id":"38bcaa02a0481602df6561638cb58ac5","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent permanently deletes template and related records","name":"permanently deletes template and related records","status":"passed","testResultsByEnv":{"default":"a1a895a02e1ded516114f14fca8c623b"}}

@@ -1,0 +1,1 @@
+{"id":"a776b0a536e5bff820cf62330831d6a8","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims/:claimId returns 200 with claim and existing resolution","name":"returns 200 with claim and existing resolution","status":"passed","testResultsByEnv":{"default":"800c18173c5f4f8a8443031f4aa2c58a"}}

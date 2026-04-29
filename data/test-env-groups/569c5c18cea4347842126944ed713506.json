@@ -1,0 +1,1 @@
+{"id":"569c5c18cea4347842126944ed713506","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware permission-based chains canManageUsers should allow location_admin but not staff","name":"canManageUsers should allow location_admin but not staff","status":"passed","testResultsByEnv":{"default":"df7ecbebf938c47cd12889f2b853c2ce"}}

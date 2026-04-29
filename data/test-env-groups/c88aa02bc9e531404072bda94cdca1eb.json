@@ -1,0 +1,1 @@
+{"id":"c88aa02bc9e531404072bda94cdca1eb","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:scheduleId/events/:eventId returns 404 when event belongs to different schedule","name":"returns 404 when event belongs to different schedule","status":"passed","testResultsByEnv":{"default":"03e0138142903adbde22613f486f0e09"}}

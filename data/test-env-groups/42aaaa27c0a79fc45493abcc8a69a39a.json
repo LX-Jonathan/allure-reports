@@ -1,0 +1,1 @@
+{"id":"42aaaa27c0a79fc45493abcc8a69a39a","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Insurance deletePatientInsurance should hard-delete and return true","name":"deletePatientInsurance should hard-delete and return true","status":"passed","testResultsByEnv":{"default":"7744538d22c9caf1a42db3331117cc08"}}

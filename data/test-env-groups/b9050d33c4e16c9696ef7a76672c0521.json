@@ -1,0 +1,1 @@
+{"id":"b9050d33c4e16c9696ef7a76672c0521","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId/preview returns fallback preview when no profile exists","name":"returns fallback preview when no profile exists","status":"passed","testResultsByEnv":{"default":"842cadb3439621534f5fc170bf8ec3dd"}}

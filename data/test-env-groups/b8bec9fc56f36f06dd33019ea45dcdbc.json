@@ -1,0 +1,1 @@
+{"id":"b8bec9fc56f36f06dd33019ea45dcdbc","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes POST /generate-abn returns 400 for invalid payload","name":"returns 400 for invalid payload","status":"passed","testResultsByEnv":{"default":"d72fefc1bf18ed3d12a6bb4fe0ef7033"}}

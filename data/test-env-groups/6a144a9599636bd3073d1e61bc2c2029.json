@@ -1,0 +1,1 @@
+{"id":"6a144a9599636bd3073d1e61bc2c2029","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 192.0.2.1 (192.0.2.x TEST-NET-1) via IP literal","name":"blocks 192.0.2.1 (192.0.2.x TEST-NET-1) via IP literal","status":"passed","testResultsByEnv":{"default":"3b4763d1aee28f0daf6e5a244180c5df"}}

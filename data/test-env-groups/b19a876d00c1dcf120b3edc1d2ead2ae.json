@@ -1,0 +1,1 @@
+{"id":"b19a876d00c1dcf120b3edc1d2ead2ae","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/link-self (additional edge cases) returns 403 when user has no tenant","name":"returns 403 when user has no tenant","status":"passed","testResultsByEnv":{"default":"584481fc8726733b42f1db5608f1641e"}}

@@ -1,0 +1,1 @@
+{"id":"bf77f67aed459d01efcb4c2ed7b0111a","fullName":"server/workers/__tests__/index.test.ts#workers/index startAllWorkers should count only one worker when only eligibility starts","name":"should count only one worker when only eligibility starts","status":"passed","testResultsByEnv":{"default":"de01cbb7366b85f0ece17de20812bfd9"}}

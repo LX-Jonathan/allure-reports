@@ -1,0 +1,1 @@
+{"id":"239dad1a996c1282eebc99ec89a06d3b","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware skip paths should skip /assets paths","name":"should skip /assets paths","status":"passed","testResultsByEnv":{"default":"60a802687057fccc24eff51c67e27633"}}

@@ -1,0 +1,1 @@
+{"id":"14602115969acd8cd065ea7ceaafc38f","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) DELETE /:id returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"23802ba9aba30761ab4fea4d2e8074ca"}}

@@ -1,0 +1,1 @@
+{"id":"7675f3360ffcede48f9fab190a0f156d","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth missing token should return 401 when no token provided","name":"should return 401 when no token provided","status":"passed","testResultsByEnv":{"default":"fc38106e911a48aaaf69bc3607a0a414"}}

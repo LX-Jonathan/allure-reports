@@ -1,0 +1,1 @@
+{"id":"816f6f855078f34c711df7eddb7ce18d","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId returns 400 when twilio enabled but accountSid missing","name":"returns 400 when twilio enabled but accountSid missing","status":"passed","testResultsByEnv":{"default":"aa1e2ca99ecf2e1a1dba2e00ce14bc4a"}}

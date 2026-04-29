@@ -1,0 +1,1 @@
+{"id":"ef068b8c457169a51cc1f4ab34249de3","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET / super_admin can list lab clients across all labs (no scope filter)","name":"super_admin can list lab clients across all labs (no scope filter)","status":"passed","testResultsByEnv":{"default":"da296126911bb19a9e8bc8803bda4acb"}}

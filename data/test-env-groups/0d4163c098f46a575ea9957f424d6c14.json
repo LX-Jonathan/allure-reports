@@ -1,0 +1,1 @@
+{"id":"0d4163c098f46a575ea9957f424d6c14","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 403 for location_admin trying to create org-level config","name":"returns 403 for location_admin trying to create org-level config","status":"passed","testResultsByEnv":{"default":"5e4be25324dced2cef5617338fcc1e9d"}}

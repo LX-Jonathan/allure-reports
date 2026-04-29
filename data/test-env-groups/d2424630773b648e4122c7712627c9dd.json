@@ -1,0 +1,1 @@
+{"id":"d2424630773b648e4122c7712627c9dd","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Import POST /api/v1/medications/import/:id/confirm returns 400 when import job status is not validated","name":"returns 400 when import job status is not validated","status":"passed","testResultsByEnv":{"default":"7cfdff6a067d1da69231e8a04be457e1"}}

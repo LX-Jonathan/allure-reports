@@ -1,0 +1,1 @@
+{"id":"c6639804aafeaf0d072d5cc17bece3ce","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service getExtensionFromMimeType should return .png for image/png","name":"should return .png for image/png","status":"passed","testResultsByEnv":{"default":"6552b7929ef7255798f533988aa4c701"}}

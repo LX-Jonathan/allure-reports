@@ -1,0 +1,1 @@
+{"id":"b75018a719a509889ec8222734360120","fullName":"client/src/pages/__tests__/appointment-config.test.tsx#AppointmentConfigPage hides remove button when only one event exists (prevents removal)","name":"hides remove button when only one event exists (prevents removal)","status":"passed","testResultsByEnv":{"default":"755d5ca3a61461ee51e50e67dfb64e90"}}

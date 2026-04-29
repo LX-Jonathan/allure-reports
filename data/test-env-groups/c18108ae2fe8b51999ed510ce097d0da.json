@@ -1,0 +1,1 @@
+{"id":"c18108ae2fe8b51999ed510ce097d0da","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getOrderCount should return 0 when org user has no organization","name":"should return 0 when org user has no organization","status":"passed","testResultsByEnv":{"default":"2754887da2882e7432a9828c4c885c43"}}

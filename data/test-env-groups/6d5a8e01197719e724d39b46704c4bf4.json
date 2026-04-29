@@ -1,0 +1,1 @@
+{"id":"6d5a8e01197719e724d39b46704c4bf4","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings observationToResult builds referenceRange from low/high when text not present","name":"builds referenceRange from low/high when text not present","status":"passed","testResultsByEnv":{"default":"2e9970019968205deb52a0048203c5c6"}}

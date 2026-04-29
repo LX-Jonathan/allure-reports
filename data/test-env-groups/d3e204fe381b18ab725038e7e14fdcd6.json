@@ -1,0 +1,1 @@
+{"id":"d3e204fe381b18ab725038e7e14fdcd6","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes POST /api/v1/patients/:patientId/documents returns 201 on successful upload","name":"returns 201 on successful upload","status":"passed","testResultsByEnv":{"default":"1d7fdf9503b635a90bf53fcc5b16a182"}}

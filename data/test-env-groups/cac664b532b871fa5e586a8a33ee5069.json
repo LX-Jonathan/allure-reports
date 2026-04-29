@@ -1,0 +1,1 @@
+{"id":"cac664b532b871fa5e586a8a33ee5069","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan createBulkScanItems should bulk insert and return created items","name":"should bulk insert and return created items","status":"passed","testResultsByEnv":{"default":"1b10e790f023dea3a4e56a9deaefd3a2"}}

@@ -1,0 +1,1 @@
+{"id":"84d040573ca3c77e7597ae325feb47aa","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes PATCH /:id returns 400 for invalid data (tradingPartnerName too long)","name":"returns 400 for invalid data (tradingPartnerName too long)","status":"passed","testResultsByEnv":{"default":"ef65f4717ac5c5228b551cbe3ec94f1d"}}

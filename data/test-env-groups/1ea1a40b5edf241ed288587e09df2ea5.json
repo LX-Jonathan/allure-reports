@@ -1,0 +1,1 @@
+{"id":"1ea1a40b5edf241ed288587e09df2ea5","fullName":"client/src/pages/patient/__tests__/patient-profile.test.tsx#summarizeUserAgent falls back to 'Unknown device' when nothing is recognised","name":"falls back to 'Unknown device' when nothing is recognised","status":"passed","testResultsByEnv":{"default":"45d53ace1b30c668df9407f0b12428c0"}}

@@ -1,0 +1,1 @@
+{"id":"51b0ba0fe1cc09ead52c4accc9dceff3","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id returns 404 when organization not found","name":"returns 404 when organization not found","status":"passed","testResultsByEnv":{"default":"cd58fa5aade957ec3f635b3e2fe311e5"}}

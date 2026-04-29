@@ -1,0 +1,1 @@
+{"id":"0e046839597afe8ca4da0ef29255fb08","fullName":"server/lib/__tests__/auth.test.ts#auth isStrongPassword should reject password shorter than 8 characters","name":"should reject password shorter than 8 characters","status":"passed","testResultsByEnv":{"default":"db907c359fbba514e7ec7b6404eecae5"}}

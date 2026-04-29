@@ -1,0 +1,1 @@
+{"id":"78ce5753b24ff9606e3b82effb300e2b","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/resolve returns 400 for missing required fields","name":"returns 400 for missing required fields","status":"passed","testResultsByEnv":{"default":"c0f738cc491794877c6572de03bce755"}}

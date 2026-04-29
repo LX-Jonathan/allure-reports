@@ -1,0 +1,1 @@
+{"id":"6f95839a22bd7fe87f4fb7fe296b9cba","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/draws-summary edge cases scopes to org for org_admin with locationId filter","name":"scopes to org for org_admin with locationId filter","status":"passed","testResultsByEnv":{"default":"b2c4a7e6a59a1d7aa371be0d9b7b75d0"}}

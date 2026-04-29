@@ -1,0 +1,1 @@
+{"id":"19f378ba08b083ffec047e09d846f33b","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes GET / returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"365661f2b483ed314fc4f392913a6685"}}

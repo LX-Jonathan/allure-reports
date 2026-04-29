@@ -1,0 +1,1 @@
+{"id":"f40843f1ffa7df81dcfbebed4019a5df","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply default options (normalize, grayscale, sharpen)","name":"should apply default options (normalize, grayscale, sharpen)","status":"passed","testResultsByEnv":{"default":"b13ba781f4a7049d8a174230cf1beceb"}}

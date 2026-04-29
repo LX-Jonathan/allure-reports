@@ -1,0 +1,1 @@
+{"id":"d20c1eeab7944c5583f2e2c26fb01689","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#SidecarInsuranceFlipCard scan-confidence indicator renders no scan indicator when scanConfidence is null","name":"renders no scan indicator when scanConfidence is null","status":"passed","testResultsByEnv":{"default":"d02cfdfb991c73a86e4c7bcfbe5d1047"}}

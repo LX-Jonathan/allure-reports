@@ -1,0 +1,1 @@
+{"id":"e6e35ccfa7a06474ddad29196bd93f74","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#useOrderMoneyReadiness returns zeros when patientId is null (queries disabled)","name":"returns zeros when patientId is null (queries disabled)","status":"passed","testResultsByEnv":{"default":"7fc70a680c6dccb4bf845d8905973610"}}

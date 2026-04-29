@@ -1,0 +1,1 @@
+{"id":"7635e7c32eb12216e2b2b20d02e11e97","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getRateLimiter should return a rate limiter when configured","name":"should return a rate limiter when configured","status":"passed","testResultsByEnv":{"default":"4ba6635abd43c09eba1cd1887fe0b028"}}

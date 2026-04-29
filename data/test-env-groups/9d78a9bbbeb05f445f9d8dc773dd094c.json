@@ -1,0 +1,1 @@
+{"id":"9d78a9bbbeb05f445f9d8dc773dd094c","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /fee-schedules/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"43396068687dc1499a7eae8223ed8fd0"}}

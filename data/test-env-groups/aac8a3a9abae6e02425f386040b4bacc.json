@@ -1,0 +1,1 @@
+{"id":"aac8a3a9abae6e02425f386040b4bacc","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth invalid token provided should call verifyPatientAccessToken with token","name":"should call verifyPatientAccessToken with token","status":"passed","testResultsByEnv":{"default":"adc97cf059cb5e59cc255779a5e55f0a"}}

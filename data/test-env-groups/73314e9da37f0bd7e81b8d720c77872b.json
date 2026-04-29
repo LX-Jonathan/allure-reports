@@ -1,0 +1,1 @@
+{"id":"73314e9da37f0bd7e81b8d720c77872b","fullName":"server/services/__tests__/payment-application.test.ts#applyPaymentToPlan does not credit stored credit when there is no leftover","name":"does not credit stored credit when there is no leftover","status":"passed","testResultsByEnv":{"default":"8172a42e56acbe3a9f95a9bae9955965"}}

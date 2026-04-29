@@ -1,0 +1,1 @@
+{"id":"7dc499067138b1e2a0d09099866f8b1c","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers returns 200 with providers from storage (cache disabled)","name":"returns 200 with providers from storage (cache disabled)","status":"passed","testResultsByEnv":{"default":"4a7c5ff05fe58a39c0d9d8a0404a03b3"}}

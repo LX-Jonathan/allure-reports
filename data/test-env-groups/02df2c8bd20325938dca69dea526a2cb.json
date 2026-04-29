@@ -1,0 +1,1 @@
+{"id":"02df2c8bd20325938dca69dea526a2cb","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Favorite Additional Branches PATCH /api/v1/medications/:id/favorite returns 404 when medication not found","name":"returns 404 when medication not found","status":"passed","testResultsByEnv":{"default":"1acf5257aeab22f8d33d8f8544b62feb"}}

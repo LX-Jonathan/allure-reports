@@ -1,0 +1,1 @@
+{"id":"f9b2094be26f66e8957f2a26b8d74819","fullName":"server/middleware/__tests__/patientAuth.test.ts#MFA session helpers uses sessionId for MFA key when present","name":"uses sessionId for MFA key when present","status":"passed","testResultsByEnv":{"default":"698ee67a53075ccdb6725330cfbbaf84"}}

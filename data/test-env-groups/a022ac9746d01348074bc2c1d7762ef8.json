@@ -1,0 +1,1 @@
+{"id":"a022ac9746d01348074bc2c1d7762ef8","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker edge cases should handle empty text content","name":"should handle empty text content","status":"passed","testResultsByEnv":{"default":"7dd003a583cebbf0816a3174fa9b8a26"}}

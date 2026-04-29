@@ -1,0 +1,1 @@
+{"id":"f3f90438a74414ce6c1210aac93d3f22","fullName":"server/config/__tests__/env.test.ts#env schema validation fails when SESSION_SECRET is too short","name":"fails when SESSION_SECRET is too short","status":"passed","testResultsByEnv":{"default":"dc600f9f5295f25c89ba5e88c4decb15"}}

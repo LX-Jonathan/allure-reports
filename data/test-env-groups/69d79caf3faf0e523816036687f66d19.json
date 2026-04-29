@@ -1,0 +1,1 @@
+{"id":"69d79caf3faf0e523816036687f66d19","fullName":"client/src/pages/__tests__/book-redirect.test.tsx#BookRedirectPage captures returnTo and routes unauthenticated users to patient login","name":"captures returnTo and routes unauthenticated users to patient login","status":"passed","testResultsByEnv":{"default":"c41d4972f68bf515a5045cbe53a0b709"}}

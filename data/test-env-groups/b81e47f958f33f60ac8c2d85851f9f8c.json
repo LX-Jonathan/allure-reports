@@ -1,0 +1,1 @@
+{"id":"b81e47f958f33f60ac8c2d85851f9f8c","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/queue/:id should return a fee estimation by id","name":"should return a fee estimation by id","status":"passed","testResultsByEnv":{"default":"c99144fe498a722d77ce9b641a091cae"}}

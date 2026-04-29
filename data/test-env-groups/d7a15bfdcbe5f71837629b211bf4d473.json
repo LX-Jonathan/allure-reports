@@ -1,0 +1,1 @@
+{"id":"d7a15bfdcbe5f71837629b211bf4d473","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PUT /locations/:id/providers returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2381694ac34482cbc62524272e327f43"}}

@@ -1,0 +1,1 @@
+{"id":"92435f4bf3c91f6d3e9dc25527b258f9","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should mark item for review when confidence is low","name":"should mark item for review when confidence is low","status":"passed","testResultsByEnv":{"default":"54cd5a2b8aa7c00560b5f72cf3539452"}}

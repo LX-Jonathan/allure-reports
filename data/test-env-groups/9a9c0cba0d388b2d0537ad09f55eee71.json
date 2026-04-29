@@ -1,0 +1,1 @@
+{"id":"9a9c0cba0d388b2d0537ad09f55eee71","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate happy path - matching templates should detect Hematopathology template","name":"should detect Hematopathology template","status":"passed","testResultsByEnv":{"default":"6b1fd27fc18ba56a7c25510921e90d1a"}}

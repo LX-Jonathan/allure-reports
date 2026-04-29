@@ -1,0 +1,1 @@
+{"id":"b8d00f3b5d5c6811336f57cb04ba01ed","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch retries on 401 for POST with CSRF refresh","name":"retries on 401 for POST with CSRF refresh","status":"passed","testResultsByEnv":{"default":"a91275f3a9febb64fd9c636b099501f6"}}

@@ -1,0 +1,1 @@
+{"id":"ff7aef0d1f64597455b0a0ded6a60490","fullName":"server/services/__tests__/base.service.test.ts#base.service getServiceContext should derive locationIds from locationId when locationIds not provided","name":"should derive locationIds from locationId when locationIds not provided","status":"passed","testResultsByEnv":{"default":"e64ea431ea14858ad4e588845ff9b4d9"}}

@@ -1,0 +1,1 @@
+{"id":"a43d22ac17e1281bb66accc1d0c314cb","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector shows super-org column when superadmin with selectedSuperOrg","name":"shows super-org column when superadmin with selectedSuperOrg","status":"passed","testResultsByEnv":{"default":"7a24626d39270fa1390144ac80bdec39"}}

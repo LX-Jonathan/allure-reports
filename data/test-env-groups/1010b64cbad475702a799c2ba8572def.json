@@ -1,0 +1,1 @@
+{"id":"1010b64cbad475702a799c2ba8572def","fullName":"server/services/__tests__/athenaSync.test.ts#helper function logic mapAthenaToClaim priority logic should assign high priority for Medical Records source type","name":"should assign high priority for Medical Records source type","status":"passed","testResultsByEnv":{"default":"6a01a4f1e6dd4f303a0f6534526eb6b6"}}

@@ -1,0 +1,1 @@
+{"id":"02f5eade04313e4715a3c482e31aae5f","fullName":"server/lib/__tests__/email.test.ts#email isEmailConfigured returns false when SENDGRID_FROM_EMAIL is empty string","name":"returns false when SENDGRID_FROM_EMAIL is empty string","status":"passed","testResultsByEnv":{"default":"c5017cb869cfe5c389a32821a1c254f2"}}

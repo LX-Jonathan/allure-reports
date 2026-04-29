@@ -1,0 +1,1 @@
+{"id":"c491dedc40e62597c85f15f9b588f9dc","fullName":"server/__tests__/static.test.ts#serveStatic directory validation should check for public directory relative to __dirname","name":"should check for public directory relative to __dirname","status":"passed","testResultsByEnv":{"default":"f24365ecaa236c4763d423f331e49ca9"}}

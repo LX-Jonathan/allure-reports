@@ -1,0 +1,1 @@
+{"id":"998b14a189be1449b439ebf14789a5a5","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should display Routine priority badge correctly","name":"should display Routine priority badge correctly","status":"passed","testResultsByEnv":{"default":"d702faaa860221a6b113114306ad82d1"}}

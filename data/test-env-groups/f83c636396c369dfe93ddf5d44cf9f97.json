@@ -1,0 +1,1 @@
+{"id":"f83c636396c369dfe93ddf5d44cf9f97","fullName":"client/src/pages/__tests__/patient-edit.test.tsx#PatientEditPage adult guarantor opt-in submits an adult patient as their own guarantor when opt-in is left off","name":"submits an adult patient as their own guarantor when opt-in is left off","status":"passed","testResultsByEnv":{"default":"dc31f9129fa5a298fc393963a188611f"}}

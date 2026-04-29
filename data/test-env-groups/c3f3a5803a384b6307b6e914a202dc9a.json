@@ -1,0 +1,1 @@
+{"id":"c3f3a5803a384b6307b6e914a202dc9a","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate GET /orders returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"47ab901ff20edea449c439c0f3dfd659"}}

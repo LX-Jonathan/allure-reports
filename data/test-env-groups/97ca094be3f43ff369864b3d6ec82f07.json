@@ -1,0 +1,1 @@
+{"id":"97ca094be3f43ff369864b3d6ec82f07","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/purge-all returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"91bc5a3fb5f6175879d2ec695a9ba098"}}

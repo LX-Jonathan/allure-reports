@@ -1,0 +1,1 @@
+{"id":"632dab94991a33ab587cfccb16d5ba61","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should call sharp with the input buffer","name":"should call sharp with the input buffer","status":"passed","testResultsByEnv":{"default":"5241d9ab0db5a24ff295e12891ed7bad"}}

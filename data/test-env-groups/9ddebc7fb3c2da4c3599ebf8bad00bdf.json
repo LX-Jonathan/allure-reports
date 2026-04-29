@@ -1,0 +1,1 @@
+{"id":"9ddebc7fb3c2da4c3599ebf8bad00bdf","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#buildPosHref returns the bare POS path when no options are provided","name":"returns the bare POS path when no options are provided","status":"passed","testResultsByEnv":{"default":"49b4d5d2d672db3ad5d295378af8b789"}}

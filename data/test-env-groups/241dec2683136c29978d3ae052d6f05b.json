@@ -1,0 +1,1 @@
+{"id":"241dec2683136c29978d3ae052d6f05b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/scan-upload returns 503 when BullMQ not configured","name":"returns 503 when BullMQ not configured","status":"passed","testResultsByEnv":{"default":"86dd40a98f91e201940343bbc287a3e9"}}

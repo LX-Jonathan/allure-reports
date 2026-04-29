@@ -1,0 +1,1 @@
+{"id":"69b9e5b30541a4488dc01676f50d6f69","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns patient with null dateOfBirth when not set","name":"returns patient with null dateOfBirth when not set","status":"passed","testResultsByEnv":{"default":"7fa2bbb7c308ef8a75b899797cf9b468"}}

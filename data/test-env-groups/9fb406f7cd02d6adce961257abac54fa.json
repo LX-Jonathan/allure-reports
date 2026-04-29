@@ -1,0 +1,1 @@
+{"id":"9fb406f7cd02d6adce961257abac54fa","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generateSecureToken should generate hex token of correct length","name":"should generate hex token of correct length","status":"passed","testResultsByEnv":{"default":"933c1d4715f33d7890d3ed20f6484495"}}

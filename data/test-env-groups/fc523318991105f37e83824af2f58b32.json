@@ -1,0 +1,1 @@
+{"id":"fc523318991105f37e83824af2f58b32","fullName":"server/lib/__tests__/encryption.test.ts#encryption isEncryptionConfigured should return true when PHI_ENCRYPTION_KEY is set to any truthy value","name":"should return true when PHI_ENCRYPTION_KEY is set to any truthy value","status":"passed","testResultsByEnv":{"default":"aaa0a15a447a7e6e9d5f7232a72399ec"}}

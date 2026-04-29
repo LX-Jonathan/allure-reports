@@ -1,0 +1,1 @@
+{"id":"80bf887d19d6e9b33fd63e9185eb90c7","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should set closedAt when status changes to closed","name":"should set closedAt when status changes to closed","status":"passed","testResultsByEnv":{"default":"71f4ce08401b9b4ab7555c87c77ce82f"}}

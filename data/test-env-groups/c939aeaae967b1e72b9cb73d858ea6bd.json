@@ -1,0 +1,1 @@
+{"id":"c939aeaae967b1e72b9cb73d858ea6bd","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/lookup/rate returns null match when no results","name":"returns null match when no results","status":"passed","testResultsByEnv":{"default":"1ffc0c5dc4881d6d5b0a00bfaf04a195"}}

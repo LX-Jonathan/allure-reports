@@ -1,0 +1,1 @@
+{"id":"67821ba0594a9ba7df8e254bb13870a6","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service shutdownAllCircuitBreakers should result in empty metrics after shutdown","name":"should result in empty metrics after shutdown","status":"passed","testResultsByEnv":{"default":"496565011857e244a2182acb38d518e4"}}

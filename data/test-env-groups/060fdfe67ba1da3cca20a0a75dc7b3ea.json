@@ -1,0 +1,1 @@
+{"id":"060fdfe67ba1da3cca20a0a75dc7b3ea","fullName":"server/lib/__tests__/geocoding.test.ts#haversineMiles returns ~0 for identical points","name":"returns ~0 for identical points","status":"passed","testResultsByEnv":{"default":"c6df960848230ed3cea123fa04aadb58"}}

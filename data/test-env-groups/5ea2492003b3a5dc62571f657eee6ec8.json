@@ -1,0 +1,1 @@
+{"id":"5ea2492003b3a5dc62571f657eee6ec8","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Export OTP Codes createExportOtpCode should create and return OTP code","name":"should create and return OTP code","status":"passed","testResultsByEnv":{"default":"76cbd6abf1bfc5b4b81b72061318cdd1"}}

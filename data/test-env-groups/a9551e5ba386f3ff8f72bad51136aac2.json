@@ -1,0 +1,1 @@
+{"id":"a9551e5ba386f3ff8f72bad51136aac2","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo returns 404 when no logo configured","name":"returns 404 when no logo configured","status":"passed","testResultsByEnv":{"default":"6b44a6d4a676ae671918d387c7fb6a42"}}

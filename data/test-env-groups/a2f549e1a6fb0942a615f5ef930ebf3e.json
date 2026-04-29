@@ -1,0 +1,1 @@
+{"id":"a2f549e1a6fb0942a615f5ef930ebf3e","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processDataImportJob final status should clean up chunks and parsedData on successful completion","name":"should clean up chunks and parsedData on successful completion","status":"passed","testResultsByEnv":{"default":"5ff4e3ebb697f430bae5068b1536041b"}}

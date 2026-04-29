@@ -1,0 +1,1 @@
+{"id":"9723a73b66d3583f9d7b2189c92883d9","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should use 'auto' for missing resize height","name":"should use 'auto' for missing resize height","status":"passed","testResultsByEnv":{"default":"4889c727bd63ddee261714d0172bca03"}}

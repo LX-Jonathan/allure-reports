@@ -1,0 +1,1 @@
+{"id":"d9cfd8fd66fcc620cc79f5b80278bd5b","fullName":"server/routes/__tests__/labchat-portal-link.routes.test.ts#POST /api/v1/labchat/clients/:orgId/threads/:threadId/portal-link returns 400 when destinationKey is unknown","name":"returns 400 when destinationKey is unknown","status":"passed","testResultsByEnv":{"default":"2b4282f0234b00ba72271735e7a3942c"}}

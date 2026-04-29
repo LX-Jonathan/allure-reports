@@ -1,0 +1,1 @@
+{"id":"6b2345170425700cc6f68ff77d7d55f2","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getLocationCount should return count of non-deleted locations","name":"should return count of non-deleted locations","status":"passed","testResultsByEnv":{"default":"50fd42bb4de6cbdbc7b69de4db381f3c"}}

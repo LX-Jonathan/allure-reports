@@ -1,0 +1,1 @@
+{"id":"3875aa004e9db4af4fe9c1f531a711c0","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/pull-records pulls records successfully","name":"pulls records successfully","status":"passed","testResultsByEnv":{"default":"50a43d4560aff1c16acd12bcd7319e13"}}

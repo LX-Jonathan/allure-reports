@@ -1,0 +1,1 @@
+{"id":"ddc03260eaa867f043580c566a52e235","fullName":"client/src/pages/__tests__/patient-new.test.tsx#PatientNewPage extra phone numbers renders an input and remove button when a phone type is added","name":"renders an input and remove button when a phone type is added","status":"passed","testResultsByEnv":{"default":"c0f629c031088f3e0f3cf7ddbff7d76b"}}

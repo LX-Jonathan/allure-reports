@@ -1,0 +1,1 @@
+{"id":"8ef47c940b08dc7d33ad80a09c96dedb","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query trims the question before passing to service","name":"trims the question before passing to service","status":"passed","testResultsByEnv":{"default":"32de3698eeb3dbeaf0f7c43ffd90a7ab"}}

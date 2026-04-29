@@ -1,0 +1,1 @@
+{"id":"3cc481f6d911bbea8681319373c22c4f","fullName":"client/src/hooks/__tests__/useSmartBack.test.ts#useSmartBack navigates to defaultPath when no from param and no in-app history","name":"navigates to defaultPath when no from param and no in-app history","status":"passed","testResultsByEnv":{"default":"bc7b7c07c1a98b09cf7ce52b74465a79"}}

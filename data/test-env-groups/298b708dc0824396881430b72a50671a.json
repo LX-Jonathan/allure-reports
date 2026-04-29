@@ -1,0 +1,1 @@
+{"id":"298b708dc0824396881430b72a50671a","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addEligibilityJob should add job with correct data when queue is available","name":"should add job with correct data when queue is available","status":"passed","testResultsByEnv":{"default":"cd0efc28471b1865e61a573f7f47ed2a"}}

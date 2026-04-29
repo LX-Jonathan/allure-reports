@@ -1,0 +1,1 @@
+{"id":"7f4020ec3e234fd8cd2a7b0d7a0bf808","fullName":"client/src/components/patient/__tests__/proxy-access-section.test.tsx#ProxyAccessSection - pending invitation send tracking pluralizes when sendCount > 1","name":"pluralizes when sendCount > 1","status":"passed","testResultsByEnv":{"default":"37c6115ca05f9bf66005d045572c1c28"}}

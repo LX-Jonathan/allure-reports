@@ -1,0 +1,1 @@
+{"id":"a398f4a81bdd59dc7cb0fa4d23527aef","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService softDeleteReport should return false when report not found","name":"should return false when report not found","status":"passed","testResultsByEnv":{"default":"f17039ea99478e33f87718d8ce1a619b"}}

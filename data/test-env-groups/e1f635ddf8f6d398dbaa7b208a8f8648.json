@@ -1,0 +1,1 @@
+{"id":"e1f635ddf8f6d398dbaa7b208a8f8648","fullName":"client/src/lib/__tests__/queryClient.test.ts#queryClient instance has a 30s default staleTime (not Infinity)","name":"has a 30s default staleTime (not Infinity)","status":"passed","testResultsByEnv":{"default":"5f996cbf6c6cafb98eeb20e60c70e738"}}

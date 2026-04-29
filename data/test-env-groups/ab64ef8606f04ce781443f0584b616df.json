@@ -1,0 +1,1 @@
+{"id":"ab64ef8606f04ce781443f0584b616df","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendSms per-lab consent guardrail transactional sends bypass the consent check entirely","name":"transactional sends bypass the consent check entirely","status":"passed","testResultsByEnv":{"default":"cce1484d99090a1ef4e1bb002a8b6988"}}

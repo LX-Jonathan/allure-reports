@@ -1,0 +1,1 @@
+{"id":"f9f4a31abdaae6245dff7c5a42b947bf","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate happy path - matching templates should detect Breast template from \"BRS\" code","name":"should detect Breast template from \"BRS\" code","status":"passed","testResultsByEnv":{"default":"2111f582e744505c066b8003ecae4436"}}

@@ -1,0 +1,1 @@
+{"id":"9738f834a90abe9c5d0d71d56b41b3aa","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 200 for biometric without provider","name":"returns 200 for biometric without provider","status":"passed","testResultsByEnv":{"default":"3fd1e04e0a8d027fbdae13bb328c36d0"}}

@@ -1,0 +1,1 @@
+{"id":"330e63d003ba69e01bd106c9059489b4","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog shows toast for non-image file in screenshot upload","name":"shows toast for non-image file in screenshot upload","status":"passed","testResultsByEnv":{"default":"98fc95333a2ed07318844e4d348d0862"}}

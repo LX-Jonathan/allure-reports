@@ -1,0 +1,1 @@
+{"id":"685eed3835d8200d8086373f3fb92a0d","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/plans returns 400 on validation error - missing name","name":"returns 400 on validation error - missing name","status":"passed","testResultsByEnv":{"default":"8650c25a1125733e62ba97f6bd74fb4b"}}

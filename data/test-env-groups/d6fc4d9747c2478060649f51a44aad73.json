@@ -1,0 +1,1 @@
+{"id":"d6fc4d9747c2478060649f51a44aad73","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event returns validation error for empty reason","name":"returns validation error for empty reason","status":"passed","testResultsByEnv":{"default":"4f402bf0afc90bb92f62763386c3a07b"}}

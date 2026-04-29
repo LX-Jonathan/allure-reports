@@ -1,0 +1,1 @@
+{"id":"d50763c42bf097e81f353cfb1cbdb437","fullName":"server/services/__tests__/payment-application.test.ts#creditPatientAccount / debitPatientAccount creditPatientAccount returns 0 for non-positive amounts","name":"creditPatientAccount returns 0 for non-positive amounts","status":"passed","testResultsByEnv":{"default":"e4e65ccdb156b30cabcafdd1ca6f608c"}}

@@ -1,0 +1,1 @@
+{"id":"fbd0bed736cb2a0e66a8dc08374b3151","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#Staff /admin endpoints returns 400 for malformed patient UUID","name":"returns 400 for malformed patient UUID","status":"passed","testResultsByEnv":{"default":"ec831bc9bf05812e0f545d28f4aa7988"}}

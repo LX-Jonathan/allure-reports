@@ -1,0 +1,1 @@
+{"id":"c76fbeb2c0001d3adf4c120a3d2665e2","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab hides the Collect-payment-in-POS deep-link when there is no outstanding balance","name":"hides the Collect-payment-in-POS deep-link when there is no outstanding balance","status":"passed","testResultsByEnv":{"default":"03403ab2e33cc7cabffba90e05cb72ac"}}

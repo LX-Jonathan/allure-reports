@@ -1,0 +1,1 @@
+{"id":"864d0e32dd3235dcfd78c1718e92146b","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status returns 400 when status is missing","name":"returns 400 when status is missing","status":"passed","testResultsByEnv":{"default":"43e97bdff48913a2e3a028c9d59f3e60"}}

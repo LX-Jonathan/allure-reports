@@ -1,0 +1,1 @@
+{"id":"187309bc1eb7006e8c68a3f97c00bcf2","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/analytics/metrics should return 403 for non-admin users","name":"should return 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"e7ca249a65d24192cd9d133cf34941ac"}}

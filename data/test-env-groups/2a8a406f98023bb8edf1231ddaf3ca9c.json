@@ -1,0 +1,1 @@
+{"id":"2a8a406f98023bb8edf1231ddaf3ca9c","fullName":"client/src/pages/__tests__/patient-new.test.tsx#PatientNewPage extra phone numbers hides options for phone types that are already added","name":"hides options for phone types that are already added","status":"passed","testResultsByEnv":{"default":"2a43039b2de95afe0cf6d97ce1838dc6"}}

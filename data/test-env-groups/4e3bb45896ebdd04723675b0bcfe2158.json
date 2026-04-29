@@ -1,0 +1,1 @@
+{"id":"4e3bb45896ebdd04723675b0bcfe2158","fullName":"client/src/lib/__tests__/discipline-config.test.ts#getAllDisciplineConfigs returns all built-in disciplines when no custom provided","name":"returns all built-in disciplines when no custom provided","status":"passed","testResultsByEnv":{"default":"a30eafc7b6669811228526f954cf321a"}}

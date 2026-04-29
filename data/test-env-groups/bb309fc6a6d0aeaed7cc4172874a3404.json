@@ -1,0 +1,1 @@
+{"id":"bb309fc6a6d0aeaed7cc4172874a3404","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService compareDemographics should trim whitespace when comparing strings","name":"should trim whitespace when comparing strings","status":"passed","testResultsByEnv":{"default":"a0d137d1f833f6196ea1dafd34cc1f04"}}

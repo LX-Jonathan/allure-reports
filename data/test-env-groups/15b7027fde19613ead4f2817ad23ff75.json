@@ -1,0 +1,1 @@
+{"id":"15b7027fde19613ead4f2817ad23ff75","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /insurance-card returns 400 when no file is uploaded","name":"returns 400 when no file is uploaded","status":"passed","testResultsByEnv":{"default":"34fc1e83a862aca3e5545fcc7c4443ef"}}

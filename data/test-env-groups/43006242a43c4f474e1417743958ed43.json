@@ -1,0 +1,1 @@
+{"id":"43006242a43c4f474e1417743958ed43","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service stale cache on reload failure returns stale cached data when re-fetch fails after TTL expires","name":"returns stale cached data when re-fetch fails after TTL expires","status":"passed","testResultsByEnv":{"default":"d72a7a7931c60e41af21eb14dba30cd4"}}

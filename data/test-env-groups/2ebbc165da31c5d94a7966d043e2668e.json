@@ -1,0 +1,1 @@
+{"id":"2ebbc165da31c5d94a7966d043e2668e","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore touch should update session expiry with ttl from cookie maxAge","name":"should update session expiry with ttl from cookie maxAge","status":"passed","testResultsByEnv":{"default":"8c856afd00431525df7a43f6b3808354"}}

@@ -1,0 +1,1 @@
+{"id":"38dd58e82ed0a87e287ce76929a1d335","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations updateLocation returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"0b267804e060a129227ca1fcf28c7e8d"}}

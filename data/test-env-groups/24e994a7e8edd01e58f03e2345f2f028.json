@@ -1,0 +1,1 @@
+{"id":"24e994a7e8edd01e58f03e2345f2f028","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getSuperOrgBySlug returns super org when found","name":"returns super org when found","status":"passed","testResultsByEnv":{"default":"0ecaedb3013ed3f5d1ffb19e954ab913"}}

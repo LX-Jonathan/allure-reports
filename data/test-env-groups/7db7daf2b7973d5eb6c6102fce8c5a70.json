@@ -1,0 +1,1 @@
+{"id":"7db7daf2b7973d5eb6c6102fce8c5a70","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service ensureTempDir (via cleanupOldTempFiles) should not create directory when it already exists","name":"should not create directory when it already exists","status":"passed","testResultsByEnv":{"default":"8c34006fdc414e0345464e7a58c7fbf1"}}

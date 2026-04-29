@@ -1,0 +1,1 @@
+{"id":"393a518369d7d6b69ca7371d4dde852d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite skips auto-invite when autoInviteToPortal is disabled","name":"skips auto-invite when autoInviteToPortal is disabled","status":"passed","testResultsByEnv":{"default":"59c18945dc12d8c929e515296aadf170"}}

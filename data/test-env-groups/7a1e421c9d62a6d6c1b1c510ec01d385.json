@@ -1,0 +1,1 @@
+{"id":"7a1e421c9d62a6d6c1b1c510ec01d385","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-search returns 400 when neither first_name nor last_name provided","name":"returns 400 when neither first_name nor last_name provided","status":"passed","testResultsByEnv":{"default":"26fd4295ed20a432490bf316bd540654"}}

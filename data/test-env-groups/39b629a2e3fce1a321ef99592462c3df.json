@@ -1,0 +1,1 @@
+{"id":"39b629a2e3fce1a321ef99592462c3df","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return correct transitions for received","name":"should return correct transitions for received","status":"passed","testResultsByEnv":{"default":"d06fa9aaedff537d51b1afe867d0fd59"}}

@@ -1,0 +1,1 @@
+{"id":"f0f2965aa6543441ce07c9751d937dda","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items/bulk returns 400 when items array is empty","name":"returns 400 when items array is empty","status":"passed","testResultsByEnv":{"default":"9d29abd2f9cb57ee183508d6ae005297"}}

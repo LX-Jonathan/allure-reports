@@ -1,0 +1,1 @@
+{"id":"9ea2ac3231c0fc6c791cb02d470d38de","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/installment-payment (card + credit) rejects mismatched payment intent amount","name":"rejects mismatched payment intent amount","status":"passed","testResultsByEnv":{"default":"6de41b658f10218092087c62fc133905"}}

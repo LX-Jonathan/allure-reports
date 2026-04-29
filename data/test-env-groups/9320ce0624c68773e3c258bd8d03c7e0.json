@@ -1,0 +1,1 @@
+{"id":"9320ce0624c68773e3c258bd8d03c7e0","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent returns validation error for missing amount","name":"returns validation error for missing amount","status":"passed","testResultsByEnv":{"default":"b3a593cf14f31820b6403a88767b0db5"}}

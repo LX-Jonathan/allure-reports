@@ -1,0 +1,1 @@
+{"id":"2ee177d02235e237e487f9b66c8f545b","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/modifiers should return all modifiers when category is 'all'","name":"should return all modifiers when category is 'all'","status":"passed","testResultsByEnv":{"default":"92aaed2ccd616901e101fc97490c201a"}}

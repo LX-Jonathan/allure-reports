@@ -1,0 +1,1 @@
+{"id":"1c16a3b073c534f078ada35088f1f0e6","fullName":"client/src/pages/patient/__tests__/patient-profile.test.tsx#summarizeUserAgent returns 'Unknown device' for empty string","name":"returns 'Unknown device' for empty string","status":"passed","testResultsByEnv":{"default":"9629948f3a38fcc7b8e1a5ca84b2d970"}}

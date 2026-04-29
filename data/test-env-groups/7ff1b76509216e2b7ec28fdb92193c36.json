@@ -1,0 +1,1 @@
+{"id":"7ff1b76509216e2b7ec28fdb92193c36","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService delete with Redis configured should delete key from Redis","name":"should delete key from Redis","status":"passed","testResultsByEnv":{"default":"2215d9b52a1295d30631976eb6d57b35"}}

@@ -1,0 +1,1 @@
+{"id":"7d6647d0ebf900173bfc7decbe65b239","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/refresh returns 401 and revokes token family on token reuse","name":"returns 401 and revokes token family on token reuse","status":"passed","testResultsByEnv":{"default":"325bc38dfa4901fc7b56466a962f1af6"}}

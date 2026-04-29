@@ -1,0 +1,1 @@
+{"id":"8affe0986c7bebb27c34f0aebdc4527a","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /pre-registration-links/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"556344fefa04ba65d66b8a7fc8acfc77"}}

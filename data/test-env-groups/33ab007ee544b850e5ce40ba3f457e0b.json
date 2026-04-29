@@ -1,0 +1,1 @@
+{"id":"33ab007ee544b850e5ce40ba3f457e0b","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess requiresLocationFilter should return true for manager role","name":"should return true for manager role","status":"passed","testResultsByEnv":{"default":"5453c5f0574ad85df6aebfb3278db733"}}

@@ -1,0 +1,1 @@
+{"id":"1146a70440f3d6824c27524270351b66","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId/messages/:messageId/file returns signed URL for file download","name":"returns signed URL for file download","status":"passed","testResultsByEnv":{"default":"23f664b3b02f1594d0c874ea9d27cc8c"}}

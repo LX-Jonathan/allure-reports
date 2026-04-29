@@ -1,0 +1,1 @@
+{"id":"f94d987d377724d08958535ca3f904d2","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances insuranceCache should be configured with prefix 'insurance' and TTL 600","name":"insuranceCache should be configured with prefix 'insurance' and TTL 600","status":"passed","testResultsByEnv":{"default":"644057c59f0fe6dd068f7cf473ae6a55"}}

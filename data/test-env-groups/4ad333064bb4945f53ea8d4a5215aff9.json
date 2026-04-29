@@ -1,0 +1,1 @@
+{"id":"4ad333064bb4945f53ea8d4a5215aff9","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/:id/generate-mappings should return 404 if scanned order not found","name":"should return 404 if scanned order not found","status":"passed","testResultsByEnv":{"default":"b04dd0eab57e694bd4bb066aa38098b7"}}

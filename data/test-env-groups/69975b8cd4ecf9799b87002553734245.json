@@ -1,0 +1,1 @@
+{"id":"69975b8cd4ecf9799b87002553734245","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should handle SSN with extra characters","name":"should handle SSN with extra characters","status":"passed","testResultsByEnv":{"default":"fcc401713370cefe72bf442bd009a0fc"}}

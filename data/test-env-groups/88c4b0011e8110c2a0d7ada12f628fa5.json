@@ -1,0 +1,1 @@
+{"id":"88c4b0011e8110c2a0d7ada12f628fa5","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes DELETE /fhir-connections/:id returns 403 when org access denied","name":"returns 403 when org access denied","status":"passed","testResultsByEnv":{"default":"f0cf3daafb1623bc884d42b19327be9a"}}

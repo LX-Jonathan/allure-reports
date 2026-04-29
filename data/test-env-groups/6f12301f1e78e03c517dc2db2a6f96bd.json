@@ -1,0 +1,1 @@
+{"id":"6f12301f1e78e03c517dc2db2a6f96bd","fullName":"client/src/components/__tests__/medication-autocomplete.test.tsx#MedicationAutocomplete calls onSelect when a medication option is selected","name":"calls onSelect when a medication option is selected","status":"passed","testResultsByEnv":{"default":"d212a45f9207c06b821ae95dbfb0b262"}}

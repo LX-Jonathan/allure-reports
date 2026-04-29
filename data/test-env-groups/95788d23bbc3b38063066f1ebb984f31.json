@@ -1,0 +1,1 @@
+{"id":"95788d23bbc3b38063066f1ebb984f31","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules does not emit STALE_ELIGIBILITY for a recent eligibility check","name":"does not emit STALE_ELIGIBILITY for a recent eligibility check","status":"passed","testResultsByEnv":{"default":"63bd0fdc5b1b8add06a1f2ee319c820a"}}

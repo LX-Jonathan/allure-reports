@@ -1,0 +1,1 @@
+{"id":"95e708279febea8f8347bb63f94887c2","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob scheduled-report type should update schedule lastRunAt and nextRunAt","name":"should update schedule lastRunAt and nextRunAt","status":"passed","testResultsByEnv":{"default":"3b5c1e88c0967a72873c3ecec4832624"}}

@@ -1,0 +1,1 @@
+{"id":"5fcbe119c8bab429c01ad9feeca6506e","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireOrg should return 403 when user has null labId","name":"should return 403 when user has null labId","status":"passed","testResultsByEnv":{"default":"d82047b49bb826a2c799d01cfd6eaaf4"}}

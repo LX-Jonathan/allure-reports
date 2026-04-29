@@ -1,0 +1,1 @@
+{"id":"4c73d6d04b6675a1a677173067bdf2f7","fullName":"client/src/components/patient/__tests__/lab-attention-section.test.tsx#LabIssuesBadge renders a badge with the count when there are issues","name":"renders a badge with the count when there are issues","status":"passed","testResultsByEnv":{"default":"50b66159446ba4039c54fdaca791805c"}}

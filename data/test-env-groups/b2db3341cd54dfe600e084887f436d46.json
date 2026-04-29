@@ -1,0 +1,1 @@
+{"id":"b2db3341cd54dfe600e084887f436d46","fullName":"server/lib/__tests__/sms.test.ts#sms isSmsConfigured should return false when no env vars set","name":"should return false when no env vars set","status":"passed","testResultsByEnv":{"default":"c7468066935770a4aeb5aebf49da6e99"}}

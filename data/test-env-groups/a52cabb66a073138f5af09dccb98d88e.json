@@ -1,0 +1,1 @@
+{"id":"a52cabb66a073138f5af09dccb98d88e","fullName":"client/src/lib/__tests__/return-to.test.ts#buildLoginLink / buildRegisterLink returns base path when returnTo is unsafe","name":"returns base path when returnTo is unsafe","status":"passed","testResultsByEnv":{"default":"9ffc0c5971dec17fa4c7f67d5c562410"}}

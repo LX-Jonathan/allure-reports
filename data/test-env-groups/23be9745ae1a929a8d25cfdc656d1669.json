@@ -1,0 +1,1 @@
+{"id":"23be9745ae1a929a8d25cfdc656d1669","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 400 when Stripe PI status is not succeeded","name":"returns 400 when Stripe PI status is not succeeded","status":"passed","testResultsByEnv":{"default":"2018da69ec27004fcb5513501c8f5885"}}

@@ -1,0 +1,1 @@
+{"id":"1307be72bad105afca58cb77a600db80","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /labs/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"72ea6b2c00e945487b70e2dffb1e30e3"}}

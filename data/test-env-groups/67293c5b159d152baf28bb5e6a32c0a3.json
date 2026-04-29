@@ -1,0 +1,1 @@
+{"id":"67293c5b159d152baf28bb5e6a32c0a3","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromRedis should return false and log warning on Redis del error","name":"should return false and log warning on Redis del error","status":"passed","testResultsByEnv":{"default":"43bf8793d55e3fac27208203ac159d5c"}}

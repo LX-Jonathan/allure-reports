@@ -1,0 +1,1 @@
+{"id":"9a104b0e52137682944fadb77e37a3d6","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: mfa_recovery_codes_required","name":"es: mfa_recovery_codes_required","status":"passed","testResultsByEnv":{"default":"8421f8eedf8e83acc14fc9c918b15b94"}}

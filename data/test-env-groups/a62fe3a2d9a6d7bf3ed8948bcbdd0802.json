@@ -1,0 +1,1 @@
+{"id":"a62fe3a2d9a6d7bf3ed8948bcbdd0802","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should analyze large PDFs (>3 pages) with AI","name":"should analyze large PDFs (>3 pages) with AI","status":"passed","testResultsByEnv":{"default":"bd5088c4c826296a20abe5af110be3eb"}}

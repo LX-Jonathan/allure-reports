@@ -1,0 +1,1 @@
+{"id":"67366217d70f8c9dbfd8149ac92d16fe","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/email should send email and return success","name":"should send email and return success","status":"passed","testResultsByEnv":{"default":"17661d54ac3919621c1fce0c5f13ec23"}}

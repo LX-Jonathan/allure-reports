@@ -1,0 +1,1 @@
+{"id":"5ecfa83ed1d81829ef480ec120b4fb91","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections creates connection without client secret","name":"creates connection without client secret","status":"passed","testResultsByEnv":{"default":"5460cf398f300691147944caf21efb89"}}

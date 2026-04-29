@@ -1,0 +1,1 @@
+{"id":"42fb1534e650189706f4f0e5ec7fcd00","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/reject returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"a8a09dd09dfacd33074e25a5f2ddc3e7"}}

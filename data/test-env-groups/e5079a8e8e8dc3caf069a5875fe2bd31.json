@@ -1,0 +1,1 @@
+{"id":"e5079a8e8e8dc3caf069a5875fe2bd31","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance GET /:id/insurances returns 404 when the check-in does not exist","name":"returns 404 when the check-in does not exist","status":"passed","testResultsByEnv":{"default":"131c6e0fdd1a91a507a39f1e93954b5d"}}

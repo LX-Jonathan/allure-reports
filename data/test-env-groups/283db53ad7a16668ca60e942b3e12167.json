@@ -1,0 +1,1 @@
+{"id":"283db53ad7a16668ca60e942b3e12167","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/sources/:sourceId/destinations returns 400 for invalid source ID","name":"returns 400 for invalid source ID","status":"passed","testResultsByEnv":{"default":"f01b81285d09c27d7ad52f70b0c8b918"}}

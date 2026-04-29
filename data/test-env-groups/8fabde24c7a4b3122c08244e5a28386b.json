@@ -1,0 +1,1 @@
+{"id":"8fabde24c7a4b3122c08244e5a28386b","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket does not create socket when user is null","name":"does not create socket when user is null","status":"passed","testResultsByEnv":{"default":"ce3b10afa60b7d4c4344df339a791a53"}}

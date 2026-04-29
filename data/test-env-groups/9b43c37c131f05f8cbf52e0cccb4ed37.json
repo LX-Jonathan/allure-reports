@@ -1,0 +1,1 @@
+{"id":"9b43c37c131f05f8cbf52e0cccb4ed37","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) mapHttpMethodToAction — PATCH maps to UPDATE","name":"mapHttpMethodToAction — PATCH maps to UPDATE","status":"passed","testResultsByEnv":{"default":"fbe5d59811e56c1bb810d34064c4fcad"}}

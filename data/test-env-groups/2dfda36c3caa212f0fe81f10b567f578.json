@@ -1,0 +1,1 @@
+{"id":"2dfda36c3caa212f0fe81f10b567f578","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware response interception should not wrap res.json (audit logs are recorded on res.end)","name":"should not wrap res.json (audit logs are recorded on res.end)","status":"passed","testResultsByEnv":{"default":"c2ef2a15d2663ab37543629d652763b1"}}

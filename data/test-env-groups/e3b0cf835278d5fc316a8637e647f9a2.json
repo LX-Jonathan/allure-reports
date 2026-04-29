@@ -1,0 +1,1 @@
+{"id":"e3b0cf835278d5fc316a8637e647f9a2","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST / returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"e131917bf0cd08966aee509b648c86ab"}}

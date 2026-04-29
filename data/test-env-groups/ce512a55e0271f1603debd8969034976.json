@@ -1,0 +1,1 @@
+{"id":"ce512a55e0271f1603debd8969034976","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status deactivates an active lab successfully","name":"deactivates an active lab successfully","status":"passed","testResultsByEnv":{"default":"9374a20700db617933a53965675f61bb"}}

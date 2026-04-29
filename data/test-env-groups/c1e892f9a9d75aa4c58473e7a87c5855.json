@@ -1,0 +1,1 @@
+{"id":"c1e892f9a9d75aa4c58473e7a87c5855","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireOrg should allow user with matching labId","name":"should allow user with matching labId","status":"passed","testResultsByEnv":{"default":"469f905069c542b8391b16c0c2f45116"}}

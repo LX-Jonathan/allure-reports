@@ -1,0 +1,1 @@
+{"id":"7686af90b9c164b215a6740cef5cab2d","fullName":"server/config/__tests__/env.test.ts#env schema validation fails when SESSION_SECRET is missing","name":"fails when SESSION_SECRET is missing","status":"passed","testResultsByEnv":{"default":"b4e77e37f2ecfa906e364b4a32d32326"}}

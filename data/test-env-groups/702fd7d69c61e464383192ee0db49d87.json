@@ -1,0 +1,1 @@
+{"id":"702fd7d69c61e464383192ee0db49d87","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getCostSummary should return zeros for empty buffer","name":"should return zeros for empty buffer","status":"passed","testResultsByEnv":{"default":"511f2de4dc203565f3554bcbf96c97ac"}}

@@ -1,0 +1,1 @@
+{"id":"daa99699f3100ed6a4facb39b470de35","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderByLinkedUserId should return provider when found","name":"should return provider when found","status":"passed","testResultsByEnv":{"default":"de274912350258327722fc8ff7e159ef"}}

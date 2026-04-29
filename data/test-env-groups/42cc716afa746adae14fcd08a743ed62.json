@@ -1,0 +1,1 @@
+{"id":"42cc716afa746adae14fcd08a743ed62","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/:slug/inquiries returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"ab3d1ef167bd038171bd048ca02ddda6"}}

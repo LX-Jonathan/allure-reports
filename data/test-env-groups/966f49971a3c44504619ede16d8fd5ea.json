@@ -1,0 +1,1 @@
+{"id":"966f49971a3c44504619ede16d8fd5ea","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service suggestApprovedTests should call Anthropic with correct model and max_tokens","name":"should call Anthropic with correct model and max_tokens","status":"passed","testResultsByEnv":{"default":"febd2cd4a22b0febbb1755d66625a4b5"}}

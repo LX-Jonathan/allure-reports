@@ -1,0 +1,1 @@
+{"id":"fda510e1db05e0f8fda2e9ce653312f6","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/logo returns 404 when logo file not found in R2","name":"returns 404 when logo file not found in R2","status":"passed","testResultsByEnv":{"default":"a0d4822036eda84089a2576a1281139a"}}

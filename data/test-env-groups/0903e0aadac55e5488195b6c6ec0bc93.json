@@ -1,0 +1,1 @@
+{"id":"0903e0aadac55e5488195b6c6ec0bc93","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage does not attach Authorization header for cross-origin signed URLs","name":"does not attach Authorization header for cross-origin signed URLs","status":"passed","testResultsByEnv":{"default":"7a59bb092e7d66d0c6005c093f3c767a"}}

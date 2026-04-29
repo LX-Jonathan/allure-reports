@@ -1,0 +1,1 @@
+{"id":"658d1df787766d6ede00e29abaf47fec","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for invalid year format","name":"should throw error for invalid year format","status":"passed","testResultsByEnv":{"default":"724c4b135e3bd6a0ca3b8500d6a9686c"}}

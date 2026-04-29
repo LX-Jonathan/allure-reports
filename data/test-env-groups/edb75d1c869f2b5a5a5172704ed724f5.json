@@ -1,0 +1,1 @@
+{"id":"edb75d1c869f2b5a5a5172704ed724f5","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles/:id/publish returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"e5ad89645b3b9062d811535dc9fe3977"}}

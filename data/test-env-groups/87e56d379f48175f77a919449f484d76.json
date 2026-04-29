@@ -1,0 +1,1 @@
+{"id":"87e56d379f48175f77a919449f484d76","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes GET /api/v1/patients/:patientId/medications returns 200 with paginated medications list","name":"returns 200 with paginated medications list","status":"passed","testResultsByEnv":{"default":"36ac308ebfa6b735902340aed6394648"}}

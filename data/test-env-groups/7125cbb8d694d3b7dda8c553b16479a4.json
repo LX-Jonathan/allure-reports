@@ -1,0 +1,1 @@
+{"id":"7125cbb8d694d3b7dda8c553b16479a4","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo returns 500 when upload throws","name":"returns 500 when upload throws","status":"passed","testResultsByEnv":{"default":"4858fdc5c7a1dbcb7a056a10d11ba500"}}

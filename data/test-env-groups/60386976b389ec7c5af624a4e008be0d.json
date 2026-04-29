@@ -1,0 +1,1 @@
+{"id":"60386976b389ec7c5af624a4e008be0d","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/documents/download returns 403 when parentLabId mismatch (non-full-access user)","name":"returns 403 when parentLabId mismatch (non-full-access user)","status":"passed","testResultsByEnv":{"default":"793875040747b1bf5319926b499df278"}}

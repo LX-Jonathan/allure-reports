@@ -1,0 +1,1 @@
+{"id":"4ab91f1634d053dd95b2153c3d775b9b","fullName":"server/services/__tests__/operationsTasks.service.test.ts#operationsTasks.service / state machine allows new -> in_progress / waiting_external / resolved / dismissed","name":"allows new -> in_progress / waiting_external / resolved / dismissed","status":"passed","testResultsByEnv":{"default":"306f2fc7013652ffe0f644e1cbe293e4"}}

@@ -1,0 +1,1 @@
+{"id":"b2917db1dec409f2f70646d415506449","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should return 400 for invalid priority","name":"should return 400 for invalid priority","status":"passed","testResultsByEnv":{"default":"fe5cb4a611a93c17ef7cb08140f90652"}}

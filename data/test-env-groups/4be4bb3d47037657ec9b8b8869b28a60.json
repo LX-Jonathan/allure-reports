@@ -1,0 +1,1 @@
+{"id":"4be4bb3d47037657ec9b8b8869b28a60","fullName":"server/__tests__/seed-jdonnelly-prerequisites.test.ts#seed-jdonnelly-billing-1568 prerequisite enforcement warns (but does not throw) when no portal user is linked","name":"warns (but does not throw) when no portal user is linked","status":"passed","testResultsByEnv":{"default":"7290af460299091198b728ee2b395fbe"}}

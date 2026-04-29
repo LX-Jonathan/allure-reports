@@ -1,0 +1,1 @@
+{"id":"f2f52b78a5a89200548128c6197bbaa6","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Password Reset Tokens createPasswordResetToken should create and return token","name":"should create and return token","status":"passed","testResultsByEnv":{"default":"8c702fce6d146830bf9e1f2e3b057d70"}}

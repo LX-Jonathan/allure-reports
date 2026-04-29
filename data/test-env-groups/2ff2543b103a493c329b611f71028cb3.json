@@ -1,0 +1,1 @@
+{"id":"2ff2543b103a493c329b611f71028cb3","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes PATCH /:id returns 500 when storage update throws","name":"returns 500 when storage update throws","status":"passed","testResultsByEnv":{"default":"dcc5eda7521804bcd475dc667073f5d2"}}

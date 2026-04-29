@@ -1,0 +1,1 @@
+{"id":"8077f008de7b8719887fc071e816595c","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should start BullMQ workers when Redis is configured","name":"should start BullMQ workers when Redis is configured","status":"passed","testResultsByEnv":{"default":"ffc8feebb91f257148d3f1af3c0b2745"}}

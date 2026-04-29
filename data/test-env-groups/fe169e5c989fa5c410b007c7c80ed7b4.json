@@ -1,0 +1,1 @@
+{"id":"fe169e5c989fa5c410b007c7c80ed7b4","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserByEmail returns user when found","name":"returns user when found","status":"passed","testResultsByEnv":{"default":"a63d8d69e1efd2422fffd876b9ad7c14"}}

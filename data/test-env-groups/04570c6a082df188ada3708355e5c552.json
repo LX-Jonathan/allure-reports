@@ -1,0 +1,1 @@
+{"id":"04570c6a082df188ada3708355e5c552","fullName":"client/src/pages/__tests__/rapid-test-results.test.tsx#RapidTestResultsPage renders content without crashing when response is non-ok","name":"renders content without crashing when response is non-ok","status":"passed","testResultsByEnv":{"default":"3ab6070e0c3b57073bb50d3c57ed0660"}}

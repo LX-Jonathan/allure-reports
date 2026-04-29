@@ -1,0 +1,1 @@
+{"id":"fff6a45730ef723c58252b87083f2bb8","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/merge-duplicates returns 500 for empty removeIds (Zod min(1) triggers error)","name":"returns 500 for empty removeIds (Zod min(1) triggers error)","status":"passed","testResultsByEnv":{"default":"533b944e43147a549ce4c9f40036472d"}}

@@ -1,0 +1,1 @@
+{"id":"9f146667eac73bbbf06c7686af8e134c","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync clearBillingCache should handle error during cache clearing","name":"should handle error during cache clearing","status":"passed","testResultsByEnv":{"default":"f6bb0afedf83f663fc3172e8ddaf6885"}}

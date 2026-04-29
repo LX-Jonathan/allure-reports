@@ -1,0 +1,1 @@
+{"id":"29082fe0a8f540ac2b77eeb4e5255bd4","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/:id/sync-to-labs syncs and returns count","name":"syncs and returns count","status":"passed","testResultsByEnv":{"default":"072a8e4e6b93b8b5c91a737929434a04"}}

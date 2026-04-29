@@ -1,0 +1,1 @@
+{"id":"f88d419fa441d87cf24ea3556bdb3101","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#DELETE /api/patient/proxy-for/:id (proxy resigns) revokes the proxy with proxy_resigned audit action","name":"revokes the proxy with proxy_resigned audit action","status":"passed","testResultsByEnv":{"default":"f2ab8644c49bc459b679b173f016a03a"}}

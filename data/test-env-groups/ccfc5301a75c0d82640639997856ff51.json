@@ -1,0 +1,1 @@
+{"id":"ccfc5301a75c0d82640639997856ff51","fullName":"client/src/hooks/__tests__/useFormConfig.test.ts#useFormConfig settings fallback chains falls back to top-level settings for barcodeScanner","name":"falls back to top-level settings for barcodeScanner","status":"passed","testResultsByEnv":{"default":"803501f660add23a9b4fbc241a5fd0a9"}}

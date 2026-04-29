@@ -1,0 +1,1 @@
+{"id":"340d5af4117a950d730ca2831df1d7a2","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should persist statuses after failed manual run","name":"should persist statuses after failed manual run","status":"passed","testResultsByEnv":{"default":"3de98e94a71307028e1cfc6f11c23c3f"}}

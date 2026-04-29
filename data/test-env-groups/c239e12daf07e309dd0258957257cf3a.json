@@ -1,0 +1,1 @@
+{"id":"c239e12daf07e309dd0258957257cf3a","fullName":"client/src/components/patient/__tests__/insurance-card-history.test.tsx#InsuranceCardHistory does not render confidence badge when ocrData has no confidence","name":"does not render confidence badge when ocrData has no confidence","status":"passed","testResultsByEnv":{"default":"4a56f93551c20740f62e8f9230a2afd4"}}

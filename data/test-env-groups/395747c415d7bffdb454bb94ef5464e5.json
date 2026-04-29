@@ -1,0 +1,1 @@
+{"id":"395747c415d7bffdb454bb94ef5464e5","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService createShare should return null when shared user not found","name":"should return null when shared user not found","status":"passed","testResultsByEnv":{"default":"e466fe8bebabcf24529361a227fcdbab"}}

@@ -1,0 +1,1 @@
+{"id":"c1a25b44b561a446b5a80ad0df3ab8b4","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) DELETE /api/v1/pre-registration-links/:id returns 404 when link not found","name":"returns 404 when link not found","status":"passed","testResultsByEnv":{"default":"0110c657c8f37ead0b680a3633874354"}}

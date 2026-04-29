@@ -1,0 +1,1 @@
+{"id":"013bf04a4f22c35a9bf90378676a9de4","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/:id (additional branches) returns 403 when order belongs to different organization","name":"returns 403 when order belongs to different organization","status":"passed","testResultsByEnv":{"default":"51ece21bc71a6e2e7100b8c37c48c263"}}

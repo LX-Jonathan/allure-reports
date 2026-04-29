@@ -1,0 +1,1 @@
+{"id":"29c043b83506c2fbaa000168126a30c3","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 403 for location-level user with invalid location selection","name":"returns 403 for location-level user with invalid location selection","status":"passed","testResultsByEnv":{"default":"f7d1544629223d33a9fbb362e04ef6fc"}}

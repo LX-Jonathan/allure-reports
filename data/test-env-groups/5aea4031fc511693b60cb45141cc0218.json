@@ -1,0 +1,1 @@
+{"id":"5aea4031fc511693b60cb45141cc0218","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Redis connection should parse Upstash REST URL correctly with https","name":"should parse Upstash REST URL correctly with https","status":"passed","testResultsByEnv":{"default":"83f3e1e38922b46549661a863be87c26"}}

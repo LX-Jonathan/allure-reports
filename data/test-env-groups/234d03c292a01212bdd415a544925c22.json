@@ -1,0 +1,1 @@
+{"id":"234d03c292a01212bdd415a544925c22","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations returns 404 when location not found in DB","name":"returns 404 when location not found in DB","status":"passed","testResultsByEnv":{"default":"6538ff18a50770fddb4a18ab36700665"}}

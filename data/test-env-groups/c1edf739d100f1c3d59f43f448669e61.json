@@ -1,0 +1,1 @@
+{"id":"c1edf739d100f1c3d59f43f448669e61","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getFallbackConfig returns defaults on db error","name":"returns defaults on db error","status":"passed","testResultsByEnv":{"default":"1973016a2a973a1bb0602483e2911ad2"}}

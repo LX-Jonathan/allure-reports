@@ -1,0 +1,1 @@
+{"id":"238ccb5007322d5a618a06b8be36a33f","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should call ssrFixStacktrace and next on readFile error","name":"should call ssrFixStacktrace and next on readFile error","status":"passed","testResultsByEnv":{"default":"20738ec580aa45d1adf81217c5d84357"}}

@@ -1,0 +1,1 @@
+{"id":"979136c7bda570f944b438e4fbf45aa9","fullName":"client/src/pages/dedicated-portal/__tests__/portal-wrapper.test.tsx#DedicatedPortalAuthGuard renders children without token check when impersonating","name":"renders children without token check when impersonating","status":"passed","testResultsByEnv":{"default":"3fdfdf21b41ec765eaf69b2bc92cdb3c"}}

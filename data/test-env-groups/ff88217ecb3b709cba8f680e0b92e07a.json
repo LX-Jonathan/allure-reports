@@ -1,0 +1,1 @@
+{"id":"ff88217ecb3b709cba8f680e0b92e07a","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket onTicketCreated registers listener and returns cleanup","name":"onTicketCreated registers listener and returns cleanup","status":"passed","testResultsByEnv":{"default":"7bca1eaf6c8dc110451d01ee97f04eff"}}

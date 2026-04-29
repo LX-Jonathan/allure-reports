@@ -1,0 +1,1 @@
+{"id":"d0381b9915acc38e54268cb1de8fc004","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/queue-pending returns 400 when name is missing","name":"returns 400 when name is missing","status":"passed","testResultsByEnv":{"default":"30e49f5eb50da6d72a54dcd179989f19"}}

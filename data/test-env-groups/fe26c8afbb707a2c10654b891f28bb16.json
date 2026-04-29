@@ -1,0 +1,1 @@
+{"id":"fe26c8afbb707a2c10654b891f28bb16","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth redirects to login when no stored user or token","name":"redirects to login when no stored user or token","status":"passed","testResultsByEnv":{"default":"507751b3d7ae453d064b60a889b5047d"}}

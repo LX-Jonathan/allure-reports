@@ -1,0 +1,1 @@
+{"id":"f510f12621586452dc0e1a21f078f1dc","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda isAndromedaConfigured should return true when both credentials are set","name":"should return true when both credentials are set","status":"passed","testResultsByEnv":{"default":"c4952625b67ca5330475257a2a2c535c"}}

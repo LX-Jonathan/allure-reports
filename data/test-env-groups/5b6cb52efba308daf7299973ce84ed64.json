@@ -1,0 +1,1 @@
+{"id":"5b6cb52efba308daf7299973ce84ed64","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptPHI should encrypt plaintext and return formatted ciphertext","name":"should encrypt plaintext and return formatted ciphertext","status":"passed","testResultsByEnv":{"default":"06eeafa3342775e0f9846d72294aa08e"}}

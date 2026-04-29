@@ -1,0 +1,1 @@
+{"id":"34a314c90b81142e7e96ff58f5296ce1","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET /:id returns 403 when partner belongs to different org","name":"returns 403 when partner belongs to different org","status":"passed","testResultsByEnv":{"default":"c71f4ca62626a4831e315bc375c739f8"}}

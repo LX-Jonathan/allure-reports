@@ -1,0 +1,1 @@
+{"id":"5d39cb6ca801d506d047ad56c58b718a","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate POST /orders/:id/release blocks release when an active hold exists","name":"blocks release when an active hold exists","status":"passed","testResultsByEnv":{"default":"4a93191dc8faf4e0d37c55c6ad75e172"}}

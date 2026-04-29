@@ -1,0 +1,1 @@
+{"id":"36369ebe118a3df43c882061e7de676c","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should reject when parentLabId equals labId","name":"should reject when parentLabId equals labId","status":"passed","testResultsByEnv":{"default":"cf492a29820e79a62c19391c0aa94a9b"}}

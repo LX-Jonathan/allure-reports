@@ -1,0 +1,1 @@
+{"id":"30e22b6baddd6ffcc8033aea74650a68","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/favorites returns 400 when itemType is missing","name":"returns 400 when itemType is missing","status":"passed","testResultsByEnv":{"default":"9d27cc03ee54203a9de13e0c74814fa8"}}

@@ -1,0 +1,1 @@
+{"id":"90b78e53e5786cbcabd7aeb496aa03fc","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent refunds renders the loading state while the refunds query is pending","name":"renders the loading state while the refunds query is pending","status":"passed","testResultsByEnv":{"default":"f37d85114879b2e1ce2790645799d8e1"}}

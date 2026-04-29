@@ -1,0 +1,1 @@
+{"id":"7e03f9b7858da0ae8ae0b91619006176","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService compareDemographics should not suggest update when extracted value is null","name":"should not suggest update when extracted value is null","status":"passed","testResultsByEnv":{"default":"7a249aa908b06028a8bc42933ef94349"}}

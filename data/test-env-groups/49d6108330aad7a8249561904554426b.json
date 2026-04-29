@@ -1,0 +1,1 @@
+{"id":"49d6108330aad7a8249561904554426b","fullName":"server/routes/__tests__/manual-payments-reverse.routes.test.ts#Manual Payments — reverse endpoint creditWentNegative=true is surfaced when the debit crosses zero","name":"creditWentNegative=true is surfaced when the debit crosses zero","status":"passed","testResultsByEnv":{"default":"c61ddb8958590f586596a7e0a2292f80"}}

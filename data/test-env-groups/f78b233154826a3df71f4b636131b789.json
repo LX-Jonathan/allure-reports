@@ -1,0 +1,1 @@
+{"id":"f78b233154826a3df71f4b636131b789","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#formatMoneyCents formats zero as $0.00","name":"formats zero as $0.00","status":"passed","testResultsByEnv":{"default":"f8a9a7908fc0b3874c0c2e75d26e774d"}}

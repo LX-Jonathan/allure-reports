@@ -1,0 +1,1 @@
+{"id":"67dbae80eec8cbdfdb4aa57ec69d46fd","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /patients/:patientId/hie-records returns 403 when org access denied","name":"returns 403 when org access denied","status":"passed","testResultsByEnv":{"default":"5264e2927f6319c4a5a572fefb948789"}}

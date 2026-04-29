@@ -1,0 +1,1 @@
+{"id":"93c8cf516aaf57e2c2c663c7d5ad564d","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService checkStatus returns pending status when Anthropic is not configured","name":"returns pending status when Anthropic is not configured","status":"passed","testResultsByEnv":{"default":"b8163c56ab9b8f2fe4831902b09a752f"}}

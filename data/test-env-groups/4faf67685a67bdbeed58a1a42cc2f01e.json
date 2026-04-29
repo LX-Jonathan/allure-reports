@@ -1,0 +1,1 @@
+{"id":"4faf67685a67bdbeed58a1a42cc2f01e","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserAssignedLocations returns array of location IDs","name":"returns array of location IDs","status":"passed","testResultsByEnv":{"default":"8cd82d96278f1548709c1f6d451b91c1"}}

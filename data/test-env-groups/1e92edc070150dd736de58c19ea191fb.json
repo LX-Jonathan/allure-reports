@@ -1,0 +1,1 @@
+{"id":"1e92edc070150dd736de58c19ea191fb","fullName":"server/routes/__tests__/patient-auth-report-suspicious.routes.test.ts#POST /security-activity/report-suspicious skips the support email when SUPPORT_EMAIL is not configured","name":"skips the support email when SUPPORT_EMAIL is not configured","status":"passed","testResultsByEnv":{"default":"15717d99ac5f56b3b66591d22b94c763"}}

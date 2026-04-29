@@ -1,0 +1,1 @@
+{"id":"353aff966440a4ad57c3f3db71b3fc5b","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related generateMRN should increment existing MRN number","name":"should increment existing MRN number","status":"passed","testResultsByEnv":{"default":"8319c9d7c740fd0908d61283b0bcb7e8"}}

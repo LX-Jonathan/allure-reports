@@ -1,0 +1,1 @@
+{"id":"bac743526ded49cfaff55432bed868d7","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getMultiplierForCategory returns self_pay multiplier","name":"returns self_pay multiplier","status":"passed","testResultsByEnv":{"default":"31e5c624a7b60f3706e5d0b25213e28b"}}

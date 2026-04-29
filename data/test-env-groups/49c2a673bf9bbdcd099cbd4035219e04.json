@@ -1,0 +1,1 @@
+{"id":"49c2a673bf9bbdcd099cbd4035219e04","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createDedicatedConnection should register all event handlers on dedicated connection","name":"should register all event handlers on dedicated connection","status":"passed","testResultsByEnv":{"default":"f06e7e0136ad6528e761cff0615c6c9e"}}

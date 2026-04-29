@@ -1,0 +1,1 @@
+{"id":"08e85b25f6eff5d0f0d7350ce4993d76","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes PATCH /api/v1/patient-medications/:id returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"938518f40339687d93ef066608832a2f"}}

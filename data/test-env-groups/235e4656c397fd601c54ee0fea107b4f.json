@@ -1,0 +1,1 @@
+{"id":"235e4656c397fd601c54ee0fea107b4f","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addEmailJob should return null when queue is not available","name":"should return null when queue is not available","status":"passed","testResultsByEnv":{"default":"8bf8dadca86f24f458e23887f12b3256"}}

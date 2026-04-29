@@ -1,0 +1,1 @@
+{"id":"9fc3f98b6ac307cb68da9ea0fbf7911b","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog renders nothing when insurance is null","name":"renders nothing when insurance is null","status":"passed","testResultsByEnv":{"default":"42863fa1764688e9f62d33d36ca1bf13"}}

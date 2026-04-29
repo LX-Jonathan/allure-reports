@@ -1,0 +1,1 @@
+{"id":"44fa331b8a6797a4c5ffbbdb2ebbf48e","fullName":"server/routes/__tests__/user-view-portal-all-payments.routes.test.ts#Task #1432: user-view-portal /lab/:orgId/all-payments proxy returns 401 when the caller is unauthenticated","name":"returns 401 when the caller is unauthenticated","status":"passed","testResultsByEnv":{"default":"3d543bc43c013bc31510287e13953bef"}}

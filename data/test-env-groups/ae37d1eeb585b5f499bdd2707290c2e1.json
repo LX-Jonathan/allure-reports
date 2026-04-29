@@ -1,0 +1,1 @@
+{"id":"ae37d1eeb585b5f499bdd2707290c2e1","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms global Twilio sending should use env phone number as from","name":"should use env phone number as from","status":"passed","testResultsByEnv":{"default":"2495caab8ed7b34491558263379ee08f"}}

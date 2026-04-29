@@ -1,0 +1,1 @@
+{"id":"2e07e54a845f209e1f860f9e88ebe299","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules returns ok with self_pay status for self_pay payment type","name":"returns ok with self_pay status for self_pay payment type","status":"passed","testResultsByEnv":{"default":"6442f6d7b6176a547de1db534e20c8bd"}}

@@ -1,0 +1,1 @@
+{"id":"0cc61821242c7863e2493d18d616ba0f","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector renders dialog with org/location columns when selectedOrg is set","name":"renders dialog with org/location columns when selectedOrg is set","status":"passed","testResultsByEnv":{"default":"1531f54ff1ddb17473efe93dafeee663"}}

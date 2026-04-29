@@ -1,0 +1,1 @@
+{"id":"2dcae3a38ed7c93d0d7dd931e3036511","fullName":"client/src/hooks/__tests__/useFeeEstimation.test.tsx#useFeeEstimation - signFeeEstimation toasts an error and leaves signed=false when the PATCH fails","name":"toasts an error and leaves signed=false when the PATCH fails","status":"passed","testResultsByEnv":{"default":"1f14216b0cf96bbd3210a028afdb5f04"}}

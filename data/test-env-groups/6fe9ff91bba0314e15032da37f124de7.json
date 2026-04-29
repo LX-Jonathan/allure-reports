@@ -1,0 +1,1 @@
+{"id":"6fe9ff91bba0314e15032da37f124de7","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 400 when validation fails - empty participantIds","name":"returns 400 when validation fails - empty participantIds","status":"passed","testResultsByEnv":{"default":"d0d6e71a4c0cb46c61f6f2dc60403f4c"}}

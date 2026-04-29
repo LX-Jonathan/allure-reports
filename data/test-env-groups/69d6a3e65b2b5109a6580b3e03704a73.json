@@ -1,0 +1,1 @@
+{"id":"69d6a3e65b2b5109a6580b3e03704a73","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify returns 400 when the saved key cannot be loaded into a client","name":"returns 400 when the saved key cannot be loaded into a client","status":"passed","testResultsByEnv":{"default":"843f0cb44dbeaa4b1916d7d7b2e670ef"}}

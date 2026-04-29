@@ -1,0 +1,1 @@
+{"id":"cc4bb9fd8fd9a45ce9d5447a9c1513aa","fullName":"server/jobs/__tests__/scheduler.test.ts#stopScheduler should be safe to call when no jobs are scheduled","name":"should be safe to call when no jobs are scheduled","status":"passed","testResultsByEnv":{"default":"1495ec2598e5801937511c0ce9504003"}}

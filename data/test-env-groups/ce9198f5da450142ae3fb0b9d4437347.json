@@ -1,0 +1,1 @@
+{"id":"ce9198f5da450142ae3fb0b9d4437347","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/frhc-api-configs/:id returns 404 when config not found","name":"returns 404 when config not found","status":"passed","testResultsByEnv":{"default":"f3d9cf46a82c7acc0b13ebf3503e18f7"}}

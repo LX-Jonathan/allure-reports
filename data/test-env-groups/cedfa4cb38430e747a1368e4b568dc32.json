@@ -1,0 +1,1 @@
+{"id":"cedfa4cb38430e747a1368e4b568dc32","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/filters/:field should return 400 for invalid filter field","name":"should return 400 for invalid filter field","status":"passed","testResultsByEnv":{"default":"12a643229d8a1309516c6e5cb9b7bebd"}}

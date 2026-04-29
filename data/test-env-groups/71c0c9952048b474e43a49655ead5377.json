@@ -1,0 +1,1 @@
+{"id":"71c0c9952048b474e43a49655ead5377","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter lab_client userType (location-level) should return location-level filter for regular user","name":"should return location-level filter for regular user","status":"passed","testResultsByEnv":{"default":"48375fa7f78d9362e938ac37ec31999a"}}

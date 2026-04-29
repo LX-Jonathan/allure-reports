@@ -1,0 +1,1 @@
+{"id":"dce0f9a801eb7e2d899c8a3f3411000c","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases POST /fee-schedules sets isCmsFallback=true when scheduleType is cms","name":"POST /fee-schedules sets isCmsFallback=true when scheduleType is cms","status":"passed","testResultsByEnv":{"default":"4063c7381909c7fc2faf1e86191d243d"}}

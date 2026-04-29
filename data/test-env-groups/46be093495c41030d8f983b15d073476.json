@@ -1,0 +1,1 @@
+{"id":"46be093495c41030d8f983b15d073476","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess filterByUserAccess should exclude items with null locationId for location-level users","name":"should exclude items with null locationId for location-level users","status":"passed","testResultsByEnv":{"default":"20bffdf67c78c11a2aa8e6eab3e1d8a5"}}

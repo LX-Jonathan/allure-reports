@@ -1,0 +1,1 @@
+{"id":"10996e71aee6b38999221c27fe19302e","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations emails the staff inviter when invitedByStaffUserId is set","name":"emails the staff inviter when invitedByStaffUserId is set","status":"passed","testResultsByEnv":{"default":"85091e28a3d935722d27b535a991286f"}}

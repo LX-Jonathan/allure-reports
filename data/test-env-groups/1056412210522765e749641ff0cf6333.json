@@ -1,0 +1,1 @@
+{"id":"1056412210522765e749641ff0cf6333","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should handle processing errors and update batch status","name":"should handle processing errors and update batch status","status":"passed","testResultsByEnv":{"default":"073bf58ce572877dd4a0f7da7f01843d"}}

@@ -1,0 +1,1 @@
+{"id":"5c9d717ed7b801b53db5ae7134e93b7d","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results returns 200 with paginated results for full-access users","name":"returns 200 with paginated results for full-access users","status":"passed","testResultsByEnv":{"default":"a5839a889633420a6c50b45a78221287"}}

@@ -1,0 +1,1 @@
+{"id":"a05b5132c087e0024d886c28c815b067","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints GET /api/v1/lab-tests/:id/image redirects to signed URL from R2 when configured","name":"redirects to signed URL from R2 when configured","status":"passed","testResultsByEnv":{"default":"1b8164c3352918eec732f218b51ae83a"}}

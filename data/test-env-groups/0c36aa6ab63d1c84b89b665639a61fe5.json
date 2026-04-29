@@ -1,0 +1,1 @@
+{"id":"0c36aa6ab63d1c84b89b665639a61fe5","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits/:kitId/results (Patient Portal - Get Kit Results) returns 403 when kit does not belong to patient","name":"returns 403 when kit does not belong to patient","status":"passed","testResultsByEnv":{"default":"4d63a513135137c882f73c0396c1c0b2"}}

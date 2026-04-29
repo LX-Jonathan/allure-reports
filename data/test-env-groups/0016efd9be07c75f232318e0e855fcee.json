@@ -1,0 +1,1 @@
+{"id":"0016efd9be07c75f232318e0e855fcee","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations deleteLocation returns true on success","name":"returns true on success","status":"passed","testResultsByEnv":{"default":"88b0ad59f8f4852680757b3aec22cd0d"}}

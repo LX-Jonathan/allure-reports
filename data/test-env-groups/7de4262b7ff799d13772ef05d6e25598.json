@@ -1,0 +1,1 @@
+{"id":"7de4262b7ff799d13772ef05d6e25598","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob data transformation should set null for empty middleName","name":"should set null for empty middleName","status":"passed","testResultsByEnv":{"default":"a0a72953c2d5627ddf4a06e0477513b4"}}

@@ -1,0 +1,1 @@
+{"id":"41d003f113df21987f600d62e25bc687","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions POST /:id/coverage-warning-resolution omits reason when no note is provided","name":"omits reason when no note is provided","status":"passed","testResultsByEnv":{"default":"b917b28c0478fae95162aed6115b0f64"}}

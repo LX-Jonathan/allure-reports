@@ -1,0 +1,1 @@
+{"id":"ee01a8fc24f2250f61f05cab24d40b49","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations/:id/messages returns 404 when not owned","name":"returns 404 when not owned","status":"passed","testResultsByEnv":{"default":"b4e0a53767558262cfb4d44d545b961d"}}

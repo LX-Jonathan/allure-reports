@@ -1,0 +1,1 @@
+{"id":"66b40322da8f849cd5cbd992b8c37b77","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/scan-document returns 200 with bulk scan document","name":"returns 200 with bulk scan document","status":"passed","testResultsByEnv":{"default":"4cdb1adbc50916c1f591bb665fd45f82"}}

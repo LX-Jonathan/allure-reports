@@ -1,0 +1,1 @@
+{"id":"d8838496b48aa6ed06665857d45bb378","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/orders/queue should cap limit at 100","name":"should cap limit at 100","status":"passed","testResultsByEnv":{"default":"1ae5d846beac333f0c585c172a198d0e"}}

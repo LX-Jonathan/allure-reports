@@ -1,0 +1,1 @@
+{"id":"f5fae4fdb906fb4054c02aff803e054d","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatientById returns patient with relations when found","name":"returns patient with relations when found","status":"passed","testResultsByEnv":{"default":"32031656927cc08e3aeb32aec7f03235"}}

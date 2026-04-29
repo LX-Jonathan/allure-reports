@@ -1,0 +1,1 @@
+{"id":"a4ed49ef817e681f8ae97ee5a39e0822","fullName":"client/src/lib/__tests__/tokenRefresh.test.ts#tokenRefresh calls handleTokenRefresh on timer when user is active and tab is visible","name":"calls handleTokenRefresh on timer when user is active and tab is visible","status":"passed","testResultsByEnv":{"default":"887d9087e16997d7ce920a5451b74dec"}}

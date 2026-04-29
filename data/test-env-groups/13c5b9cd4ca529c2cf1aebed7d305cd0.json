@@ -1,0 +1,1 @@
+{"id":"13c5b9cd4ca529c2cf1aebed7d305cd0","fullName":"server/middleware/__tests__/rateLimit.test.ts#sensitiveRateLimitMiddleware identifier extraction should use userId for authenticated users","name":"should use userId for authenticated users","status":"passed","testResultsByEnv":{"default":"874c5c83e0ad73d35d24ee618539e993"}}

@@ -1,0 +1,1 @@
+{"id":"5e62d089542be5d886d925af455d8575","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items/cms-import returns 400 when cptCodes array is empty","name":"returns 400 when cptCodes array is empty","status":"passed","testResultsByEnv":{"default":"5fcb333cb1cb00ec46742555222f7923"}}

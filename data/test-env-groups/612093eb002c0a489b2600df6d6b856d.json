@@ -1,0 +1,1 @@
+{"id":"612093eb002c0a489b2600df6d6b856d","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should calculate average confidence from page confidences","name":"should calculate average confidence from page confidences","status":"passed","testResultsByEnv":{"default":"c5dec644b3e15c966ee4174de9312140"}}

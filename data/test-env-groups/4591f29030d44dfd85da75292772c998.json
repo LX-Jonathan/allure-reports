@@ -1,0 +1,1 @@
+{"id":"4591f29030d44dfd85da75292772c998","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getSuperOrgBySlug throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"b7c07e5882e32d3ba0b711e86f1720a4"}}

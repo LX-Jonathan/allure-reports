@@ -1,0 +1,1 @@
+{"id":"cc130e47d19ceaf47e4f9c4042b5b15f","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes DELETE /api/v1/portal-config/:parentLabId/forms/:formId returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"a423dc8fc464ef241cccb9f7ab68b63f"}}

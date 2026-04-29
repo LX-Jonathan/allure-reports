@@ -1,0 +1,1 @@
+{"id":"c229a662fa51f3b703828f7b309be024","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-search returns 500 when fetch throws","name":"returns 500 when fetch throws","status":"passed","testResultsByEnv":{"default":"8125a767f232acc032ffd261f80f2e5b"}}

@@ -1,0 +1,1 @@
+{"id":"82008bd68593f782571acaae149fbab6","fullName":"server/routes/__tests__/manual-payments-payback.routes.test.ts#Manual Payments — payback endpoint rejects when the patient has no negative credit","name":"rejects when the patient has no negative credit","status":"passed","testResultsByEnv":{"default":"c881cc2ab5b866d5d02263abf5e28adf"}}

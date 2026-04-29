@@ -1,0 +1,1 @@
+{"id":"53ce12c1faed52ccf972a0fd15a595e0","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns payers on successful AI lookup","name":"returns payers on successful AI lookup","status":"passed","testResultsByEnv":{"default":"7c052d11db74534da6cc25bc01108deb"}}

@@ -1,0 +1,1 @@
+{"id":"c436b9385aeef053ee472f6fce5d7cdc","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/reject returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"bf63f2700fe8c3a6695b0862ae421d9d"}}

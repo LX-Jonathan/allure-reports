@@ -1,0 +1,1 @@
+{"id":"fd515e388ee88cdff58c6faea0c2b853","fullName":"server/routes/__tests__/operations-tasks.routes.test.ts#Operations Tasks routes scope enforcement (IDOR protection) returns the task from GET /:id when in scope","name":"returns the task from GET /:id when in scope","status":"passed","testResultsByEnv":{"default":"c20bc60c7bfe2d92600849e177121f57"}}

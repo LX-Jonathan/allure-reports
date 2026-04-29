@@ -1,0 +1,1 @@
+{"id":"699777943ad69fb727b3f9d957e314d6","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should handle empty buffer array","name":"should handle empty buffer array","status":"passed","testResultsByEnv":{"default":"a4831a45ff7512aaba69316d95e744ba"}}

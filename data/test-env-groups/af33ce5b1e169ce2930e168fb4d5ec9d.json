@@ -1,0 +1,1 @@
+{"id":"af33ce5b1e169ce2930e168fb4d5ec9d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id additional branches creates new secondary insurance when none exists","name":"creates new secondary insurance when none exists","status":"passed","testResultsByEnv":{"default":"1a615c33f9398a471733d133e45c87df"}}

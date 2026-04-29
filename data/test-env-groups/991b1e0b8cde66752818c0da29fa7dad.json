@@ -1,0 +1,1 @@
+{"id":"991b1e0b8cde66752818c0da29fa7dad","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes GET /:parentLabId returns 404 when super org not found","name":"returns 404 when super org not found","status":"passed","testResultsByEnv":{"default":"ad5f2b2c22f3d1a8edba1e661cc079d3"}}

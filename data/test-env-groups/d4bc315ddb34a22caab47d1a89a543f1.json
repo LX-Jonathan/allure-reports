@@ -1,0 +1,1 @@
+{"id":"d4bc315ddb34a22caab47d1a89a543f1","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /capture-payment returns 500 for non-Stripe errors","name":"returns 500 for non-Stripe errors","status":"passed","testResultsByEnv":{"default":"9e4e551ab11bfd6e5e97fca5daf1f6e9"}}

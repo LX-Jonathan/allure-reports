@@ -1,0 +1,1 @@
+{"id":"71aca1d3671df6d039a4b6a0b7bf7c2c","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"6e9bda6135a24eee1353ce2cae9ed50b"}}

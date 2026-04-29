@@ -1,0 +1,1 @@
+{"id":"d3995e86acb0681eb752f3dcabb8293d","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules emits MISSING_PAYER error when both payerId and payerName are absent","name":"emits MISSING_PAYER error when both payerId and payerName are absent","status":"passed","testResultsByEnv":{"default":"b6de0bd0f6522bae2b5171d11bf492e6"}}

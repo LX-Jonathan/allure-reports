@@ -1,0 +1,1 @@
+{"id":"7df67f0dc4f6f94320ec7988ed668a0f","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /api/order-entry-templates/:id/reference-document returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f6025e5c1d9622cc665bc2eea1e78009"}}

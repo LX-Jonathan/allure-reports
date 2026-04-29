@@ -1,0 +1,1 @@
+{"id":"e38d005ffc3161e2e2ddc1f6e7bb7ea4","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should handle SSN with extra non-digit characters that result in 9 digits","name":"should handle SSN with extra non-digit characters that result in 9 digits","status":"passed","testResultsByEnv":{"default":"4c3fc7391da2797a0fbb3571c8ff70b0"}}

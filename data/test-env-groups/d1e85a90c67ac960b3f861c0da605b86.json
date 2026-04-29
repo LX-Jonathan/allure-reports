@@ -1,0 +1,1 @@
+{"id":"d1e85a90c67ac960b3f861c0da605b86","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes POST /validate-order returns 200 with validation results for empty codes","name":"returns 200 with validation results for empty codes","status":"passed","testResultsByEnv":{"default":"9ecd283b0f310ade3e1a7b79197a25d0"}}

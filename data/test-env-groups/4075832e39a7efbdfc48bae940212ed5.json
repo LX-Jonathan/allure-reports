@@ -1,0 +1,1 @@
+{"id":"4075832e39a7efbdfc48bae940212ed5","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists returns 403 when org_admin has no organization","name":"returns 403 when org_admin has no organization","status":"passed","testResultsByEnv":{"default":"0b98b47ce702f201a6cd9a89c1f9c30e"}}

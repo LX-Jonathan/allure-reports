@@ -1,0 +1,1 @@
+{"id":"91a63fcb29f09793ea09368e57d32dba","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/browse-national returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"aecb0e2ca5f4094aeec326953f1d349e"}}

@@ -1,0 +1,1 @@
+{"id":"291aa45e222833b2bbb09a7a96281dbb","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 400 on validation error (invalid email)","name":"returns 400 on validation error (invalid email)","status":"passed","testResultsByEnv":{"default":"4e9da028cf332904faebf54ad2de489f"}}

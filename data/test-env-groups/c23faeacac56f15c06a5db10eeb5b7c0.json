@@ -1,0 +1,1 @@
+{"id":"c23faeacac56f15c06a5db10eeb5b7c0","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related deletePatient should return false when not found","name":"should return false when not found","status":"passed","testResultsByEnv":{"default":"e42621d37ba4669a77418fed018c8a23"}}

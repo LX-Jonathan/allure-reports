@@ -1,0 +1,1 @@
+{"id":"1edf4d30382f14bd90afb77d36c21af2","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getOrgById should return org with superOrg relation","name":"should return org with superOrg relation","status":"passed","testResultsByEnv":{"default":"cec6aa26b80782583bc342fa574743ee"}}

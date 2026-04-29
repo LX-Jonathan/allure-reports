@@ -1,0 +1,1 @@
+{"id":"af28e345df34396c0007c6fd3c860a00","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests should return paginated lab tests","name":"should return paginated lab tests","status":"passed","testResultsByEnv":{"default":"2e3072f9ad0da868748843cea9508178"}}

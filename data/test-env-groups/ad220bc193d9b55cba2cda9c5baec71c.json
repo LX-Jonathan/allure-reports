@@ -1,0 +1,1 @@
+{"id":"ad220bc193d9b55cba2cda9c5baec71c","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest includes CSRF token for mutating requests","name":"includes CSRF token for mutating requests","status":"passed","testResultsByEnv":{"default":"4668898be43dfa8b8359f45fc43fa721"}}

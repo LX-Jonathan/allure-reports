@@ -1,0 +1,1 @@
+{"id":"0b601b58e74530c7ebfae47c2fab1bf3","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should exit with code 1 when starting workers fails","name":"should exit with code 1 when starting workers fails","status":"passed","testResultsByEnv":{"default":"3f16bc2706980041f7ca4ad9027e2836"}}

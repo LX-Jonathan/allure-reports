@@ -1,0 +1,1 @@
+{"id":"493c17f7bce2c767cf687bfa3b266db2","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#gatherDocuments should skip diagnosis documentation when no diagnosis codes","name":"should skip diagnosis documentation when no diagnosis codes","status":"passed","testResultsByEnv":{"default":"af41fe8b47b701605883419bafd0e99c"}}

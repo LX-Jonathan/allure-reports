@@ -1,0 +1,1 @@
+{"id":"d9f1a231eb789cbba49a9fa7f9a38866","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should record a chunk-level error when the bulk insert rejects","name":"should record a chunk-level error when the bulk insert rejects","status":"passed","testResultsByEnv":{"default":"15043966afebf59613aaa50636a29166"}}

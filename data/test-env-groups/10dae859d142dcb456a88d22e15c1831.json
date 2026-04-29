@@ -1,0 +1,1 @@
+{"id":"10dae859d142dcb456a88d22e15c1831","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /invoices/all returns 403 when no tenant context","name":"returns 403 when no tenant context","status":"passed","testResultsByEnv":{"default":"5b7b0ba90e95abf6db509d2dd60a1b64"}}

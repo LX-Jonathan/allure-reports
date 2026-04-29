@@ -1,0 +1,1 @@
+{"id":"2a5ef75f519257398e348c1ab3328a54","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: sms_delivery_failed","name":"es: sms_delivery_failed","status":"passed","testResultsByEnv":{"default":"a474036e0571182f43297e32514cd635"}}

@@ -1,0 +1,1 @@
+{"id":"800523d86d3c93b07a6fcb9d7514b4eb","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions addRolePermission should create a role-permission association and return it","name":"should create a role-permission association and return it","status":"passed","testResultsByEnv":{"default":"13f1700ac13fe1a8085a07067f5f4a22"}}

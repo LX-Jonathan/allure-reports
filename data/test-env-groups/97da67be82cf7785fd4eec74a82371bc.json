@@ -1,0 +1,1 @@
+{"id":"97da67be82cf7785fd4eec74a82371bc","fullName":"server/__tests__/worker-process.test.ts#worker-process shutdown function should gracefully shutdown on SIGTERM","name":"should gracefully shutdown on SIGTERM","status":"passed","testResultsByEnv":{"default":"05651de9607637d57a865d86b5686284"}}

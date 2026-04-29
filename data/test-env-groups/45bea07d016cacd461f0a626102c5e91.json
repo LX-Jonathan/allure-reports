@@ -1,0 +1,1 @@
+{"id":"45bea07d016cacd461f0a626102c5e91","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should return string data as-is when not valid JSON","name":"should return string data as-is when not valid JSON","status":"passed","testResultsByEnv":{"default":"375b7f3de9d6ac7cd928809f0fe57891"}}

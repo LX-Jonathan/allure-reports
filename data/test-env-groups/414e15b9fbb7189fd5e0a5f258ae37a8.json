@@ -1,0 +1,1 @@
+{"id":"414e15b9fbb7189fd5e0a5f258ae37a8","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog does not call onComplete when mutation fails","name":"does not call onComplete when mutation fails","status":"passed","testResultsByEnv":{"default":"6c69889436966417c37c5f4d187dfe1d"}}

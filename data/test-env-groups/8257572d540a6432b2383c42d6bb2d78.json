@@ -1,0 +1,1 @@
+{"id":"8257572d540a6432b2383c42d6bb2d78","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads returns empty threads when no conversation exists","name":"returns empty threads when no conversation exists","status":"passed","testResultsByEnv":{"default":"05a39a1dcca8ac081c4628f38aa8e933"}}

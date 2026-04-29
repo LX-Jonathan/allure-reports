@@ -1,0 +1,1 @@
+{"id":"9ea32c2591143d400fa01f8d1c41041c","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#getBindingKeysFromScanTemplate - additional branches skips sections that are null","name":"skips sections that are null","status":"passed","testResultsByEnv":{"default":"b36ed1de517d4962aa2e66d26b5e98a9"}}

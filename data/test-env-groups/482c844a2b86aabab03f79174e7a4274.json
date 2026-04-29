@@ -1,0 +1,1 @@
+{"id":"482c844a2b86aabab03f79174e7a4274","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker startEmailWorker should handle failed event with null job","name":"should handle failed event with null job","status":"passed","testResultsByEnv":{"default":"5fc91ed25044fb51137aababa0d083bc"}}

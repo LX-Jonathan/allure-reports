@@ -1,0 +1,1 @@
+{"id":"2682df9f09fe31af328e73cd14d0c3e4","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postRefundJournal should return null on error and log","name":"should return null on error and log","status":"passed","testResultsByEnv":{"default":"5c019aeaee105a77d9bc10380e9fac2b"}}

@@ -1,0 +1,1 @@
+{"id":"6a35024299438024b5ce2d1f7ebf4071","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 500 when AI response is not an array","name":"returns 500 when AI response is not an array","status":"passed","testResultsByEnv":{"default":"e3405e2bcba488e45f6fc690817ca670"}}

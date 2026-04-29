@@ -1,0 +1,1 @@
+{"id":"2850813162cdda32915849aa52d71ea5","fullName":"client/src/hooks/__tests__/useFeeEstimation.test.tsx#useFeeEstimation - patient/test-count auto-reset does not reset state when neither patient nor test count changes","name":"does not reset state when neither patient nor test count changes","status":"passed","testResultsByEnv":{"default":"2e43f2ef049f09373576b0f5ccdeefb4"}}

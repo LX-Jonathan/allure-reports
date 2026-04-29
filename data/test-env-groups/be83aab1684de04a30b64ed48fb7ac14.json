@@ -1,0 +1,1 @@
+{"id":"be83aab1684de04a30b64ed48fb7ac14","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket sets isAuthenticated to false on failed auth","name":"sets isAuthenticated to false on failed auth","status":"passed","testResultsByEnv":{"default":"e65b483acabd24557e8de4890e44810f"}}

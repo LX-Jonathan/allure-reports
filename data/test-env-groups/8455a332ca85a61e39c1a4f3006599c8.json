@@ -1,0 +1,1 @@
+{"id":"8455a332ca85a61e39c1a4f3006599c8","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:id returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"fe6fd9da5223bf20866c956f06b612f5"}}

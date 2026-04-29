@@ -1,0 +1,1 @@
+{"id":"7c3c58aec4efb2e9277a2ee029be34c6","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should return null on error and log","name":"should return null on error and log","status":"passed","testResultsByEnv":{"default":"f37d53f4f1cf030deaa4a58b89530acd"}}

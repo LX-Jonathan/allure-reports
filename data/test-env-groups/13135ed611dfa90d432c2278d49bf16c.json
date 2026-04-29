@@ -1,0 +1,1 @@
+{"id":"13135ed611dfa90d432c2278d49bf16c","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getLocations should return all non-deleted locations","name":"should return all non-deleted locations","status":"passed","testResultsByEnv":{"default":"bebd6475f46d9aa22ffde9b8bd7def32"}}

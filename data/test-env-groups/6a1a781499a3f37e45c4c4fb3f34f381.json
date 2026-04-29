@@ -1,0 +1,1 @@
+{"id":"6a1a781499a3f37e45c4c4fb3f34f381","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id allows same slug if owned by same org","name":"allows same slug if owned by same org","status":"passed","testResultsByEnv":{"default":"1dc0a265faab78582b9f3b8ff1f5b1e4"}}

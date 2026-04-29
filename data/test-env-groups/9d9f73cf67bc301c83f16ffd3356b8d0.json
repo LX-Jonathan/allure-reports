@@ -1,0 +1,1 @@
+{"id":"9d9f73cf67bc301c83f16ffd3356b8d0","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern in-memory cache should delete dashboard: prefixed keys via in-memory prefix matching","name":"should delete dashboard: prefixed keys via in-memory prefix matching","status":"passed","testResultsByEnv":{"default":"34e503e0efdb83bba2cfa28868e060df"}}

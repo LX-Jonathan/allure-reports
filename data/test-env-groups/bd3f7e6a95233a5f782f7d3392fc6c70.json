@@ -1,0 +1,1 @@
+{"id":"bd3f7e6a95233a5f782f7d3392fc6c70","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check-async returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"4e0b7b889c82cad561458804b34c9f8a"}}

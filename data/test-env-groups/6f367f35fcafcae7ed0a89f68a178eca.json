@@ -1,0 +1,1 @@
+{"id":"6f367f35fcafcae7ed0a89f68a178eca","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules emits NO_TESTS error when procedureCodes is empty","name":"emits NO_TESTS error when procedureCodes is empty","status":"passed","testResultsByEnv":{"default":"47edfbfb21f23b45e7d71ac97ae8fa0b"}}

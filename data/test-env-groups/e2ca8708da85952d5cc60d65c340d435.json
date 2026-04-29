@@ -1,0 +1,1 @@
+{"id":"e2ca8708da85952d5cc60d65c340d435","fullName":"client/src/components/__tests__/medication-autocomplete.test.tsx#MedicationAutocomplete closes on blur after timeout","name":"closes on blur after timeout","status":"passed","testResultsByEnv":{"default":"8365078c1e3af99219a4f36c8f0a366a"}}

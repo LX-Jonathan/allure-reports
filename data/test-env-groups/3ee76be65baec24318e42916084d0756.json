@@ -1,0 +1,1 @@
+{"id":"3ee76be65baec24318e42916084d0756","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientCreditConsumptionReversalJournal returns null and posts nothing when amount is 0","name":"returns null and posts nothing when amount is 0","status":"passed","testResultsByEnv":{"default":"035db769548beda0d48b7751eb0272af"}}

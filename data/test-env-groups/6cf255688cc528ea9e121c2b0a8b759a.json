@@ -1,0 +1,1 @@
+{"id":"6cf255688cc528ea9e121c2b0a8b759a","fullName":"server/__tests__/billing-resolution.routes.test.ts#billing-resolution routes GET /api/v1/billing-resolution/location-scorecard returns scorecard data","name":"returns scorecard data","status":"passed","testResultsByEnv":{"default":"778ec8f478b33460e6056f4359b4ea46"}}

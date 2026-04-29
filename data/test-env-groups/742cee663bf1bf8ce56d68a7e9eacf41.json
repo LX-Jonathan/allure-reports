@@ -1,0 +1,1 @@
+{"id":"742cee663bf1bf8ce56d68a7e9eacf41","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logJobComplete should log info with total pages and duration","name":"should log info with total pages and duration","status":"passed","testResultsByEnv":{"default":"910bf76a342067652b34b2ae2b8eaeb8"}}

@@ -1,0 +1,1 @@
+{"id":"1a18d3e7043113fd3f0edff59a2bc713","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/frhc-api-configs/:id returns 200 with config when found","name":"returns 200 with config when found","status":"passed","testResultsByEnv":{"default":"4488c19c9da9b3cb2c146957748fa09b"}}

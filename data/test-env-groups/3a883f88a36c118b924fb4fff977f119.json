@@ -1,0 +1,1 @@
+{"id":"3a883f88a36c118b924fb4fff977f119","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog does not close dialog when mutation fails","name":"does not close dialog when mutation fails","status":"passed","testResultsByEnv":{"default":"05f741b21e99e8db8ab7c99c2279629b"}}

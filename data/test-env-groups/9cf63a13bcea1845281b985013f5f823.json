@@ -1,0 +1,1 @@
+{"id":"9cf63a13bcea1845281b985013f5f823","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode returns default for legacy profiles without a gallery section","name":"returns default for legacy profiles without a gallery section","status":"passed","testResultsByEnv":{"default":"6fda74cfb607ccd820211eaf1066fd2e"}}

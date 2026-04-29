@@ -1,0 +1,1 @@
+{"id":"3dce3f1b9e23a7bdf9754d063de6a8a3","fullName":"server/__tests__/storage-comm-consent.test.ts#storage.recordCommunicationConsent (per-lab consent) propagates the inserted row from the transaction","name":"propagates the inserted row from the transaction","status":"passed","testResultsByEnv":{"default":"0b839055695bf9f95be7eb376b43f7d9"}}

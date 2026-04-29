@@ -1,0 +1,1 @@
+{"id":"9ea9348b45d46c9551d95de9e91f8534","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Role-based access completeness POST /patients/:patientId/hie-records allows staff role","name":"POST /patients/:patientId/hie-records allows staff role","status":"passed","testResultsByEnv":{"default":"f1eb46f3a61dec87f4c41004e6143213"}}

@@ -1,0 +1,1 @@
+{"id":"cb90146232d70ff02d4515442c63e566","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes PATCH /api/v1/biometrics/:id returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"4ff7b535b7dd1fe48dfe38da2a324526"}}

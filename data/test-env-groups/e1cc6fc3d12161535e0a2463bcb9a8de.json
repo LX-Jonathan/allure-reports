@@ -1,0 +1,1 @@
+{"id":"e1cc6fc3d12161535e0a2463bcb9a8de","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts isStrongPassword should accept password exactly 8 characters","name":"should accept password exactly 8 characters","status":"passed","testResultsByEnv":{"default":"380aee12525426e3a15b150f92182e3b"}}

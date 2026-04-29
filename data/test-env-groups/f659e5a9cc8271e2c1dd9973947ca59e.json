@@ -1,0 +1,1 @@
+{"id":"f659e5a9cc8271e2c1dd9973947ca59e","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService createReport should set createdById and lastModifiedById from context","name":"should set createdById and lastModifiedById from context","status":"passed","testResultsByEnv":{"default":"2d67a850b21d52aedf4b098bae099710"}}

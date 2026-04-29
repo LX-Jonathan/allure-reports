@@ -1,0 +1,1 @@
+{"id":"38670cae384943d8401eb0715178ba89","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Data Access Filter Enforcement PATCH /hie-records/:id/status checks both org and location access","name":"PATCH /hie-records/:id/status checks both org and location access","status":"passed","testResultsByEnv":{"default":"48ffdda8d3f25176e1f4b8fc6c1f6086"}}

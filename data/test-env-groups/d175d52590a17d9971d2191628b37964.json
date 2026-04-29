@@ -1,0 +1,1 @@
+{"id":"d175d52590a17d9971d2191628b37964","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /reset/:discipline returns success message when no template found to reset","name":"returns success message when no template found to reset","status":"passed","testResultsByEnv":{"default":"a973e8a713990e32f77f6f3b49810f0a"}}

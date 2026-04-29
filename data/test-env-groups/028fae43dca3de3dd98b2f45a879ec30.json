@@ -1,0 +1,1 @@
+{"id":"028fae43dca3de3dd98b2f45a879ec30","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/products/:id (Staff Portal - Update Product) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"c5aa9b6d4ef17209e76696f178f7c21e"}}

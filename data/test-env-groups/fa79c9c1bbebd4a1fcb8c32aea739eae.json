@@ -1,0 +1,1 @@
+{"id":"fa79c9c1bbebd4a1fcb8c32aea739eae","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/insurance/:insuranceId returns 403 when forbidden by superOrg","name":"returns 403 when forbidden by superOrg","status":"passed","testResultsByEnv":{"default":"49fc27c9b959c13778b5d682323c77e4"}}

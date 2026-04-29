@@ -1,0 +1,1 @@
+{"id":"19d57757c836f817596c768e10018209","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/pdf should use org branding when superOrg exists","name":"should use org branding when superOrg exists","status":"passed","testResultsByEnv":{"default":"43d2023c237ebbf1eb4137c7238ec208"}}

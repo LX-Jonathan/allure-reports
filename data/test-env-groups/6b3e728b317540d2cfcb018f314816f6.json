@@ -1,0 +1,1 @@
+{"id":"6b3e728b317540d2cfcb018f314816f6","fullName":"server/lib/__tests__/reportCache.test.ts#getCachedReport respects a ttlOverride when computing staleness","name":"respects a ttlOverride when computing staleness","status":"passed","testResultsByEnv":{"default":"1621db81e163bfc9f86b1873b44cfabc"}}

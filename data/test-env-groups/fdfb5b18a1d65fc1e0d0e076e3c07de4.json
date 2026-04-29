@@ -1,0 +1,1 @@
+{"id":"fdfb5b18a1d65fc1e0d0e076e3c07de4","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard breakdown formatting hides avgPaymentRatio when it is null","name":"hides avgPaymentRatio when it is null","status":"passed","testResultsByEnv":{"default":"5d39e55f983df28cfa0fccaf45812a35"}}

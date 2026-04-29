@@ -1,0 +1,1 @@
+{"id":"a2a8febe0da5073392d092eef88dfbf3","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should truncate messages longer than 1600 characters","name":"should truncate messages longer than 1600 characters","status":"passed","testResultsByEnv":{"default":"c757d039685e25d496f9ecdb8a565855"}}

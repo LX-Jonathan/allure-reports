@@ -1,0 +1,1 @@
+{"id":"cc2d7667236e2a20294bcbb743cf55bb","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes POST /api/v1/flu-shots returns 403 for location-level user without location","name":"returns 403 for location-level user without location","status":"passed","testResultsByEnv":{"default":"a42c92ab398b487d12b19c3843fdf6c4"}}

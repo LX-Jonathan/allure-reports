@@ -1,0 +1,1 @@
+{"id":"8b4275bee64fa0735cca6b4af5ac8706","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageUsers chain should require location_admin, org_admin, or super_admin roles","name":"should require location_admin, org_admin, or super_admin roles","status":"passed","testResultsByEnv":{"default":"b750c19201cd0b73c894f710e3caa562"}}

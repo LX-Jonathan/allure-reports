@@ -1,0 +1,1 @@
+{"id":"3da9c9cfb18f6b8fe19a6a9defffc25f","fullName":"server/lib/__tests__/r2.test.ts#r2.ts isR2Configured should return false when only some credentials are set","name":"should return false when only some credentials are set","status":"passed","testResultsByEnv":{"default":"d547d39e6e1c575e1a22637cfee87e3f"}}

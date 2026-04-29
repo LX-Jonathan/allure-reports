@@ -1,0 +1,1 @@
+{"id":"b897569584f82e7b5d205932a8ad0898","fullName":"server/__tests__/verification-confidence.test.ts#deriveEligibilityExtractionConfidence returns nulls when there is no usable signal","name":"returns nulls when there is no usable signal","status":"passed","testResultsByEnv":{"default":"fb9a4f0add7165e539a6d34dd25bae25"}}

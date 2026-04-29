@@ -1,0 +1,1 @@
+{"id":"44ccc3bf483827ea17c477aa16a3f407","fullName":"server/lib/__tests__/logger.test.ts#logger redact() should cover all declared sensitive fields","name":"should cover all declared sensitive fields","status":"passed","testResultsByEnv":{"default":"68cb31f5dee9698325f07ac57583541e"}}

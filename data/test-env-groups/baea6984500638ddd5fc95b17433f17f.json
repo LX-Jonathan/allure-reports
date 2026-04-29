@@ -1,0 +1,1 @@
+{"id":"baea6984500638ddd5fc95b17433f17f","fullName":"client/src/lib/__tests__/proxy-audit.test.ts#getProxyInviteSendNumber falls back to 1 for proxy_invite_sent when sendCount is missing","name":"falls back to 1 for proxy_invite_sent when sendCount is missing","status":"passed","testResultsByEnv":{"default":"b4cf8bfaffa22ef12ef7df8dab072748"}}

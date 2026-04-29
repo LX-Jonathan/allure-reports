@@ -1,0 +1,1 @@
+{"id":"adb5e5bd9a2320515fb8743c045b1d1d","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: invalid_or_expired_verification_token","name":"en: invalid_or_expired_verification_token","status":"passed","testResultsByEnv":{"default":"8c10863f0a79a46bd7c64df635e89b29"}}

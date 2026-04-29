@@ -1,0 +1,1 @@
+{"id":"212a6f06e4c995ef1d0e2787d73c9963","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 403 for non-admin user without organization","name":"returns 403 for non-admin user without organization","status":"passed","testResultsByEnv":{"default":"9c5bc43a5e6dbaa14934d1619f26d705"}}

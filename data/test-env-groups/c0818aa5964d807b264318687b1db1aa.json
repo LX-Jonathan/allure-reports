@@ -1,0 +1,1 @@
+{"id":"c0818aa5964d807b264318687b1db1aa","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#getBindingKeysFromScanTemplate returns empty set for null/undefined","name":"returns empty set for null/undefined","status":"passed","testResultsByEnv":{"default":"ddf23a9a1068427d433ceb63d1906232"}}

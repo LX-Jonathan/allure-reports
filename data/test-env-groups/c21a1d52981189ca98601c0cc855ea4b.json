@@ -1,0 +1,1 @@
+{"id":"c21a1d52981189ca98601c0cc855ea4b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/scanner/webhook returns 400 when scanner not properly configured","name":"returns 400 when scanner not properly configured","status":"passed","testResultsByEnv":{"default":"81f8b431184f983627b9d870f0b61e8b"}}

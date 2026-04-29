@@ -1,0 +1,1 @@
+{"id":"f518d6b8dc4388037512d0e857f0b0a0","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/change-password returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"f91d864cf4039263b549951a1c505c6a"}}

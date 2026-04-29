@@ -1,0 +1,1 @@
+{"id":"b828080a7e589a7e3e2436096d3e9c64","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 400 when no lab context available","name":"returns 400 when no lab context available","status":"passed","testResultsByEnv":{"default":"7d53a64f2e233fa33e50b6a183eac216"}}

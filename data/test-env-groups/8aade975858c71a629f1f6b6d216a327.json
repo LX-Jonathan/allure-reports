@@ -1,0 +1,1 @@
+{"id":"8aade975858c71a629f1f6b6d216a327","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules returns 403 when organization mismatch","name":"returns 403 when organization mismatch","status":"passed","testResultsByEnv":{"default":"31df6012561cdd7c395052ea94caba1d"}}

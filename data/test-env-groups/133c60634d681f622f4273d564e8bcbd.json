@@ -1,0 +1,1 @@
+{"id":"133c60634d681f622f4273d564e8bcbd","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#DELETE /api/patient/proxies/:id (patient revoke) revokes the proxy, audits, and queues notification email","name":"revokes the proxy, audits, and queues notification email","status":"passed","testResultsByEnv":{"default":"596f263fc4ebfe40cd8630814f2c49d5"}}

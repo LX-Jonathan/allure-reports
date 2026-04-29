@@ -1,0 +1,1 @@
+{"id":"e337e9468440bfbbdabc980b60bfc34e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/insurance rejects scanConfidence below 0","name":"rejects scanConfidence below 0","status":"passed","testResultsByEnv":{"default":"7d12c1c991ee812f205a19d65c2850a8"}}

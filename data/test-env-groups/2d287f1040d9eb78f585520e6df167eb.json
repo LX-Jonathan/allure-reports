@@ -1,0 +1,1 @@
+{"id":"2d287f1040d9eb78f585520e6df167eb","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/checkout/session/:sessionId (Patient Portal - Get Session) returns 503 when Stripe is not configured","name":"returns 503 when Stripe is not configured","status":"passed","testResultsByEnv":{"default":"27e8d3b6ce7a301473940fd86cc1c302"}}

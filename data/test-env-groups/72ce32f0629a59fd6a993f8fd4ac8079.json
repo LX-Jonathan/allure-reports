@@ -1,0 +1,1 @@
+{"id":"72ce32f0629a59fd6a993f8fd4ac8079","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord demographics should extract full demographics from patient","name":"should extract full demographics from patient","status":"passed","testResultsByEnv":{"default":"1b486c7d30243315838117cc44b060f7"}}

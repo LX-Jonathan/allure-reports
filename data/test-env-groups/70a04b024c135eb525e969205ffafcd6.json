@@ -1,0 +1,1 @@
+{"id":"70a04b024c135eb525e969205ffafcd6","fullName":"client/src/hooks/__tests__/useScopedValueChangePrompt.test.ts#useScopedValueChangePrompt re-baselines after a scope change so subsequent same-scope changes fire","name":"re-baselines after a scope change so subsequent same-scope changes fire","status":"passed","testResultsByEnv":{"default":"df29799b4a10731f5bcbf2e296e0f2db"}}

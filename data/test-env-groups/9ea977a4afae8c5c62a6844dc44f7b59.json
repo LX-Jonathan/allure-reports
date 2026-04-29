@@ -1,0 +1,1 @@
+{"id":"9ea977a4afae8c5c62a6844dc44f7b59","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob error handling should preserve temp file for retry when retryable and attempts remaining","name":"should preserve temp file for retry when retryable and attempts remaining","status":"passed","testResultsByEnv":{"default":"92fb4a4d951a1d1115fca7d54ecdd860"}}

@@ -1,0 +1,1 @@
+{"id":"eae6db28ccf2c8fd22bb089cf7bee5cd","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary hides the 'Deductible nearly met' badge below 80% met","name":"hides the 'Deductible nearly met' badge below 80% met","status":"passed","testResultsByEnv":{"default":"e1f9a68be08cd3ebf95b75d82963cb72"}}

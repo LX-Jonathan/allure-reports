@@ -1,0 +1,1 @@
+{"id":"963759311867281b05ba057c5b66737f","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /patients returns patients with thread counts","name":"returns patients with thread counts","status":"passed","testResultsByEnv":{"default":"ab9c1323773bb17eb787a67ef2b51e57"}}

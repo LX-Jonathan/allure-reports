@@ -1,0 +1,1 @@
+{"id":"d327c88b2fab57c7acda9e1be03cfb74","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector does not show 'New Lab' button for non-super-admin","name":"does not show 'New Lab' button for non-super-admin","status":"passed","testResultsByEnv":{"default":"13728df95e667fe4231b13b963b65c9b"}}

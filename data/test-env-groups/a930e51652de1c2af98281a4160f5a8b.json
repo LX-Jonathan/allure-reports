@@ -1,0 +1,1 @@
+{"id":"a930e51652de1c2af98281a4160f5a8b","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service getArtifactStats should return isConfigured true when R2 is configured","name":"should return isConfigured true when R2 is configured","status":"passed","testResultsByEnv":{"default":"efde2472c293cdc8203500b21253a23e"}}

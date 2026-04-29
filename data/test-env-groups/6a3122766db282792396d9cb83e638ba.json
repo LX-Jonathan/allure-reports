@@ -1,0 +1,1 @@
+{"id":"6a3122766db282792396d9cb83e638ba","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth payload types should handle payload with all fields","name":"should handle payload with all fields","status":"passed","testResultsByEnv":{"default":"aba17c05f50e76c1f777ddfbfe69cc5b"}}

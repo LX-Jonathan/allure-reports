@@ -1,0 +1,1 @@
+{"id":"3230ce30e6336ca3532033c2fe104aae","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should throw when API key is not configured","name":"should throw when API key is not configured","status":"passed","testResultsByEnv":{"default":"272599d859bb27c5915b4a2b17701199"}}

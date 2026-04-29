@@ -1,0 +1,1 @@
+{"id":"a9fba675ef8b425cca82c8f4ed7290e1","fullName":"client/src/components/patient/__tests__/patient-demographic-history.test.tsx#PatientDemographicHistory redacts PHI field values without dropping the field name","name":"redacts PHI field values without dropping the field name","status":"passed","testResultsByEnv":{"default":"6e370fbf0f5bbbf4a05bce98b4824181"}}

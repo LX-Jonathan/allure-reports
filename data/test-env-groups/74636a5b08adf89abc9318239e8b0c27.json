@@ -1,0 +1,1 @@
+{"id":"74636a5b08adf89abc9318239e8b0c27","fullName":"client/src/components/patient/__tests__/staff-insurance-card-scan-dialog.test.tsx#StaffInsuranceCardScanDialog OCR pre-fill invokes onUploaded with null when OCR is unavailable","name":"invokes onUploaded with null when OCR is unavailable","status":"passed","testResultsByEnv":{"default":"4660f073320aec1f73dd0efe2b181d60"}}

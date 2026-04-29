@@ -1,0 +1,1 @@
+{"id":"d495e61eb23fac85bf235d698353a0c5","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances patientsCache should be configured with prefix 'patients' and TTL 30","name":"patientsCache should be configured with prefix 'patients' and TTL 30","status":"passed","testResultsByEnv":{"default":"621f7e4471af64b4298cfddcaf63708f"}}

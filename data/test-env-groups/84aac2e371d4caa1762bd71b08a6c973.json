@@ -1,0 +1,1 @@
+{"id":"84aac2e371d4caa1762bd71b08a6c973","fullName":"client/src/hooks/__tests__/useOrderSignatures.test.tsx#useOrderSignatures startSigDraw is a no-op for a null canvas","name":"startSigDraw is a no-op for a null canvas","status":"passed","testResultsByEnv":{"default":"39a2b838385a66ac07c6e8f9409eb3f3"}}

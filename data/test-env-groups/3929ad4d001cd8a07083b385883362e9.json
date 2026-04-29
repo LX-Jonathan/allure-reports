@@ -1,0 +1,1 @@
+{"id":"3929ad4d001cd8a07083b385883362e9","fullName":"client/src/lib/__tests__/queryClient.test.ts#queryClient instance uses exponential retryDelay capped at 8s","name":"uses exponential retryDelay capped at 8s","status":"passed","testResultsByEnv":{"default":"ae6d140ba4aea9f1ca495f1865cfdf23"}}

@@ -1,0 +1,1 @@
+{"id":"1fa568d74384ed263ee18a958480c034","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should return null on error and log","name":"should return null on error and log","status":"passed","testResultsByEnv":{"default":"9f4467006e62da3f6f1f50fdaf235b67"}}

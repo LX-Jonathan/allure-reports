@@ -1,0 +1,1 @@
+{"id":"2478604f9846acdb8d88c7a7283e139e","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins/permissions/me reports waiver permission as true for privileged roles","name":"reports waiver permission as true for privileged roles","status":"passed","testResultsByEnv":{"default":"ab968459bf1c872a33233464b6b12dec"}}

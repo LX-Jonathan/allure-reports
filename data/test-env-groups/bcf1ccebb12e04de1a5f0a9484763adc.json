@@ -1,0 +1,1 @@
+{"id":"bcf1ccebb12e04de1a5f0a9484763adc","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/reset-password returns 400 for invalid token","name":"returns 400 for invalid token","status":"passed","testResultsByEnv":{"default":"139ef1dcb41b0b8ba96a9f09593ffb71"}}

@@ -1,0 +1,1 @@
+{"id":"2fc9aa79b8701d51fa5e4620cab179c6","fullName":"client/src/hooks/__tests__/usePatientCart.test.tsx#usePatientCart - getTotalPrice ignores template-derived tests for total price","name":"ignores template-derived tests for total price","status":"passed","testResultsByEnv":{"default":"a8cad6189a6150582b7f2f75c4dffea6"}}

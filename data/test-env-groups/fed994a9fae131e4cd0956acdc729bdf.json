@@ -1,0 +1,1 @@
+{"id":"fed994a9fae131e4cd0956acdc729bdf","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/pending-jobs returns 200 with empty jobs array when redis not configured","name":"returns 200 with empty jobs array when redis not configured","status":"passed","testResultsByEnv":{"default":"0f338c256606c73eacd2a327e4d7ba3f"}}

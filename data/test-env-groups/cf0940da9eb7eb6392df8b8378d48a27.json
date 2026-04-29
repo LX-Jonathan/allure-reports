@@ -1,0 +1,1 @@
+{"id":"cf0940da9eb7eb6392df8b8378d48a27","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management updatePatientGuarantor throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"cf34641cf768c95b7008141f26fefe84"}}

@@ -1,0 +1,1 @@
+{"id":"76d319a43013efef712cc2e7ae0a8f2b","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useSavedAddressPreference setDismissed persists true to localStorage and clears it on false","name":"setDismissed persists true to localStorage and clears it on false","status":"passed","testResultsByEnv":{"default":"07032ccbdf6081494c5eea1a96b40a03"}}

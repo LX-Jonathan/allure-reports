@@ -1,0 +1,1 @@
+{"id":"537cbcccb305010800c86fbb3b4649be","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules uses the first non-primary insurance when no primary is specified","name":"uses the first non-primary insurance when no primary is specified","status":"passed","testResultsByEnv":{"default":"a556fdcc44137c304620c0f2671e1ae7"}}

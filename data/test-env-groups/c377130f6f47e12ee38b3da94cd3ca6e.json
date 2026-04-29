@@ -1,0 +1,1 @@
+{"id":"c377130f6f47e12ee38b3da94cd3ca6e","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes DELETE /api/conversations/:id should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"14cc82b0bb62ae0630870b43623cb136"}}

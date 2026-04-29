@@ -1,0 +1,1 @@
+{"id":"f593f459b3447088eeb353f446320c6f","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy Error handling - DB rejections propagate createPreRegistrationLink throws when db.insert rejects","name":"createPreRegistrationLink throws when db.insert rejects","status":"passed","testResultsByEnv":{"default":"da87e0a58091ea4c9a603d286d9b4283"}}

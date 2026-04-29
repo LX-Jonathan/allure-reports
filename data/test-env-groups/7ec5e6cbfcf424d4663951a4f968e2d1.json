@@ -1,0 +1,1 @@
+{"id":"7ec5e6cbfcf424d4663951a4f968e2d1","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware role hierarchy viewer should have the least restrictive role-based access","name":"viewer should have the least restrictive role-based access","status":"passed","testResultsByEnv":{"default":"5491e18011f573bdb57d14fce37c5490"}}

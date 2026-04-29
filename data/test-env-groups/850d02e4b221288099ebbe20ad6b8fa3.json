@@ -1,0 +1,1 @@
+{"id":"850d02e4b221288099ebbe20ad6b8fa3","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles/:id/publish returns 200 when article is published","name":"returns 200 when article is published","status":"passed","testResultsByEnv":{"default":"351698193d1f2401b5a8c223401e5668"}}

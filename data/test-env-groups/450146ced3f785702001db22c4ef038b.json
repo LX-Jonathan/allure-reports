@@ -1,0 +1,1 @@
+{"id":"450146ced3f785702001db22c4ef038b","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with stats for super_admin","name":"returns 200 with stats for super_admin","status":"passed","testResultsByEnv":{"default":"28bc271fceeb8fb8d4474b78b14d4d47"}}

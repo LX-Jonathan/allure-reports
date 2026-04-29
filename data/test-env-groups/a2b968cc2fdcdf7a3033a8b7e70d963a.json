@@ -1,0 +1,1 @@
+{"id":"a2b968cc2fdcdf7a3033a8b7e70d963a","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireUserType calls next when userType is in the allowed list","name":"calls next when userType is in the allowed list","status":"passed","testResultsByEnv":{"default":"6b0cd734d83444542e06520da4286740"}}

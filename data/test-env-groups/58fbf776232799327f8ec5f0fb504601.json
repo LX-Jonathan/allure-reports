@@ -1,0 +1,1 @@
+{"id":"58fbf776232799327f8ec5f0fb504601","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /appeals/:appealId/documents/:docId deletes appeal document","name":"deletes appeal document","status":"passed","testResultsByEnv":{"default":"7579adc879cb6311c2b25b59cfcc300b"}}

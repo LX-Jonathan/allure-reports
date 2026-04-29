@@ -1,0 +1,1 @@
+{"id":"a22ec9dd8fdaef734a441d3338c8613b","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /readers omits location filter when not provided","name":"omits location filter when not provided","status":"passed","testResultsByEnv":{"default":"e7c6d74eb18b7cf3bddec4c43a39d150"}}

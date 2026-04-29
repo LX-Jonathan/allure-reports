@@ -1,0 +1,1 @@
+{"id":"bd70bb9c82cb0ad7996326c3f3591021","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify returns 400 for malformed verify body","name":"returns 400 for malformed verify body","status":"passed","testResultsByEnv":{"default":"4f3dee238b7544f32ea3bdfd6e4ee804"}}

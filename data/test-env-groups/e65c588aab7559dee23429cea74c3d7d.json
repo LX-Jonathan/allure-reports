@@ -1,0 +1,1 @@
+{"id":"e65c588aab7559dee23429cea74c3d7d","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs/resolved/:locationId/:module returns 403 when access denied to location","name":"returns 403 when access denied to location","status":"passed","testResultsByEnv":{"default":"176c729b1c68e7afdf12db83f8e0c0f2"}}

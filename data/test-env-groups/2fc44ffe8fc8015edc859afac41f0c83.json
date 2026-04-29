@@ -1,0 +1,1 @@
+{"id":"2fc44ffe8fc8015edc859afac41f0c83","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner shows no scanners message and disables scan button when empty device list","name":"shows no scanners message and disables scan button when empty device list","status":"passed","testResultsByEnv":{"default":"379fbb70665023712683a0e3aa528177"}}

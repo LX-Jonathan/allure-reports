@@ -1,0 +1,1 @@
+{"id":"e7127c7a5dd5eea202be1e2cdc2e0b22","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /ai-map-form handles missing fields gracefully with defaults","name":"handles missing fields gracefully with defaults","status":"passed","testResultsByEnv":{"default":"51e29f1bb30a3226adb4d873f0e93568"}}

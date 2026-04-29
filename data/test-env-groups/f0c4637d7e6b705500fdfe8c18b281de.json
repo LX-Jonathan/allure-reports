@@ -1,0 +1,1 @@
+{"id":"f0c4637d7e6b705500fdfe8c18b281de","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#runFinancialAssistanceExpirationWeeklyDigest re-sends when the patient set or expirations change","name":"re-sends when the patient set or expirations change","status":"passed","testResultsByEnv":{"default":"4a465179195a3a25a85394b13a6524b0"}}

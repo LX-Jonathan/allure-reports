@@ -1,0 +1,1 @@
+{"id":"7639c6071c96483f721cc6f81095479a","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getFallbackConfig merges super org pricing config with defaults","name":"merges super org pricing config with defaults","status":"passed","testResultsByEnv":{"default":"dbc544e930695651a9417560c0b8a4f6"}}

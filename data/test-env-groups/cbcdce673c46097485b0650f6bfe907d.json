@@ -1,0 +1,1 @@
+{"id":"cbcdce673c46097485b0650f6bfe907d","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Appointments getAppointmentScheduleById returns undefined when not found","name":"returns undefined when not found","status":"passed","testResultsByEnv":{"default":"eecdcf743110e80cd7350f1ddeed9843"}}

@@ -1,0 +1,1 @@
+{"id":"9403bb81157b8998e740b82d4c08e732","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should pass sampleLimit to syncBillingResolutionData","name":"should pass sampleLimit to syncBillingResolutionData","status":"passed","testResultsByEnv":{"default":"b91e8d6457767895bd153392e0149345"}}

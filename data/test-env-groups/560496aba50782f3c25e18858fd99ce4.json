@@ -1,0 +1,1 @@
+{"id":"560496aba50782f3c25e18858fd99ce4","fullName":"client/src/lib/__tests__/queryClient.test.ts#fetchAsset falls back to plain fetch when URL is unparseable","name":"falls back to plain fetch when URL is unparseable","status":"passed","testResultsByEnv":{"default":"65d9260a2290550f2b9809fb160e189a"}}

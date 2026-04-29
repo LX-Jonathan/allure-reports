@@ -1,0 +1,1 @@
+{"id":"d21f49519f66093e3848662a88c84fd6","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#OpenInPosLink falls back to the bare POS path when no tab or ids are provided","name":"falls back to the bare POS path when no tab or ids are provided","status":"passed","testResultsByEnv":{"default":"a13923bc834f32dbf750df563bc05779"}}

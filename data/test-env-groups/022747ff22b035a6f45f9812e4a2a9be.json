@@ -1,0 +1,1 @@
+{"id":"022747ff22b035a6f45f9812e4a2a9be","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner shows toast when no devices returned during scan","name":"shows toast when no devices returned during scan","status":"passed","testResultsByEnv":{"default":"70e04b48cb3883d064a9f18a3a8becac"}}

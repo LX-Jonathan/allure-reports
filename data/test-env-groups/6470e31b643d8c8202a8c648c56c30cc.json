@@ -1,0 +1,1 @@
+{"id":"6470e31b643d8c8202a8c648c56c30cc","fullName":"server/services/__tests__/athenaSync.test.ts#helper function logic generateClaimId logic should use labtestidentifier when other primary ids are missing","name":"should use labtestidentifier when other primary ids are missing","status":"passed","testResultsByEnv":{"default":"836e050d74637fba7c7a20e5a57c0c13"}}

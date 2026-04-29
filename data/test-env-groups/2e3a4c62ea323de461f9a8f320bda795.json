@@ -1,0 +1,1 @@
+{"id":"2e3a4c62ea323de461f9a8f320bda795","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient searchPatient should filter out null resources from entries","name":"should filter out null resources from entries","status":"passed","testResultsByEnv":{"default":"088d1f8ea67c2f126867092a30594a28"}}

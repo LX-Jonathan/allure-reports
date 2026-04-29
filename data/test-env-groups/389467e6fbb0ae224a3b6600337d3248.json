@@ -1,0 +1,1 @@
+{"id":"389467e6fbb0ae224a3b6600337d3248","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/insurance/:insuranceId returns 403 when order is locked","name":"returns 403 when order is locked","status":"passed","testResultsByEnv":{"default":"865356c8defd416884f065fc0cfc9f1d"}}

@@ -1,0 +1,1 @@
+{"id":"0a662bf771967806cb37924172ceffb7","fullName":"server/routes/__tests__/operations-tasks.routes.test.ts#Operations Tasks routes scope enforcement (IDOR protection) forwards an explicit ?sources= query string to the service","name":"forwards an explicit ?sources= query string to the service","status":"passed","testResultsByEnv":{"default":"ff3ebe0756da09a2837f13a9052dec8f"}}

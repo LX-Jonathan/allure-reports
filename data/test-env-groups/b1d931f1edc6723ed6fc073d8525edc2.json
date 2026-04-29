@@ -1,0 +1,1 @@
+{"id":"b1d931f1edc6723ed6fc073d8525edc2","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Order History and Analytics GET /api/v1/lab-tests/:id/order-readiness returns 404 when lab test not found","name":"returns 404 when lab test not found","status":"passed","testResultsByEnv":{"default":"e2f57377c967355e481098b1368c0e57"}}

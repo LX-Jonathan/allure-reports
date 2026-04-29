@@ -1,0 +1,1 @@
+{"id":"16bdeb3585e43615be500d571da8db44","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should return CMS data and org rates for valid CPT code","name":"should return CMS data and org rates for valid CPT code","status":"passed","testResultsByEnv":{"default":"dc34fa903a13434d3b645c26f3d77e60"}}

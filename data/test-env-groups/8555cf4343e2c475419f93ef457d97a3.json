@@ -1,0 +1,1 @@
+{"id":"8555cf4343e2c475419f93ef457d97a3","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions POST / rejects walk-ins when the location has no lab assigned","name":"rejects walk-ins when the location has no lab assigned","status":"passed","testResultsByEnv":{"default":"c7a8d6bd73b1e89c0e9f1024df113c3d"}}

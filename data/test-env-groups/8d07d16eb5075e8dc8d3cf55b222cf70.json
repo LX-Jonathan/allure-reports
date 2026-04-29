@@ -1,0 +1,1 @@
+{"id":"8d07d16eb5075e8dc8d3cf55b222cf70","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: code_expired","name":"en: code_expired","status":"passed","testResultsByEnv":{"default":"45dbbcba95c59f7f47aa7717aa37b64b"}}

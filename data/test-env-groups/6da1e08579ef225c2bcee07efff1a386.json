@@ -1,0 +1,1 @@
+{"id":"6da1e08579ef225c2bcee07efff1a386","fullName":"client/src/i18n/__tests__/i18n.test.ts#patient portal i18n falls back to English for unknown keys and unsupported locales","name":"falls back to English for unknown keys and unsupported locales","status":"passed","testResultsByEnv":{"default":"edb43cb5710a2d3c2a27692f651af15c"}}

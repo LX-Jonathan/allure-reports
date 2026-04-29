@@ -1,0 +1,1 @@
+{"id":"cb2f60bc67d0e5c5b129afa0edaaca14","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent returns forbidden when order belongs to different superOrg","name":"returns forbidden when order belongs to different superOrg","status":"passed","testResultsByEnv":{"default":"c6625aba55e2a9c64e44bd67b8696b2b"}}

@@ -1,0 +1,1 @@
+{"id":"762c5dcea9f94413e7a4b4995c5c7d03","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET /api/v1/prior-authorizations/:id/documents/:docId/download returns 404 when PA not found","name":"returns 404 when PA not found","status":"passed","testResultsByEnv":{"default":"ad0323f24c5209269d646331b0e24320"}}

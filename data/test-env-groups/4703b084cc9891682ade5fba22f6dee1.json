@@ -1,0 +1,1 @@
+{"id":"4703b084cc9891682ade5fba22f6dee1","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/:id/sync-to-labs returns 403 for non-labxchange user","name":"returns 403 for non-labxchange user","status":"passed","testResultsByEnv":{"default":"34bc397e37e8d155a1c00b8d96addcc3"}}

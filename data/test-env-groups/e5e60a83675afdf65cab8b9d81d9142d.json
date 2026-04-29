@@ -1,0 +1,1 @@
+{"id":"e5e60a83675afdf65cab8b9d81d9142d","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should display STAT priority badge correctly","name":"should display STAT priority badge correctly","status":"passed","testResultsByEnv":{"default":"4917f2f815ced8753f3d1daf718d174a"}}

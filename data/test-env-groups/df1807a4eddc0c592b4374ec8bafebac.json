@@ -1,0 +1,1 @@
+{"id":"df1807a4eddc0c592b4374ec8bafebac","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes PATCH /api/order-intake/bulk/items/:itemId returns 400 when extractedData is missing","name":"returns 400 when extractedData is missing","status":"passed","testResultsByEnv":{"default":"2decb7facff6535db955c32787d69460"}}

@@ -1,0 +1,1 @@
+{"id":"dcac11046e172429cfeca9512baa4783","fullName":"client/src/pages/__tests__/order-detail.test.tsx#OrderDetailPage does not render loading skeletons after query resolves to null","name":"does not render loading skeletons after query resolves to null","status":"passed","testResultsByEnv":{"default":"d675271a2017970cd3280a359dfc31ff"}}

@@ -1,0 +1,1 @@
+{"id":"a6f2508e98786a481f8937213035d989","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims/:claimId/download-url returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"56e1ecc92c7a591e0879c0223a96bf8c"}}

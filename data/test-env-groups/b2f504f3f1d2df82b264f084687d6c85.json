@@ -1,0 +1,1 @@
+{"id":"b2f504f3f1d2df82b264f084687d6c85","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/results/retry-failed should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"e6e0ce7a263aaee950b7a8d376d0d8f5"}}

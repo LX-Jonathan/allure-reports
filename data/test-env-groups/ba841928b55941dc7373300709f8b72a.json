@@ -1,0 +1,1 @@
+{"id":"ba841928b55941dc7373300709f8b72a","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord demographics should return undefined phone when no phone telecom","name":"should return undefined phone when no phone telecom","status":"passed","testResultsByEnv":{"default":"82b134cc1161c01bb35a93507afb1440"}}

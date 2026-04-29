@@ -1,0 +1,1 @@
+{"id":"2f1fae02262e36256986d6e8fc9931b3","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/data-issues/bulk returns 200 after bulk resolve","name":"returns 200 after bulk resolve","status":"passed","testResultsByEnv":{"default":"39c6ff80e2e828a6afecf86c0a4efd2b"}}

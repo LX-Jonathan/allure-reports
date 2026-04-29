@@ -1,0 +1,1 @@
+{"id":"9dc5f55ed7c682e864b3085ca0a40317","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) POST / returns 400 when owning lab is not found","name":"returns 400 when owning lab is not found","status":"passed","testResultsByEnv":{"default":"3d74f4cf3a85ebf2d861771c9205674a"}}

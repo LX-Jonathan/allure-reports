@@ -1,0 +1,1 @@
+{"id":"91cf4d36582eb7a12933a04c654f5879","fullName":"server/__tests__/billing-resolution.routes.test.ts#billing-resolution routes GET /api/v1/billing-resolution/claims returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"227c54046fa6624bc87266787800e148"}}

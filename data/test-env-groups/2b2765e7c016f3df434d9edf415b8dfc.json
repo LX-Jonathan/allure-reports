@@ -1,0 +1,1 @@
+{"id":"2b2765e7c016f3df434d9edf415b8dfc","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes Routes DELETE /api/v1/diagnosis-codes/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"1faec96162682738401dec08b3099460"}}

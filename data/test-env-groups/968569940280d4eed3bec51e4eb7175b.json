@@ -1,0 +1,1 @@
+{"id":"968569940280d4eed3bec51e4eb7175b","fullName":"server/lib/__tests__/responses.test.ts#serverError should return 500 status with custom error message","name":"should return 500 status with custom error message","status":"passed","testResultsByEnv":{"default":"4844c005fcff0617cb4e6053b0c8aa1d"}}

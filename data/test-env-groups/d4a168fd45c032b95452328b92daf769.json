@@ -1,0 +1,1 @@
+{"id":"d4a168fd45c032b95452328b92daf769","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/contextual-help returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"faf2bcd3b441009e37ea253e07acd321"}}

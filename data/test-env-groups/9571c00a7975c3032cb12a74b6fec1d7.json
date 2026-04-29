@@ -1,0 +1,1 @@
+{"id":"9571c00a7975c3032cb12a74b6fec1d7","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries returns 400 when no org context","name":"returns 400 when no org context","status":"passed","testResultsByEnv":{"default":"b475a717cd8113e5bb3dead2ee7a60a2"}}

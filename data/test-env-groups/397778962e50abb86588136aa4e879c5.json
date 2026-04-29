@@ -1,0 +1,1 @@
+{"id":"397778962e50abb86588136aa4e879c5","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/catalog/:id (Patient Portal - Product Details) returns 200 with product details","name":"returns 200 with product details","status":"passed","testResultsByEnv":{"default":"e155f386626f6b87dd20cfc6ab891b99"}}

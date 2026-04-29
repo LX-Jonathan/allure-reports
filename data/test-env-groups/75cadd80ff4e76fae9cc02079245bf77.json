@@ -1,0 +1,1 @@
+{"id":"75cadd80ff4e76fae9cc02079245bf77","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner assigns fallback label for cameras without labels","name":"assigns fallback label for cameras without labels","status":"passed","testResultsByEnv":{"default":"a0322cec33fb92e6d91db584992b8140"}}

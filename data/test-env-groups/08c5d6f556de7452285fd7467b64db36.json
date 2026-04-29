@@ -1,0 +1,1 @@
+{"id":"08c5d6f556de7452285fd7467b64db36","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should display URGENT priority badge correctly","name":"should display URGENT priority badge correctly","status":"passed","testResultsByEnv":{"default":"0b411b29870217060e2443d2f37f9a77"}}

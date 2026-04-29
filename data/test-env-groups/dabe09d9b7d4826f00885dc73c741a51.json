@@ -1,0 +1,1 @@
+{"id":"dabe09d9b7d4826f00885dc73c741a51","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientPortalInvitationEmail should queue invitation email successfully","name":"should queue invitation email successfully","status":"passed","testResultsByEnv":{"default":"8662bcfbffc807137a2a7f20b1ac8c9c"}}

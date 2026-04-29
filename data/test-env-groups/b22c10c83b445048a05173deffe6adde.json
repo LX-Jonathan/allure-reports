@@ -1,0 +1,1 @@
+{"id":"b22c10c83b445048a05173deffe6adde","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId preserves existing clientSecret when no new secret provided","name":"preserves existing clientSecret when no new secret provided","status":"passed","testResultsByEnv":{"default":"a3324f967970e73edbc64ad55c0286ac"}}

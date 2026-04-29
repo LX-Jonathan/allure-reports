@@ -1,0 +1,1 @@
+{"id":"a9d31974396c545a9f1ba3aa9135d3f3","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /:id returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"e9a5548d6d799cad5ba5fb3900e443d0"}}

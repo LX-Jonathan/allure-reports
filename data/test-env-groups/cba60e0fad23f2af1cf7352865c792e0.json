@@ -1,0 +1,1 @@
+{"id":"cba60e0fad23f2af1cf7352865c792e0","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/add returns 404 when location not found","name":"returns 404 when location not found","status":"passed","testResultsByEnv":{"default":"6e252654810e5580a556a26defda5519"}}

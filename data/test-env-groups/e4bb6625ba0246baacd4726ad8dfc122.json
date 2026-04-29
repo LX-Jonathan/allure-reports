@@ -1,0 +1,1 @@
+{"id":"e4bb6625ba0246baacd4726ad8dfc122","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/patient/:patientId/benefits should handle null fields in eligibility gracefully","name":"should handle null fields in eligibility gracefully","status":"passed","testResultsByEnv":{"default":"576d1fb07ae334ea2f3af468f6d35378"}}

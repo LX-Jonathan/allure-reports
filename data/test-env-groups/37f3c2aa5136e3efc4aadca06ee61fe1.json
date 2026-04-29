@@ -1,0 +1,1 @@
+{"id":"37f3c2aa5136e3efc4aadca06ee61fe1","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /reset/:discipline returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"dec8bfc9f85a0cac77fe26e7725429b3"}}

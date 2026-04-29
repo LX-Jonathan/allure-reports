@@ -1,0 +1,1 @@
+{"id":"38bd9319babad2d3ffe1c086af4ead0d","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets/:ticketId/messages creates ticket message and updates ticket","name":"creates ticket message and updates ticket","status":"passed","testResultsByEnv":{"default":"c68c4315da308dfe1038e99926aeec1a"}}

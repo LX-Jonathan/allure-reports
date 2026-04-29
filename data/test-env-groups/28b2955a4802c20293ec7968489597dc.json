@@ -1,0 +1,1 @@
+{"id":"28b2955a4802c20293ec7968489597dc","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/validate (additional edge cases) detects invalid NPI format in rows","name":"detects invalid NPI format in rows","status":"passed","testResultsByEnv":{"default":"280dfac81037d59837cf6c6c80eb57a1"}}

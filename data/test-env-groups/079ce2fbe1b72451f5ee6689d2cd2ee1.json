@@ -1,0 +1,1 @@
+{"id":"079ce2fbe1b72451f5ee6689d2cd2ee1","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) DELETE /:id returns 404 when client not found","name":"returns 404 when client not found","status":"passed","testResultsByEnv":{"default":"b61fa6baec391395814fa23694d42844"}}

@@ -1,0 +1,1 @@
+{"id":"20ddcb18b572489116079f1d9e8fcb35","fullName":"server/routes/__tests__/enterprise-scheduling.routes.test.ts#Enterprise Scheduling Routes GET /api/enterprise-scheduling/waitlist returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"1919f7a2d11ffa5cc2e8edbfa0c6e9c0"}}

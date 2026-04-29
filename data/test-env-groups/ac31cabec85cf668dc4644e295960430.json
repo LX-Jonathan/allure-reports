@@ -1,0 +1,1 @@
+{"id":"ac31cabec85cf668dc4644e295960430","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/propensity-to-pay returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"d526ee4ecd02a0aed03b47718089d1fb"}}

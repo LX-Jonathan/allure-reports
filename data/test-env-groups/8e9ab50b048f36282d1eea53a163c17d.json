@@ -1,0 +1,1 @@
+{"id":"8e9ab50b048f36282d1eea53a163c17d","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#useOrderMoneyReadiness subtracts the current order outstanding from the prior balance","name":"subtracts the current order outstanding from the prior balance","status":"passed","testResultsByEnv":{"default":"262546a0499e8836e44a15b5bafca1c2"}}

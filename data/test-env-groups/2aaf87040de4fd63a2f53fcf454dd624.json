@@ -1,0 +1,1 @@
+{"id":"2aaf87040de4fd63a2f53fcf454dd624","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog shows toast when submitting without subject","name":"shows toast when submitting without subject","status":"passed","testResultsByEnv":{"default":"4b633d547a28e7dcd8a9f81ef3804d71"}}

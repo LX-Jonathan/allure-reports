@@ -1,0 +1,1 @@
+{"id":"d22c0452c7cf9f2b988e6d30d8821841","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Generic Reports via /reports/:reportName returns 200 for report \"collected-amount\"","name":"returns 200 for report \"collected-amount\"","status":"passed","testResultsByEnv":{"default":"751aadd1ebba0027f997685dd09d39b7"}}

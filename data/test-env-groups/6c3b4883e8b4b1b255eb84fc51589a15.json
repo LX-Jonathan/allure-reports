@@ -1,0 +1,1 @@
+{"id":"6c3b4883e8b4b1b255eb84fc51589a15","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes GET /api/onboarding/:flowId/terms returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"e1128223ca7f1c3ea47cb8f6643f8ae7"}}

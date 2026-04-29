@@ -1,0 +1,1 @@
+{"id":"a545d1002b835eb57fcc3e975d01cbd5","fullName":"client/src/components/__tests__/drivers-license-scanner.test.tsx#DriversLicenseScanner tries fallback camera constraints when first attempt fails","name":"tries fallback camera constraints when first attempt fails","status":"passed","testResultsByEnv":{"default":"cc8f395b6f6b826785e24e830ecc7d3c"}}

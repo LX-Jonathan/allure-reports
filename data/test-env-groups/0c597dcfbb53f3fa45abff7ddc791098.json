@@ -1,0 +1,1 @@
+{"id":"0c597dcfbb53f3fa45abff7ddc791098","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes PATCH /:id returns 403 when partner belongs to different org","name":"returns 403 when partner belongs to different org","status":"passed","testResultsByEnv":{"default":"cacdc2e1f43fd3286a9c582bf737539e"}}

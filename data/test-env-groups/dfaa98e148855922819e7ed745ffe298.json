@@ -1,0 +1,1 @@
+{"id":"dfaa98e148855922819e7ed745ffe298","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /invoices/:invoiceId returns 404 when invoice not found","name":"returns 404 when invoice not found","status":"passed","testResultsByEnv":{"default":"ca029f7588ff759eb8036ba93e2caf5b"}}

@@ -1,0 +1,1 @@
+{"id":"2d7f4a1e01898aabae38d56a1126e0f1","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create MRN generation should generate MRN for new patient","name":"should generate MRN for new patient","status":"passed","testResultsByEnv":{"default":"6c81729e776439e38a12b64d30398471"}}

@@ -1,0 +1,1 @@
+{"id":"0c29ed870d2fcd4ef9d6eb787cfbac6c","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findManyPaginated should preserve orderBy option","name":"should preserve orderBy option","status":"passed","testResultsByEnv":{"default":"2c33f0493702f25c19c773f8c314bd50"}}

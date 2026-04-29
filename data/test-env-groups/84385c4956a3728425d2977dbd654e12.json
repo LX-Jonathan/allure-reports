@@ -1,0 +1,1 @@
+{"id":"84385c4956a3728425d2977dbd654e12","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages returns 404 when thread not owned","name":"returns 404 when thread not owned","status":"passed","testResultsByEnv":{"default":"034b6057bf4bfd0f960d621af37dd899"}}

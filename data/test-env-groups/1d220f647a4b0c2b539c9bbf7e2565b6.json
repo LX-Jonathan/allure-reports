@@ -1,0 +1,1 @@
+{"id":"1d220f647a4b0c2b539c9bbf7e2565b6","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should return empty string for empty input","name":"should return empty string for empty input","status":"passed","testResultsByEnv":{"default":"7317148143adee127552a9ebe8e8be1e"}}

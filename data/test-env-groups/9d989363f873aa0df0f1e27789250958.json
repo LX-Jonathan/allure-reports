@@ -1,0 +1,1 @@
+{"id":"9d989363f873aa0df0f1e27789250958","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes DELETE /api/v1/super-orgs/:id should delete a super org with no children","name":"should delete a super org with no children","status":"passed","testResultsByEnv":{"default":"2a46a23ba9d6900d76e6d1e29ef962b8"}}

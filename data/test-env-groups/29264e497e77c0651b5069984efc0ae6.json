@@ -1,0 +1,1 @@
+{"id":"29264e497e77c0651b5069984efc0ae6","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should return default mask for SSN with more than 9 digits","name":"should return default mask for SSN with more than 9 digits","status":"passed","testResultsByEnv":{"default":"039566e3c056e6af860ca8ec0be34b76"}}

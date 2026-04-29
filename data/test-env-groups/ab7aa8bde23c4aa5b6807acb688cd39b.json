@@ -1,0 +1,1 @@
+{"id":"ab7aa8bde23c4aa5b6807acb688cd39b","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should detect and clear stale cache","name":"should detect and clear stale cache","status":"passed","testResultsByEnv":{"default":"ac49af0bd688ba303c688e64ee68eb86"}}

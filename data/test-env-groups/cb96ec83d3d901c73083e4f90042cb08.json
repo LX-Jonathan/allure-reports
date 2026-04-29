@@ -1,0 +1,1 @@
+{"id":"cb96ec83d3d901c73083e4f90042cb08","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/:kitId/results (Staff Portal - Submit Kit Results) returns 404 when kit belongs to different org","name":"returns 404 when kit belongs to different org","status":"passed","testResultsByEnv":{"default":"63d1dd13b69bba24d8ac16329fb94e5a"}}

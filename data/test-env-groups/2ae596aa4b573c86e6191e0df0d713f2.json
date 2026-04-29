@@ -1,0 +1,1 @@
+{"id":"2ae596aa4b573c86e6191e0df0d713f2","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes GET /locations/:id/providers returns providers for location","name":"returns providers for location","status":"passed","testResultsByEnv":{"default":"1a4f98aaedc99ff01ed09dc848c7c34b"}}

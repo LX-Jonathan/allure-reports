@@ -1,0 +1,1 @@
+{"id":"e4256138204b82ed22d0c1b30880d839","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id (archive) returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"6052484d8d69435d279a11387248b179"}}

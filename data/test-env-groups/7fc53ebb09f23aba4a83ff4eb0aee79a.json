@@ -1,0 +1,1 @@
+{"id":"7fc53ebb09f23aba4a83ff4eb0aee79a","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 400 when paymentIntentId is missing","name":"returns 400 when paymentIntentId is missing","status":"passed","testResultsByEnv":{"default":"f96b21ebbfd454d4b7fdfdafbeb9b8a8"}}

@@ -1,0 +1,1 @@
+{"id":"1c88367f0be2fa0c00c0090e6247c00a","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/notify-results returns 400 when no phone on file","name":"returns 400 when no phone on file","status":"passed","testResultsByEnv":{"default":"6853fe8229e66fa8adc44b4446e05025"}}

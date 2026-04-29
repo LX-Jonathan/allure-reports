@@ -1,0 +1,1 @@
+{"id":"958b6302ff7a6e043ed0e88f2f0895fc","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 201 with per_location pricing and verifies location count","name":"returns 201 with per_location pricing and verifies location count","status":"passed","testResultsByEnv":{"default":"c8f5c5416708b78c2aafdd2ab4b53670"}}

@@ -1,0 +1,1 @@
+{"id":"068089b41deb54f8175beebf775209fa","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"c609772c0eca4679daae4b1d7f9a67c3"}}

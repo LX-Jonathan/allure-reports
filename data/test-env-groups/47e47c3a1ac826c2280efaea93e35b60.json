@@ -1,0 +1,1 @@
+{"id":"47e47c3a1ac826c2280efaea93e35b60","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules getAppointmentById returns appointment with relations","name":"returns appointment with relations","status":"passed","testResultsByEnv":{"default":"d6d07ac2e205571e1e241093ede51a0a"}}

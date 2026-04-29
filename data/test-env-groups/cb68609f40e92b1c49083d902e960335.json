@@ -1,0 +1,1 @@
+{"id":"cb68609f40e92b1c49083d902e960335","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should prefer CMS entry without modifier as primary","name":"should prefer CMS entry without modifier as primary","status":"passed","testResultsByEnv":{"default":"4b39624c286eb8b6ed74e768bd80a1d5"}}

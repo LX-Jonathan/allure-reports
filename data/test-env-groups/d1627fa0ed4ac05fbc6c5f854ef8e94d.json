@@ -1,0 +1,1 @@
+{"id":"d1627fa0ed4ac05fbc6c5f854ef8e94d","fullName":"client/src/components/orders/__tests__/claims-sidecar.test.tsx#computeMarketRates returns empty array for undefined items","name":"returns empty array for undefined items","status":"passed","testResultsByEnv":{"default":"6d4e8d50e0c4727349b3ca09ae43f1dc"}}

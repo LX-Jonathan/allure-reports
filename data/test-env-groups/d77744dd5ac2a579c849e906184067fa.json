@@ -1,0 +1,1 @@
+{"id":"d77744dd5ac2a579c849e906184067fa","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/messages returns 400 when sending to archived conversation","name":"returns 400 when sending to archived conversation","status":"passed","testResultsByEnv":{"default":"f074ea87f6d877fa7848fd9eb686500a"}}

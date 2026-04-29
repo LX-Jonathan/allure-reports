@@ -1,0 +1,1 @@
+{"id":"d7683a5109294848170b20e9937bbf34","fullName":"server/__tests__/worker-process.test.ts#worker-process module initialization should call start function on module load","name":"should call start function on module load","status":"passed","testResultsByEnv":{"default":"d13d4addad6194de98585e4b20c164ea"}}

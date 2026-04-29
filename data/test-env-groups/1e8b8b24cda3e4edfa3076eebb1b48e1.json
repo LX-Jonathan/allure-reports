@@ -1,0 +1,1 @@
+{"id":"1e8b8b24cda3e4edfa3076eebb1b48e1","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should require provider linked user for signature-required orders","name":"should require provider linked user for signature-required orders","status":"passed","testResultsByEnv":{"default":"e85d0af2046c762a7a38c60428dcbc76"}}

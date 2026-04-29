@@ -1,0 +1,1 @@
+{"id":"f959c26a1149dcc4058dbe1d9141f1f6","fullName":"server/__tests__/stripeConfig.test.ts#stripeConfig verifyStripeSecretKey returns ok:true with account info when Stripe accepts the key","name":"returns ok:true with account info when Stripe accepts the key","status":"passed","testResultsByEnv":{"default":"165bf9863eac97153793b05845b45fde"}}

@@ -1,0 +1,1 @@
+{"id":"d406bd65ca20f7c6f23f09392750bab2","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Data Access Filter Enforcement GET /hie-records calls getDataAccessFilter with req.user","name":"GET /hie-records calls getDataAccessFilter with req.user","status":"passed","testResultsByEnv":{"default":"c8cda2b9cdf8cc7c77378bf7c638f66f"}}

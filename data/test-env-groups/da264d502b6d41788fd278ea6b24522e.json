@@ -1,0 +1,1 @@
+{"id":"da264d502b6d41788fd278ea6b24522e","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment handles SGD response with fewer than 2 values","name":"checkEnvironment handles SGD response with fewer than 2 values","status":"passed","testResultsByEnv":{"default":"5ac6f76f2c3f9706aecf7a50b5dd4ec9"}}

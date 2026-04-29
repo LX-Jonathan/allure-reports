@@ -1,0 +1,1 @@
+{"id":"58ab8c2ffd3eb37498719de508cc291e","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/check returns ssoAvailable: true when domain matches","name":"returns ssoAvailable: true when domain matches","status":"passed","testResultsByEnv":{"default":"ef9829b3ab195de7179e0782ca274bdf"}}

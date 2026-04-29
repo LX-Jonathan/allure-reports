@@ -1,0 +1,1 @@
+{"id":"5f5ae97a410548b108e35397cfad901e","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes PATCH /:id returns 500 when db throws non-ZodError","name":"returns 500 when db throws non-ZodError","status":"passed","testResultsByEnv":{"default":"e927a65d9198368538c8b56cdf7b9a0d"}}

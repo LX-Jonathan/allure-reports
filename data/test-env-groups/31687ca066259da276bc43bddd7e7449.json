@@ -1,0 +1,1 @@
+{"id":"31687ca066259da276bc43bddd7e7449","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#isMarketplaceProfileFallbackOnly returns true when profile is null","name":"returns true when profile is null","status":"passed","testResultsByEnv":{"default":"838b4eb2db5a08f45e6d14c56793212d"}}

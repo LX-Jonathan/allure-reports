@@ -1,0 +1,1 @@
+{"id":"418211b2fc797ee1dc67a812a5746c5b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/demographic-verifications returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"a6900d58468dcbc59b9d63003218ff23"}}

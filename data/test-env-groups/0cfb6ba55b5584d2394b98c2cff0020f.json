@@ -1,0 +1,1 @@
+{"id":"0cfb6ba55b5584d2394b98c2cff0020f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-lookup returns 200 with provider data for valid NPI","name":"returns 200 with provider data for valid NPI","status":"passed","testResultsByEnv":{"default":"21589cbc17633b10152a0f81536e7733"}}

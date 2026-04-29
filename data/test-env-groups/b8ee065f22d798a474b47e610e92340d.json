@@ -1,0 +1,1 @@
+{"id":"b8ee065f22d798a474b47e610e92340d","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxies/invite validates input via zod","name":"validates input via zod","status":"passed","testResultsByEnv":{"default":"f762d020d8a1f4a4cd002794f30915d7"}}

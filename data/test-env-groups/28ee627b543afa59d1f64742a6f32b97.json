@@ -1,0 +1,1 @@
+{"id":"28ee627b543afa59d1f64742a6f32b97","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service getAndromedaReadinessSummary should delegate to storage and return result","name":"should delegate to storage and return result","status":"passed","testResultsByEnv":{"default":"ee4d7cef34a323079967a4521ca59f74"}}

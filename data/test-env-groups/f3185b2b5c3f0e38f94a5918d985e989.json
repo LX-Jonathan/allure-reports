@@ -1,0 +1,1 @@
+{"id":"f3185b2b5c3f0e38f94a5918d985e989","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanDriversLicense should use default confidence of 0.5 when not provided","name":"should use default confidence of 0.5 when not provided","status":"passed","testResultsByEnv":{"default":"16c7c4d80a881384ea5afa4fa5121a5c"}}

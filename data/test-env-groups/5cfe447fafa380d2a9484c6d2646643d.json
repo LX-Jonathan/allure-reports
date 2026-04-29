@@ -1,0 +1,1 @@
+{"id":"5cfe447fafa380d2a9484c6d2646643d","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management Error handling - DB rejections propagate setUserOrganizationAssignments throws on delete failure","name":"setUserOrganizationAssignments throws on delete failure","status":"passed","testResultsByEnv":{"default":"94ef91a765ae17b1e4dc06b653cd2251"}}

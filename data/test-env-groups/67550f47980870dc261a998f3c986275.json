@@ -1,0 +1,1 @@
+{"id":"67550f47980870dc261a998f3c986275","fullName":"server/lib/__tests__/sms.test.ts#sms isSmsConfigured should return true when all three env vars are set","name":"should return true when all three env vars are set","status":"passed","testResultsByEnv":{"default":"eb57a7206d9bde9007219b5fbf11df9e"}}

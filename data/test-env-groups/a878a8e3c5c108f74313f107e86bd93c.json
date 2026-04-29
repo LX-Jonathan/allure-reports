@@ -1,0 +1,1 @@
+{"id":"a878a8e3c5c108f74313f107e86bd93c","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusLabel returns the raw status string for unknown statuses","name":"returns the raw status string for unknown statuses","status":"passed","testResultsByEnv":{"default":"1095916ea74fba80b117320876247c1c"}}

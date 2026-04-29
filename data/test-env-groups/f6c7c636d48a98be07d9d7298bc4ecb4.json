@@ -1,0 +1,1 @@
+{"id":"f6c7c636d48a98be07d9d7298bc4ecb4","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler should handle loadPersistedJobStatuses error gracefully","name":"should handle loadPersistedJobStatuses error gracefully","status":"passed","testResultsByEnv":{"default":"90f4832c75a3a749b8dc4fe2baa8d6f9"}}

@@ -1,0 +1,1 @@
+{"id":"10c1154f68e20b28ebdd026206767958","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should emit at least one progress update per processed chunk","name":"should emit at least one progress update per processed chunk","status":"passed","testResultsByEnv":{"default":"b84063f5c744c21fb1a74d4679701b58"}}

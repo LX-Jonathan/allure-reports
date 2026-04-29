@@ -1,0 +1,1 @@
+{"id":"9969b005e95d1840a946d02c6d5d5e03","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service retrieveArtifact should return the buffer from downloadDocument","name":"should return the buffer from downloadDocument","status":"passed","testResultsByEnv":{"default":"0a1c22d511529c240ae6415c671ca3e0"}}

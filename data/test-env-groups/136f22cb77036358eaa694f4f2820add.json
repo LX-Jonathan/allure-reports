@@ -1,0 +1,1 @@
+{"id":"136f22cb77036358eaa694f4f2820add","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda isAndromedaConfigured should return false when client secret is missing","name":"should return false when client secret is missing","status":"passed","testResultsByEnv":{"default":"dbc3e9df764eebb99ce17bd38e94088c"}}

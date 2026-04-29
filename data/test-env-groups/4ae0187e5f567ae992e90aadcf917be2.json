@@ -1,0 +1,1 @@
+{"id":"4ae0187e5f567ae992e90aadcf917be2","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard breakdown formatting renders account credit as a USD string when present","name":"renders account credit as a USD string when present","status":"passed","testResultsByEnv":{"default":"b9b5832cba49a984b0134ccfa166a80f"}}

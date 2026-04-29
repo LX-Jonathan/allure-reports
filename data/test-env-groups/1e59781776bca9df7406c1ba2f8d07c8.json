@@ -1,0 +1,1 @@
+{"id":"1e59781776bca9df7406c1ba2f8d07c8","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/assignments clears existing default when isDefault is true","name":"clears existing default when isDefault is true","status":"passed","testResultsByEnv":{"default":"9bc0e8d35795ad926b586adf865b474c"}}

@@ -1,0 +1,1 @@
+{"id":"d657a1be2ec23e0e2b3f5b8e94fcfc56","fullName":"client/src/lib/__tests__/return-to.test.ts#sanitizeReturnTo returns null for non-relative paths","name":"returns null for non-relative paths","status":"passed","testResultsByEnv":{"default":"95db9d2550ee7b97f8f39c22dd13a0de"}}

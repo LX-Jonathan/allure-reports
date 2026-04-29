@@ -1,0 +1,1 @@
+{"id":"c31aab13a94e539551ae3764807419ac","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob error handling should throw error when processUploadedFile returns no scannedOrder","name":"should throw error when processUploadedFile returns no scannedOrder","status":"passed","testResultsByEnv":{"default":"3b0ce896e721956ab7e6a023e366f49a"}}

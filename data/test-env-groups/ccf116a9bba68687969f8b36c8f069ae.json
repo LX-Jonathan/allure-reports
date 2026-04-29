@@ -1,0 +1,1 @@
+{"id":"ccf116a9bba68687969f8b36c8f069ae","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment reuses a supplied executor without opening a new transaction","name":"reuses a supplied executor without opening a new transaction","status":"passed","testResultsByEnv":{"default":"029f74a49c1b82279c6c6d76c453106c"}}

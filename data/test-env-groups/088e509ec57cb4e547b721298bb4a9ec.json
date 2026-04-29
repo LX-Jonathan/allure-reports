@@ -1,0 +1,1 @@
+{"id":"088e509ec57cb4e547b721298bb4a9ec","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/insurance/:insuranceId returns 400 when no fields to update","name":"returns 400 when no fields to update","status":"passed","testResultsByEnv":{"default":"245e62a838f21ea9154ff9c268a1ae14"}}

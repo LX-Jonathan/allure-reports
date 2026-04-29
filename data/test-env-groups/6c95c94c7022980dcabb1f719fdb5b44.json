@@ -1,0 +1,1 @@
+{"id":"6c95c94c7022980dcabb1f719fdb5b44","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#gatherDocuments should create letter of medical necessity when line items present","name":"should create letter of medical necessity when line items present","status":"passed","testResultsByEnv":{"default":"ec68f8beaf002b2f9cda37cba4ced2b4"}}

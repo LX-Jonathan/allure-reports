@@ -1,0 +1,1 @@
+{"id":"68a11b554e8bddae9bbb9d4361173378","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/notify-results should return 400 without method","name":"should return 400 without method","status":"passed","testResultsByEnv":{"default":"d71a89078a3c10fb1afe2d86b5076182"}}

@@ -1,0 +1,1 @@
+{"id":"19d71e7d23b91fcc0b62add0560e168b","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/filters/:field should accept all valid filter fields","name":"should accept all valid filter fields","status":"passed","testResultsByEnv":{"default":"e3b36014d2e043193b2c6dc4d0e6f828"}}

@@ -1,0 +1,1 @@
+{"id":"58c0cbef29d5e06d8fa04514fbfcf238","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan deleteBulkScanBatch should return true when batch deleted","name":"should return true when batch deleted","status":"passed","testResultsByEnv":{"default":"da7e15ba6381ce1dd9d8d5c4352269f7"}}

@@ -1,0 +1,1 @@
+{"id":"82a85306a06a523ec81c5fef127d797a","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes GET /stats returns aggregated stats for full-access user","name":"returns aggregated stats for full-access user","status":"passed","testResultsByEnv":{"default":"0f830d856d7a9ef4df846d69af53cb2b"}}

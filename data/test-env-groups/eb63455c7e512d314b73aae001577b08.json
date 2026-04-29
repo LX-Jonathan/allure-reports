@@ -1,0 +1,1 @@
+{"id":"eb63455c7e512d314b73aae001577b08","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints DELETE /api/v1/lxu/admin/quickstarts/:id returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"ffc204827f4b67934a91970c49402fe7"}}

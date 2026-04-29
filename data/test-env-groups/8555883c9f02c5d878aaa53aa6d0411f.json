@@ -1,0 +1,1 @@
+{"id":"8555883c9f02c5d878aaa53aa6d0411f","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET / uses parentLabId from user context","name":"uses parentLabId from user context","status":"passed","testResultsByEnv":{"default":"8e363aa0b7c470b1c176b1cb6b30ef55"}}

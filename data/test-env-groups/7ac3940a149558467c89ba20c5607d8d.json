@@ -1,0 +1,1 @@
+{"id":"7ac3940a149558467c89ba20c5607d8d","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requirePermission should work with any permission string","name":"should work with any permission string","status":"passed","testResultsByEnv":{"default":"7aa87fdd944a0ee6366cf16bc6771d8b"}}

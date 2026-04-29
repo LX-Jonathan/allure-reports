@@ -1,0 +1,1 @@
+{"id":"7a66c313b673af25199dc3e866780795","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes PATCH /api/v1/biometrics/:id returns 500 when update returns null","name":"returns 500 when update returns null","status":"passed","testResultsByEnv":{"default":"0abc84fc2ab771d3243a5922ff41c169"}}

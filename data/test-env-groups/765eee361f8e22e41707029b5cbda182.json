@@ -1,0 +1,1 @@
+{"id":"765eee361f8e22e41707029b5cbda182","fullName":"client/src/pages/__tests__/stripe-payment-config.test.tsx#StripePaymentConfigPage verify-failure health banner renders the threshold-trip banner when the tracker is alerted","name":"renders the threshold-trip banner when the tracker is alerted","status":"passed","testResultsByEnv":{"default":"be0bf9c51b8455d179ede5eb5ae7cd85"}}

@@ -1,0 +1,1 @@
+{"id":"593b8680712b61de15e1d45b4ebdf3bf","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes PATCH /users/:userId/status returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"49be40de2b37b181baf92bfd3f39eab6"}}

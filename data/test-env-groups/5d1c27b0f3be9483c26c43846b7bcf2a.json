@@ -1,0 +1,1 @@
+{"id":"5d1c27b0f3be9483c26c43846b7bcf2a","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import/:id/confirm returns 202 on successful confirmation","name":"returns 202 on successful confirmation","status":"passed","testResultsByEnv":{"default":"63187700f9a23a28e69205606c36a68f"}}

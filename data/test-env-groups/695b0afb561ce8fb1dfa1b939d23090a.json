@@ -1,0 +1,1 @@
+{"id":"695b0afb561ce8fb1dfa1b939d23090a","fullName":"server/routes/__tests__/index.routes.test.ts#Routes Index Email configuration logs SendGrid not configured when email is not configured","name":"logs SendGrid not configured when email is not configured","status":"passed","testResultsByEnv":{"default":"6b93306ca7bc1850db28cc5430dc52b7"}}

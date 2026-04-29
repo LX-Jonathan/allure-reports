@@ -1,0 +1,1 @@
+{"id":"565e78d1253251ff00befd18d9c0c9f0","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient sends patient email when notifyPatient is enabled for super org","name":"sends patient email when notifyPatient is enabled for super org","status":"passed","testResultsByEnv":{"default":"accc0a32852e3a3efbbc4513b39180da"}}

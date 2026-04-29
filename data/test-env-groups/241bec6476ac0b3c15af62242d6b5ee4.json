@@ -1,0 +1,1 @@
+{"id":"241bec6476ac0b3c15af62242d6b5ee4","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should return failure when sync result indicates failure","name":"should return failure when sync result indicates failure","status":"passed","testResultsByEnv":{"default":"952031bc1c2309b5369c490b86f5185b"}}

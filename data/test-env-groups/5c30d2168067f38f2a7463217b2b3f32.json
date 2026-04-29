@@ -1,0 +1,1 @@
+{"id":"5c30d2168067f38f2a7463217b2b3f32","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions POST /:id/transition rejects illegal transitions with the allowed list","name":"rejects illegal transitions with the allowed list","status":"passed","testResultsByEnv":{"default":"b04c15a39c89d0094542b0c5cffdb2c5"}}

@@ -1,0 +1,1 @@
+{"id":"8aaae728e4cb3125ad25909840bfa57e","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions GET /pos/drawers/current returns 403 when user location does not match","name":"returns 403 when user location does not match","status":"passed","testResultsByEnv":{"default":"97fefe49500669b3d43d9d3664208046"}}

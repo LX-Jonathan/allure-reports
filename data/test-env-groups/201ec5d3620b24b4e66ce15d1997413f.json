@@ -1,0 +1,1 @@
+{"id":"201ec5d3620b24b4e66ce15d1997413f","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan openCircuitBreaker should update existing circuit breaker with isOpen=true","name":"should update existing circuit breaker with isOpen=true","status":"passed","testResultsByEnv":{"default":"a1e5dfe3b873454a60e5e4f9372b7733"}}

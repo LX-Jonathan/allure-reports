@@ -1,0 +1,1 @@
+{"id":"47332d7046c9653a60d81712f57fa9e4","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateProviderRules emits MISSING_NPI as warning for external source","name":"emits MISSING_NPI as warning for external source","status":"passed","testResultsByEnv":{"default":"01573fa4fbf35dd4f9161be9d5c2739e"}}

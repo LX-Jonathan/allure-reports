@@ -1,0 +1,1 @@
+{"id":"0a10a5d8fd9a141762dcc6c7a25164f0","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 201 on successful invitation","name":"returns 201 on successful invitation","status":"passed","testResultsByEnv":{"default":"1e98293b20a213ac619b86968c6af3d1"}}

@@ -1,0 +1,1 @@
+{"id":"b3e517db243aff58c6b8ffc4cb017aff","fullName":"server/jobs/__tests__/marketplace-geocode.test.ts#backfillMarketplaceGeocodes geocodes stale rows and persists coordinates","name":"geocodes stale rows and persists coordinates","status":"passed","testResultsByEnv":{"default":"f1d34cc845e664aec2e35efb93c19e41"}}

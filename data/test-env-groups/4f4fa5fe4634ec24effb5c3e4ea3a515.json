@@ -1,0 +1,1 @@
+{"id":"4f4fa5fe4634ec24effb5c3e4ea3a515","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /tables/:tableName/schema returns 200 with column schema","name":"returns 200 with column schema","status":"passed","testResultsByEnv":{"default":"06e04b18aeea1b11fc17b5d59d60d2af"}}

@@ -1,0 +1,1 @@
+{"id":"b1ad384592fbfd0321564e0b8101290f","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications Routes PATCH /api/v1/medications/:id/favorite returns 400 when isFavorite is missing","name":"returns 400 when isFavorite is missing","status":"passed","testResultsByEnv":{"default":"18cca02f70d878fb3ac5f87af234725e"}}

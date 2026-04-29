@@ -1,0 +1,1 @@
+{"id":"2b083483fbf9ba3fb4a8af358c6d7d04","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id deletes a company with no assignments","name":"deletes a company with no assignments","status":"passed","testResultsByEnv":{"default":"8124bc6b2784a7ef9ebf5502a4256bd4"}}

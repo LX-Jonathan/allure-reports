@@ -1,0 +1,1 @@
+{"id":"451370909f71a09da7f042b7749aa1e8","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes GET /counts/:parentLabId returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"2b7299271a7af439eba89ab8f4cc0dc9"}}

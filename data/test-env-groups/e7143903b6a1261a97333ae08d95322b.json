@@ -1,0 +1,1 @@
+{"id":"e7143903b6a1261a97333ae08d95322b","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePreprocessedImage should always use .png extension","name":"should always use .png extension","status":"passed","testResultsByEnv":{"default":"ce49ab052ee1f50975f10a0f56cc366a"}}

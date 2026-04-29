@@ -1,0 +1,1 @@
+{"id":"b741b93567cde9cff059cb7514d7df62","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Refresh Tokens revokeAllUserRefreshTokens should set revokedAt for all user tokens","name":"should set revokedAt for all user tokens","status":"passed","testResultsByEnv":{"default":"93f8f00607d7fbf79618c68dd3cb2aa5"}}

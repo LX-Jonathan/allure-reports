@@ -1,0 +1,1 @@
+{"id":"ef8070796bf2373582ea7ab2f20f3db5","fullName":"server/routes/__tests__/patient-portal-saved-recipients.routes.test.ts#Patient Portal — saved recipients CRUD requires patient auth for all saved-recipient endpoints","name":"requires patient auth for all saved-recipient endpoints","status":"passed","testResultsByEnv":{"default":"cf2704e1a6559c57c8af045ac78beba0"}}

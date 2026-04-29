@@ -1,0 +1,1 @@
+{"id":"bc96bf375d77e2af6fc750ad11bd9247","fullName":"client/src/components/patient/__tests__/lab-attention-section.test.tsx#LabIssuesBadge renders nothing when count is zero","name":"renders nothing when count is zero","status":"passed","testResultsByEnv":{"default":"da2c60089695690c1c9b313a85999d81"}}

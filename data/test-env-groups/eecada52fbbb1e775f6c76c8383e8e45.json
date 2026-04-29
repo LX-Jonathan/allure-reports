@@ -1,0 +1,1 @@
+{"id":"eecada52fbbb1e775f6c76c8383e8e45","fullName":"server/lib/__tests__/email.test.ts#email sendDtcShippingUpdateEmail sends shipping update with order number in subject","name":"sends shipping update with order number in subject","status":"passed","testResultsByEnv":{"default":"4faa19d3401cb53ac54bfd6123406688"}}

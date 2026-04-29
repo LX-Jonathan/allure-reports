@@ -1,0 +1,1 @@
+{"id":"dd8c5c26c496852696745b41aea01d3b","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies returns paginated list of companies with enrichment counts","name":"returns paginated list of companies with enrichment counts","status":"passed","testResultsByEnv":{"default":"3dd4b8f7401041b1aaa5a7a69dfe2484"}}

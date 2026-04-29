@@ -1,0 +1,1 @@
+{"id":"1fe1f2bd276c656a2c0941872d3f2998","fullName":"server/lib/__tests__/guarantor-access.test.ts#inferRequiredScopeFromAction maps 'fee_estimate_view' -> billing","name":"maps 'fee_estimate_view' -> billing","status":"passed","testResultsByEnv":{"default":"50d1ddec84e0be8353a3e181705f3dd9"}}

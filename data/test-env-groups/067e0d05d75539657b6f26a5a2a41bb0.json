@@ -1,0 +1,1 @@
+{"id":"067e0d05d75539657b6f26a5a2a41bb0","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendSms per-lab consent guardrail blocks non-transactional sends when no granted consent exists","name":"blocks non-transactional sends when no granted consent exists","status":"passed","testResultsByEnv":{"default":"19cbeeee25e5b43ffef2192d0c8142aa"}}

@@ -1,0 +1,1 @@
+{"id":"5c2cdf701ff9ec856a51bc14f4c570fa","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports/:id/shares returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"9ba0763086e346b84f3536a9150c06a6"}}

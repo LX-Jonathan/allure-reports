@@ -1,0 +1,1 @@
+{"id":"f9ed5c3d1d4151c60278a391ff815818","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET / returns 400 for invalid query params","name":"returns 400 for invalid query params","status":"passed","testResultsByEnv":{"default":"158e5373f1bc863b15eb4dae00dc0200"}}

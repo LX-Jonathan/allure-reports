@@ -1,0 +1,1 @@
+{"id":"e81ea9855efa2dec40dd1bf7a68655e9","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/logo returns 404 when company not found","name":"returns 404 when company not found","status":"passed","testResultsByEnv":{"default":"76789ba124eee96e8677251fb1fd1889"}}

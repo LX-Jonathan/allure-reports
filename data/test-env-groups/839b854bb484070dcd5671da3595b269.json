@@ -1,0 +1,1 @@
+{"id":"839b854bb484070dcd5671da3595b269","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should queue order for Andromeda when configured and order is not draft","name":"should queue order for Andromeda when configured and order is not draft","status":"passed","testResultsByEnv":{"default":"3c4d0273a382ecd57e9e0238399edb62"}}

@@ -1,0 +1,1 @@
+{"id":"1a8525ce71fdae9941ef8d06297cb514","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/companies/:companyId/plans/:planId returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"9903d007a03ae7f5bc15bd42d0e8e369"}}

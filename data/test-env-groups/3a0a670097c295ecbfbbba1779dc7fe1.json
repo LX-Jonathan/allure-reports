@@ -1,0 +1,1 @@
+{"id":"3a0a670097c295ecbfbbba1779dc7fe1","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService deleteById (protected) should return false when record not found","name":"should return false when record not found","status":"passed","testResultsByEnv":{"default":"74830e0c1a247a82d37dfd8d4b2f7875"}}

@@ -1,0 +1,1 @@
+{"id":"c774f0d1230d92b32bb5ab66143c8c70","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest throws on non-ok response with JSON error field","name":"throws on non-ok response with JSON error field","status":"passed","testResultsByEnv":{"default":"1a7f0d9132cced5e120b796c5f436957"}}

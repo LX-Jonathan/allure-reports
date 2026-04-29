@@ -1,0 +1,1 @@
+{"id":"24ee5829c0d726d45dd5b085ee66eb8b","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext user type detection defaults to lab_client when userType is missing","name":"defaults to lab_client when userType is missing","status":"passed","testResultsByEnv":{"default":"4e5e692ea4f6ec7c4098ebf6b1530182"}}

@@ -1,0 +1,1 @@
+{"id":"389602823abaadbba88e161ffc28aa4f","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner calls onScanComplete and closes on confirm","name":"calls onScanComplete and closes on confirm","status":"passed","testResultsByEnv":{"default":"8b1346437d81b055dcf039c6de321963"}}

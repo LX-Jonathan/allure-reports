@@ -1,0 +1,1 @@
+{"id":"a825b7d8af31a3150df50211e9214fea","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId/messages/:messageId/file returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"7195a6befaf4fca7d95a77e64c653683"}}

@@ -1,0 +1,1 @@
+{"id":"2cfb0d0a24a1c7fe2d1d3aa19bac8bf8","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should extract text from image buffer successfully","name":"should extract text from image buffer successfully","status":"passed","testResultsByEnv":{"default":"7ee65ba196b908e27dabb529e853e412"}}

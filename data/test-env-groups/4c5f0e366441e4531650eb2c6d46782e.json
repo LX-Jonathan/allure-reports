@@ -1,0 +1,1 @@
+{"id":"4c5f0e366441e4531650eb2c6d46782e","fullName":"server/__tests__/verification-confidence.test.ts#deriveEligibilityExtractionConfidence returns null fieldConfidence when no fields were surfaced","name":"returns null fieldConfidence when no fields were surfaced","status":"passed","testResultsByEnv":{"default":"2733f7de1c765e0e8077c3c8e43ff984"}}

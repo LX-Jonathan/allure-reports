@@ -1,0 +1,1 @@
+{"id":"32b7e7792bf6b1f8e15b32bde5a09a36","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#evaluateCircuitBreaker should not open circuit when error rate is below threshold","name":"should not open circuit when error rate is below threshold","status":"passed","testResultsByEnv":{"default":"d96546bf1afe96e568af6359a11b2422"}}

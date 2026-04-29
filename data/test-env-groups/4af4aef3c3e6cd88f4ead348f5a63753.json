@@ -1,0 +1,1 @@
+{"id":"4af4aef3c3e6cd88f4ead348f5a63753","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import returns 400 when neither parentLabId nor labId provided","name":"returns 400 when neither parentLabId nor labId provided","status":"passed","testResultsByEnv":{"default":"91734bd942604964f84830ddacc2612e"}}

@@ -1,0 +1,1 @@
+{"id":"9e771244295fb1d584dcaa9572124859","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxy-invitations/:code indicates requiresAccountSetup when no portal user exists","name":"indicates requiresAccountSetup when no portal user exists","status":"passed","testResultsByEnv":{"default":"79b66622842d5c96912d7dcc2c370895"}}

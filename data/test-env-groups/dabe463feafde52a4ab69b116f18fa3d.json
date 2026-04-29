@@ -1,0 +1,1 @@
+{"id":"dabe463feafde52a4ab69b116f18fa3d","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo returns 500 when getSignedDownloadUrl throws","name":"returns 500 when getSignedDownloadUrl throws","status":"passed","testResultsByEnv":{"default":"fdbfa87b7abb442401ae1de886e826c2"}}

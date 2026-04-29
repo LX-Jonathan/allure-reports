@@ -1,0 +1,1 @@
+{"id":"6e866e5fe5a2f8ff54e2b544e36f6988","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets creates ticket with defaults for optional fields","name":"creates ticket with defaults for optional fields","status":"passed","testResultsByEnv":{"default":"b2818a00b918c2eec1e994e637ddc9fc"}}

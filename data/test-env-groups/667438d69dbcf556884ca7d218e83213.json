@@ -1,0 +1,1 @@
+{"id":"667438d69dbcf556884ca7d218e83213","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should handle null permissions on API key","name":"should handle null permissions on API key","status":"passed","testResultsByEnv":{"default":"58cf91d6173713f09f37339e41032aad"}}

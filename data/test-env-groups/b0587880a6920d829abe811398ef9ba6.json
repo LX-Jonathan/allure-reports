@@ -1,0 +1,1 @@
+{"id":"b0587880a6920d829abe811398ef9ba6","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/generate-abo returns 400 for invalid request body","name":"returns 400 for invalid request body","status":"passed","testResultsByEnv":{"default":"9294f59b783a3cf629b7b0722b2815e5"}}

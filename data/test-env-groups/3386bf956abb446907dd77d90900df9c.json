@@ -1,0 +1,1 @@
+{"id":"3386bf956abb446907dd77d90900df9c","fullName":"client/src/lib/__tests__/phone.test.ts#formatPhoneInput PH local format (leading 0, no mask) does not truncate after 10 digits when starting with 0","name":"does not truncate after 10 digits when starting with 0","status":"passed","testResultsByEnv":{"default":"1add6dbcca4983c4206ceacafce00223"}}

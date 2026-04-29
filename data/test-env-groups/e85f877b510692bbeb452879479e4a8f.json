@@ -1,0 +1,1 @@
+{"id":"e85f877b510692bbeb452879479e4a8f","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/lab-info should return 500 on server error","name":"should return 500 on server error","status":"passed","testResultsByEnv":{"default":"5f978e371f81659a5553ad5bc0e1db2a"}}

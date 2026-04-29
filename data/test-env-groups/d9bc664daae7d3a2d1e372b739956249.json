@@ -1,0 +1,1 @@
+{"id":"d9bc664daae7d3a2d1e372b739956249","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes PUT /api/v1/reports/:id/schedules/:scheduleId returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"2d585265a34ec8fbfb2c16748f19d24a"}}

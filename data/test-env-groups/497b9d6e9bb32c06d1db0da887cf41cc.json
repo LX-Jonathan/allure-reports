@@ -1,0 +1,1 @@
+{"id":"497b9d6e9bb32c06d1db0da887cf41cc","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/generate-abn returns 400 when format=pdf but no tests require ABN","name":"returns 400 when format=pdf but no tests require ABN","status":"passed","testResultsByEnv":{"default":"93b9c0cdb429c7bd94486f0f18b175f6"}}

@@ -1,0 +1,1 @@
+{"id":"d93288548f6cc2504b879092d5bf89fc","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#MarketplaceEditorPage hero logo control rejects an invalid logo URL without calling the API","name":"rejects an invalid logo URL without calling the API","status":"passed","testResultsByEnv":{"default":"4350716de3f51246c5e86ec5481e9d29"}}

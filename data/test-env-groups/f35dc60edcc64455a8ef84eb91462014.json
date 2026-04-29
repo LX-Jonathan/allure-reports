@@ -1,0 +1,1 @@
+{"id":"f35dc60edcc64455a8ef84eb91462014","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel printLabel returns false when printer not available","name":"printLabel returns false when printer not available","status":"passed","testResultsByEnv":{"default":"68a7e9719d0c98269e9cd5e884fbf4d2"}}

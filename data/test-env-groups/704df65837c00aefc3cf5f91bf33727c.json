@@ -1,0 +1,1 @@
+{"id":"704df65837c00aefc3cf5f91bf33727c","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createDedicatedConnection should create a dedicated connection when configured","name":"should create a dedicated connection when configured","status":"passed","testResultsByEnv":{"default":"ba989704a473cd10ae38e3a49c8c5b49"}}

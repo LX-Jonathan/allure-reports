@@ -1,0 +1,1 @@
+{"id":"cee1aa7194c2f32635999d97f62a3243","fullName":"client/src/hooks/__tests__/useFormConfig.test.ts#useFormConfig isFieldRequired returns false for non-mandatory fields when no config","name":"returns false for non-mandatory fields when no config","status":"passed","testResultsByEnv":{"default":"4e6a3b33c42310528a9b645f80d8882e"}}

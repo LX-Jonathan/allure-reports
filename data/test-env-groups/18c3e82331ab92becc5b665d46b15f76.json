@@ -1,0 +1,1 @@
+{"id":"18c3e82331ab92becc5b665d46b15f76","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientResultsReadyEmail should include portal URL in content","name":"should include portal URL in content","status":"passed","testResultsByEnv":{"default":"354a7223dd80cbb8ea12e60aed92bb9b"}}

@@ -1,0 +1,1 @@
+{"id":"07e6cff18ba639bbad5ee116e9092fd9","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns 400 when no parentLabId","name":"returns 400 when no parentLabId","status":"passed","testResultsByEnv":{"default":"89db729b6a9f8723ac48288b2810292d"}}

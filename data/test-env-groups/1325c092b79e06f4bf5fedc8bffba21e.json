@@ -1,0 +1,1 @@
+{"id":"1325c092b79e06f4bf5fedc8bffba21e","fullName":"client/src/components/__tests__/language-switcher.test.tsx#LanguageSwitcher switches the active language and persists to localStorage","name":"switches the active language and persists to localStorage","status":"passed","testResultsByEnv":{"default":"8af34cd321e3cd18163a777fa256f008"}}

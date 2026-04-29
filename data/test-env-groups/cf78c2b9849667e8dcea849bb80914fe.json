@@ -1,0 +1,1 @@
+{"id":"cf78c2b9849667e8dcea849bb80914fe","fullName":"shared/__tests__/financial-variance.test.ts#resolveCopayVarianceConfig returns the defaults when given a non-object input","name":"returns the defaults when given a non-object input","status":"passed","testResultsByEnv":{"default":"708f3b863fd5dbec05146d1fca526fae"}}

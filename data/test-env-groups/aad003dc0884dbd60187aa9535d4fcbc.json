@@ -1,0 +1,1 @@
+{"id":"aad003dc0884dbd60187aa9535d4fcbc","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/interface-routes/:routeId/messages returns messages for valid route ID","name":"returns messages for valid route ID","status":"passed","testResultsByEnv":{"default":"b9cc8d969e7c0f2c9dbae9a2d723acac"}}

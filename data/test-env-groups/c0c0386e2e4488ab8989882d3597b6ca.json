@@ -1,0 +1,1 @@
+{"id":"c0c0386e2e4488ab8989882d3597b6ca","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes POST /api/payment-plans returns 201 on valid creation","name":"returns 201 on valid creation","status":"passed","testResultsByEnv":{"default":"7ddc37ad89411d223e88ccf5d3deeb3c"}}

@@ -1,0 +1,1 @@
+{"id":"47fbfb63043511cda5ca926efdc98706","fullName":"server/lib/__tests__/email.test.ts#email sendEmail logs rate limit error for status 429","name":"logs rate limit error for status 429","status":"passed","testResultsByEnv":{"default":"443a7c0e8f9f072bce3b39fb4b93b72e"}}

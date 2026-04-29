@@ -1,0 +1,1 @@
+{"id":"c27dfc825ad79443de042f9cede0d268","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/search-patient searches patients successfully","name":"searches patients successfully","status":"passed","testResultsByEnv":{"default":"04c69132aff101f64cfef6fc7a2a07a2"}}

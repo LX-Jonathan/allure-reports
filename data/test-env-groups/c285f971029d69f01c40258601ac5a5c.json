@@ -1,0 +1,1 @@
+{"id":"c285f971029d69f01c40258601ac5a5c","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxies (patient list) returns empty payload when patient is not linked","name":"returns empty payload when patient is not linked","status":"passed","testResultsByEnv":{"default":"9918116275ae68c3158b0d40d6e32797"}}

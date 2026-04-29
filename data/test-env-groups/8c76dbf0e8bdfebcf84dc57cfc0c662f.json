@@ -1,0 +1,1 @@
+{"id":"8c76dbf0e8bdfebcf84dc57cfc0c662f","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate GET /productivity returns the productivity payload from storage","name":"returns the productivity payload from storage","status":"passed","testResultsByEnv":{"default":"e7ee73e72ed07d35b03c3d992baf1224"}}

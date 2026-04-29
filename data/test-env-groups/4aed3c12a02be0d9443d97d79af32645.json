@@ -1,0 +1,1 @@
+{"id":"4aed3c12a02be0d9443d97d79af32645","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) extractResourceInfo — parses /api/v1/ path into resourceType","name":"extractResourceInfo — parses /api/v1/ path into resourceType","status":"passed","testResultsByEnv":{"default":"c71d290cc4b8e564915ba9ff0d8343a2"}}

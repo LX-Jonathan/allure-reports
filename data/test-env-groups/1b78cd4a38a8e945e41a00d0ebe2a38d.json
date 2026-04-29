@@ -1,0 +1,1 @@
+{"id":"1b78cd4a38a8e945e41a00d0ebe2a38d","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should throw error when parsed data is null","name":"should throw error when parsed data is null","status":"passed","testResultsByEnv":{"default":"0c32edf7bf46002500b92add0dad9dba"}}

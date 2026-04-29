@@ -1,0 +1,1 @@
+{"id":"60b83ec7cd5b73f6b6e0f69981a34755","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients DOB search patterns caches and serves cached patient list","name":"caches and serves cached patient list","status":"passed","testResultsByEnv":{"default":"054cfced17b600ffa855a69a0cfebf91"}}

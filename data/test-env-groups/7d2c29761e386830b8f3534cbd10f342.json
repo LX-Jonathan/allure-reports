@@ -1,0 +1,1 @@
+{"id":"7d2c29761e386830b8f3534cbd10f342","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id returns 200 with biometric for super_admin","name":"returns 200 with biometric for super_admin","status":"passed","testResultsByEnv":{"default":"8a6e592397d4319626c342f65ef6bcd4"}}

@@ -1,0 +1,1 @@
+{"id":"da675b605a46589bd4dcc803fa272712","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions Error handling - DB rejections propagate addRolePermission throws when db.insert rejects","name":"addRolePermission throws when db.insert rejects","status":"passed","testResultsByEnv":{"default":"f0b5885772649cd05a3e57a8f596e58f"}}

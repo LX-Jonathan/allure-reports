@@ -1,0 +1,1 @@
+{"id":"bc87447ec2ccc8c85dc97c14124ff6ff","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules returns ok with self_pay status for cash payment type","name":"returns ok with self_pay status for cash payment type","status":"passed","testResultsByEnv":{"default":"a94d72bbc79bdc3cef41a07f633ba063"}}

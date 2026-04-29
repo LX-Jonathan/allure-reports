@@ -1,0 +1,1 @@
+{"id":"9e0bd38ac22cd9d82a20f6dbf3bf6efa","fullName":"client/src/components/__tests__/insurance-payer-logo.test.tsx#InsurancePayerLogo renders img tag when logoUrl starts with http","name":"renders img tag when logoUrl starts with http","status":"passed","testResultsByEnv":{"default":"593062b413bd436ed621b51dfbe9ac67"}}

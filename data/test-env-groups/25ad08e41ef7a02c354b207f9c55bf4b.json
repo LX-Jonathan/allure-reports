@@ -1,0 +1,1 @@
+{"id":"25ad08e41ef7a02c354b207f9c55bf4b","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/articles/:id returns 404 when article not found","name":"returns 404 when article not found","status":"passed","testResultsByEnv":{"default":"972fe53669c7b7a705e8ddb131f143b2"}}

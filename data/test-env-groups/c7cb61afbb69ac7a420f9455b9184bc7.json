@@ -1,0 +1,1 @@
+{"id":"c7cb61afbb69ac7a420f9455b9184bc7","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query returns 400 when question is empty string","name":"returns 400 when question is empty string","status":"passed","testResultsByEnv":{"default":"4917515f7a4a3bc37dd0fc8d9bfaa43b"}}

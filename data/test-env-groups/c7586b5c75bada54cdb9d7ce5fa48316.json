@@ -1,0 +1,1 @@
+{"id":"c7586b5c75bada54cdb9d7ce5fa48316","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 200 with conversation and messages","name":"returns 200 with conversation and messages","status":"passed","testResultsByEnv":{"default":"69f5c426a0d215dcb9258c3a76ebd868"}}

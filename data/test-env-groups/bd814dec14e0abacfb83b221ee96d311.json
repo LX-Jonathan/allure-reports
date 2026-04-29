@@ -1,0 +1,1 @@
+{"id":"bd814dec14e0abacfb83b221ee96d311","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner handles EnumDWT_DeviceType fallback when TWAINSCANNER is undefined","name":"handles EnumDWT_DeviceType fallback when TWAINSCANNER is undefined","status":"passed","testResultsByEnv":{"default":"3b24f86531531fd4c6b1ced69b438b22"}}

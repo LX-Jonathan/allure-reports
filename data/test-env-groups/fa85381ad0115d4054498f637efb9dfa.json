@@ -1,0 +1,1 @@
+{"id":"fa85381ad0115d4054498f637efb9dfa","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/documents returns 403 when parentLabId mismatch (non-full-access user)","name":"returns 403 when parentLabId mismatch (non-full-access user)","status":"passed","testResultsByEnv":{"default":"8155a4fc241dd861bd0c1ffac499e4f5"}}

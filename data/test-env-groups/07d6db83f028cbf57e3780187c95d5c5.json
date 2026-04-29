@@ -1,0 +1,1 @@
+{"id":"07d6db83f028cbf57e3780187c95d5c5","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo-from-url returns 503 when R2 is not configured","name":"returns 503 when R2 is not configured","status":"passed","testResultsByEnv":{"default":"2fb76c8eaef7ec5a0bf20aa98a5ba9ed"}}

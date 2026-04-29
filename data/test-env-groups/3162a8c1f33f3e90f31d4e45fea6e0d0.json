@@ -1,0 +1,1 @@
+{"id":"3162a8c1f33f3e90f31d4e45fea6e0d0","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes DELETE /api/onboarding/:flowId/sections/:sectionId returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"c7a17e6fe1015cb12c157596f3a7c167"}}

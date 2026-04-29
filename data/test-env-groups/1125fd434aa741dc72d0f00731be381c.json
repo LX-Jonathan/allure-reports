@@ -1,0 +1,1 @@
+{"id":"1125fd434aa741dc72d0f00731be381c","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: identity_verification_failed","name":"en: identity_verification_failed","status":"passed","testResultsByEnv":{"default":"1a313a9f53840583db9441a5335fd41e"}}

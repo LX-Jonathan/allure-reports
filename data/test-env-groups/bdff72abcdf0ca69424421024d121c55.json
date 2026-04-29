@@ -1,0 +1,1 @@
+{"id":"bdff72abcdf0ca69424421024d121c55","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /locations returns 400 when user has no parentLabId","name":"returns 400 when user has no parentLabId","status":"passed","testResultsByEnv":{"default":"bcae6496655c7393d49c059825e22ec1"}}

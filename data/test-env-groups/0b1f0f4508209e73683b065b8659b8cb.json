@@ -1,0 +1,1 @@
+{"id":"0b1f0f4508209e73683b065b8659b8cb","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab renders acknowledgment only for consent without signature","name":"renders acknowledgment only for consent without signature","status":"passed","testResultsByEnv":{"default":"2861fd25f76a97d0713afc21ff39a408"}}

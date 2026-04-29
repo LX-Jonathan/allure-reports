@@ -1,0 +1,1 @@
+{"id":"effd9e2dfbcd7d224b61802130ebbb2f","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware excluded paths should skip CSRF validation for excluded path: /api/v1/webhooks/stripe","name":"should skip CSRF validation for excluded path: /api/v1/webhooks/stripe","status":"passed","testResultsByEnv":{"default":"a19d0c5f8e365fc726962584b4860236"}}

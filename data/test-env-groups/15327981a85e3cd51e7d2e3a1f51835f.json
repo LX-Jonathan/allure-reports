@@ -1,0 +1,1 @@
+{"id":"15327981a85e3cd51e7d2e3a1f51835f","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET /api/v1/prior-authorizations/:id/documents returns 200 with documents list","name":"returns 200 with documents list","status":"passed","testResultsByEnv":{"default":"a63122fa08b35aa690254be8f441cbf6"}}

@@ -1,0 +1,1 @@
+{"id":"6cb88dcea4ded2e4a5cea0b72ec8c20d","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetchJson does not redirect on mfaEnrollmentRequired 403 when impersonating","name":"does not redirect on mfaEnrollmentRequired 403 when impersonating","status":"passed","testResultsByEnv":{"default":"bda11aec992fa6b4e4f5ea8a41bf4808"}}

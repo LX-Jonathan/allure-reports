@@ -1,0 +1,1 @@
+{"id":"67e29f5abb95d0ff72c6ad3b91bef03d","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /fhir-connections/:connectionId/interaction-logs returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"7795b7c29e599414e4fc51e3b0fb2c9b"}}

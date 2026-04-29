@@ -1,0 +1,1 @@
+{"id":"3b98c1287924d0c7151df4b5b679578e","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/conversation adds user as participant if not already one","name":"adds user as participant if not already one","status":"passed","testResultsByEnv":{"default":"40265e7ca95174052fb0eb034459bc94"}}

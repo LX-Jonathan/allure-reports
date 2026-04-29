@@ -1,0 +1,1 @@
+{"id":"53a7b09c9736d733837d248a6f9cfa5f","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should handle keys with slashes","name":"should handle keys with slashes","status":"passed","testResultsByEnv":{"default":"8bb415d456f5bb5bd32eff65aeb0522b"}}

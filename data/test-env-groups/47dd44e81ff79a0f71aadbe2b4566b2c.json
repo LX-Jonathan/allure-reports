@@ -1,0 +1,1 @@
+{"id":"47dd44e81ff79a0f71aadbe2b4566b2c","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware identifier extraction should use userId when user is authenticated","name":"should use userId when user is authenticated","status":"passed","testResultsByEnv":{"default":"cd9e77f285884492571ff9b7847590e9"}}

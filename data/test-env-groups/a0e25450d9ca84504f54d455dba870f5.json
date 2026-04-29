@@ -1,0 +1,1 @@
+{"id":"a0e25450d9ca84504f54d455dba870f5","fullName":"server/services/__tests__/operationsCenter.service.test.ts#operationsCenter.service evaluateOperationsCenter overall readiness and scoring should penalize 25 per error and 5 per warning","name":"should penalize 25 per error and 5 per warning","status":"passed","testResultsByEnv":{"default":"fa552a7adddc5654327eebe0ea4ddba7"}}

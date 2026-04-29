@@ -1,0 +1,1 @@
+{"id":"e0cd681412751b89ad49e7efbfe3bef0","fullName":"client/src/components/patient/__tests__/do-not-see-badge.test.tsx#DoNotSeeBadge returns null when doNotSeeUntilPaid is false","name":"returns null when doNotSeeUntilPaid is false","status":"passed","testResultsByEnv":{"default":"8f2bcd9033d6aa8b65c141edbd9b2ee4"}}

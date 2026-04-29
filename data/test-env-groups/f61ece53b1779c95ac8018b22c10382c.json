@@ -1,0 +1,1 @@
+{"id":"f61ece53b1779c95ac8018b22c10382c","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/products (Staff Portal - Create Product) returns 201 when product is created successfully","name":"returns 201 when product is created successfully","status":"passed","testResultsByEnv":{"default":"d24e9a45d0fde49d7772e9723154a1e2"}}

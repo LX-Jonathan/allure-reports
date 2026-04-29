@@ -1,0 +1,1 @@
+{"id":"01190ec3fe2364c1fd6b50ac5d8124ed","fullName":"server/lib/__tests__/socket-security-alerts.test.ts#security_alerts socket rooms emitSuspiciousActivityReported emits to security_alerts:all only when parentLabId is null","name":"emits to security_alerts:all only when parentLabId is null","status":"passed","testResultsByEnv":{"default":"67f9c3943619ff3407cc7cd42b2be56d"}}

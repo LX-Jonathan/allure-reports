@@ -1,0 +1,1 @@
+{"id":"9891722002b7ac46e57a8fd6c35ba3f5","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getLogsByBatch should return empty array for unknown batchId","name":"should return empty array for unknown batchId","status":"passed","testResultsByEnv":{"default":"f8a9fe30eec4c28282db3f621b068ab1"}}

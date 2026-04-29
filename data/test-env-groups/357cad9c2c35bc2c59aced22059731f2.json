@@ -1,0 +1,1 @@
+{"id":"357cad9c2c35bc2c59aced22059731f2","fullName":"client/src/hooks/__tests__/useSmartBack.test.ts#buildBackLink encodes special characters in the from param","name":"encodes special characters in the from param","status":"passed","testResultsByEnv":{"default":"0db9318fd422cbc96bc7d6a657fc9aef"}}

@@ -1,0 +1,1 @@
+{"id":"90fb6bdc6f12ab85418cc129bbbf7b4a","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/results returns 200 with lab results","name":"returns 200 with lab results","status":"passed","testResultsByEnv":{"default":"e61a525db4d66b8b7c5377f42531bec2"}}

@@ -1,0 +1,1 @@
+{"id":"a75f4dae0220e9c1a5f66e829809aedc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/conversation returns 403 when org not under super org","name":"returns 403 when org not under super org","status":"passed","testResultsByEnv":{"default":"eb6daa6e84c579687410e2e949ecc62a"}}

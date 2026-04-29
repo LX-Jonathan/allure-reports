@@ -1,0 +1,1 @@
+{"id":"38d331696b47d1e730a4f4adfbf10a34","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads creates conversation then thread when no conversation exists","name":"creates conversation then thread when no conversation exists","status":"passed","testResultsByEnv":{"default":"afffa7efe8c80758a0bddbdcedd14be1"}}

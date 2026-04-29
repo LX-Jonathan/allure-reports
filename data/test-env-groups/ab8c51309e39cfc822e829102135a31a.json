@@ -1,0 +1,1 @@
+{"id":"ab8c51309e39cfc822e829102135a31a","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/scan-document returns 200 with found false when no document","name":"returns 200 with found false when no document","status":"passed","testResultsByEnv":{"default":"b58d24fb1ba04827de7b10a63d071167"}}

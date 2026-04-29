@@ -1,0 +1,1 @@
+{"id":"4a4a258da1109eba43c8ad4147f03449","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId returns 400 for invalid assignedToId UUID","name":"returns 400 for invalid assignedToId UUID","status":"passed","testResultsByEnv":{"default":"3f98a3b75c95c60d8d3f6a8d28278902"}}

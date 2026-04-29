@@ -1,0 +1,1 @@
+{"id":"8391e56af5f12ace17101902d0e35011","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 400 when item not ready","name":"returns 400 when item not ready","status":"passed","testResultsByEnv":{"default":"7fea4cc762be72e2fcb904912ea9a046"}}

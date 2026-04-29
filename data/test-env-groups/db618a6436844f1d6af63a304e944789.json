@@ -1,0 +1,1 @@
+{"id":"db618a6436844f1d6af63a304e944789","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/recent-items filters recent items by type query parameter","name":"filters recent items by type query parameter","status":"passed","testResultsByEnv":{"default":"9250727b82ba0334b574c84d5b5223d2"}}

@@ -1,0 +1,1 @@
+{"id":"07a4748f699e31cf4740be5d83d919c2","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth visibility change revalidation does NOT invalidate queries when tab is hidden for less than 60s","name":"does NOT invalidate queries when tab is hidden for less than 60s","status":"passed","testResultsByEnv":{"default":"5c4d6a9fb64324fbe1035c775f909363"}}

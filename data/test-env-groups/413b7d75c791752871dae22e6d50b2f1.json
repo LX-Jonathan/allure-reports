@@ -1,0 +1,1 @@
+{"id":"413b7d75c791752871dae22e6d50b2f1","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueEmail should handle addEmailJob error gracefully","name":"should handle addEmailJob error gracefully","status":"passed","testResultsByEnv":{"default":"6dc16047d43ca1ccc884299672cb88f7"}}

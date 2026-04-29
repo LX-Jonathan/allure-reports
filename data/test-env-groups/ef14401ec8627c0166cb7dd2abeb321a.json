@@ -1,0 +1,1 @@
+{"id":"ef14401ec8627c0166cb7dd2abeb321a","fullName":"server/middleware/__tests__/csrf.test.ts#getCSRFToken should return token from cookie if csrfToken property is not set","name":"should return token from cookie if csrfToken property is not set","status":"passed","testResultsByEnv":{"default":"a892735777c438c63f063095c3a7129c"}}

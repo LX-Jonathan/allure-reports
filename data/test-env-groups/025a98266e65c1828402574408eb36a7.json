@@ -1,0 +1,1 @@
+{"id":"025a98266e65c1828402574408eb36a7","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob scheduled-report type should not send emails when recipientEmails is empty","name":"should not send emails when recipientEmails is empty","status":"passed","testResultsByEnv":{"default":"30d2d5b2a085067afcd22fdf0aef80bb"}}

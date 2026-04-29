@@ -1,0 +1,1 @@
+{"id":"47836c9bb5d58c0a1614a5c2784c2a31","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should set processingTimeMs to 0 for batch results","name":"should set processingTimeMs to 0 for batch results","status":"passed","testResultsByEnv":{"default":"8255562a14dbbbbe43f9a3be0b64c5c1"}}

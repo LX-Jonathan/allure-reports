@@ -1,0 +1,1 @@
+{"id":"c6f300a239ed99adf7de164a668cbea8","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets should cap limit at 100","name":"should cap limit at 100","status":"passed","testResultsByEnv":{"default":"f4155eadb6157070951eccdf8703edf8"}}

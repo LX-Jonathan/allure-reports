@@ -1,0 +1,1 @@
+{"id":"214010aad0558b5f487ecbf12fad3ce3","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"db39a80e193255a65504c3261455386b"}}

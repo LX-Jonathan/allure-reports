@@ -1,0 +1,1 @@
+{"id":"e37f94a47bada6aedd0b8dfb442aa13a","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckins applies tenant filters (parentLabId, labId, locationId)","name":"applies tenant filters (parentLabId, labId, locationId)","status":"passed","testResultsByEnv":{"default":"29de30f2588aab90277e95bc286b4812"}}

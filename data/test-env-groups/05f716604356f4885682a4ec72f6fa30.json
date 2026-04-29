@@ -1,0 +1,1 @@
+{"id":"05f716604356f4885682a4ec72f6fa30","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes GET /api/v1/interfaces/analytics/metrics returns queue metrics","name":"returns queue metrics","status":"passed","testResultsByEnv":{"default":"dcf08d68bf2be326097e34b43739a5cd"}}

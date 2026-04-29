@@ -1,0 +1,1 @@
+{"id":"6c8348aeb8c539e7daa7cecfadb99395","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes GET /api/v1/interfaces/circuit-breaker/:queueType returns circuit breaker state","name":"returns circuit breaker state","status":"passed","testResultsByEnv":{"default":"82b04d82e5017d1016a8a5f42a725192"}}

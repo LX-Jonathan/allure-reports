@@ -1,0 +1,1 @@
+{"id":"6104b2d4186ec64b5c48a1a5f4d7385e","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Refresh Tokens revokeRefreshTokenFamily should set revokedAt for all tokens in family","name":"should set revokedAt for all tokens in family","status":"passed","testResultsByEnv":{"default":"5b2af7654b23417b1080c900a29e51f3"}}

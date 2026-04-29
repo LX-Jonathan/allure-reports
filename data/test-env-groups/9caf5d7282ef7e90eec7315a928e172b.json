@@ -1,0 +1,1 @@
+{"id":"9caf5d7282ef7e90eec7315a928e172b","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes PATCH /api/v1/billing-resolution/accounts/:id returns 200 with updated account","name":"returns 200 with updated account","status":"passed","testResultsByEnv":{"default":"63fc862d9d40cc14d374500533860dfd"}}

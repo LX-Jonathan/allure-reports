@@ -1,0 +1,1 @@
+{"id":"b790d45727fe66e1083e94fb8daab851","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getRedisClient should return null when Redis is not configured","name":"should return null when Redis is not configured","status":"passed","testResultsByEnv":{"default":"dabc816ca0daf55f90c2d6a0ff0fdbcc"}}

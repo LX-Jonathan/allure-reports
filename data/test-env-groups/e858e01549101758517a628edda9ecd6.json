@@ -1,0 +1,1 @@
+{"id":"e858e01549101758517a628edda9ecd6","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getCategoryBySlug should return category when found by slug","name":"should return category when found by slug","status":"passed","testResultsByEnv":{"default":"b7557dd86075ea26d3fbfc3f62ec4fa6"}}

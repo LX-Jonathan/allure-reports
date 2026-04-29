@@ -1,0 +1,1 @@
+{"id":"e41933aac44fb2153a52197bf1774228","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider (additional edge cases) returns 401 when user not found in storage","name":"returns 401 when user not found in storage","status":"passed","testResultsByEnv":{"default":"ac4ee1ea16960b99cc44b51cea744de6"}}

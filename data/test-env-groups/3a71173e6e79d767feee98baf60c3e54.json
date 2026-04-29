@@ -1,0 +1,1 @@
+{"id":"3a71173e6e79d767feee98baf60c3e54","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes PATCH /api/v1/form-configs/:id returns 200 with updated form config for super admin","name":"returns 200 with updated form config for super admin","status":"passed","testResultsByEnv":{"default":"a4703424669887065da0af11d4059806"}}

@@ -1,0 +1,1 @@
+{"id":"1a89fc791dcd5b3c6df7d76b49f83167","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"8bcce1aead748d61bda4e565516f850d"}}

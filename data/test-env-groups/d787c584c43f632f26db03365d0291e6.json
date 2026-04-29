@@ -1,0 +1,1 @@
+{"id":"d787c584c43f632f26db03365d0291e6","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo redirects to signed URL when logoKey exists in settings","name":"redirects to signed URL when logoKey exists in settings","status":"passed","testResultsByEnv":{"default":"886d260a0633ea56f9229b969dc92097"}}

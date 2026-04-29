@@ -1,0 +1,1 @@
+{"id":"6c15534fee14e48d9539c73c41cf8d70","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should return 400 for empty content","name":"should return 400 for empty content","status":"passed","testResultsByEnv":{"default":"dec7b253016a9f94f7110a707c61bf2c"}}

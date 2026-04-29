@@ -1,0 +1,1 @@
+{"id":"5c570c7c015aaa907c0020d99fd92499","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetchJson clears auth and throws on 401 response","name":"clears auth and throws on 401 response","status":"passed","testResultsByEnv":{"default":"eb159a8bce8bf54492e3e8003eede2c0"}}

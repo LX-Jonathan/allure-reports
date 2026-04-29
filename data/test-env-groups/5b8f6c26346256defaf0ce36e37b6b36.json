@@ -1,0 +1,1 @@
+{"id":"5b8f6c26346256defaf0ce36e37b6b36","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET / returns paginated prior authorizations with full access","name":"returns paginated prior authorizations with full access","status":"passed","testResultsByEnv":{"default":"376839e1d7360a0312a0a0b71f83d6c9"}}

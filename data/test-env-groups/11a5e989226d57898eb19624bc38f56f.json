@@ -1,0 +1,1 @@
+{"id":"11a5e989226d57898eb19624bc38f56f","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckins uses no where clause when no filters supplied","name":"uses no where clause when no filters supplied","status":"passed","testResultsByEnv":{"default":"71c287910a0e8b900ff59a65025e70a3"}}

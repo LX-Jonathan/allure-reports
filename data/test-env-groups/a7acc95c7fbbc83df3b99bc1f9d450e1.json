@@ -1,0 +1,1 @@
+{"id":"a7acc95c7fbbc83df3b99bc1f9d450e1","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createWorker should create a worker when BullMQ is configured","name":"should create a worker when BullMQ is configured","status":"passed","testResultsByEnv":{"default":"2728d4a2f9149c3e2ddc3d4934ec5a3a"}}

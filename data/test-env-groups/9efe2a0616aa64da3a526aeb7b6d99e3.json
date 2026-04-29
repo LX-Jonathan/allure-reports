@@ -1,0 +1,1 @@
+{"id":"9efe2a0616aa64da3a526aeb7b6d99e3","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/scan-upload returns 400 when file type cannot be detected","name":"returns 400 when file type cannot be detected","status":"passed","testResultsByEnv":{"default":"a9cbeabcddfbc7f73100322436ceceba"}}

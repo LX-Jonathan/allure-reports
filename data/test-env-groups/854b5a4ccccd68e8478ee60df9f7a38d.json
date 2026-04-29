@@ -1,0 +1,1 @@
+{"id":"854b5a4ccccd68e8478ee60df9f7a38d","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes DELETE /:id returns 404 when contract not found","name":"returns 404 when contract not found","status":"passed","testResultsByEnv":{"default":"c872d984a39c1441834231cfd3569bb9"}}

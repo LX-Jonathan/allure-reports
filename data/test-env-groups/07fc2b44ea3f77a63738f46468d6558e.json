@@ -1,0 +1,1 @@
+{"id":"07fc2b44ea3f77a63738f46468d6558e","fullName":"server/__tests__/bullmq.test.ts#bullmq lib isBullMQConfigured returns true when Redis URL and token are set","name":"returns true when Redis URL and token are set","status":"passed","testResultsByEnv":{"default":"a6040c43964adf39d1583cce4b9fe777"}}

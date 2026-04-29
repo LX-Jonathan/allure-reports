@@ -1,0 +1,1 @@
+{"id":"d39a520460097dff7ba9fb10eb44a597","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /:id allows org_admin to delete","name":"allows org_admin to delete","status":"passed","testResultsByEnv":{"default":"27e321b168dfe0342320d88ddc090d6d"}}

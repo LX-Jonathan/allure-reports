@@ -1,0 +1,1 @@
+{"id":"e02218979bed31cb0b87a18d37ec472c","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service log should evict oldest entries when buffer exceeds max size","name":"should evict oldest entries when buffer exceeds max size","status":"passed","testResultsByEnv":{"default":"154272e96c44b981647131ecfd19f136"}}

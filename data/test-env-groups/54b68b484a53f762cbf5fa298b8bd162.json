@@ -1,0 +1,1 @@
+{"id":"54b68b484a53f762cbf5fa298b8bd162","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return pending for unknown job state","name":"should return pending for unknown job state","status":"passed","testResultsByEnv":{"default":"a8f1cef4b4c90c36488f14c62c59ed04"}}

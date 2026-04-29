@@ -1,0 +1,1 @@
+{"id":"8225de886976748fe0d623ff30b256d6","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanItemJob should add job with correct data when queue is available","name":"should add job with correct data when queue is available","status":"passed","testResultsByEnv":{"default":"610607a317701a9a0c917bbb061d23a3"}}

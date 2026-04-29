@@ -1,0 +1,1 @@
+{"id":"b723b5a0fd1ef39134cfc1ccc33bd2c4","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service generateExtractionHints (via fastTemplateMatch) should include patient info region hint","name":"should include patient info region hint","status":"passed","testResultsByEnv":{"default":"57ce1f4432420245d15a5ec82e72081d"}}

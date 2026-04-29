@@ -1,0 +1,1 @@
+{"id":"04ab010a09b575f7241a7d2b44b68cc6","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/available-slots returns 400 for invalid locationId format","name":"returns 400 for invalid locationId format","status":"passed","testResultsByEnv":{"default":"1a1ce5cd22338edceb202da25572e8b3"}}

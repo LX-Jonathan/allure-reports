@@ -1,0 +1,1 @@
+{"id":"a0ba38968692f9881b88d0bfa242086f","fullName":"server/services/__tests__/base.service.test.ts#base.service getServiceContext should prefer locationIds over derived locationId array","name":"should prefer locationIds over derived locationId array","status":"passed","testResultsByEnv":{"default":"ea510c2034533d910e1b142a566ed5a3"}}

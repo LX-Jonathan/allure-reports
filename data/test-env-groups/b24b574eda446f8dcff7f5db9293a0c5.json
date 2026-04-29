@@ -1,0 +1,1 @@
+{"id":"b24b574eda446f8dcff7f5db9293a0c5","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog skips image upload with no file selected","name":"skips image upload with no file selected","status":"passed","testResultsByEnv":{"default":"f3b8d527899c17145d17f8da19cc654c"}}

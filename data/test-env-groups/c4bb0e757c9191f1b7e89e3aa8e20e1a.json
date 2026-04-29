@@ -1,0 +1,1 @@
+{"id":"c4bb0e757c9191f1b7e89e3aa8e20e1a","fullName":"client/src/pages/__tests__/login.test.tsx#LoginPage email_send_failed toast shows the Spanish toast when the active locale is es","name":"shows the Spanish toast when the active locale is es","status":"passed","testResultsByEnv":{"default":"c10e21b0f896b7042d8f7e5ecfdefeb5"}}

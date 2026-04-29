@@ -1,0 +1,1 @@
+{"id":"a2c12d34f69ef9ad71d43a9bb7837f6f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should proceed when only totalPaid > 0","name":"should proceed when only totalPaid > 0","status":"passed","testResultsByEnv":{"default":"01703f38483cb53e75a60f8c5fab55e0"}}

@@ -1,0 +1,1 @@
+{"id":"460130098ae73e960d0d07eb0235c1f2","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/quickstarts/:slug returns 200 with quickstart details and tracks analytics","name":"returns 200 with quickstart details and tracks analytics","status":"passed","testResultsByEnv":{"default":"4816d955fc9c94f1f750097ff447afa6"}}

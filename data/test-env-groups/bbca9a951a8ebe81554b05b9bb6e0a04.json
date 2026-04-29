@@ -1,0 +1,1 @@
+{"id":"bbca9a951a8ebe81554b05b9bb6e0a04","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /:id returns 404 when contract not found","name":"returns 404 when contract not found","status":"passed","testResultsByEnv":{"default":"ccc9cc5ca3beb0b33c5d987e53466401"}}

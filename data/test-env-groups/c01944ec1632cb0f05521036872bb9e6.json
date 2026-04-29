@@ -1,0 +1,1 @@
+{"id":"c01944ec1632cb0f05521036872bb9e6","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar still uses the insurance scan confidence when it is the most recent AI step","name":"still uses the insurance scan confidence when it is the most recent AI step","status":"passed","testResultsByEnv":{"default":"9f143dd3915bcee8f40b34ef20945d22"}}

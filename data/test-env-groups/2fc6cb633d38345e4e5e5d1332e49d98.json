@@ -1,0 +1,1 @@
+{"id":"2fc6cb633d38345e4e5e5d1332e49d98","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker edge cases should handle missing eligibility arrays in response","name":"should handle missing eligibility arrays in response","status":"passed","testResultsByEnv":{"default":"c666fa5a0b765fcbe3bf4f42f248f08e"}}

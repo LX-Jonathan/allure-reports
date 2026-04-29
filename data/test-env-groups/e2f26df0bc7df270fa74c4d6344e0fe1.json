@@ -1,0 +1,1 @@
+{"id":"e2f26df0bc7df270fa74c4d6344e0fe1","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/email should return 400 for missing patientId","name":"should return 400 for missing patientId","status":"passed","testResultsByEnv":{"default":"8ddc82d8aefa6256061c1a9e4bcb189e"}}

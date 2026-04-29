@@ -1,0 +1,1 @@
+{"id":"06bb5e4e00c06f442fb9248419fa2b97","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel does not show a chevron toggle when the row is not expandable","name":"does not show a chevron toggle when the row is not expandable","status":"passed","testResultsByEnv":{"default":"708705ef5bf1c65edf9c2fa11d71db3e"}}

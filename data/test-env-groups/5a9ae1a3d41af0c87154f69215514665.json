@@ -1,0 +1,1 @@
+{"id":"5a9ae1a3d41af0c87154f69215514665","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda getAndromedaOrganizations throws on non-ok response with JSON detail","name":"throws on non-ok response with JSON detail","status":"passed","testResultsByEnv":{"default":"749ff94bd2d971cb5fe8cf0cfc33909c"}}

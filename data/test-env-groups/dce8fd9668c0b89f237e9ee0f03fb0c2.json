@@ -1,0 +1,1 @@
+{"id":"dce8fd9668c0b89f237e9ee0f03fb0c2","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes DELETE /api/fee-schedules/:id returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"53b54a887a686c7ddf95b50a0c62a849"}}

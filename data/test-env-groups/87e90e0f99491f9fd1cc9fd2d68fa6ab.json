@@ -1,0 +1,1 @@
+{"id":"87e90e0f99491f9fd1cc9fd2d68fa6ab","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetchJson returns parsed JSON on success","name":"returns parsed JSON on success","status":"passed","testResultsByEnv":{"default":"4db050f33f9d97334bd50faacdd6aa58"}}

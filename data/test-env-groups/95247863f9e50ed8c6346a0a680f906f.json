@@ -1,0 +1,1 @@
+{"id":"95247863f9e50ed8c6346a0a680f906f","fullName":"client/src/components/__tests__/smart-back-button.test.tsx#SmartBackButton navigates to fallback when no 'from' param exists","name":"navigates to fallback when no 'from' param exists","status":"passed","testResultsByEnv":{"default":"e0d88c087e248ea70362daeaccf621d4"}}

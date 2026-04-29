@@ -1,0 +1,1 @@
+{"id":"ac29d35e018e6bb1ffa78e22bc6d06f2","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/checkout/create-session (Patient Portal - Create Checkout) returns 503 when Stripe is not configured","name":"returns 503 when Stripe is not configured","status":"passed","testResultsByEnv":{"default":"8c085b710b4d9644c74c11c54bb35860"}}

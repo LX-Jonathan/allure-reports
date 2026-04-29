@@ -1,0 +1,1 @@
+{"id":"220e4ea14b5bdfb46d923a576521a153","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should authenticate via authorization header when no cookie","name":"should authenticate via authorization header when no cookie","status":"passed","testResultsByEnv":{"default":"38b0945a95ed74d4c5587d89dedb032f"}}

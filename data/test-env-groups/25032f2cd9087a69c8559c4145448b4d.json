@@ -1,0 +1,1 @@
+{"id":"25032f2cd9087a69c8559c4145448b4d","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientResultsReadyEmail should not include patient first name in content for privacy","name":"should not include patient first name in content for privacy","status":"passed","testResultsByEnv":{"default":"cabd8ccca73d2c24b7229d97e07bfdea"}}

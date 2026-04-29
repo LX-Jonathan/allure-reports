@@ -1,0 +1,1 @@
+{"id":"234dc131bac166dea2fdf3110930a106","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob error handling should update job status to failed on error","name":"should update job status to failed on error","status":"passed","testResultsByEnv":{"default":"c223b6af5708e5921654006c96a627ca"}}

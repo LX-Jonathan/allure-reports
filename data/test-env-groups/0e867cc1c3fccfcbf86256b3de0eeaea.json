@@ -1,0 +1,1 @@
+{"id":"0e867cc1c3fccfcbf86256b3de0eeaea","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers returns 200 with providers from storage","name":"returns 200 with providers from storage","status":"passed","testResultsByEnv":{"default":"84a356ad6eaefcae27d847b3af5d388d"}}

@@ -1,0 +1,1 @@
+{"id":"1d671bd31b8e96b8af9a705e6554120d","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should clear parentId when isParentLab is true","name":"should clear parentId when isParentLab is true","status":"passed","testResultsByEnv":{"default":"ba614aa2b2d5471e0af4d2c848f36f13"}}

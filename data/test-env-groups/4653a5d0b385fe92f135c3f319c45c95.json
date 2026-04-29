@@ -1,0 +1,1 @@
+{"id":"4653a5d0b385fe92f135c3f319c45c95","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Audit Logs createAuditLog should create and return log","name":"createAuditLog should create and return log","status":"passed","testResultsByEnv":{"default":"127f4f883265d6a22e60e81fce4f0498"}}

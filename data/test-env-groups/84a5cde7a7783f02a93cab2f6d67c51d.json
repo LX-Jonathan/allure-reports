@@ -1,0 +1,1 @@
+{"id":"84a5cde7a7783f02a93cab2f6d67c51d","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Athena client initialization should throw error when Athena is not configured","name":"should throw error when Athena is not configured","status":"passed","testResultsByEnv":{"default":"f54e3e87444a5e2f00dd42637af5b4d4"}}

@@ -1,0 +1,1 @@
+{"id":"fe38ec25b6d38d8e001ca1ff7676729b","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar syncs the active tab when the parent updates defaultTab on a re-render","name":"syncs the active tab when the parent updates defaultTab on a re-render","status":"passed","testResultsByEnv":{"default":"bef7487ba279b491bd1b16d10a0b4d15"}}

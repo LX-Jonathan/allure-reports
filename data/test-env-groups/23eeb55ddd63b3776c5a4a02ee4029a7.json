@@ -1,0 +1,1 @@
+{"id":"23eeb55ddd63b3776c5a4a02ee4029a7","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Validation edge cases POST /fhir-connections rejects invalid contactEmail","name":"POST /fhir-connections rejects invalid contactEmail","status":"passed","testResultsByEnv":{"default":"f445c375911a09c00393282fc987db7c"}}

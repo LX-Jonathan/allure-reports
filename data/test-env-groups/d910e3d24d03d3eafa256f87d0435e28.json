@@ -1,0 +1,1 @@
+{"id":"d910e3d24d03d3eafa256f87d0435e28","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts getPasswordResetExpiry should return date 1 hour in the future","name":"should return date 1 hour in the future","status":"passed","testResultsByEnv":{"default":"7747868320a8af1919af7afa2f58c4f9"}}

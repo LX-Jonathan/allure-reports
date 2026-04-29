@@ -1,0 +1,1 @@
+{"id":"a0210333a836ce96dce88b2ebf22125f","fullName":"server/__tests__/users.routes.test.ts#users routes DELETE /api/v1/users/:id returns 400 when trying to delete own account","name":"returns 400 when trying to delete own account","status":"passed","testResultsByEnv":{"default":"42e46e9bdbc329d7d6b8b9253a34b3c4"}}

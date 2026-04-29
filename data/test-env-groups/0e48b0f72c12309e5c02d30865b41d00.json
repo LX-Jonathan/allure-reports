@@ -1,0 +1,1 @@
+{"id":"0e48b0f72c12309e5c02d30865b41d00","fullName":"server/workers/__tests__/provider-import.worker.test.ts#startProviderImportWorker should return worker instance when created","name":"should return worker instance when created","status":"passed","testResultsByEnv":{"default":"36edbc4d35b967f93decb9e367de1336"}}

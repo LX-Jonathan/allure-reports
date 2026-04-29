@@ -1,0 +1,1 @@
+{"id":"055158d497a5cd4daad9d73cae730673","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules applies parentLabId filter for non-full-access","name":"applies parentLabId filter for non-full-access","status":"passed","testResultsByEnv":{"default":"a8f4ba914cf3d8799bd785a8a78b7d09"}}

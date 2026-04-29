@@ -1,0 +1,1 @@
+{"id":"f51fd7646ea46297b8c4cde8c52cae75","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService set should return false and log error on Redis set failure","name":"should return false and log error on Redis set failure","status":"passed","testResultsByEnv":{"default":"0e6dba79a7630e89b2d535cdfa723199"}}

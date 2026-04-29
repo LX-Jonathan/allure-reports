@@ -1,0 +1,1 @@
+{"id":"ef4b5ddaa4681ea4bb650eee2a422c07","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag missing date of birth as error","name":"should flag missing date of birth as error","status":"passed","testResultsByEnv":{"default":"f2edd7d72e4cc8dea31e07070ab8b34c"}}

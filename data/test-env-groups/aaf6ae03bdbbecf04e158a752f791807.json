@@ -1,0 +1,1 @@
+{"id":"aaf6ae03bdbbecf04e158a752f791807","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes DELETE /api/dtc/products/:id (Staff Portal - Delete Product) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"1523e04d80f17f90527b486bbba63cbc"}}

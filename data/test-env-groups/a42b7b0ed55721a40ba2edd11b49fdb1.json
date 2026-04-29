@@ -1,0 +1,1 @@
+{"id":"a42b7b0ed55721a40ba2edd11b49fdb1","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts isStrongPassword should reject password shorter than 8 characters","name":"should reject password shorter than 8 characters","status":"passed","testResultsByEnv":{"default":"db7cd7f125d00fafc5ee527f28c01306"}}

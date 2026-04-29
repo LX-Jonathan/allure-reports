@@ -1,0 +1,1 @@
+{"id":"fbfb93f5674075dc3d83b74dee0a9393","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs should pass search and filter params","name":"should pass search and filter params","status":"passed","testResultsByEnv":{"default":"401433c9afd93d50fac3169a22349f34"}}

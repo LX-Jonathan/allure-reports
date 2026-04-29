@@ -1,0 +1,1 @@
+{"id":"23e1d84f4bb9422a40fbdd1dfbd47b5d","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/logo redirects to signed URL when logo found","name":"redirects to signed URL when logo found","status":"passed","testResultsByEnv":{"default":"381a2ece293ac29bb91d62b369f4908b"}}

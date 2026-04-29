@@ -1,0 +1,1 @@
+{"id":"a5f3bdfbdf09024d95e85ba2665d31a2","fullName":"client/src/components/orders/__tests__/PatientStoredCreditIndicator.test.tsx#PatientStoredCreditIndicator renders nothing when stored credit is zero","name":"renders nothing when stored credit is zero","status":"passed","testResultsByEnv":{"default":"616a1d825e9f8d8197e4135568a28398"}}

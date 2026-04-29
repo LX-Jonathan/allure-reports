@@ -1,0 +1,1 @@
+{"id":"722a7e16bd0bf193b907fa4b1734b7e0","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService updateMappings should not update when order has no suggestions","name":"should not update when order has no suggestions","status":"passed","testResultsByEnv":{"default":"937b777c42c32148bc001e12516ee11d"}}

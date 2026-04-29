@@ -1,0 +1,1 @@
+{"id":"a7fa23f4b703821b07a27e2753b70e49","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/schedules returns 201 and creates schedule","name":"returns 201 and creates schedule","status":"passed","testResultsByEnv":{"default":"c874202d9af36d1f71cc32381eda5375"}}

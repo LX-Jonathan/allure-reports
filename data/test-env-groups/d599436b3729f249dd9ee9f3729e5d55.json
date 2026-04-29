@@ -1,0 +1,1 @@
+{"id":"d599436b3729f249dd9ee9f3729e5d55","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id returns 400 when slug already taken by another org","name":"returns 400 when slug already taken by another org","status":"passed","testResultsByEnv":{"default":"9fac796963d9312155410618ee309728"}}

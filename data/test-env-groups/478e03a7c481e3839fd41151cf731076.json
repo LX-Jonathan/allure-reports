@@ -1,0 +1,1 @@
+{"id":"478e03a7c481e3839fd41151cf731076","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/compendium-configs should return 400 without required fields","name":"should return 400 without required fields","status":"passed","testResultsByEnv":{"default":"e1251b2737b6b4f0ce5481b59fb12362"}}

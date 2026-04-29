@@ -1,0 +1,1 @@
+{"id":"834bf4ca946488ff0b343617aeca9a9d","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId handles empty body with defaults","name":"handles empty body with defaults","status":"passed","testResultsByEnv":{"default":"db3fb5d17c6341e465f02bf7286bbce4"}}

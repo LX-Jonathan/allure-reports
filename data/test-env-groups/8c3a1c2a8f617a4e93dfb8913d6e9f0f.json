@@ -1,0 +1,1 @@
+{"id":"8c3a1c2a8f617a4e93dfb8913d6e9f0f","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate edge cases and boundary conditions should handle text with newlines","name":"should handle text with newlines","status":"passed","testResultsByEnv":{"default":"a5d9245463fd95d29dde131f4d9c1ea7"}}

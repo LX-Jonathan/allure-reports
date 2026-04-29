@@ -1,0 +1,1 @@
+{"id":"ef43b7ffd1873255a93d55ca7acf766b","fullName":"server/middleware/__tests__/patientAuth.test.ts#MFA session helpers setMfaVerified stores session and isMfaVerified returns true","name":"setMfaVerified stores session and isMfaVerified returns true","status":"passed","testResultsByEnv":{"default":"c7a00fdd2d420373d4998495652987e1"}}

@@ -1,0 +1,1 @@
+{"id":"7b58b3a14c1a8a8d7a802d6663cf8f85","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should invoke logger callback for recognizing text progress","name":"should invoke logger callback for recognizing text progress","status":"passed","testResultsByEnv":{"default":"503139ad2bfeddc2156623c0e809c52d"}}

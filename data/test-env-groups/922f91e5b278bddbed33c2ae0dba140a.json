@@ -1,0 +1,1 @@
+{"id":"922f91e5b278bddbed33c2ae0dba140a","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserAssignedLocations should return location IDs for user","name":"should return location IDs for user","status":"passed","testResultsByEnv":{"default":"2336754df7c3eb723c2461125c237266"}}

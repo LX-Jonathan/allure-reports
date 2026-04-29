@@ -1,0 +1,1 @@
+{"id":"44517f99d9ddbee833723f5664dfd6a6","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies/:id/logo returns 503 when R2 is not configured","name":"returns 503 when R2 is not configured","status":"passed","testResultsByEnv":{"default":"0f964ef4a4096a6e314fb663eb34ad0f"}}

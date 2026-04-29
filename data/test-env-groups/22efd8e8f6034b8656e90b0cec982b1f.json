@@ -1,0 +1,1 @@
+{"id":"22efd8e8f6034b8656e90b0cec982b1f","fullName":"client/src/components/__tests__/theme-toggle.test.tsx#ThemeToggle persists theme choice across renders via localStorage","name":"persists theme choice across renders via localStorage","status":"passed","testResultsByEnv":{"default":"b18352f38876f0b53916660728343ee0"}}

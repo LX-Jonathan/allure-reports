@@ -1,0 +1,1 @@
+{"id":"5a720447b07b8aa357aa2ad725a03c83","fullName":"server/__tests__/system.routes.test.ts#system routes PATCH /api/v1/system/configs/:key updates a config value","name":"updates a config value","status":"passed","testResultsByEnv":{"default":"aa31585d6d46262eec5ffd1003ab7684"}}

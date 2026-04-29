@@ -1,0 +1,1 @@
+{"id":"c6a498e627a1b7910741b71cdf73da0c","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts DELETE /chart-of-accounts/:id deletes account successfully","name":"deletes account successfully","status":"passed","testResultsByEnv":{"default":"2754c66b59567a34910b91e0566e1f73"}}

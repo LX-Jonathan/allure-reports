@@ -1,0 +1,1 @@
+{"id":"df77f05bb6c1597ee96087144b886f34","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalUserForPatientRecord returns null when no primary row and no active org link","name":"returns null when no primary row and no active org link","status":"passed","testResultsByEnv":{"default":"29b486148b2a8dbdabf2a82626a8d3c0"}}

@@ -1,0 +1,1 @@
+{"id":"c4634d2788deff3e40afba383336e539","fullName":"server/routes/__tests__/data-import.routes.test.ts#Data Import Routes POST /validate providers validation validates NPI must be 10 digits","name":"validates NPI must be 10 digits","status":"passed","testResultsByEnv":{"default":"c0cdf3b5def054171d1d7fa2bb9e508a"}}

@@ -1,0 +1,1 @@
+{"id":"368d5acc885873116340afb79e1eba91","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware resource path parsing should handle non-API paths","name":"should handle non-API paths","status":"passed","testResultsByEnv":{"default":"e3065f7c6b5bca0857766879eba85d3f"}}

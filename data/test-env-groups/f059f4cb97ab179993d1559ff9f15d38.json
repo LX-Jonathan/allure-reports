@@ -1,0 +1,1 @@
+{"id":"f059f4cb97ab179993d1559ff9f15d38","fullName":"client/src/components/patient/__tests__/demographics-check-dialog.test.tsx#DemographicsCheckDialog calls onOpenChange(false) when Close clicked","name":"calls onOpenChange(false) when Close clicked","status":"passed","testResultsByEnv":{"default":"2bcc88849723c348af3512aa8b54d21f"}}

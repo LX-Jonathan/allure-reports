@@ -1,0 +1,1 @@
+{"id":"ca03279ead3b17bb53ae65061e44fb56","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots returns empty array for location-level user without location","name":"returns empty array for location-level user without location","status":"passed","testResultsByEnv":{"default":"948c2b8e320aeb0e4969dd91936573c0"}}

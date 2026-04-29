@@ -1,0 +1,1 @@
+{"id":"5faf3168f8b64d142f84c0bfae6fb5ae","fullName":"client/src/hooks/__tests__/useReadinessQueueDraft.test.tsx#useReadinessQueueDraft sets sendingToQueue=true and creates a draft order with the assembled note","name":"sets sendingToQueue=true and creates a draft order with the assembled note","status":"passed","testResultsByEnv":{"default":"6854664d37e59ecbd232b2456c9374bc"}}

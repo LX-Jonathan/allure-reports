@@ -1,0 +1,1 @@
+{"id":"6016dcd1629fd4ff01ead024b974258f","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanDriversLicense should handle empty response content","name":"should handle empty response content","status":"passed","testResultsByEnv":{"default":"b1a6408e87a0a63f841d93dab67d1ec1"}}

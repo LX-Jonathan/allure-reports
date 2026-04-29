@@ -1,0 +1,1 @@
+{"id":"9fafdee786cae3b4b824a395702906d5","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getOrgById returns org when found","name":"returns org when found","status":"passed","testResultsByEnv":{"default":"f38d350f164256a9517d2910a276413d"}}

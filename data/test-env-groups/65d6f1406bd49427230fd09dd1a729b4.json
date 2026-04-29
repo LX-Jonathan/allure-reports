@@ -1,0 +1,1 @@
+{"id":"65d6f1406bd49427230fd09dd1a729b4","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) GET /api/v1/pre-registration-links returns 200 with links for full-access user","name":"returns 200 with links for full-access user","status":"passed","testResultsByEnv":{"default":"f71d61f4a68b636c65e1b226ab952b2e"}}

@@ -1,0 +1,1 @@
+{"id":"433706f00aa2d14c819d3c6b8da251bb","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /labs returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"68aad44b8639a44f998dbc72ad0424af"}}

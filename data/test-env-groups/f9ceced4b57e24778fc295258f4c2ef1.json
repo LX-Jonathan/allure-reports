@@ -1,0 +1,1 @@
+{"id":"f9ceced4b57e24778fc295258f4c2ef1","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware optionalAuth JWT-based auth should set user from valid token","name":"should set user from valid token","status":"passed","testResultsByEnv":{"default":"7dbfac282873a360f25164847c49fb0e"}}

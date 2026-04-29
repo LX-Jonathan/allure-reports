@@ -1,0 +1,1 @@
+{"id":"1c63c7d0f90ef63743113259b0f74b83","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes DELETE /api/v1/favorites/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"2c6d14ab6c6529f368c56a9c6d51bb62"}}

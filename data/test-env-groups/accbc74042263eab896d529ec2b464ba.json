@@ -1,0 +1,1 @@
+{"id":"accbc74042263eab896d529ec2b464ba","fullName":"server/lib/__tests__/guarantor-access.test.ts#inferRequiredScopeFromAction maps 'billing_view_balance' -> billing","name":"maps 'billing_view_balance' -> billing","status":"passed","testResultsByEnv":{"default":"285e2c521b0f724e9895c6eb37ea9938"}}

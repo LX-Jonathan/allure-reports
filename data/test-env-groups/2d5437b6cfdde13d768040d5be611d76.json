@@ -1,0 +1,1 @@
+{"id":"2d5437b6cfdde13d768040d5be611d76","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getFilteredClaims should filter by assignedTo","name":"should filter by assignedTo","status":"passed","testResultsByEnv":{"default":"1b369b1fc20f4c31b920516cc9cf0314"}}

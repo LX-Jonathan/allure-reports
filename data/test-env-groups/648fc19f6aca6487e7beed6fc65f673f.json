@@ -1,0 +1,1 @@
+{"id":"648fc19f6aca6487e7beed6fc65f673f","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId/forms returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"bbda124a2f2708466611031ff4ca406d"}}

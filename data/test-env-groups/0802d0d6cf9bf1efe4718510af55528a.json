@@ -1,0 +1,1 @@
+{"id":"0802d0d6cf9bf1efe4718510af55528a","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"7027547b41673ae48b75370ea291222f"}}

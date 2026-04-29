@@ -1,0 +1,1 @@
+{"id":"6affc46bfd822d93adbaa3065006c1fa","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service isDataXchangeConfigured should return false when AWS_ACCESS_KEY_ID is missing","name":"should return false when AWS_ACCESS_KEY_ID is missing","status":"passed","testResultsByEnv":{"default":"937ba508b14f376c054434434d799560"}}

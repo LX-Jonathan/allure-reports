@@ -1,0 +1,1 @@
+{"id":"1cdb14f7a67d917c0fdfc5510c394422","fullName":"server/workers/__tests__/report-generation.worker.test.ts#startReportGenerationWorker should create worker with correct queue name and concurrency","name":"should create worker with correct queue name and concurrency","status":"passed","testResultsByEnv":{"default":"5e47d3e34795a74b38f1bb92d4936e71"}}

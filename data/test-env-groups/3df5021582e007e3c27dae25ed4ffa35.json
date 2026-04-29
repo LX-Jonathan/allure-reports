@@ -1,0 +1,1 @@
+{"id":"3df5021582e007e3c27dae25ed4ffa35","fullName":"client/src/components/__tests__/patient-portal-layout.test.tsx#PatientPortalLayout does not render Pay Now when outstanding balance is zero","name":"does not render Pay Now when outstanding balance is zero","status":"passed","testResultsByEnv":{"default":"e720f235743dbe9e7b61c30b3837a849"}}

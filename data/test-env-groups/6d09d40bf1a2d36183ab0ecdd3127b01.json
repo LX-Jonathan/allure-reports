@@ -1,0 +1,1 @@
+{"id":"6d09d40bf1a2d36183ab0ecdd3127b01","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management setUserLocationAssignments should delete existing and insert new assignments","name":"should delete existing and insert new assignments","status":"passed","testResultsByEnv":{"default":"1644286483c9d756a9332ef6a0ce6481"}}

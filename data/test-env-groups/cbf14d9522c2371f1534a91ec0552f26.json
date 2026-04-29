@@ -1,0 +1,1 @@
+{"id":"cbf14d9522c2371f1534a91ec0552f26","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations deleteOrg returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"16a08eb234a184b53136a8c1764ac24b"}}

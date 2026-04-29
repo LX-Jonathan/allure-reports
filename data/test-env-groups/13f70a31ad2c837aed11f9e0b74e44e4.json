@@ -1,0 +1,1 @@
+{"id":"13f70a31ad2c837aed11f9e0b74e44e4","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/dashboard/stats (Staff Portal - Dashboard Stats) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"6aad89ff71516b5f6cffef1fa41e5b72"}}

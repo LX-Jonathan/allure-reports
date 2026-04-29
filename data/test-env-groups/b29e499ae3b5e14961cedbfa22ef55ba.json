@@ -1,0 +1,1 @@
+{"id":"b29e499ae3b5e14961cedbfa22ef55ba","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes DELETE /api/onboarding/:id returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"830d49b3e23b5d3e2749a5df5daad56d"}}

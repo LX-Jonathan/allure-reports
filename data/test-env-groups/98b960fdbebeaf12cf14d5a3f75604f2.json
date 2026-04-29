@@ -1,0 +1,1 @@
+{"id":"98b960fdbebeaf12cf14d5a3f75604f2","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should call ssrFixStacktrace and next on transformIndexHtml error","name":"should call ssrFixStacktrace and next on transformIndexHtml error","status":"passed","testResultsByEnv":{"default":"f051c9663d27404651b364d6e417472f"}}

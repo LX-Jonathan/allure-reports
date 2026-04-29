@@ -1,0 +1,1 @@
+{"id":"3be1c551bf06441b42f68f067fdd8002","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints DELETE /api/v1/lab-tests/:id/image does NOT delete from R2 when imageUrl starts with http","name":"does NOT delete from R2 when imageUrl starts with http","status":"passed","testResultsByEnv":{"default":"9342f91c37595b1dbb13b694e45e5320"}}

@@ -1,0 +1,1 @@
+{"id":"81374b81273b9ae94b1dc1592150ef90","fullName":"client/src/pages/__tests__/point-of-sale-deeplink.test.tsx#PointOfSalePage deep-link contract omits applyCreditCents from the payload when the toggle is off","name":"omits applyCreditCents from the payload when the toggle is off","status":"passed","testResultsByEnv":{"default":"4842323d7c212a46d8ee0ac89403b591"}}

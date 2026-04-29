@@ -1,0 +1,1 @@
+{"id":"352b6b9374a39ab0c0a5156c29cb81f4","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations expires stale invitations and emails the patient inviter","name":"expires stale invitations and emails the patient inviter","status":"passed","testResultsByEnv":{"default":"2ae40fe625a2edca0116e6e44fddec2b"}}

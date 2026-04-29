@@ -1,0 +1,1 @@
+{"id":"80d319c05d24cafee8e5473896cae7c2","fullName":"server/routes/__tests__/lab-client-insurance-masters.routes.test.ts#lab-client-insurance-masters effective-credentials route returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"0e247f43a49c7c18003555d32d7c4b78"}}

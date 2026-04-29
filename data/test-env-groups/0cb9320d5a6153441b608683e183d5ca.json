@@ -1,0 +1,1 @@
+{"id":"0cb9320d5a6153441b608683e183d5ca","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan getQueueAlertRules should apply both queueType and isActive filters","name":"should apply both queueType and isActive filters","status":"passed","testResultsByEnv":{"default":"eceaaedbdbf4ca14b67c7a19bf56dbf7"}}

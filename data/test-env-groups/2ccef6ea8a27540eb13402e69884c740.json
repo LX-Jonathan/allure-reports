@@ -1,0 +1,1 @@
+{"id":"2ccef6ea8a27540eb13402e69884c740","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id/link-user returns 400 when user is already linked to another provider","name":"returns 400 when user is already linked to another provider","status":"passed","testResultsByEnv":{"default":"926e2a1b1d424a40278f17cf6c313ebd"}}

@@ -1,0 +1,1 @@
+{"id":"f27d30808f001830f9096e46ef2e0323","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should handle empty AI response array","name":"should handle empty AI response array","status":"passed","testResultsByEnv":{"default":"aeaf44c63ca03f862edc0c57a8508b36"}}

@@ -1,0 +1,1 @@
+{"id":"ba2b95cc2e61048204a596dd97e6846a","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/attach-patient returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"fcc997eaa16c4699757237ca2337c70b"}}

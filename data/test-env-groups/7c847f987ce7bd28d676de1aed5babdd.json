@@ -1,0 +1,1 @@
+{"id":"7c847f987ce7bd28d676de1aed5babdd","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules returns empty array for location-level user with no locations","name":"returns empty array for location-level user with no locations","status":"passed","testResultsByEnv":{"default":"93fe0c9d46c68f7b0dfd830a4be2913f"}}

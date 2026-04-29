@@ -1,0 +1,1 @@
+{"id":"1ae6b09179c4559e20a9211245db09d8","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth logout mutation clears tokens even when logout request fails","name":"clears tokens even when logout request fails","status":"passed","testResultsByEnv":{"default":"583778e4bc260f5b50be39d33949dee7"}}

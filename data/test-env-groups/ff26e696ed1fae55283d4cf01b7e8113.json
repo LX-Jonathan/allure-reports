@@ -1,0 +1,1 @@
+{"id":"ff26e696ed1fae55283d4cf01b7e8113","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"7c48c9b4a012d6a490ebde6cb68a28dd"}}

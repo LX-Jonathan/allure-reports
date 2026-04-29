@@ -1,0 +1,1 @@
+{"id":"2ac75b1cdc04d5df1fcfcde6030f3d48","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/:id/mappings returns 200 with mappings","name":"returns 200 with mappings","status":"passed","testResultsByEnv":{"default":"5e8254732967ff610c5136e73151631b"}}

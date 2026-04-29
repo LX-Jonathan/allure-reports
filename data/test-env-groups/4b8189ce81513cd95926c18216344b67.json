@@ -1,0 +1,1 @@
+{"id":"4b8189ce81513cd95926c18216344b67","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests/compendium-configs should restrict org_admin to their org","name":"should restrict org_admin to their org","status":"passed","testResultsByEnv":{"default":"fc771c5b9c5010c9c0abbdfd9b8987f4"}}

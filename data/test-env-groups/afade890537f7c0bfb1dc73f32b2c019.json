@@ -1,0 +1,1 @@
+{"id":"afade890537f7c0bfb1dc73f32b2c019","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) DELETE /api/v1/pre-registration-links/:id returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"22056fe022f08c113190f87d09f24bda"}}

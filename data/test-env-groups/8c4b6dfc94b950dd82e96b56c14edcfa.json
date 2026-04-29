@@ -1,0 +1,1 @@
+{"id":"8c4b6dfc94b950dd82e96b56c14edcfa","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes DELETE /api/onboarding/:flowId/sections/:sectionId returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"786bafb3650366208b53a9b914d0cc50"}}

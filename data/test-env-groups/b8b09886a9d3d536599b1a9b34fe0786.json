@@ -1,0 +1,1 @@
+{"id":"b8b09886a9d3d536599b1a9b34fe0786","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations initializePermissions creates missing permissions","name":"creates missing permissions","status":"passed","testResultsByEnv":{"default":"617e04a085e726d06fdfca88c769acd5"}}

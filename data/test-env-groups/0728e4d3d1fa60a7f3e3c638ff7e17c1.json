@@ -1,0 +1,1 @@
+{"id":"0728e4d3d1fa60a7f3e3c638ff7e17c1","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET / returns 400 when parentLabId is not available","name":"returns 400 when parentLabId is not available","status":"passed","testResultsByEnv":{"default":"ad2dda22897d08e30368c0c997a02619"}}

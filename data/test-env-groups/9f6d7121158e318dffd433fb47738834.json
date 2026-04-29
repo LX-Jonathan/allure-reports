@@ -1,0 +1,1 @@
+{"id":"9f6d7121158e318dffd433fb47738834","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 400 when participants not found or inactive","name":"returns 400 when participants not found or inactive","status":"passed","testResultsByEnv":{"default":"bfbd040cec9fe84b70c8949695f3f36b"}}

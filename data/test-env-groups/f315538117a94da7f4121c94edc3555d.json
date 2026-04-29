@@ -1,0 +1,1 @@
+{"id":"f315538117a94da7f4121c94edc3555d","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return empty array for completed","name":"should return empty array for completed","status":"passed","testResultsByEnv":{"default":"374dc5a83480d70768db4a729c75fe7c"}}

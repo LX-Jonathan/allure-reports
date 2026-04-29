@@ -1,0 +1,1 @@
+{"id":"493cc0639ec330392cb2a2f13b099fd0","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should log SendGrid response details","name":"should log SendGrid response details","status":"passed","testResultsByEnv":{"default":"826c8c465bff42c5091bf273c604633d"}}

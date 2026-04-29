@@ -1,0 +1,1 @@
+{"id":"18ebd13916eda0ee3774f1c9f7d4c3fd","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes DELETE /api/v1/patient-documents/:id returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"cdfac19b0de76fb46afb3eed8f3a21a6"}}

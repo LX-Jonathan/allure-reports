@@ -1,0 +1,1 @@
+{"id":"4c5f475e906aa3be4aeadb9231b06eac","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints PUT /api/v1/lab-tests/:id/image-url returns 200 and updates imageUrl on success","name":"returns 200 and updates imageUrl on success","status":"passed","testResultsByEnv":{"default":"aef90743f018bd3916f013ddd6cda520"}}

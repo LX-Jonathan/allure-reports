@@ -1,0 +1,1 @@
+{"id":"adea7467efc53c10aee391c72dc4f49f","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"c0e0948e8b67477a76410e73cd3cfc5c"}}

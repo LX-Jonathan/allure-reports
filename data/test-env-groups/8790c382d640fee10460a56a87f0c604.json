@@ -1,0 +1,1 @@
+{"id":"8790c382d640fee10460a56a87f0c604","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:kitId/release-results (Staff Portal - Release Results) returns 400 when kit is not in result_ready status","name":"returns 400 when kit is not in result_ready status","status":"passed","testResultsByEnv":{"default":"7591aa0401ee15689f83a8f484ba7e5f"}}

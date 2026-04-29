@@ -1,0 +1,1 @@
+{"id":"8e1a8e449070bb17849526adbb7d2b33","fullName":"client/src/hooks/__tests__/useFeeEstimationReadiness.test.tsx#useFeeEstimationReadiness - status derivation returns to idle when the cart is emptied","name":"returns to idle when the cart is emptied","status":"passed","testResultsByEnv":{"default":"89d79ceaec79d1e3451ec266006b80fc"}}

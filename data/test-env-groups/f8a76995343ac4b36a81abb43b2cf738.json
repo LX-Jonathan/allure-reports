@@ -1,0 +1,1 @@
+{"id":"f8a76995343ac4b36a81abb43b2cf738","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/link-self (additional edge cases) returns 400 when providerId is missing","name":"returns 400 when providerId is missing","status":"passed","testResultsByEnv":{"default":"7991d113ab176558034e0b8db8fa6393"}}

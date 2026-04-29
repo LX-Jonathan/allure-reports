@@ -1,0 +1,1 @@
+{"id":"56c39a2714d040c90a0ba9fb5b079088","fullName":"server/__tests__/billing-list-patient-paid-aggregation.test.ts#Billing list patient-paid aggregation nets a fully reversed $50 payment to zero","name":"nets a fully reversed $50 payment to zero","status":"passed","testResultsByEnv":{"default":"fa09ef7f1801ce083057d4eebbd09562"}}

@@ -1,0 +1,1 @@
+{"id":"c5967554568c59cc802e0fc41b542a96","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueEmail should handle case when addEmailJob returns null (sync fallback)","name":"should handle case when addEmailJob returns null (sync fallback)","status":"passed","testResultsByEnv":{"default":"a6728346d36069022caf320e6d933e8e"}}

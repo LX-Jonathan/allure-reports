@@ -1,0 +1,1 @@
+{"id":"37f20c4338485184b5d30f043052081e","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts DELETE /chart-of-accounts/:id returns 404 when account not found","name":"returns 404 when account not found","status":"passed","testResultsByEnv":{"default":"4d361217d35b878ac485aad5f334412e"}}

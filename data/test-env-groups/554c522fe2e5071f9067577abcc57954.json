@@ -1,0 +1,1 @@
+{"id":"554c522fe2e5071f9067577abcc57954","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /fhir-connections/stats returns zero avgLatency when no connections","name":"returns zero avgLatency when no connections","status":"passed","testResultsByEnv":{"default":"ed8c746ffa1c2a52b61fd1a054f027df"}}

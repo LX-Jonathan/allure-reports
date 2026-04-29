@@ -1,0 +1,1 @@
+{"id":"f021fefd11124525b7cade2f9968b9ee","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/plans returns 404 when company not found","name":"returns 404 when company not found","status":"passed","testResultsByEnv":{"default":"b5f5240b2c1b73f720c193d435839d40"}}

@@ -1,0 +1,1 @@
+{"id":"16a9593fb65c025b8e2eed3fa6eb0f96","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/companies/:companyId/plans/:planId returns 404 when plan not found","name":"returns 404 when plan not found","status":"passed","testResultsByEnv":{"default":"e06fac201f4cc1132deb4bc158508262"}}

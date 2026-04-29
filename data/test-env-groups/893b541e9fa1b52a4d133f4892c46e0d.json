@@ -1,0 +1,1 @@
+{"id":"893b541e9fa1b52a4d133f4892c46e0d","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /assignments/:assignmentId returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"2485f44d28ca28a05ec73c272e3a73d4"}}

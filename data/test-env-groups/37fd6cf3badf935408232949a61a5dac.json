@@ -1,0 +1,1 @@
+{"id":"37fd6cf3badf935408232949a61a5dac","fullName":"server/lib/__tests__/email.test.ts#email sendDtcOrderConfirmationEmail includes shipping address","name":"includes shipping address","status":"passed","testResultsByEnv":{"default":"6b3fe4049c2f74986b9d6dcc683d3fc6"}}

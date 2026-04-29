@@ -1,0 +1,1 @@
+{"id":"a38709646282ec55aceb6a2af08e9c5d","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#useAoeLogicEvaluation parseNumeric edge cases falls back to parseFloat for non-pure-number strings","name":"falls back to parseFloat for non-pure-number strings","status":"passed","testResultsByEnv":{"default":"3295f0fdd38f235a6e031f6694d10b24"}}

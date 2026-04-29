@@ -1,0 +1,1 @@
+{"id":"958ea5664b18bcf8ddd3a147c81ed602","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should add to dead letter queue after max retries","name":"should add to dead letter queue after max retries","status":"passed","testResultsByEnv":{"default":"aa3189e0f692682d58c4c79ae67342dc"}}

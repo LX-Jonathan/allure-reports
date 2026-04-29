@@ -1,0 +1,1 @@
+{"id":"e2ba2b37911d73e15bf8489bfba6d809","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware response interception should call next for auditable requests","name":"should call next for auditable requests","status":"passed","testResultsByEnv":{"default":"41bb82235b6e371c6a8e683c5b7c5958"}}

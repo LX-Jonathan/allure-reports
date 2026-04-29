@@ -1,0 +1,1 @@
+{"id":"745be947af293d3437141f0e624dcfc6","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post837ClaimJournal should return null when totalBilled is undefined/falsy","name":"should return null when totalBilled is undefined/falsy","status":"passed","testResultsByEnv":{"default":"7fbbcdb76cde1d989ea85843c5e903e2"}}

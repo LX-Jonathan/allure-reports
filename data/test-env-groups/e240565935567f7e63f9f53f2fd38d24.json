@@ -1,0 +1,1 @@
+{"id":"e240565935567f7e63f9f53f2fd38d24","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload formats phone number by removing non-digits","name":"formats phone number by removing non-digits","status":"passed","testResultsByEnv":{"default":"abcbf847f4ae75cdfbb2deacd61303b8"}}

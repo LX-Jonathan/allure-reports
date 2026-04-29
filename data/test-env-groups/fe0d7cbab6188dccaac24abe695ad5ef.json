@@ -1,0 +1,1 @@
+{"id":"fe0d7cbab6188dccaac24abe695ad5ef","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes PATCH /api/v1/patient-documents/:id returns 400 when no updates provided","name":"returns 400 when no updates provided","status":"passed","testResultsByEnv":{"default":"cdb95bfb15518953e5a6aa3943ccbef0"}}

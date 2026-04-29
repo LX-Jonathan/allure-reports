@@ -1,0 +1,1 @@
+{"id":"12aa2925f772c2cad6d0cc3af20ecec5","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes PATCH /api/fee-schedules/config/pricing-defaults error handling returns 500 on save error","name":"returns 500 on save error","status":"passed","testResultsByEnv":{"default":"14227e3a8d027156d66b50d703858492"}}

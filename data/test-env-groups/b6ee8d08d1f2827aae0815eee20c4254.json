@@ -1,0 +1,1 @@
+{"id":"b6ee8d08d1f2827aae0815eee20c4254","fullName":"client/src/pages/__tests__/result-detail.test.tsx#ResultDetailPage shows 'Reviewed' badge instead of mark-reviewed button when already reviewed","name":"shows 'Reviewed' badge instead of mark-reviewed button when already reviewed","status":"passed","testResultsByEnv":{"default":"6447569f14c3f54441a397b42fd44965"}}

@@ -1,0 +1,1 @@
+{"id":"5d87f5c15a1b1e49129da215f3946a0c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanyCount returns count with parentLabId filter","name":"returns count with parentLabId filter","status":"passed","testResultsByEnv":{"default":"a6bb5eb5f6c410a7d2e0efb099c71dec"}}

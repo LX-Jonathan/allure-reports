@@ -1,0 +1,1 @@
+{"id":"38121bc938422ab12833524caeb5aeee","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes GET /:parentLabId returns empty defaults when settings is null","name":"returns empty defaults when settings is null","status":"passed","testResultsByEnv":{"default":"33e035d5a621863f3ab9dcf34a749bf1"}}

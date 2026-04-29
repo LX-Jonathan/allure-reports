@@ -1,0 +1,1 @@
+{"id":"f835e85e7260090a29ea128193b85fba","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /config/:parentLabId returns SSO config with masked client secret","name":"returns SSO config with masked client secret","status":"passed","testResultsByEnv":{"default":"04eadad1dd78eb36ffb0c17a611c50d4"}}

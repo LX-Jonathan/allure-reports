@@ -1,0 +1,1 @@
+{"id":"fc20b1d0568ba71a492d391fa43b3178","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord demographics should return null demographics when patient is null","name":"should return null demographics when patient is null","status":"passed","testResultsByEnv":{"default":"4ea4800fa15f37217e568af1e1b83239"}}

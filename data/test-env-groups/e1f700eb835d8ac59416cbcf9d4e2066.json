@@ -1,0 +1,1 @@
+{"id":"e1f700eb835d8ac59416cbcf9d4e2066","fullName":"client/src/components/patient/__tests__/payment-ratio-sparkline.test.tsx#PaymentRatioSparkline renders nothing when there are fewer than 2 qualifying points","name":"renders nothing when there are fewer than 2 qualifying points","status":"passed","testResultsByEnv":{"default":"6f286dc4a4457db466c696432cf40529"}}

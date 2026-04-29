@@ -1,0 +1,1 @@
+{"id":"ea3569888e1c0d2b8c852d2146a3e56a","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob Redis file storage should read file from Redis when filePath starts with redis:","name":"should read file from Redis when filePath starts with redis:","status":"passed","testResultsByEnv":{"default":"22cf8ffbd8dbaa6408226e173d1af11f"}}

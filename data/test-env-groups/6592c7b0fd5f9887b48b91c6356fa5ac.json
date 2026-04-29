@@ -1,0 +1,1 @@
+{"id":"6592c7b0fd5f9887b48b91c6356fa5ac","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes POST /api/v1/check-ins (create) creates a walk-in check-in deriving lab info from the location","name":"creates a walk-in check-in deriving lab info from the location","status":"passed","testResultsByEnv":{"default":"57f3db67403646efe9cdae47916ad914"}}

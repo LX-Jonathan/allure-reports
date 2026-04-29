@@ -1,0 +1,1 @@
+{"id":"b215bc7d27bf881b5d470d79f9e2fed1","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket filters out own user from typing users","name":"filters out own user from typing users","status":"passed","testResultsByEnv":{"default":"3452aca481ff12648b79f90f9aae7c2a"}}

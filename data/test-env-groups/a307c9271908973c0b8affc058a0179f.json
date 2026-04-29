@@ -1,0 +1,1 @@
+{"id":"a307c9271908973c0b8affc058a0179f","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/resolve/:slug returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"fc0fd1533c3f3a8c0639d92597731c04"}}

@@ -1,0 +1,1 @@
+{"id":"a47f9fc5cdbe5f6a5db4608811a6ef6a","fullName":"server/lib/__tests__/cache.service.test.ts#invalidateOrderCaches should invalidate orders and stats caches for specific organization","name":"should invalidate orders and stats caches for specific organization","status":"passed","testResultsByEnv":{"default":"5e4c7a680ef2f57312b3fa99021ca785"}}

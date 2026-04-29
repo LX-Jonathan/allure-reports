@@ -1,0 +1,1 @@
+{"id":"0964b1ed8f3376a406abfb2db27c9d87","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should return 'I' for null","name":"should return 'I' for null","status":"passed","testResultsByEnv":{"default":"5a7d1bd01f49361ff30605de98682cea"}}

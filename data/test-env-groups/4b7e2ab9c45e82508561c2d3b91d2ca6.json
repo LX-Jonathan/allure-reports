@@ -1,0 +1,1 @@
+{"id":"4b7e2ab9c45e82508561c2d3b91d2ca6","fullName":"server/lib/__tests__/logger.test.ts#logger child() should support all log levels on a child logger","name":"should support all log levels on a child logger","status":"passed","testResultsByEnv":{"default":"b24f8fc01f9dff9ae21f2e23dc40e1a0"}}

@@ -1,0 +1,1 @@
+{"id":"a966605f4e3adfaa8d6399f36912af54","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar hides the Patient Portal NavItem for non-admin lab_client users (e.g. staff)","name":"hides the Patient Portal NavItem for non-admin lab_client users (e.g. staff)","status":"passed","testResultsByEnv":{"default":"1acef74268ab814b308097f37567c4a1"}}

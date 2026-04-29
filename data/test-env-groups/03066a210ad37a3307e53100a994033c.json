@@ -1,0 +1,1 @@
+{"id":"03066a210ad37a3307e53100a994033c","fullName":"server/__tests__/static.test.ts#serveStatic static middleware setup should register express.static middleware","name":"should register express.static middleware","status":"passed","testResultsByEnv":{"default":"b36d4e6fb848cb1e2fc12ac9b221819b"}}

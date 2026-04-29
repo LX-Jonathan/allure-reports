@@ -1,0 +1,1 @@
+{"id":"e7741161013f11b47742e6c0eb0afc66","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan getBulkScanBatches should apply parentLabId filter","name":"should apply parentLabId filter","status":"passed","testResultsByEnv":{"default":"4c236fa63993c7e9142329e2d7ca0897"}}

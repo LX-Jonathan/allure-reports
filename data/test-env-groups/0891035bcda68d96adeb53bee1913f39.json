@@ -1,0 +1,1 @@
+{"id":"0891035bcda68d96adeb53bee1913f39","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes PATCH /api/payment-plans/:id error handling returns 500 on db error during update","name":"returns 500 on db error during update","status":"passed","testResultsByEnv":{"default":"3d6611d88fb1abc1fd7d594ab422cd04"}}

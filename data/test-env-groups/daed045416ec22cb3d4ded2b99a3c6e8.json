@@ -1,0 +1,1 @@
+{"id":"daed045416ec22cb3d4ded2b99a3c6e8","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler billing resolution cron callback should update job status on success","name":"should update job status on success","status":"passed","testResultsByEnv":{"default":"09dea1c12bb9541f5ffdfbb0c0917653"}}

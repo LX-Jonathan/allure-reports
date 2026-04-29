@@ -1,0 +1,1 @@
+{"id":"b65a65361e3dcb2d2edd65d1c5b4174e","fullName":"server/jobs/__tests__/scheduler.test.ts#persistJobStatus should handle persist error gracefully","name":"should handle persist error gracefully","status":"passed","testResultsByEnv":{"default":"da1467a74b6060ffddd501e9d215ce68"}}

@@ -1,0 +1,1 @@
+{"id":"42abb08222af6a7a8207771f9601fa4c","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"eae9e2e4a824e9c6cf8062cfad84bc5a"}}

@@ -1,0 +1,1 @@
+{"id":"45a344ea4e59acedad8e945384c1b318","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /appeals/bulk/create returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"efbe1cfb9f5b98688ac315a08aa55606"}}

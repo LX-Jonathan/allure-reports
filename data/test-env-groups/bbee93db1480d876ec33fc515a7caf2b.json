@@ -1,0 +1,1 @@
+{"id":"bbee93db1480d876ec33fc515a7caf2b","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromTemp should log file size on read","name":"should log file size on read","status":"passed","testResultsByEnv":{"default":"91fa484d2da933364e3a20026b23a945"}}

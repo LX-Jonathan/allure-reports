@@ -1,0 +1,1 @@
+{"id":"32e3e6c74ce841a2443b9a5452712cf8","fullName":"server/lib/__tests__/marketplace-website-scraper.test.ts#marketplace-website-scraper extractImagesFromHtml filters out tracking pixels and favicons","name":"filters out tracking pixels and favicons","status":"passed","testResultsByEnv":{"default":"67edc0b31e5ebb59850584f3ad2b154f"}}

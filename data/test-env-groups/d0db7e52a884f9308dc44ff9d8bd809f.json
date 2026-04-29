@@ -1,0 +1,1 @@
+{"id":"d0db7e52a884f9308dc44ff9d8bd809f","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canResolveBillingItems chain should require staff and higher roles","name":"should require staff and higher roles","status":"passed","testResultsByEnv":{"default":"edd355454328ae04f613dfbdc8badfc8"}}

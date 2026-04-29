@@ -1,0 +1,1 @@
+{"id":"1173531542d2932775d720e5d85d2f32","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs returns paginated list with defaults","name":"returns paginated list with defaults","status":"passed","testResultsByEnv":{"default":"e22d8affb18dff769fd93c0fec665553"}}

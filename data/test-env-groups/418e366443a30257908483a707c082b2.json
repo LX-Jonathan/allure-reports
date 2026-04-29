@@ -1,0 +1,1 @@
+{"id":"418e366443a30257908483a707c082b2","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should include order details in content","name":"should include order details in content","status":"passed","testResultsByEnv":{"default":"3d2fef6c3d0d295f10773ec7f8358b15"}}

@@ -1,0 +1,1 @@
+{"id":"74136af5342dff2a0968ea1049451b00","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 400 for empty subject","name":"returns 400 for empty subject","status":"passed","testResultsByEnv":{"default":"4ba324e99785ab14c4cc4c0fe2f31a70"}}

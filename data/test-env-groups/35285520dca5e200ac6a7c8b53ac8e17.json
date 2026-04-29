@@ -1,0 +1,1 @@
+{"id":"35285520dca5e200ac6a7c8b53ac8e17","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should return 0 word count for whitespace-only text","name":"should return 0 word count for whitespace-only text","status":"passed","testResultsByEnv":{"default":"25d9596d809bda689f34995e8dbc66aa"}}

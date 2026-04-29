@@ -1,0 +1,1 @@
+{"id":"e4deb2ec08b224201ed48e2c541d1269","fullName":"server/routes/__tests__/enterprise-scheduling.routes.test.ts#Enterprise Scheduling Routes GET /api/enterprise-scheduling/waitlist returns 200 with entries","name":"returns 200 with entries","status":"passed","testResultsByEnv":{"default":"9fdaa6d0b588181e39f707a6c2d00356"}}

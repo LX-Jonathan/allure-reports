@@ -1,0 +1,1 @@
+{"id":"a8f581be32280b308dadecea0b1eb570","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create access control should return error when location user has no location assigned","name":"should return error when location user has no location assigned","status":"passed","testResultsByEnv":{"default":"ccf3cc7d21e6ce834f4dfdc39a7412cf"}}

@@ -1,0 +1,1 @@
+{"id":"3ed1161a57f96cbbf01456ff4c3f6123","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep does not pester the patient about cards when R2 is unconfigured","name":"does not pester the patient about cards when R2 is unconfigured","status":"passed","testResultsByEnv":{"default":"cd9ed2b0f1b9cbec44e08ac197ce4e7a"}}

@@ -1,0 +1,1 @@
+{"id":"87aeda4a0290b95173f1fee1a540494b","fullName":"server/routes/__tests__/temporal.routes.test.ts#Temporal Routes GET /api/temporal/workflows/:workflowId returns 400 when Temporal not configured","name":"returns 400 when Temporal not configured","status":"passed","testResultsByEnv":{"default":"06dc35e8939f434278484b4c2f56d382"}}

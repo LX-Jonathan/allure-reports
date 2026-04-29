@@ -1,0 +1,1 @@
+{"id":"33630ac25868ee499e82d688261877fb","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes POST /api/v1/patients/:patientId/medications returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"5f775c1837c9e49143bff73c3cb5d25e"}}

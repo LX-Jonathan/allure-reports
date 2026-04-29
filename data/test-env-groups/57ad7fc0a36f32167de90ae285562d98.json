@@ -1,0 +1,1 @@
+{"id":"57ad7fc0a36f32167de90ae285562d98","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms global Twilio sending should send via global config and return true","name":"should send via global config and return true","status":"passed","testResultsByEnv":{"default":"97a40e132326d625368103af2d53770f"}}

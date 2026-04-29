@@ -1,0 +1,1 @@
+{"id":"f06468ca75f199cdd2070daf31f717e2","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/apply-credit-payment returns 400 when there is no outstanding balance","name":"returns 400 when there is no outstanding balance","status":"passed","testResultsByEnv":{"default":"1c552e74b035bfed269f6f048936800e"}}

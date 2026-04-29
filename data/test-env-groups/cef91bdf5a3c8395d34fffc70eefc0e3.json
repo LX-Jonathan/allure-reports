@@ -1,0 +1,1 @@
+{"id":"cef91bdf5a3c8395d34fffc70eefc0e3","fullName":"client/src/pages/__tests__/order-detail-operations-center.test.tsx#OperationsCenterPanel readiness header & footer renders the Last checked timestamp from data.evaluatedAt","name":"renders the Last checked timestamp from data.evaluatedAt","status":"passed","testResultsByEnv":{"default":"846ce5093122acdd2f311967061067a5"}}

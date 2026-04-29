@@ -1,0 +1,1 @@
+{"id":"1f3728e66c67db4e726e5d6060b3bcc0","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 400 when amount is missing","name":"returns 400 when amount is missing","status":"passed","testResultsByEnv":{"default":"af8512c298f286c26cda4332550fa0a7"}}

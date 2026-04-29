@@ -1,0 +1,1 @@
+{"id":"2204d910fabf6d311d39977f82972739","fullName":"server/__tests__/bullmq.test.ts#bullmq lib queue getters getBulkScanSplitQueue returns a Queue","name":"getBulkScanSplitQueue returns a Queue","status":"passed","testResultsByEnv":{"default":"e2d02b56fb733ddf1435d8ef8f8ed29d"}}

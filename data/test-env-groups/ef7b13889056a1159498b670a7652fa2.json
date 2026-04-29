@@ -1,0 +1,1 @@
+{"id":"ef7b13889056a1159498b670a7652fa2","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"29210a3736c6eb5b96463766bd0f91b2"}}

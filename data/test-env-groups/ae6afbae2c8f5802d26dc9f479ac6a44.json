@@ -1,0 +1,1 @@
+{"id":"ae6afbae2c8f5802d26dc9f479ac6a44","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker edge cases plan year extraction should set plan year fields to null when no variants are present","name":"should set plan year fields to null when no variants are present","status":"passed","testResultsByEnv":{"default":"a77eb6388d606c65f27e0d06fd12116b"}}

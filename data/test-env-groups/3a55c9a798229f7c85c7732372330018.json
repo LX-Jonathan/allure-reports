@@ -1,0 +1,1 @@
+{"id":"3a55c9a798229f7c85c7732372330018","fullName":"client/src/components/patient/__tests__/scorecard-tab.test.tsx#ScorecardTab calls onNavigate when a metric card is clicked","name":"calls onNavigate when a metric card is clicked","status":"passed","testResultsByEnv":{"default":"040f96f412893973975d8c5cac4f6937"}}

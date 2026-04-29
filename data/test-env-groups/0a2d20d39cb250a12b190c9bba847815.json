@@ -1,0 +1,1 @@
+{"id":"0a2d20d39cb250a12b190c9bba847815","fullName":"client/src/pages/__tests__/auth-callback.test.tsx#AuthCallbackPage does not redirect to / on failure","name":"does not redirect to / on failure","status":"passed","testResultsByEnv":{"default":"3d6b6820a7f8deddc0529664bcb77621"}}

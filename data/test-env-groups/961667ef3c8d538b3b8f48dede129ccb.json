@@ -1,0 +1,1 @@
+{"id":"961667ef3c8d538b3b8f48dede129ccb","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes DELETE /api/v1/flu-shots/:id returns 200 when cancelling flu shot as super_admin","name":"returns 200 when cancelling flu shot as super_admin","status":"passed","testResultsByEnv":{"default":"9625df91225844fe6dc20c98cd55cc19"}}

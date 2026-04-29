@@ -1,0 +1,1 @@
+{"id":"eb8f6805506ef4ce1c242fa04125b559","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxy-invitations/:code/accept short-circuits when an active proxy already exists","name":"short-circuits when an active proxy already exists","status":"passed","testResultsByEnv":{"default":"f7cb284bcd3dcdecb1c27fe653696b5e"}}

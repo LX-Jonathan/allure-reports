@@ -1,0 +1,1 @@
+{"id":"1d68de12dbb0702ab323c13ea25a7c15","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts/seed-baseline returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"d66e2ad37a02ce35320e5f07b27d231e"}}

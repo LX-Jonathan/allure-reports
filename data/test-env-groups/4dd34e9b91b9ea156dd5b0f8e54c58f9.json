@@ -1,0 +1,1 @@
+{"id":"4dd34e9b91b9ea156dd5b0f8e54c58f9","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel calls onClick handlers and renders the right slot + body","name":"calls onClick handlers and renders the right slot + body","status":"passed","testResultsByEnv":{"default":"80a32d0b6569c7a486f0fa9ff4351094"}}

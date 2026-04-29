@@ -1,0 +1,1 @@
+{"id":"3a97b23964d3b6bc7503658a6d203b48","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Rule Templates (system-level library) GET /rule-templates returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"699499b5673e4ff0a67d09116795dda9"}}

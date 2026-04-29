@@ -1,0 +1,1 @@
+{"id":"ec539c7ada80be131b764aed94b5f17e","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/filters/:field should return filter options for valid field with year","name":"should return filter options for valid field with year","status":"passed","testResultsByEnv":{"default":"bacf1ef06104356f838101f9aa793a9e"}}

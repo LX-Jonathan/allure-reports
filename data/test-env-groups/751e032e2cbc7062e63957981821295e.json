@@ -1,0 +1,1 @@
+{"id":"751e032e2cbc7062e63957981821295e","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth invalid token provided should not return 401 when token is invalid","name":"should not return 401 when token is invalid","status":"passed","testResultsByEnv":{"default":"51e6c4acc1e656c46bd3f4ae9387e648"}}

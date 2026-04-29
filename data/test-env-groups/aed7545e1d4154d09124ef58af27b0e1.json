@@ -1,0 +1,1 @@
+{"id":"aed7545e1d4154d09124ef58af27b0e1","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /available-orgs/:parentLabId returns 403 when user cannot access parentLabId","name":"returns 403 when user cannot access parentLabId","status":"passed","testResultsByEnv":{"default":"a59f8b3d3e72cb52bf0c0dfe8ea9728c"}}

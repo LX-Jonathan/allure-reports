@@ -1,0 +1,1 @@
+{"id":"e1d5cc8617d053139c5bd6476d762e84","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules returns 200 with list of schedules including item counts","name":"returns 200 with list of schedules including item counts","status":"passed","testResultsByEnv":{"default":"70e127cdbd4b8702c6eb3baf2e5e2385"}}

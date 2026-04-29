@@ -1,0 +1,1 @@
+{"id":"c3bd344eba76a32ae395f6a82e3b9499","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service validateAndEscape throws on SQL injection attempt with UNION","name":"throws on SQL injection attempt with UNION","status":"passed","testResultsByEnv":{"default":"3b874e87c711582ea6e281aab32bf35b"}}

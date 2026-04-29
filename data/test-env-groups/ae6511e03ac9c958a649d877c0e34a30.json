@@ -1,0 +1,1 @@
+{"id":"ae6511e03ac9c958a649d877c0e34a30","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) PATCH /:id returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"89185158504b077e0915bb49a15b25cb"}}

@@ -1,0 +1,1 @@
+{"id":"94bb96b021cbcd86da3b7af02a01710b","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: account_not_active","name":"en: account_not_active","status":"passed","testResultsByEnv":{"default":"8ae03bcf08f4135d0b0ed6dabd1031e4"}}

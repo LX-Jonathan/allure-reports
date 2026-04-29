@@ -1,0 +1,1 @@
+{"id":"a25c28aa6f2c80f10d254a995e0e541f","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/threads/:threadId/resolve creates a system message when resolving","name":"creates a system message when resolving","status":"passed","testResultsByEnv":{"default":"b270b4857d731907f29a2a71d789fd91"}}

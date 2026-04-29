@@ -1,0 +1,1 @@
+{"id":"5cb8f75732e232591cc43fc4564d80ef","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/logo redirects to signed R2 URL","name":"redirects to signed R2 URL","status":"passed","testResultsByEnv":{"default":"13cd009d374334f5a02dd8f57bb4888d"}}

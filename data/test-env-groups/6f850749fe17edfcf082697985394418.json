@@ -1,0 +1,1 @@
+{"id":"6f850749fe17edfcf082697985394418","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return false for invalid transition from draft to completed","name":"should return false for invalid transition from draft to completed","status":"passed","testResultsByEnv":{"default":"d7976f37d903b452ff3c9c5777dffc8d"}}

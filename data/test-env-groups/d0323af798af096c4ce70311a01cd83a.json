@@ -1,0 +1,1 @@
+{"id":"d0323af798af096c4ce70311a01cd83a","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service lookupClfsCode returns entries for a valid HCPCS code","name":"returns entries for a valid HCPCS code","status":"passed","testResultsByEnv":{"default":"0d1a40c15e3aecd7dad046c3d5ff4052"}}

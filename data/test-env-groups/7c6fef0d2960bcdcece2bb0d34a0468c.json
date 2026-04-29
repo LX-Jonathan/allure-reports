@@ -1,0 +1,1 @@
+{"id":"7c6fef0d2960bcdcece2bb0d34a0468c","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/tickets applies status filter","name":"applies status filter","status":"passed","testResultsByEnv":{"default":"93dc8a4f7498aa9c5f8bd7e1053cba6a"}}

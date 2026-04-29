@@ -1,0 +1,1 @@
+{"id":"166a1940b842b193736301e08ccb6706","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should use default confidence when not provided","name":"should use default confidence when not provided","status":"passed","testResultsByEnv":{"default":"0879b7e6163cd60d909c7f6df19e39b4"}}

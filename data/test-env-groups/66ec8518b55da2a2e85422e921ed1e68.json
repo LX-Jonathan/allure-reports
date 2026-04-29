@@ -1,0 +1,1 @@
+{"id":"66ec8518b55da2a2e85422e921ed1e68","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs returns 409 on duplicate slug constraint violation","name":"returns 409 on duplicate slug constraint violation","status":"passed","testResultsByEnv":{"default":"97f321468156e31af7a8ba56931e6131"}}

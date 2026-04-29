@@ -1,0 +1,1 @@
+{"id":"988b9b14bad228046d613090c85148ec","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should log file size and TTL on successful store","name":"should log file size and TTL on successful store","status":"passed","testResultsByEnv":{"default":"4ab1ef40fee7bb5a587b2a43113f120c"}}

@@ -1,0 +1,1 @@
+{"id":"5a2c19aacce9c583cb7f252e6dd63a65","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"3551c7f17855e141c52834d5b896c235"}}

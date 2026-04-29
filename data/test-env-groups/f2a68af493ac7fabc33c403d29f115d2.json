@@ -1,0 +1,1 @@
+{"id":"f2a68af493ac7fabc33c403d29f115d2","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/apply-mappings returns 400 when no parentLabId","name":"returns 400 when no parentLabId","status":"passed","testResultsByEnv":{"default":"a07ca122c9bc0a323411870156b8d427"}}

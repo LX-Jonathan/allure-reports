@@ -1,0 +1,1 @@
+{"id":"07ffa3375c379f127e3e6f6a709d28ca","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 200 with not_configured when USPS not set up","name":"returns 200 with not_configured when USPS not set up","status":"passed","testResultsByEnv":{"default":"83fa652c0641a2f5a21ca7d38b2bcd65"}}

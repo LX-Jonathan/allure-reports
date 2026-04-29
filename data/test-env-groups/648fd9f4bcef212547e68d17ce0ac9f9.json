@@ -1,0 +1,1 @@
+{"id":"648fd9f4bcef212547e68d17ce0ac9f9","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService update should not allow updating parentLabId","name":"should not allow updating parentLabId","status":"passed","testResultsByEnv":{"default":"1a5329fa6707fe8c1f2768c8494fa555"}}

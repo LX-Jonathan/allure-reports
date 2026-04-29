@@ -1,0 +1,1 @@
+{"id":"1b8f5b416541f637a663f8693277b8e1","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes PATCH /:linkId/status returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"aa8df311235d20b824c4d9ce1da257df"}}

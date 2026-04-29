@@ -1,0 +1,1 @@
+{"id":"54855808edb2a326cdff8f6c2d7d6785","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/resync returns failure message when sync fails","name":"returns failure message when sync fails","status":"passed","testResultsByEnv":{"default":"cf7af695a6d8e1086c336471d4c107d7"}}

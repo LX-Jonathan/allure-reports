@@ -1,0 +1,1 @@
+{"id":"6285cd8f2733cf41ccfffe208233670c","fullName":"server/routes/__tests__/patient-auth-report-suspicious.routes.test.ts#POST /security-activity/report-suspicious returns 400 when the body is missing eventId","name":"returns 400 when the body is missing eventId","status":"passed","testResultsByEnv":{"default":"fa0bf106633efc27ee01124654305242"}}

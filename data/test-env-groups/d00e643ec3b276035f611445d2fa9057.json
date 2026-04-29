@@ -1,0 +1,1 @@
+{"id":"d00e643ec3b276035f611445d2fa9057","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 400 when no active line items","name":"returns 400 when no active line items","status":"passed","testResultsByEnv":{"default":"e157a9115e0e2cd2da131aaf99ad9b30"}}

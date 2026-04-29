@@ -1,0 +1,1 @@
+{"id":"52535d595bcd3fcb51e80a27596ef682","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF renders the lab address, NPI, and CLIA when provided","name":"renders the lab address, NPI, and CLIA when provided","status":"passed","testResultsByEnv":{"default":"e01d10e62236b1b8c05fef3b23e6b985"}}

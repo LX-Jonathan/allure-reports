@@ -1,0 +1,1 @@
+{"id":"fa3091678b041ed9dffc614bd193962c","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring internal model clamps pay likelihood to 1-99 range","name":"clamps pay likelihood to 1-99 range","status":"passed","testResultsByEnv":{"default":"964b8ad0ea2d82cf61ebd47473cb4d0d"}}

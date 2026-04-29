@@ -1,0 +1,1 @@
+{"id":"21c72c07723cc7c04ed9e9569aff44bd","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 403 for location-level user accessing different location","name":"returns 403 for location-level user accessing different location","status":"passed","testResultsByEnv":{"default":"0ddedaa3375b9609251715374435ca31"}}

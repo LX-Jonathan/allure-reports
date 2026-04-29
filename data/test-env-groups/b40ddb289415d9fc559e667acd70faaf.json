@@ -1,0 +1,1 @@
+{"id":"b40ddb289415d9fc559e667acd70faaf","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes PATCH /api/v1/master-patients/:id encrypts dateOfBirth and SSN when provided","name":"encrypts dateOfBirth and SSN when provided","status":"passed","testResultsByEnv":{"default":"7db7d24fd2de4068bab370f845f7d169"}}

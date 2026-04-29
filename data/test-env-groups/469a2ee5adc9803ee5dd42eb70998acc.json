@@ -1,0 +1,1 @@
+{"id":"469a2ee5adc9803ee5dd42eb70998acc","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker edge cases should handle error with stack trace","name":"should handle error with stack trace","status":"passed","testResultsByEnv":{"default":"de2096638f609c63606a58c20a52fd20"}}

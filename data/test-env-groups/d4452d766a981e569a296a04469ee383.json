@@ -1,0 +1,1 @@
+{"id":"d4452d766a981e569a296a04469ee383","fullName":"server/__tests__/staff-notifications.routes.test.ts#staff notifications routes rejects an unknown type filter with 400","name":"rejects an unknown type filter with 400","status":"passed","testResultsByEnv":{"default":"0c772d7ed5d5777eb1cc8e5d61f51e0b"}}

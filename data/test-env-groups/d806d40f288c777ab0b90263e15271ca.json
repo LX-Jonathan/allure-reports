@@ -1,0 +1,1 @@
+{"id":"d806d40f288c777ab0b90263e15271ca","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should return null on error and log","name":"should return null on error and log","status":"passed","testResultsByEnv":{"default":"2b6dc295671d74728af23eb3ee2938df"}}

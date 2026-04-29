@@ -1,0 +1,1 @@
+{"id":"5a08cf5c57fb264b45e17f7e5a645e40","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent refunds renders one row per refund with amount, status, and reason","name":"renders one row per refund with amount, status, and reason","status":"passed","testResultsByEnv":{"default":"6da6cd0f69e23eff71fe9396b7c02fdb"}}

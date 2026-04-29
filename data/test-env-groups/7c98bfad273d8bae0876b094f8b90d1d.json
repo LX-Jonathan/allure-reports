@@ -1,0 +1,1 @@
+{"id":"7c98bfad273d8bae0876b094f8b90d1d","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/reject returns 400 when user not pending","name":"returns 400 when user not pending","status":"passed","testResultsByEnv":{"default":"c849d8b6447faddbbd8dd8ddb07d0730"}}

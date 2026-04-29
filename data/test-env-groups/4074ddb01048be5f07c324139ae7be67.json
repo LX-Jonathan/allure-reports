@@ -1,0 +1,1 @@
+{"id":"4074ddb01048be5f07c324139ae7be67","fullName":"client/src/hooks/__tests__/useFeeEstimationReadiness.test.tsx#useFeeEstimationReadiness - explicit triggerFeeEstimation does not fire when the cart is empty","name":"does not fire when the cart is empty","status":"passed","testResultsByEnv":{"default":"554d2d038f896acb85b129e16aa5c761"}}

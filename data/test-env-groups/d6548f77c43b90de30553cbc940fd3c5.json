@@ -1,0 +1,1 @@
+{"id":"d6548f77c43b90de30553cbc940fd3c5","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary falls back to planYearStart when planYearEnd is missing","name":"falls back to planYearStart when planYearEnd is missing","status":"passed","testResultsByEnv":{"default":"85422dabadb70005a4922fcec50e7f05"}}

@@ -1,0 +1,1 @@
+{"id":"ba55469e4b449d89a7e0bc29dd678a0b","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes POST /api/v1/order-favorites returns 400 for missing name","name":"returns 400 for missing name","status":"passed","testResultsByEnv":{"default":"70e6215317cc541d8114fc3b4062e271"}}

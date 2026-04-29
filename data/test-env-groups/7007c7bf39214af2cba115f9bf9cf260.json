@@ -1,0 +1,1 @@
+{"id":"7007c7bf39214af2cba115f9bf9cf260","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check returns 400 when FRHC API is disabled","name":"returns 400 when FRHC API is disabled","status":"passed","testResultsByEnv":{"default":"86e7353aa74583ce4121d41e761137d3"}}

@@ -1,0 +1,1 @@
+{"id":"88a97087a03b830d0f8f8f7ef6321389","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag null phone as warning","name":"should flag null phone as warning","status":"passed","testResultsByEnv":{"default":"5bfd513549fc1d7f4c0401b3c5dd6c49"}}

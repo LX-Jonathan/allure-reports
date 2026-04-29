@@ -1,0 +1,1 @@
+{"id":"34aa646a2f694afc329ad2b8d87cfbee","fullName":"client/src/pages/__tests__/appointments.test.tsx#AppointmentsPage falls back to the patient page when a coverage flag has no associated check-in","name":"falls back to the patient page when a coverage flag has no associated check-in","status":"passed","testResultsByEnv":{"default":"c621bc85d8081ba47a35e41f549a8b33"}}

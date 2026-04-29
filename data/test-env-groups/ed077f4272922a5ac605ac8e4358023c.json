@@ -1,0 +1,1 @@
+{"id":"ed077f4272922a5ac605ac8e4358023c","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 200 when archiving conversation","name":"returns 200 when archiving conversation","status":"passed","testResultsByEnv":{"default":"581db09ad9bf1eea05cf6dd5ca949aa8"}}

@@ -1,0 +1,1 @@
+{"id":"7586a839ef1815527dae439f507f0920","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Generic report handler mapping verification \"missing-venipuncture\" invokes getMissingVenipuncture","name":"\"missing-venipuncture\" invokes getMissingVenipuncture","status":"passed","testResultsByEnv":{"default":"c932485b0968903f56fd26062269dbf2"}}

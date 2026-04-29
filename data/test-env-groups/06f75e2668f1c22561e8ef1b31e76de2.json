@@ -1,0 +1,1 @@
+{"id":"06f75e2668f1c22561e8ef1b31e76de2","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan getNextBulkScanItemForReview returns null when no more items","name":"returns null when no more items","status":"passed","testResultsByEnv":{"default":"47fc9dd6da8270ac4b2ce091fba1bcb0"}}

@@ -1,0 +1,1 @@
+{"id":"b952810c5c77f6ce8df512d8e5e1a783","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"a5b83bff4078916c7c01573c81b66a19"}}

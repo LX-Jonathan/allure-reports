@@ -1,0 +1,1 @@
+{"id":"536624b04a8841d4523c03be83890df1","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/products (Staff Portal - Product List) returns 200 with filtered products by parentLabId","name":"returns 200 with filtered products by parentLabId","status":"passed","testResultsByEnv":{"default":"da4c5d2d65264e89d1c5afa46c3b8f1e"}}

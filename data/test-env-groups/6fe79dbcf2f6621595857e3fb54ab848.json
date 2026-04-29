@@ -1,0 +1,1 @@
+{"id":"6fe79dbcf2f6621595857e3fb54ab848","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /:id/source-pdf-proxy returns 404 when template not found","name":"returns 404 when template not found","status":"passed","testResultsByEnv":{"default":"b1e6a248c8f9274d45d985dd4ab121ff"}}

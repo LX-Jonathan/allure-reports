@@ -1,0 +1,1 @@
+{"id":"d7addc5b3ce83e46d9fb49f12790fbd0","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit returns 0 and skips db work when amount is 0 or negative","name":"returns 0 and skips db work when amount is 0 or negative","status":"passed","testResultsByEnv":{"default":"6af5207bd2078a2e5924fce490ff9654"}}

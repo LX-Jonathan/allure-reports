@@ -1,0 +1,1 @@
+{"id":"9d2bb091d46ad427e213c07a6df99ac1","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/years should return 403 when user is not super_admin","name":"should return 403 when user is not super_admin","status":"passed","testResultsByEnv":{"default":"521e532a63e914062e9fd58e8105ac5f"}}

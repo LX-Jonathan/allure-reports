@@ -1,0 +1,1 @@
+{"id":"21a4f259cb5592f62cbf23e7a5a80184","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes DELETE /:linkId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3776283899a63fcea44e5689e0b857dc"}}

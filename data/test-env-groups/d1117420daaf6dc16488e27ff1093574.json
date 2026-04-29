@@ -1,0 +1,1 @@
+{"id":"d1117420daaf6dc16488e27ff1093574","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service detectBlankPage should call toBuffer with resolveWithObject true","name":"should call toBuffer with resolveWithObject true","status":"passed","testResultsByEnv":{"default":"ac1f2681c6ee041bcf3adb257f19aa4c"}}

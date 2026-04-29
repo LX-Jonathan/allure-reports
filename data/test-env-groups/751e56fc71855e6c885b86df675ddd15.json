@@ -1,0 +1,1 @@
+{"id":"751e56fc71855e6c885b86df675ddd15","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:id returns 404 when deletePatient returns falsy","name":"returns 404 when deletePatient returns falsy","status":"passed","testResultsByEnv":{"default":"b71fd5ccc6cf9139e384a003f916c26a"}}

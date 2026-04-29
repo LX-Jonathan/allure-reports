@@ -1,0 +1,1 @@
+{"id":"92691009b12094cf8b854f48b84044b9","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should call vite.transformIndexHtml with the request URL","name":"should call vite.transformIndexHtml with the request URL","status":"passed","testResultsByEnv":{"default":"cf531e61248cf93a86e7cad0744db5f6"}}

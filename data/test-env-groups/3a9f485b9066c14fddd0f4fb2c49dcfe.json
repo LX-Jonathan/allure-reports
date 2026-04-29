@@ -1,0 +1,1 @@
+{"id":"3a9f485b9066c14fddd0f4fb2c49dcfe","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord observations (labs and vitals) should separate laboratory observations into labResults","name":"should separate laboratory observations into labResults","status":"passed","testResultsByEnv":{"default":"508989778f8b8d747401586c0907d683"}}

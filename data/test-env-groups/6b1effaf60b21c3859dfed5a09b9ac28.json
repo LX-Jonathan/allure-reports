@@ -1,0 +1,1 @@
+{"id":"6b1effaf60b21c3859dfed5a09b9ac28","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/medical-necessity returns 403 when forbidden by superOrg","name":"returns 403 when forbidden by superOrg","status":"passed","testResultsByEnv":{"default":"34d02339502977f9b3f95347b234be7e"}}

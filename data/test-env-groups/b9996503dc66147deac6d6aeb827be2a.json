@@ -1,0 +1,1 @@
+{"id":"b9996503dc66147deac6d6aeb827be2a","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/insurance/:insuranceId returns 404 when order not found","name":"returns 404 when order not found","status":"passed","testResultsByEnv":{"default":"96c4c8bdbe1edb62107f78addce58477"}}

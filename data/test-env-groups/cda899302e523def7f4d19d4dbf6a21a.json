@@ -1,0 +1,1 @@
+{"id":"cda899302e523def7f4d19d4dbf6a21a","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should unregister key from Redis on delete","name":"should unregister key from Redis on delete","status":"passed","testResultsByEnv":{"default":"ef5f3813e5e80b2db84e899b46651bd0"}}

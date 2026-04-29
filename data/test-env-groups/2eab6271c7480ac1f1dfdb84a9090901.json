@@ -1,0 +1,1 @@
+{"id":"2eab6271c7480ac1f1dfdb84a9090901","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections falls back to targetField for binding when bindingKey is null","name":"falls back to targetField for binding when bindingKey is null","status":"passed","testResultsByEnv":{"default":"71ab70b0581fab4d0b78d5db6d0d8263"}}

@@ -1,0 +1,1 @@
+{"id":"bb8a978370d6d355cf5cd895c8ad93c5","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/quickstarts/:id returns 200 when quickstart is updated","name":"returns 200 when quickstart is updated","status":"passed","testResultsByEnv":{"default":"adf35a0b5ec89ab630ea56ed5b701d5c"}}

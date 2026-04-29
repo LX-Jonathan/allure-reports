@@ -1,0 +1,1 @@
+{"id":"36effd0bd05ee20e018d47868edf7cce","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes Routes GET /api/v1/diagnosis-codes/nlm-lookup returns 200 with NLM lookup results","name":"returns 200 with NLM lookup results","status":"passed","testResultsByEnv":{"default":"e6f94de8e4c37603102bb377dbc31e4e"}}

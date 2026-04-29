@@ -1,0 +1,1 @@
+{"id":"57249d9247fb179fbf207b804a600ecb","fullName":"client/src/hooks/__tests__/use-mobile.test.tsx#useIsMobile returns false when window width is >= 768","name":"returns false when window width is >= 768","status":"passed","testResultsByEnv":{"default":"5544147a9d987991cc3f11583639658d"}}

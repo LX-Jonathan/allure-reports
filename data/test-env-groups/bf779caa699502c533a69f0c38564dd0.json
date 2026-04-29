@@ -1,0 +1,1 @@
+{"id":"bf779caa699502c533a69f0c38564dd0","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended GET /api/v1/diagnosis-codes/batch-lookup returns 400 when codes parameter is missing","name":"returns 400 when codes parameter is missing","status":"passed","testResultsByEnv":{"default":"d40762dcbbfdade61cfce7469ee01519"}}

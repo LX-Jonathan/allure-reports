@@ -1,0 +1,1 @@
+{"id":"dd88f97770b1b67ae06a03713566cc70","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/import-trading-partners returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"7ba10608dac38529a77e623fbfacffcd"}}

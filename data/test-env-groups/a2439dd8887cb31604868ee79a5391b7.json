@@ -1,0 +1,1 @@
+{"id":"a2439dd8887cb31604868ee79a5391b7","fullName":"server/lib/__tests__/logger.test.ts#logger LOGGER_PASSTHROUGH='1' passthrough mode does NOT unwrap multi-key objects (only single-key { error } is unwrapped)","name":"does NOT unwrap multi-key objects (only single-key { error } is unwrapped)","status":"passed","testResultsByEnv":{"default":"ed54faf9009d6ba94a67e2ac96e343a1"}}

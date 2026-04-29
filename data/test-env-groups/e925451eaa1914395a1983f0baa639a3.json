@@ -1,0 +1,1 @@
+{"id":"e925451eaa1914395a1983f0baa639a3","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker startEmailWorker should register stalled event handler","name":"should register stalled event handler","status":"passed","testResultsByEnv":{"default":"3dfd2225bcf1dbab48a1e913bdaf6a15"}}

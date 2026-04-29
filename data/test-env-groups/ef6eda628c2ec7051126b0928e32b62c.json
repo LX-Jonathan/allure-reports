@@ -1,0 +1,1 @@
+{"id":"ef6eda628c2ec7051126b0928e32b62c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations setUserOrganizationAssignments only deletes when empty array provided","name":"only deletes when empty array provided","status":"passed","testResultsByEnv":{"default":"5520dcd891f53f04fc9777e8e3e60ec3"}}

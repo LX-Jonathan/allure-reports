@@ -1,0 +1,1 @@
+{"id":"7bd5d15ebc5e767042e3e3c131645835","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"84bdb2eada17a8932c5ad8f859b0894f"}}

@@ -1,0 +1,1 @@
+{"id":"5b89a721a570b7a8d01cf71cd45cc30e","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes PATCH /api/prompt-pay/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"f653c2712727c2f3649ac69dac80b353"}}

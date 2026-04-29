@@ -1,0 +1,1 @@
+{"id":"7fc2e517f9df30009277dfe219cf2a38","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/:id returns 404 when appointment not found","name":"returns 404 when appointment not found","status":"passed","testResultsByEnv":{"default":"2901421c743f1933b86b32cea0e0d290"}}

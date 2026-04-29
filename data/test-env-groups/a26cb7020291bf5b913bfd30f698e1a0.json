@@ -1,0 +1,1 @@
+{"id":"a26cb7020291bf5b913bfd30f698e1a0","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service formatLog should include truncated batchId","name":"should include truncated batchId","status":"passed","testResultsByEnv":{"default":"577231bd7a82addb9da6d1b10a45dd99"}}

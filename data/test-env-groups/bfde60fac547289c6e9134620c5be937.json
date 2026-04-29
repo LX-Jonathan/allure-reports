@@ -1,0 +1,1 @@
+{"id":"bfde60fac547289c6e9134620c5be937","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/generate-abn streams a PDF when format=pdf is requested","name":"streams a PDF when format=pdf is requested","status":"passed","testResultsByEnv":{"default":"3434f7848131029153b9a4b57068d2f6"}}

@@ -1,0 +1,1 @@
+{"id":"3f987318d126e421f6ef380d3e2eb4ba","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics returns empty array for location-level user without location assignment","name":"returns empty array for location-level user without location assignment","status":"passed","testResultsByEnv":{"default":"a2cedbc970be0f830774511a7b07e753"}}

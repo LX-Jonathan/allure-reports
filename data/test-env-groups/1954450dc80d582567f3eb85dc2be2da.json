@@ -1,0 +1,1 @@
+{"id":"1954450dc80d582567f3eb85dc2be2da","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions GET /pos/drawers/current returns null when no open drawer","name":"returns null when no open drawer","status":"passed","testResultsByEnv":{"default":"4c4e426853f4c8a0041f21789da8098b"}}

@@ -1,0 +1,1 @@
+{"id":"5f4ebe1977f7f80429c2df9b7595cb37","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/messages returns 201 with attachments and metadata","name":"returns 201 with attachments and metadata","status":"passed","testResultsByEnv":{"default":"e2a000a337da9e266b537659e83e64f9"}}

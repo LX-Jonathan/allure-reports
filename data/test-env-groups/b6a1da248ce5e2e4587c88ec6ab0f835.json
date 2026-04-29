@@ -1,0 +1,1 @@
+{"id":"b6a1da248ce5e2e4587c88ec6ab0f835","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions POST / returns 400 for invalid payload (missing patientId)","name":"returns 400 for invalid payload (missing patientId)","status":"passed","testResultsByEnv":{"default":"ced132eac32a4f79a5b69da000901e5c"}}

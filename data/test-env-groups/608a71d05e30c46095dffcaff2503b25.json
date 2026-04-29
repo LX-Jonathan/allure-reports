@@ -1,0 +1,1 @@
+{"id":"608a71d05e30c46095dffcaff2503b25","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/:id/pdf returns 403 for user without organization assignment","name":"returns 403 for user without organization assignment","status":"passed","testResultsByEnv":{"default":"c492a4464f59559e69ca3ffa428c7796"}}

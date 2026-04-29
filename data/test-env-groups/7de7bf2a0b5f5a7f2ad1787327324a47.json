@@ -1,0 +1,1 @@
+{"id":"7de7bf2a0b5f5a7f2ad1787327324a47","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern in-memory cache should delete keys matching generic prefix pattern","name":"should delete keys matching generic prefix pattern","status":"passed","testResultsByEnv":{"default":"a834038f61418291470c0f29edbd276e"}}

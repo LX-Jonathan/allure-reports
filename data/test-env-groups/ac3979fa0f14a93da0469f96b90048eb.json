@@ -1,0 +1,1 @@
+{"id":"ac3979fa0f14a93da0469f96b90048eb","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderCount should filter by parentLabId when provided","name":"should filter by parentLabId when provided","status":"passed","testResultsByEnv":{"default":"7dd48d893eafa1aab5745d7eb3cd6e7a"}}

@@ -1,0 +1,1 @@
+{"id":"c080ce30a5c279d74b739c16fa21ea2f","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended getPatientPortalInvitationByEmail normalizes email to lowercase and trims","name":"normalizes email to lowercase and trims","status":"passed","testResultsByEnv":{"default":"f7168f779977893ece4565c5be575ec1"}}

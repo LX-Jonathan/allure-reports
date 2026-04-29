@@ -1,0 +1,1 @@
+{"id":"84997f6e574890694225611ff5ccd7d1","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id returns 404 when super org not found","name":"returns 404 when super org not found","status":"passed","testResultsByEnv":{"default":"767e0ef827694ed1fc80ae81ee2c2ac2"}}

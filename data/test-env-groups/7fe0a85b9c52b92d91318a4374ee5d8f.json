@@ -1,0 +1,1 @@
+{"id":"7fe0a85b9c52b92d91318a4374ee5d8f","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/recent-items returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"7bb54f779b5dae0419d7654dcf452c9c"}}

@@ -1,0 +1,1 @@
+{"id":"7b815718cadac10f311c90c79d5696d1","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment handles config read fetch error and falls through to SGD","name":"checkEnvironment handles config read fetch error and falls through to SGD","status":"passed","testResultsByEnv":{"default":"e2eb39d24fcfc3e56237b0d66df00b77"}}

@@ -1,0 +1,1 @@
+{"id":"607de49d4ac2ff81e3395e710731534c","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should return original for empty string","name":"should return original for empty string","status":"passed","testResultsByEnv":{"default":"87cd67b1f5a5be12e7a18868ab11e427"}}

@@ -1,0 +1,1 @@
+{"id":"9a270409493688ecd9f548459f35f452","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3e65d0d48fa4ac105078af7567a08f81"}}

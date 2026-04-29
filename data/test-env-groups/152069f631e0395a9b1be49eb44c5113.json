@@ -1,0 +1,1 @@
+{"id":"152069f631e0395a9b1be49eb44c5113","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Export OTP Codes markExportOtpCodeAsUsed should set usedAt timestamp","name":"should set usedAt timestamp","status":"passed","testResultsByEnv":{"default":"eb6f096d56bacee58d520607525d8540"}}

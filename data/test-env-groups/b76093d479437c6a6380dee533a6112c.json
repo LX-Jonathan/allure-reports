@@ -1,0 +1,1 @@
+{"id":"b76093d479437c6a6380dee533a6112c","fullName":"server/routes/__tests__/user-view-portal-proxy.routes.test.ts#POST /:patientId/portal/proxies/invite (staff preview) rejects staff outside the patient's super-org","name":"rejects staff outside the patient's super-org","status":"passed","testResultsByEnv":{"default":"2b99fda4d10b1d6174efe203244fec69"}}

@@ -1,0 +1,1 @@
+{"id":"29f387a9093054a32b620d271548aa5a","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules getLocationsWithOpenEvents returns locations with open events","name":"returns locations with open events","status":"passed","testResultsByEnv":{"default":"dbee4ce8b64fd77c7c6b6d5a89c19ec2"}}

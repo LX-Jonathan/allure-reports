@@ -1,0 +1,1 @@
+{"id":"14c804e97355c5b7ba8a8d8ba93dad07","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes GET /api/v1/lab-tests/compendium-configs returns 200 with configs list","name":"returns 200 with configs list","status":"passed","testResultsByEnv":{"default":"3bbbf80ff303bb4b648a024179f8e2dc"}}

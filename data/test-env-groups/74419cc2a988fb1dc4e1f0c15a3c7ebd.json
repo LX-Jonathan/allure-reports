@@ -1,0 +1,1 @@
+{"id":"74419cc2a988fb1dc4e1f0c15a3c7ebd","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes POST /api/v1/interfaces/results/reset-stuck resets stuck result jobs","name":"resets stuck result jobs","status":"passed","testResultsByEnv":{"default":"77aecacd4e15da8687952870aa6baf8f"}}

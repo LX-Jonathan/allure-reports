@@ -1,0 +1,1 @@
+{"id":"8cfa3ee9399299797219fe6ce1bf3db6","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanDriversLicense should handle null values in response","name":"should handle null values in response","status":"passed","testResultsByEnv":{"default":"71004aa5751b568214ab436d619c699f"}}

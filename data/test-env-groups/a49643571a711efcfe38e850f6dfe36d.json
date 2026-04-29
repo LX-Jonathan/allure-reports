@@ -1,0 +1,1 @@
+{"id":"a49643571a711efcfe38e850f6dfe36d","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should return 500 on database error","name":"should return 500 on database error","status":"passed","testResultsByEnv":{"default":"2835c360a05ebf8499a240bdf6825ba4"}}

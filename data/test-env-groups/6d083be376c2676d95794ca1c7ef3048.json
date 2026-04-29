@@ -1,0 +1,1 @@
+{"id":"6d083be376c2676d95794ca1c7ef3048","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/auto-link creates master record and links patient","name":"creates master record and links patient","status":"passed","testResultsByEnv":{"default":"eba13580771c8d99982ff244a50a34f1"}}

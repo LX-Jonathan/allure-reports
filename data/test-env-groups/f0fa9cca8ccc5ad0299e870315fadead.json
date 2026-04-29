@@ -1,0 +1,1 @@
+{"id":"f0fa9cca8ccc5ad0299e870315fadead","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should check key existence when data is null","name":"should check key existence when data is null","status":"passed","testResultsByEnv":{"default":"8619a2f6d666e9d50f964d6a4c8fcd5f"}}

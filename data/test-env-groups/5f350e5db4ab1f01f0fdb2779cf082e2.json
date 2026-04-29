@@ -1,0 +1,1 @@
+{"id":"5f350e5db4ab1f01f0fdb2779cf082e2","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims/:claimId/download-url returns 200 with download URL","name":"returns 200 with download URL","status":"passed","testResultsByEnv":{"default":"cbaa4581f5ae594199ce40ff658de2a9"}}

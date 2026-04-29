@@ -1,0 +1,1 @@
+{"id":"47a473a453e977c186dcbe3be263d497","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns validation error for non-uuid locationId","name":"returns validation error for non-uuid locationId","status":"passed","testResultsByEnv":{"default":"693ab2bdf510519afe64324e7e541716"}}

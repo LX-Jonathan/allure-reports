@@ -1,0 +1,1 @@
+{"id":"1678cb7b908697260501786ecea543cd","fullName":"server/__tests__/verification-confidence.test.ts#deriveEligibilityExtractionConfidence derives a high confidence from low risk + verified insurance","name":"derives a high confidence from low risk + verified insurance","status":"passed","testResultsByEnv":{"default":"e00d20ef583f287c71c6c7bf09c352fd"}}

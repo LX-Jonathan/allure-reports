@@ -1,0 +1,1 @@
+{"id":"ed57c06b8cb4daf56b2cb86ce5d4b62f","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes DELETE /api/v1/form-configs/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"e11aa33d75fc5344224e0e67c6c97001"}}

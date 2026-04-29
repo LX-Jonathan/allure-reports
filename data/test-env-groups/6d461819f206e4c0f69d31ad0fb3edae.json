@@ -1,0 +1,1 @@
+{"id":"6d461819f206e4c0f69d31ad0fb3edae","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeOCRText should upload text as UTF-8 buffer with text/plain mime","name":"should upload text as UTF-8 buffer with text/plain mime","status":"passed","testResultsByEnv":{"default":"70a094f2ba6b496063df443575e34921"}}

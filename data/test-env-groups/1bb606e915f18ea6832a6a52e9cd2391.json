@@ -1,0 +1,1 @@
+{"id":"1bb606e915f18ea6832a6a52e9cd2391","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints DELETE /api/v1/lxu/admin/contextual-help/:id returns 403 for non-admin users","name":"returns 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"c0877b714540f87e9d96f55b4b43297d"}}

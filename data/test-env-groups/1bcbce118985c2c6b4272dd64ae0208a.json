@@ -1,0 +1,1 @@
+{"id":"1bcbce118985c2c6b4272dd64ae0208a","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns validation error for zero amount","name":"returns validation error for zero amount","status":"passed","testResultsByEnv":{"default":"961e9f9d1734266c9ae1bff745fe3e57"}}

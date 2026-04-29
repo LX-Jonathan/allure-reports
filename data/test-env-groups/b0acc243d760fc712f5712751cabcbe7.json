@@ -1,0 +1,1 @@
+{"id":"b0acc243d760fc712f5712751cabcbe7","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /campaigns returns 400 for invalid status","name":"returns 400 for invalid status","status":"passed","testResultsByEnv":{"default":"5b2e5de88d01169508e08a331bc77e44"}}

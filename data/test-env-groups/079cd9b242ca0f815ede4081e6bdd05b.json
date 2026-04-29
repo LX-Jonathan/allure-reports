@@ -1,0 +1,1 @@
+{"id":"079cd9b242ca0f815ede4081e6bdd05b","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getReportById should return report when found with full access","name":"should return report when found with full access","status":"passed","testResultsByEnv":{"default":"3a7455ee6b7a9550bb048919cab2e65d"}}

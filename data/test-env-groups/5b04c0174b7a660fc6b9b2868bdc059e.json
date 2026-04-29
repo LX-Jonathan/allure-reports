@@ -1,0 +1,1 @@
+{"id":"5b04c0174b7a660fc6b9b2868bdc059e","fullName":"server/services/__tests__/operationsCenter.service.test.ts#operationsCenter.service getOperationsCenterSummary should delegate to storage.getOperationsCenterCheckByOrderId","name":"should delegate to storage.getOperationsCenterCheckByOrderId","status":"passed","testResultsByEnv":{"default":"ce33a049d5cba918d25773f9ed43b905"}}

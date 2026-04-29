@@ -1,0 +1,1 @@
+{"id":"a4c2902a9815970c0aca64889b473032","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes POST /api/payment-plans validation edge cases rejects installments above maximum (60)","name":"rejects installments above maximum (60)","status":"passed","testResultsByEnv":{"default":"3fd37b11604982ba5e7d0be7221a7a6f"}}

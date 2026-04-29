@@ -1,0 +1,1 @@
+{"id":"b4f19a1f99b79467c36e16831b4e74ef","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should handle non-Error thrown values","name":"should handle non-Error thrown values","status":"passed","testResultsByEnv":{"default":"1533610da3afe7e284a3dd961cea8d4d"}}

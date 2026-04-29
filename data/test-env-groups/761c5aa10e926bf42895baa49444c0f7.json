@@ -1,0 +1,1 @@
+{"id":"761c5aa10e926bf42895baa49444c0f7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/frhc-api-configs returns 200 with paginated configs","name":"returns 200 with paginated configs","status":"passed","testResultsByEnv":{"default":"c4efd5f29ff96e5009f864f7d26759e7"}}

@@ -1,0 +1,1 @@
+{"id":"4804380a761de46cdedc10b2f30db08a","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Rule Templates (system-level library) PATCH /rule-templates/:id (descriptive propagation) returns 403 for non-platform admins","name":"returns 403 for non-platform admins","status":"passed","testResultsByEnv":{"default":"575fe727da9110c0807bb1b4260ad1c6"}}

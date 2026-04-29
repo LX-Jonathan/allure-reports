@@ -1,0 +1,1 @@
+{"id":"e5fb835456a0e2a64a57da684d1db81c","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/resolve/:slug returns 404 when slug not found","name":"returns 404 when slug not found","status":"passed","testResultsByEnv":{"default":"88299c0a71eca9fd72b54e04ea00ec42"}}

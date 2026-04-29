@@ -1,0 +1,1 @@
+{"id":"4f1fa6f2c9c72d4dfa80617a8e361c96","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService createSchedule should return null when report not found","name":"should return null when report not found","status":"passed","testResultsByEnv":{"default":"e7c6c2fb8a16218f25f799f82c34b057"}}

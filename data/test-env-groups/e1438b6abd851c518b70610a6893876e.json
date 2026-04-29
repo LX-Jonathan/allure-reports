@@ -1,0 +1,1 @@
+{"id":"e1438b6abd851c518b70610a6893876e","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance POST /:id/insurances returns 400 for invalid payload","name":"returns 400 for invalid payload","status":"passed","testResultsByEnv":{"default":"9285c874e9d96f9d7b42b11cee717a4d"}}

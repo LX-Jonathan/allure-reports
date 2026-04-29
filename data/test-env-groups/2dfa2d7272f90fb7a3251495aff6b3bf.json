@@ -1,0 +1,1 @@
+{"id":"2dfa2d7272f90fb7a3251495aff6b3bf","fullName":"client/src/components/__tests__/insurance-payer-logo.test.tsx#InsurancePayerLogo falls back to initials on image error when no more candidates","name":"falls back to initials on image error when no more candidates","status":"passed","testResultsByEnv":{"default":"cc7975da1b806fdf3087a5af2ad9a637"}}

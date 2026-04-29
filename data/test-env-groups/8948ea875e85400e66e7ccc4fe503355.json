@@ -1,0 +1,1 @@
+{"id":"8948ea875e85400e66e7ccc4fe503355","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest does not call journal when totalBilled is 0","name":"does not call journal when totalBilled is 0","status":"passed","testResultsByEnv":{"default":"2d6d6c6a161657076c88b2e5c0ecad00"}}

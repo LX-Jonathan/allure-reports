@@ -1,0 +1,1 @@
+{"id":"4743027499486d48a1a108d6c1a1d83b","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET /discipline/:discipline returns null when no template found for discipline","name":"returns null when no template found for discipline","status":"passed","testResultsByEnv":{"default":"b44a32735b36b76e6fc09c26b665cd45"}}

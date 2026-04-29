@@ -1,0 +1,1 @@
+{"id":"1679745297f7c40d574878b207751915","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"7b3645b88fe403693af3a44b69aaa0c2"}}

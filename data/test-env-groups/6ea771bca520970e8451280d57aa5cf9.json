@@ -1,0 +1,1 @@
+{"id":"6ea771bca520970e8451280d57aa5cf9","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/accounts returns 200 with accounts for super_admin","name":"returns 200 with accounts for super_admin","status":"passed","testResultsByEnv":{"default":"222d14fd88b4fa8a7665b1dfbbf582bf"}}

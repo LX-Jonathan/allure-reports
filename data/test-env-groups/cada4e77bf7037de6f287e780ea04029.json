@@ -1,0 +1,1 @@
+{"id":"cada4e77bf7037de6f287e780ea04029","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules emits MISSING_MEMBER_ID error when primary insurance has no memberId","name":"emits MISSING_MEMBER_ID error when primary insurance has no memberId","status":"passed","testResultsByEnv":{"default":"19fef7e6f5e9d38320d09e0d2e5e6a2e"}}

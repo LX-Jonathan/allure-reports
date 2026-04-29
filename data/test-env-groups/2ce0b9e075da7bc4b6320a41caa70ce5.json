@@ -1,0 +1,1 @@
+{"id":"2ce0b9e075da7bc4b6320a41caa70ce5","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 400 when validation fails","name":"returns 400 when validation fails","status":"passed","testResultsByEnv":{"default":"078ef9146e6a9233a67bccd8703eeac0"}}

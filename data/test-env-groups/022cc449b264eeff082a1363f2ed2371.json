@@ -1,0 +1,1 @@
+{"id":"022cc449b264eeff082a1363f2ed2371","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient pullPatientRecords should return null patient when patient request fails","name":"should return null patient when patient request fails","status":"passed","testResultsByEnv":{"default":"b2e8e7f8d9a7312a3227220eb2e7d2c5"}}

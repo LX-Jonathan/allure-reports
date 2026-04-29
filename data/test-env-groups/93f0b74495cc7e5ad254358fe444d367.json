@@ -1,0 +1,1 @@
+{"id":"93f0b74495cc7e5ad254358fe444d367","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes POST /api/prompt-pay validation edge cases rejects discountPercent of 0","name":"rejects discountPercent of 0","status":"passed","testResultsByEnv":{"default":"c64e7dff58f89ecd928f6865a5c7f7e5"}}

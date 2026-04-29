@@ -1,0 +1,1 @@
+{"id":"2d177aa82947057f617a0a2d59cd4430","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientCreditConsumptionReversalJournal includes the original receipt and reason in the description","name":"includes the original receipt and reason in the description","status":"passed","testResultsByEnv":{"default":"feae5a239425f76667a4fd089a5c9645"}}

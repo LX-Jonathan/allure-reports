@@ -1,0 +1,1 @@
+{"id":"2bb9d465e08cb5b0fe69150a158c2654","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/notify-results returns 200 on success with sms","name":"returns 200 on success with sms","status":"passed","testResultsByEnv":{"default":"6bd38b6adc96db5a96bc78af0657c150"}}

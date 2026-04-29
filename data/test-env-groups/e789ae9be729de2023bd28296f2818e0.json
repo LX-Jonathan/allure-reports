@@ -1,0 +1,1 @@
+{"id":"e789ae9be729de2023bd28296f2818e0","fullName":"client/src/components/__tests__/insurance-card-capture.test.tsx#InsuranceCardCapture calls onCardsChange with back removed when remove back clicked","name":"calls onCardsChange with back removed when remove back clicked","status":"passed","testResultsByEnv":{"default":"dd3078a4e23587d1f43b0ad0e03343c4"}}

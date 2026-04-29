@@ -1,0 +1,1 @@
+{"id":"011a78f19e88202cc42639189542f5a3","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules getAppointmentsByTimeSlot returns appointments for time range","name":"returns appointments for time range","status":"passed","testResultsByEnv":{"default":"b73744963c4c4607c3418c966e7b2046"}}

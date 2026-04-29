@@ -1,0 +1,1 @@
+{"id":"7e637c9c0eb049bd0c76708347b134c2","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessForTextExtraction should return a valid PreprocessingResult","name":"should return a valid PreprocessingResult","status":"passed","testResultsByEnv":{"default":"ce1d33655b783ade10945cc4573ea1a9"}}

@@ -1,0 +1,1 @@
+{"id":"1ed160c003e80f984c69590af9cfd527","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should handle uppercase BEARER prefix","name":"should handle uppercase BEARER prefix","status":"passed","testResultsByEnv":{"default":"63c768f6468a5b4ba44ac5b4da1bacb0"}}

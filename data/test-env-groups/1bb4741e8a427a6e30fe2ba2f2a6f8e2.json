@@ -1,0 +1,1 @@
+{"id":"1bb4741e8a427a6e30fe2ba2f2a6f8e2","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/analyze returns 500 when service throws error","name":"returns 500 when service throws error","status":"passed","testResultsByEnv":{"default":"931898d73c9be5184f3998ecfbbd6971"}}

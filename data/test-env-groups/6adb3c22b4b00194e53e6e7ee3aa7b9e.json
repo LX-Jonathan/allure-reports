@@ -1,0 +1,1 @@
+{"id":"6adb3c22b4b00194e53e6e7ee3aa7b9e","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/orders/:id (Staff Portal - Get Order) returns 200 with order details including consents","name":"returns 200 with order details including consents","status":"passed","testResultsByEnv":{"default":"3111d9419ecd8af5e86f57ce48c2a27f"}}

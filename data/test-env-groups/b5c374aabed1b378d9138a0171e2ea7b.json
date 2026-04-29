@@ -1,0 +1,1 @@
+{"id":"b5c374aabed1b378d9138a0171e2ea7b","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should map 'Insurance' to 'I' (case insensitive)","name":"should map 'Insurance' to 'I' (case insensitive)","status":"passed","testResultsByEnv":{"default":"78088927733799b52fa1b869dab65a21"}}

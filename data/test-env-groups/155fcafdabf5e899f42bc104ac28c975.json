@@ -1,0 +1,1 @@
+{"id":"155fcafdabf5e899f42bc104ac28c975","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /fee-schedules/:id deletes fee schedule successfully","name":"deletes fee schedule successfully","status":"passed","testResultsByEnv":{"default":"1f6b038db0f09cefb5827d719463b6cb"}}

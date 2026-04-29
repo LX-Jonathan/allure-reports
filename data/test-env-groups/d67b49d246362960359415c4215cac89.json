@@ -1,0 +1,1 @@
+{"id":"d67b49d246362960359415c4215cac89","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints GET /api/v1/lxu/admin/quickstarts returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"9a2eaa20492622ddf6afa895873a9d00"}}

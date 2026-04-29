@@ -1,0 +1,1 @@
+{"id":"460e14c57dbfe5523b21aa6ef10fb7c2","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/results/reset-stuck should reset stuck result jobs (200)","name":"should reset stuck result jobs (200)","status":"passed","testResultsByEnv":{"default":"4847839aa6ef0fd5eaa6c837b8753eb1"}}

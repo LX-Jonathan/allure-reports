@@ -1,0 +1,1 @@
+{"id":"1f0432f812f1f455209232b9774268f4","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event processes cash_in event successfully","name":"processes cash_in event successfully","status":"passed","testResultsByEnv":{"default":"95c9be69ea0e116d6f174fc27081299b"}}

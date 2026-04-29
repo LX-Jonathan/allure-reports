@@ -1,0 +1,1 @@
+{"id":"e66aa4076455c4a708d7e07d0c90f73c","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should validate PUT requests","name":"should validate PUT requests","status":"passed","testResultsByEnv":{"default":"3f6c8e2f1fea9f41f25701b63095fa45"}}

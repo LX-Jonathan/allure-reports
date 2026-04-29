@@ -1,0 +1,1 @@
+{"id":"32e5e7632d3f7ec056f4344b6430b4b3","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include patient info field labels","name":"should include patient info field labels","status":"passed","testResultsByEnv":{"default":"eee4fe0accc064359a34d91c7c21e569"}}

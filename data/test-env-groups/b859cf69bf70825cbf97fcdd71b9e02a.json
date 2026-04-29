@@ -1,0 +1,1 @@
+{"id":"b859cf69bf70825cbf97fcdd71b9e02a","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should count errors, warnings, and infos separately","name":"should count errors, warnings, and infos separately","status":"passed","testResultsByEnv":{"default":"8845de721d27bf5a5bf73a0f6c07bd26"}}

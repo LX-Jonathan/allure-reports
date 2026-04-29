@@ -1,0 +1,1 @@
+{"id":"d95719aa5ce42ae429876972e4ba8361","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getSuperOrgs should return paginated super orgs with total count","name":"should return paginated super orgs with total count","status":"passed","testResultsByEnv":{"default":"3df068923bea1d81f07802636b706469"}}

@@ -1,0 +1,1 @@
+{"id":"e1410cfcbf34e32a5cf960d946186e51","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf returns 422 when AI parse fails (template still created)","name":"returns 422 when AI parse fails (template still created)","status":"passed","testResultsByEnv":{"default":"698197b86db5751bf6ce39055a3c08dd"}}

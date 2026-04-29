@@ -1,0 +1,1 @@
+{"id":"4976da665e3f20f7bbb32ecdd62a3144","fullName":"server/lib/__tests__/logger.test.ts#logger runRequest() should attach requestId and userId to all logs within the callback","name":"should attach requestId and userId to all logs within the callback","status":"passed","testResultsByEnv":{"default":"f8d961150c5de8a6d3974fc01573af44"}}

@@ -1,0 +1,1 @@
+{"id":"391ebd414289c5abd82acdbd5bc60b5d","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /patients/:patientId/hie-records returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"481acd6cf379772ecb6a697bf910e918"}}

@@ -1,0 +1,1 @@
+{"id":"ca408d9a8a1ee40391329d37c0070b11","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#readWeeklyDigestConfig rejects invalid emails","name":"rejects invalid emails","status":"passed","testResultsByEnv":{"default":"59ad1910b9daa1c57e6204af46dd74d0"}}

@@ -1,0 +1,1 @@
+{"id":"40f6096191cf934fa04ad6be51213791","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueLoginCodeEmail should queue login code email successfully","name":"should queue login code email successfully","status":"passed","testResultsByEnv":{"default":"ef233996beb03cb61f44f223322ee38b"}}

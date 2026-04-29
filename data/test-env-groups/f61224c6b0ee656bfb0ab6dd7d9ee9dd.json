@@ -1,0 +1,1 @@
+{"id":"f61224c6b0ee656bfb0ab6dd7d9ee9dd","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/:id/sync-to-labs returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"532dbf1aa2ba15aa6a07635043626791"}}

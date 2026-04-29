@@ -1,0 +1,1 @@
+{"id":"6787f59aae397a8251d3102636cc6f24","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/accounts returns 201 with created account","name":"returns 201 with created account","status":"passed","testResultsByEnv":{"default":"df5be8ffa8edda38892bd3b6a0f8552d"}}

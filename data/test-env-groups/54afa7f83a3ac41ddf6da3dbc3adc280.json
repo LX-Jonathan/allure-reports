@@ -1,0 +1,1 @@
+{"id":"54afa7f83a3ac41ddf6da3dbc3adc280","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite continues even if email queue fails","name":"continues even if email queue fails","status":"passed","testResultsByEnv":{"default":"9ad42606107d3f5dbfa776d42f8d090f"}}

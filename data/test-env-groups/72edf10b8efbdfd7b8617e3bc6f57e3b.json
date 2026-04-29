@@ -1,0 +1,1 @@
+{"id":"72edf10b8efbdfd7b8617e3bc6f57e3b","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/lookup/batch returns 400 when cptCodes is empty array","name":"returns 400 when cptCodes is empty array","status":"passed","testResultsByEnv":{"default":"cb745633ab708799c31fb7c3c2f2965d"}}

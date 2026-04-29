@@ -1,0 +1,1 @@
+{"id":"f88f3fc637ab9907bd5cb15d7fec53e7","fullName":"client/src/lib/__tests__/utils.test.ts#safeUrlForImgSrc returns undefined for empty and javascript URLs","name":"returns undefined for empty and javascript URLs","status":"passed","testResultsByEnv":{"default":"9bfcd9156829d6b7686b9a4fb873178f"}}

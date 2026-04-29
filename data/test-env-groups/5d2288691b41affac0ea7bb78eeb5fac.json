@@ -1,0 +1,1 @@
+{"id":"5d2288691b41affac0ea7bb78eeb5fac","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /insurance-card rejects non-allowed file types (PDF)","name":"rejects non-allowed file types (PDF)","status":"passed","testResultsByEnv":{"default":"29030eabf217a574e1883be25c50b7e7"}}

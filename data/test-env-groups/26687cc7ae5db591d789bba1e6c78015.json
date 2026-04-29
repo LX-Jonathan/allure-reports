@@ -1,0 +1,1 @@
+{"id":"26687cc7ae5db591d789bba1e6c78015","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Test Groups Routes DELETE /api/v1/test-groups/:id returns 404 when test group not found","name":"returns 404 when test group not found","status":"passed","testResultsByEnv":{"default":"7a39d46ee0770f4c222fb73f67d1a6c0"}}

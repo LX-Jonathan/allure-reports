@@ -1,0 +1,1 @@
+{"id":"a9720a6d4364158e98ed72794c5ca782","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes GET /api/onboarding/:flowId/terms returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"b4eb6787787b6edd206cad820aad67ff"}}

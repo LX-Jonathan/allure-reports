@@ -1,0 +1,1 @@
+{"id":"621839511a22766120a02d87c1ff38ec","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/notify-results returns 400 when sms fails","name":"returns 400 when sms fails","status":"passed","testResultsByEnv":{"default":"38bf64c51219c33ae07c47f64b8fb924"}}

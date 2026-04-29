@@ -1,0 +1,1 @@
+{"id":"34502b778b76656af0d96ad90598d614","fullName":"server/__tests__/aggregate-order-insurance-verdict.test.ts#aggregateOrderInsuranceVerdicts (task-1572) returns an empty map when given no rows","name":"returns an empty map when given no rows","status":"passed","testResultsByEnv":{"default":"5ea8bb40ea897e772ef3c7c2345689fe"}}

@@ -1,0 +1,1 @@
+{"id":"abb43eb2caa6a58fcfa30791ff297865","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status returns 404 when appointment not found","name":"returns 404 when appointment not found","status":"passed","testResultsByEnv":{"default":"72b6a893f470966d21a0a509a862fa02"}}

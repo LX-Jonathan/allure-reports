@@ -1,0 +1,1 @@
+{"id":"a680669c2c7e999b9abda7b352d2d41b","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should fail when FRHC config is not active","name":"should fail when FRHC config is not active","status":"passed","testResultsByEnv":{"default":"051c74b33374df6c67f4fa8a7db3a21c"}}

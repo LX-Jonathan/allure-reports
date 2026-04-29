@@ -1,0 +1,1 @@
+{"id":"713279a9a885825504e31479f131e151","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar renders nothing meaningful when patient is null","name":"renders nothing meaningful when patient is null","status":"passed","testResultsByEnv":{"default":"0f8fbff34c85c8194654c91bc876ad13"}}

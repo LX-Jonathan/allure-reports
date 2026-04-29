@@ -1,0 +1,1 @@
+{"id":"a1c295807ccf153ead9b76a00a7aae64","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageUsers chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"9c4d70d6fab23a92585aa5a5db1089ed"}}

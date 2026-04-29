@@ -1,0 +1,1 @@
+{"id":"1135580f10a49211482befbb4f7709e3","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation location-level users should deny access when no locations assigned","name":"should deny access when no locations assigned","status":"passed","testResultsByEnv":{"default":"9c690b7966a5b82f823caf7ca8ca52d9"}}

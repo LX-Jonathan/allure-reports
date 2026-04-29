@@ -1,0 +1,1 @@
+{"id":"a4d095ff6e4569b35893e28b1febaac0","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations returns zeros when no stale invitations exist","name":"returns zeros when no stale invitations exist","status":"passed","testResultsByEnv":{"default":"ab9dd505c4375e538ba623a911b00548"}}

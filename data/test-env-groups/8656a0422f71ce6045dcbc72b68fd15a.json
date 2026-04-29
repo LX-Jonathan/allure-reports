@@ -1,0 +1,1 @@
+{"id":"8656a0422f71ce6045dcbc72b68fd15a","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots returns empty array for user without organization","name":"returns empty array for user without organization","status":"passed","testResultsByEnv":{"default":"1e47478d952a1b2a1e4a3a003801727f"}}

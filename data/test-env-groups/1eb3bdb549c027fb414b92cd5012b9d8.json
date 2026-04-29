@@ -1,0 +1,1 @@
+{"id":"1eb3bdb549c027fb414b92cd5012b9d8","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/scan-upload returns 400 when file type is not a supported image type","name":"returns 400 when file type is not a supported image type","status":"passed","testResultsByEnv":{"default":"0da93bb3070f1e165e3848225006e638"}}

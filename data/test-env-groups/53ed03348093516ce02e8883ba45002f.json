@@ -1,0 +1,1 @@
+{"id":"53ed03348093516ce02e8883ba45002f","fullName":"client/src/pages/__tests__/master-patient-index.test.tsx#MasterPatientIndexPage shows loading skeletons for stats before the stats request resolves","name":"shows loading skeletons for stats before the stats request resolves","status":"passed","testResultsByEnv":{"default":"469502530063341ab6249dbb782a7b3f"}}

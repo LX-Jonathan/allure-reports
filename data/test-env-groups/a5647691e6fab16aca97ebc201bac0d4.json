@@ -1,0 +1,1 @@
+{"id":"a5647691e6fab16aca97ebc201bac0d4","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes POST /validate-order handles CCI analysis rejection gracefully (non-blocking)","name":"handles CCI analysis rejection gracefully (non-blocking)","status":"passed","testResultsByEnv":{"default":"9c41b7650aca820c54e0b719e5374730"}}

@@ -1,0 +1,1 @@
+{"id":"6d122f503394eee7609678dc7796a4fc","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /config returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"b8f13d923a857e7e5e11241a089f21aa"}}

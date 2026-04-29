@@ -1,0 +1,1 @@
+{"id":"a772471aea9d54ca60e4ab409072d8af","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/:id/import returns 400 for invalid items (empty cptCode)","name":"returns 400 for invalid items (empty cptCode)","status":"passed","testResultsByEnv":{"default":"2f5281b6c8b8574b524707751f12f8a9"}}

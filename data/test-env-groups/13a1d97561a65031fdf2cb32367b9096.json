@@ -1,0 +1,1 @@
+{"id":"13a1d97561a65031fdf2cb32367b9096","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord observations (labs and vitals) should use valueString when valueQuantity is missing","name":"should use valueString when valueQuantity is missing","status":"passed","testResultsByEnv":{"default":"9efdb66b276e8e86dc5e4b7428430407"}}

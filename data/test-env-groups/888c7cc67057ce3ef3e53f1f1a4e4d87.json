@@ -1,0 +1,1 @@
+{"id":"888c7cc67057ce3ef3e53f1f1a4e4d87","fullName":"client/src/hooks/__tests__/useNcdLcdAbnReadiness.test.tsx#useNcdLcdAbnReadiness sets both rows to error when the analyze endpoint is non-OK","name":"sets both rows to error when the analyze endpoint is non-OK","status":"passed","testResultsByEnv":{"default":"3f67b2e7b8b5a7648b75bb048dd0ccff"}}

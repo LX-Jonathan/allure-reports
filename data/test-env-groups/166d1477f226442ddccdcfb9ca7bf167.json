@@ -1,0 +1,1 @@
+{"id":"166d1477f226442ddccdcfb9ca7bf167","fullName":"shared/__tests__/financial-variance.test.ts#resolveCopayVarianceConfig ignores fractional or sub-1 minReasonLength values","name":"ignores fractional or sub-1 minReasonLength values","status":"passed","testResultsByEnv":{"default":"f3a668d8d1712d6f35975415c3e8ff15"}}

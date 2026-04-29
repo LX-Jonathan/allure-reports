@@ -1,0 +1,1 @@
+{"id":"4f7169232adeff391bd128f39aabadc9","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard empty / loading states renders the loading skeleton while the query is loading","name":"renders the loading skeleton while the query is loading","status":"passed","testResultsByEnv":{"default":"2b821cef858501f78b7f3a42368b3477"}}

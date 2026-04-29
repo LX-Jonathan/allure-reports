@@ -1,0 +1,1 @@
+{"id":"092d7c32b977483d74373148daf57b1c","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should use 'auto' for missing resize width","name":"should use 'auto' for missing resize width","status":"passed","testResultsByEnv":{"default":"d08fae8c1e5182e73689ef89d2b0f07c"}}

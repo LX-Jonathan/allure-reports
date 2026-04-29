@@ -1,0 +1,1 @@
+{"id":"2bf0e1ecdb0dac7e472905c111b7cbe6","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessOrganization should deny access for null/undefined target when not full access","name":"should deny access for null/undefined target when not full access","status":"passed","testResultsByEnv":{"default":"9f861c96576755068ffbb015f13428ff"}}

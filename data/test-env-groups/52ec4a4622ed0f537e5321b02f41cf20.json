@@ -1,0 +1,1 @@
+{"id":"52ec4a4622ed0f537e5321b02f41cf20","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should throw when API returns non-ok response","name":"should throw when API returns non-ok response","status":"passed","testResultsByEnv":{"default":"53fb3c0212a4fdaeda4e12827b8c2f98"}}

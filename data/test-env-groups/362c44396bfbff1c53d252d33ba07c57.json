@@ -1,0 +1,1 @@
+{"id":"362c44396bfbff1c53d252d33ba07c57","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules/config/pricing-defaults returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"df638a387daaee9f6b11d4ec7de3d67d"}}

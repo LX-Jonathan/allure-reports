@@ -1,0 +1,1 @@
+{"id":"e89b14f104f62b1cae5f573ac5327fa0","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should bypass consent check for transactional template type invite","name":"should bypass consent check for transactional template type invite","status":"passed","testResultsByEnv":{"default":"6ea1e7140da4b28dccb8023f7a9976c4"}}

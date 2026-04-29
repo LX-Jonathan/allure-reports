@@ -1,0 +1,1 @@
+{"id":"47b2bda0a5d2a5d78606ef388fd78c3e","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /invoices/all returns 200 with invoices and contract","name":"returns 200 with invoices and contract","status":"passed","testResultsByEnv":{"default":"be593f944bec2f3a427dbbb66d27ecf8"}}

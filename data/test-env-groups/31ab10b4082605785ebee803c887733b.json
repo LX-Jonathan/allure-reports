@@ -1,0 +1,1 @@
+{"id":"31ab10b4082605785ebee803c887733b","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes DELETE /api/conversations/:id should delete the conversation and return 204","name":"should delete the conversation and return 204","status":"passed","testResultsByEnv":{"default":"1761b822d52169981bb8d4a2a3429a38"}}

@@ -1,0 +1,1 @@
+{"id":"d5680e5433b43a9dc890e9d6d77bf3fc","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/scanner/status/:batchId returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"6213d822544dc71c2f26ffda197be531"}}

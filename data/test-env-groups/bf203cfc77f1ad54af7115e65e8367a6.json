@@ -1,0 +1,1 @@
+{"id":"bf203cfc77f1ad54af7115e65e8367a6","fullName":"client/src/components/patient/__tests__/lab-learn-more-link.test.tsx#LabLearnMoreLink stops the click from bubbling so a parent card click handler doesn't fire","name":"stops the click from bubbling so a parent card click handler doesn't fire","status":"passed","testResultsByEnv":{"default":"40762f69ce9931bef35266f7b8c135e1"}}

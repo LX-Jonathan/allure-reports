@@ -1,0 +1,1 @@
+{"id":"b0294b254a34039ada96c61cd16a543e","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules/:id/items returns items for a valid schedule","name":"returns items for a valid schedule","status":"passed","testResultsByEnv":{"default":"d4ffc6dfed9f15c14a8c60f3b40d0861"}}

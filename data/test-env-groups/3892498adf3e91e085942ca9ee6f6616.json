@@ -1,0 +1,1 @@
+{"id":"3892498adf3e91e085942ca9ee6f6616","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs/resolved/:locationId/:module returns 200 with resolved form config","name":"returns 200 with resolved form config","status":"passed","testResultsByEnv":{"default":"9b92681a46d9049024f5bd0e33d81a0a"}}

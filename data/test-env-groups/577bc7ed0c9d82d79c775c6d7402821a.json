@@ -1,0 +1,1 @@
+{"id":"577bc7ed0c9d82d79c775c6d7402821a","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/status should return 403 when user is not authenticated","name":"should return 403 when user is not authenticated","status":"passed","testResultsByEnv":{"default":"067204c21061c6c6ceaf89b08adf8aa7"}}

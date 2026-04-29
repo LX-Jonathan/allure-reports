@@ -1,0 +1,1 @@
+{"id":"adc26f8aae0a4a8979d7d2b489ca59e3","fullName":"client/src/components/patient/__tests__/lab-summary-overview.test.tsx#LabSummaryOverview renders an empty about state when no marketplace or contact info exists","name":"renders an empty about state when no marketplace or contact info exists","status":"passed","testResultsByEnv":{"default":"88d549de0225cb6c3e27f82733a5327b"}}

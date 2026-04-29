@@ -1,0 +1,1 @@
+{"id":"6ac17688ac49056a07e52e23435f0162","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service detectBlankPage should treat pixel value 241 as white","name":"should treat pixel value 241 as white","status":"passed","testResultsByEnv":{"default":"3aa338bb835dde18fc91f4a1a9ab5e84"}}

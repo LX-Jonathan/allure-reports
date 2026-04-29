@@ -1,0 +1,1 @@
+{"id":"5f9a25f9c7352b5fca1c775566bb4409","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) DELETE /:id returns 401 without auth header","name":"DELETE /:id returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"46c967da23d65822865385cee5874c76"}}

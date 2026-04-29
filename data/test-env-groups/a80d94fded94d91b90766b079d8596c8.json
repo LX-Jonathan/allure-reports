@@ -1,0 +1,1 @@
+{"id":"a80d94fded94d91b90766b079d8596c8","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply denoise (median 3) when option is true","name":"should apply denoise (median 3) when option is true","status":"passed","testResultsByEnv":{"default":"e4983d114725e8ee4e4135d32bdffdf4"}}

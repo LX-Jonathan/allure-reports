@@ -1,0 +1,1 @@
+{"id":"39813f13fd0693a9aba0737256179e03","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes CORS middleware sets CORS headers for chrome-extension origin","name":"sets CORS headers for chrome-extension origin","status":"passed","testResultsByEnv":{"default":"e259ad5c70b1e6ff88a715f2f2990187"}}

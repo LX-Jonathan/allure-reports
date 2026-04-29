@@ -1,0 +1,1 @@
+{"id":"443d96cacad530db2896d544bc0dfdea","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/check returns ssoAvailable: false for invalid email format","name":"returns ssoAvailable: false for invalid email format","status":"passed","testResultsByEnv":{"default":"336d111de051e9afb3343dff1995d911"}}

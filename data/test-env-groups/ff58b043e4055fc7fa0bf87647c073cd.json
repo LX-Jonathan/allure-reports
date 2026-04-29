@@ -1,0 +1,1 @@
+{"id":"ff58b043e4055fc7fa0bf87647c073cd","fullName":"server/lib/__tests__/reportCache.test.ts#withCoalescing calls fetchFn and returns its result","name":"calls fetchFn and returns its result","status":"passed","testResultsByEnv":{"default":"6b7dce5163be15f000f72168a1fa9630"}}

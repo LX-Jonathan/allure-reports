@@ -1,0 +1,1 @@
+{"id":"2b76d48e3d9c9de23d2ffd9180b8bd6d","fullName":"server/replit_integrations/chat/__tests__/index.test.ts#chat module index exports should only export runtime values registerChatRoutes and chatStorage","name":"should only export runtime values registerChatRoutes and chatStorage","status":"passed","testResultsByEnv":{"default":"5af545fe42b30a924dea1731d480962e"}}

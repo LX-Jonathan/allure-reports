@@ -1,0 +1,1 @@
+{"id":"78ae08981b802f9a1545a6fcda1e3410","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getSensitiveRateLimiter should return null when Redis is not configured","name":"should return null when Redis is not configured","status":"passed","testResultsByEnv":{"default":"21a3d8ebaded71b2d767a3a095516746"}}

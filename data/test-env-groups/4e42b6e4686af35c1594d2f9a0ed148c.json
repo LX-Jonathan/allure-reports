@@ -1,0 +1,1 @@
+{"id":"4e42b6e4686af35c1594d2f9a0ed148c","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/data-issues returns 403 for disallowed role","name":"returns 403 for disallowed role","status":"passed","testResultsByEnv":{"default":"ecfc92ef2c0989ff88047318a26413b5"}}

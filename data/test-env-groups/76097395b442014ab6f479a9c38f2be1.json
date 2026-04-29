@@ -1,0 +1,1 @@
+{"id":"76097395b442014ab6f479a9c38f2be1","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/notify-results returns 400 for invalid method","name":"returns 400 for invalid method","status":"passed","testResultsByEnv":{"default":"a74488c03d3e31df882583da103032ec"}}

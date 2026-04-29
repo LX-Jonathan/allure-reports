@@ -1,0 +1,1 @@
+{"id":"c87bff95783b4f2f871f40714223e0f8","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/bulk-retry should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"100ccecb203c2098788605c56ca59870"}}

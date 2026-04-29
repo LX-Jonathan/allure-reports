@@ -1,0 +1,1 @@
+{"id":"4c1b1c8a0eb231bfba89328546a238b2","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations returns 400 when patient profile not linked","name":"returns 400 when patient profile not linked","status":"passed","testResultsByEnv":{"default":"1cb506eb0f54c6c8decaaaaa0688a3aa"}}

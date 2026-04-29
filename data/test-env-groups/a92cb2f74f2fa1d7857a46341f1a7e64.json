@@ -1,0 +1,1 @@
+{"id":"a92cb2f74f2fa1d7857a46341f1a7e64","fullName":"client/src/components/__tests__/portal-management-redirect.test.tsx#PortalManagementRedirect maps the tab query param to a /patient-portal/:tab path","name":"maps the tab query param to a /patient-portal/:tab path","status":"passed","testResultsByEnv":{"default":"75bfab860884540e477881e071c31c4a"}}

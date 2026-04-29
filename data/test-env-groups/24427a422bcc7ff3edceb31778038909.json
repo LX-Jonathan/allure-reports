@@ -1,0 +1,1 @@
+{"id":"24427a422bcc7ff3edceb31778038909","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/queue/:id should return 500 on server error","name":"should return 500 on server error","status":"passed","testResultsByEnv":{"default":"892ccde96c394e361d5c42d45e350c1e"}}

@@ -1,0 +1,1 @@
+{"id":"1c52ef3df0ec4332024a94acd09ba353","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel hides the issue summary when there are no errors or warnings","name":"hides the issue summary when there are no errors or warnings","status":"passed","testResultsByEnv":{"default":"6f12215526cdb15168d8a14e8d4915be"}}

@@ -1,0 +1,1 @@
+{"id":"8ce6e6891d0f6bca40228f0ae5818dcc","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 403 when trying to invite user with higher role level","name":"returns 403 when trying to invite user with higher role level","status":"passed","testResultsByEnv":{"default":"896892cd61f975f2214ef1f482c6c860"}}

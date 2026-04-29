@@ -1,0 +1,1 @@
+{"id":"4f1aa4c53e618b1aa2c67751e85cc8c4","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST / returns 400 for invalid parentLabId format","name":"returns 400 for invalid parentLabId format","status":"passed","testResultsByEnv":{"default":"2ec1c71fd47f51449620e0adfebe62d5"}}

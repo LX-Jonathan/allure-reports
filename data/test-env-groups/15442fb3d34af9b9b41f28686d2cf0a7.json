@@ -1,0 +1,1 @@
+{"id":"15442fb3d34af9b9b41f28686d2cf0a7","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service clearBuffer should allow new entries after clear","name":"should allow new entries after clear","status":"passed","testResultsByEnv":{"default":"5c1064f4e3b1801c5ca91d799cab569b"}}

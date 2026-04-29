@@ -1,0 +1,1 @@
+{"id":"2376e6daef49b5089ce6e25dc9e91ce8","fullName":"server/services/__tests__/base.service.test.ts#base.service getServiceContext should handle null parentLabId and labId","name":"should handle null parentLabId and labId","status":"passed","testResultsByEnv":{"default":"c8ab5ed7d4dd8ea2bb51389c1dafce8e"}}

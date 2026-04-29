@@ -1,0 +1,1 @@
+{"id":"596731c611a190eed1e3778febc8620a","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/publish returns 400 when no version exists","name":"returns 400 when no version exists","status":"passed","testResultsByEnv":{"default":"5d96761fccc6d8a1f387cf0845efa783"}}

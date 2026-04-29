@@ -1,0 +1,1 @@
+{"id":"45e07161b187af81937e576776c8000c","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth sendCode mutation throws error when send code fails","name":"throws error when send code fails","status":"passed","testResultsByEnv":{"default":"a4e9b36ee7bb288df3ad43d778971831"}}

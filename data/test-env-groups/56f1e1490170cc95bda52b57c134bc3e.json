@@ -1,0 +1,1 @@
+{"id":"56f1e1490170cc95bda52b57c134bc3e","fullName":"client/src/pages/patient/__tests__/patient-messages.test.tsx#renderMessageContent portal links strips the duplicate 'Label:' prefix from the rendered text","name":"strips the duplicate 'Label:' prefix from the rendered text","status":"passed","testResultsByEnv":{"default":"7a8417b61e4cd5bc7e9fddc5f33bcd9a"}}

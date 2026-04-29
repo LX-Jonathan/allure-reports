@@ -1,0 +1,1 @@
+{"id":"bdf29c12f92d585df065d9f7edfd72b3","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: internal_error","name":"es: internal_error","status":"passed","testResultsByEnv":{"default":"ba03b7dd79f6149902b23d450423743b"}}

@@ -1,0 +1,1 @@
+{"id":"e8c0230220da09c9d405d57f01fadac7","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints GET /api/v1/lxu/admin/articles returns 200 with articles list for admin","name":"returns 200 with articles list for admin","status":"passed","testResultsByEnv":{"default":"e9a0a87f3ebe655acc92932f5c43b5d7"}}

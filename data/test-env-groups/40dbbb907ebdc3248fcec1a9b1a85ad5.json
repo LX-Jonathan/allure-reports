@@ -1,0 +1,1 @@
+{"id":"40dbbb907ebdc3248fcec1a9b1a85ad5","fullName":"server/routes/__tests__/api-keys.routes.test.ts#API Keys Routes POST /api/v1/api-keys creates API key with custom permissions and rate limits","name":"creates API key with custom permissions and rate limits","status":"passed","testResultsByEnv":{"default":"954ca21a35a096bf8bac3559a4f0a6f0"}}

@@ -1,0 +1,1 @@
+{"id":"de2022777b48bd226f806e0a45bde3e5","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getCategories should return active categories ordered by displayOrder","name":"should return active categories ordered by displayOrder","status":"passed","testResultsByEnv":{"default":"976acb941a1e5fd1bac31fd9cb47424e"}}

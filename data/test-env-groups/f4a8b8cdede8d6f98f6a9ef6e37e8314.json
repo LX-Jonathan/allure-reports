@@ -1,0 +1,1 @@
+{"id":"f4a8b8cdede8d6f98f6a9ef6e37e8314","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/recent-items returns list of recent items for authenticated user","name":"returns list of recent items for authenticated user","status":"passed","testResultsByEnv":{"default":"6bd1b8f46339d2c978babf1678d2ce8b"}}

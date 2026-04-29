@@ -1,0 +1,1 @@
+{"id":"2d1635d882dfcd110598347c08bef9e7","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) determineAction — returns HTTP method action for non-POST invite","name":"determineAction — returns HTTP method action for non-POST invite","status":"passed","testResultsByEnv":{"default":"9642df536ffa69c5bef354f11412e8ed"}}

@@ -1,0 +1,1 @@
+{"id":"293bb4b5f840ab9c4033e4f05d430e2e","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes DELETE /campaigns/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"52c9a2b9d7b92f87f20264f10e165b08"}}

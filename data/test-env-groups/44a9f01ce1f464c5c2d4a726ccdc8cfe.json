@@ -1,0 +1,1 @@
+{"id":"44a9f01ce1f464c5c2d4a726ccdc8cfe","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getCachedBillingResolutionData should return empty array when metadata has no chunkCount","name":"should return empty array when metadata has no chunkCount","status":"passed","testResultsByEnv":{"default":"6a0e732ec3e285bd3aa71b16d6332a80"}}

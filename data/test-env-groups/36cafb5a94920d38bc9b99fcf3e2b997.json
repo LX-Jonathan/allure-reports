@@ -1,0 +1,1 @@
+{"id":"36cafb5a94920d38bc9b99fcf3e2b997","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should handle back image without data: prefix","name":"should handle back image without data: prefix","status":"passed","testResultsByEnv":{"default":"3827cd9e4c1756d655c6cfa650e88bc7"}}

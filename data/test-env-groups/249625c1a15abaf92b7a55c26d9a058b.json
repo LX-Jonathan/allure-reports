@@ -1,0 +1,1 @@
+{"id":"249625c1a15abaf92b7a55c26d9a058b","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/sign returns 400 when provider has no signature set","name":"returns 400 when provider has no signature set","status":"passed","testResultsByEnv":{"default":"bdd638bf57bd921c2a36a4ed04948757"}}

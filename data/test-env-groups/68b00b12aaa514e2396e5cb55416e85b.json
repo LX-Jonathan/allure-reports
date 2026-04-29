@@ -1,0 +1,1 @@
+{"id":"68b00b12aaa514e2396e5cb55416e85b","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"3da4d53425032450efa36f5aa113f97c"}}

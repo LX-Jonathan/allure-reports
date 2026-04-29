@@ -1,0 +1,1 @@
+{"id":"e240c27e87a2b566962364e143d10046","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should debit operating checking for full total","name":"should debit operating checking for full total","status":"passed","testResultsByEnv":{"default":"1f683263d73d5eccc6808f6b6550e754"}}

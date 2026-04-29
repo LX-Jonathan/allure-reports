@@ -1,0 +1,1 @@
+{"id":"6e79ad7e69aea0ffaf1fb7916b335916","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers returns 400 when organizationIds is empty","name":"returns 400 when organizationIds is empty","status":"passed","testResultsByEnv":{"default":"3997fba6f84baeaad1d71003bcba19e5"}}

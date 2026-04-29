@@ -1,0 +1,1 @@
+{"id":"2bf962aae2f28bc5b9ff3b4bc97e14e1","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service listJobArtifacts should return empty array when R2 is not configured","name":"should return empty array when R2 is not configured","status":"passed","testResultsByEnv":{"default":"67b5880db30d0333e1e0acbf31ccc909"}}

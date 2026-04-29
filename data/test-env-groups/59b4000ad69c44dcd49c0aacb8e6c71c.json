@@ -1,0 +1,1 @@
+{"id":"59b4000ad69c44dcd49c0aacb8e6c71c","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes PATCH /campaigns/:id returns 400 for invalid data","name":"returns 400 for invalid data","status":"passed","testResultsByEnv":{"default":"cc3ecd706d6112f0490b83539737968d"}}

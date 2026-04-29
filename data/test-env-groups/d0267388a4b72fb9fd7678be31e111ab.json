@@ -1,0 +1,1 @@
+{"id":"d0267388a4b72fb9fd7678be31e111ab","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications updateProvider should update provider and return result","name":"should update provider and return result","status":"passed","testResultsByEnv":{"default":"12a66e284a1e70e93f5dfbcc27270b92"}}

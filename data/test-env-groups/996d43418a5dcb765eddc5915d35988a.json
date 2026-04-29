@@ -1,0 +1,1 @@
+{"id":"996d43418a5dcb765eddc5915d35988a","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes PUT /api/v1/order-intake/:id/mappings should update mappings","name":"should update mappings","status":"passed","testResultsByEnv":{"default":"815bdfef63e0e83e84e2c33210deb7d7"}}

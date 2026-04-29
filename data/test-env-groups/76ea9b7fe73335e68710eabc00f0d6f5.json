@@ -1,0 +1,1 @@
+{"id":"76ea9b7fe73335e68710eabc00f0d6f5","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should default height to 0 when metadata.height is undefined","name":"should default height to 0 when metadata.height is undefined","status":"passed","testResultsByEnv":{"default":"4c0c967a51dbd57af7755dc2d78bb570"}}

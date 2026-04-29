@@ -1,0 +1,1 @@
+{"id":"f0c528c78789640798993fc9372bf52e","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId/available-templates returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"1caac4dd72885804c1afe8d17a86aa76"}}

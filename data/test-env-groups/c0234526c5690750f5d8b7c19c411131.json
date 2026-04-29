@@ -1,0 +1,1 @@
+{"id":"c0234526c5690750f5d8b7c19c411131","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes DELETE /api/v1/patient-medications/:id returns 500 when deletion fails","name":"returns 500 when deletion fails","status":"passed","testResultsByEnv":{"default":"ea0a0df2f301e1239966b1a3367b8f23"}}

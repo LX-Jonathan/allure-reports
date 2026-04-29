@@ -1,0 +1,1 @@
+{"id":"8a3e7c681336a7d00cda409556e54e6e","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/results/queue should aggregate all statuses when status=all (200)","name":"should aggregate all statuses when status=all (200)","status":"passed","testResultsByEnv":{"default":"fe2a2e040539adffd70f871176d8e120"}}

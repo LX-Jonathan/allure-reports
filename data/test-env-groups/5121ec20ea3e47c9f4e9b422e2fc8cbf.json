@@ -1,0 +1,1 @@
+{"id":"5121ec20ea3e47c9f4e9b422e2fc8cbf","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda isAndromedaConfigured should return false when client ID is missing","name":"should return false when client ID is missing","status":"passed","testResultsByEnv":{"default":"1298cdbbf98306d92faf4719083867db"}}

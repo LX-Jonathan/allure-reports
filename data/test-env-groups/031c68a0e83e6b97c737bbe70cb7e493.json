@@ -1,0 +1,1 @@
+{"id":"031c68a0e83e6b97c737bbe70cb7e493","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs/resolve returns 403 when access denied to organization","name":"returns 403 when access denied to organization","status":"passed","testResultsByEnv":{"default":"da95269299ccf7c7e3fc8916da4c41ff"}}

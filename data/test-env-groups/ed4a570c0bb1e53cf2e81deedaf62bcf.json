@@ -1,0 +1,1 @@
+{"id":"ed4a570c0bb1e53cf2e81deedaf62bcf","fullName":"client/src/hooks/__tests__/use-local-storage-pref.test.ts#useLocalStoragePref does not throw when localStorage.setItem fails","name":"does not throw when localStorage.setItem fails","status":"passed","testResultsByEnv":{"default":"f3d333a820c45e98bddb64ef58d3a484"}}

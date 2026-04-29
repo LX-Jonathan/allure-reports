@@ -1,0 +1,1 @@
+{"id":"2e9c2057f8b53476df9922a20e453183","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /ai-generate returns 500 when OpenAI throws","name":"returns 500 when OpenAI throws","status":"passed","testResultsByEnv":{"default":"404658078f2d30bea07299b8fd610db6"}}

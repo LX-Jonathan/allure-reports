@@ -1,0 +1,1 @@
+{"id":"55e8205f49cd41c8dc2101fe136e8032","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/:id/activities returns 200 with created activity","name":"returns 200 with created activity","status":"passed","testResultsByEnv":{"default":"57a5b2f2ac06786897a8a7b448cec419"}}

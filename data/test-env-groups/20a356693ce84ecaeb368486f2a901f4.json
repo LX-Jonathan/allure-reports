@@ -1,0 +1,1 @@
+{"id":"20a356693ce84ecaeb368486f2a901f4","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob - additional coverage should preserve local temp file when retryable and attempts remaining","name":"should preserve local temp file when retryable and attempts remaining","status":"passed","testResultsByEnv":{"default":"2b476e5a52290243866f568a51240000"}}

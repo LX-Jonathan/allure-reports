@@ -1,0 +1,1 @@
+{"id":"e9738bc4b5e18e5f5bc0931ba5316de2","fullName":"server/lib/__tests__/stripe-verify-failure-alerter.test.ts#recordStripeVerifyFailure alert state snapshot is null until the threshold trips","name":"is null until the threshold trips","status":"passed","testResultsByEnv":{"default":"de9562b39c2db61585c0680f74f80157"}}

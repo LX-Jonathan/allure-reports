@@ -1,0 +1,1 @@
+{"id":"79e843241a775b7cec68a593f647ca26","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/batch-job-status should return 400 for empty jobIds","name":"should return 400 for empty jobIds","status":"passed","testResultsByEnv":{"default":"6d170da878d768efcc055acc4f8f657a"}}

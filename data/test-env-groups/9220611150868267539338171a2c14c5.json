@@ -1,0 +1,1 @@
+{"id":"9220611150868267539338171a2c14c5","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should handle empty subject string","name":"should handle empty subject string","status":"passed","testResultsByEnv":{"default":"006b3d8ba6a614b2ee715b735e91a4b8"}}

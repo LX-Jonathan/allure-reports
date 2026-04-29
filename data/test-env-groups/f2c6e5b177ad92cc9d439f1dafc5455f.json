@@ -1,0 +1,1 @@
+{"id":"f2c6e5b177ad92cc9d439f1dafc5455f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts DELETE /chart-of-accounts/:id returns 400 when trying to delete system account","name":"returns 400 when trying to delete system account","status":"passed","testResultsByEnv":{"default":"cabca8e2d1dd0a3c7a1d5e2b3bc51240"}}

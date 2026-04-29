@@ -1,0 +1,1 @@
+{"id":"27740adf11c7209651b88e6586045a99","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/test-search returns [] when q is shorter than 2 characters and skips db","name":"returns [] when q is shorter than 2 characters and skips db","status":"passed","testResultsByEnv":{"default":"95e7245a9f6a26832f7ed52a521c3120"}}

@@ -1,0 +1,1 @@
+{"id":"f38328472ef5dac3e843dbfde3d1f70e","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET /:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"b93c066e1621f2a17552cf5d9922da75"}}

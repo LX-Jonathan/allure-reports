@@ -1,0 +1,1 @@
+{"id":"5581d9555b76c2fb15306fd4dabc152e","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/bulk-retry should bulk retry order jobs (200)","name":"should bulk retry order jobs (200)","status":"passed","testResultsByEnv":{"default":"5e8ae407d6fadad5be72ea908c1ad44f"}}

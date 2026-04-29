@@ -1,0 +1,1 @@
+{"id":"20abaae679b18a1c0666ea5f136a3307","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/admin/:parentLabId/generate returns 400 for localhost URL","name":"returns 400 for localhost URL","status":"passed","testResultsByEnv":{"default":"9b5350cdd63ea2df7ea5d987f7b2657b"}}

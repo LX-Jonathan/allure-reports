@@ -1,0 +1,1 @@
+{"id":"522fad7d3eba5dd5bc5502ab675a9845","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should default height to 0 when undefined","name":"should default height to 0 when undefined","status":"passed","testResultsByEnv":{"default":"b4910e239607f01d978d6c59f4c514d4"}}

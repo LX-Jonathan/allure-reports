@@ -1,0 +1,1 @@
+{"id":"f937d97879d36f44dafc199ff39dc438","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserAssignedLocations should return empty array when no assignments","name":"should return empty array when no assignments","status":"passed","testResultsByEnv":{"default":"b159e8389754145121f32cb31e32912d"}}

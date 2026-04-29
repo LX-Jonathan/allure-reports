@@ -1,0 +1,1 @@
+{"id":"4e4243891ac80d81ed279670b452dcef","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service edge cases should be case insensitive for all pattern matching","name":"should be case insensitive for all pattern matching","status":"passed","testResultsByEnv":{"default":"cf1a0d1377f12436f0b173dafd2e8f69"}}

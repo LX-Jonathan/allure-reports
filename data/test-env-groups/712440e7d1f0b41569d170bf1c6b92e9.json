@@ -1,0 +1,1 @@
+{"id":"712440e7d1f0b41569d170bf1c6b92e9","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms error handling should return false on Twilio send error","name":"should return false on Twilio send error","status":"passed","testResultsByEnv":{"default":"615ff0fcc8e794c3c7515555296c2f20"}}

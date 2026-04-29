@@ -1,0 +1,1 @@
+{"id":"c90c2962863e5efe4093afd81aa2eb62","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes PATCH /api/v1/master-patients/:id clears mobilePhone when empty string sent","name":"clears mobilePhone when empty string sent","status":"passed","testResultsByEnv":{"default":"e1a3f0aeaf15bec3d8b67f8b68277771"}}

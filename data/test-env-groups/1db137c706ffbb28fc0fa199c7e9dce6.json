@@ -1,0 +1,1 @@
+{"id":"1db137c706ffbb28fc0fa199c7e9dce6","fullName":"server/jobs/__tests__/scheduler.test.ts#stopScheduler should stop all scheduled jobs","name":"should stop all scheduled jobs","status":"passed","testResultsByEnv":{"default":"47eab0ab1b5401a701626b13bf92d411"}}

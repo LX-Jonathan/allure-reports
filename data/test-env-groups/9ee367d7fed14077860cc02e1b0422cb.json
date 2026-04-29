@@ -1,0 +1,1 @@
+{"id":"9ee367d7fed14077860cc02e1b0422cb","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Interface Data Issues bulkUpdateInterfaceDataIssues returns 0 for empty array","name":"returns 0 for empty array","status":"passed","testResultsByEnv":{"default":"73f9c220c7da3aec4a2eeb0d844a4842"}}

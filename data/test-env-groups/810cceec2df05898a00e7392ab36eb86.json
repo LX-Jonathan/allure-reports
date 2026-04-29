@@ -1,0 +1,1 @@
+{"id":"810cceec2df05898a00e7392ab36eb86","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"1cf3cf52f96072f023ef0731220b1e2a"}}

@@ -1,0 +1,1 @@
+{"id":"dfec5378ac792049843d9ba6fc82ffbc","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService AI response parsing should handle AI response with missing policyType in criteria","name":"should handle AI response with missing policyType in criteria","status":"passed","testResultsByEnv":{"default":"fdaf9a6ac2f9bb09003b94fb32390b92"}}

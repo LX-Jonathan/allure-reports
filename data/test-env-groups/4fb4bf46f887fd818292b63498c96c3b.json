@@ -1,0 +1,1 @@
+{"id":"4fb4bf46f887fd818292b63498c96c3b","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /ai-map-form returns 500 when Anthropic API throws","name":"returns 500 when Anthropic API throws","status":"passed","testResultsByEnv":{"default":"a8cc9879eb9fa0d4f0237d5f144dcc30"}}

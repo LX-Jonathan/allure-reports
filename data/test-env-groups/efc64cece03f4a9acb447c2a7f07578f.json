@@ -1,0 +1,1 @@
+{"id":"efc64cece03f4a9acb447c2a7f07578f","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker startBulkScanItemWorker should log startup message with concurrency","name":"should log startup message with concurrency","status":"passed","testResultsByEnv":{"default":"4dcb4067709cce0f065e1c4e213d83bf"}}

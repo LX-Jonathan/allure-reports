@@ -1,0 +1,1 @@
+{"id":"6570a673f142b8148633cd6c34fc69e6","fullName":"server/services/__tests__/readinessEvaluator.test.ts#calculateReadinessScore returns 100 with no errors and no warnings","name":"returns 100 with no errors and no warnings","status":"passed","testResultsByEnv":{"default":"3a47b112c7894fc7a2c4e5eccd389694"}}

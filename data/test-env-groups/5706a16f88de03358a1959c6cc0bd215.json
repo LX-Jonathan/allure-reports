@@ -1,0 +1,1 @@
+{"id":"5706a16f88de03358a1959c6cc0bd215","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations addRolePermission inserts and returns role permission","name":"inserts and returns role permission","status":"passed","testResultsByEnv":{"default":"1166a86c677960c74b48963ef356d51c"}}

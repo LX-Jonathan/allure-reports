@@ -1,0 +1,1 @@
+{"id":"d3ef115fff53d7b9abce2cbdfa83c3cb","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes POST /api/v1/lxu/articles/:id/feedback returns 200 when helpful feedback is submitted","name":"returns 200 when helpful feedback is submitted","status":"passed","testResultsByEnv":{"default":"406985ccda165093b66a4ee590fe5cee"}}

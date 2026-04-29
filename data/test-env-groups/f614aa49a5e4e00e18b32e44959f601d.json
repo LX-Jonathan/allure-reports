@@ -1,0 +1,1 @@
+{"id":"f614aa49a5e4e00e18b32e44959f601d","fullName":"server/__tests__/lxu.routes.test.ts#lxu routes GET /api/v1/lxu/modules/:slug returns 404 when module not found","name":"returns 404 when module not found","status":"passed","testResultsByEnv":{"default":"d4f6b71f1a51ec07dcc7865191872052"}}

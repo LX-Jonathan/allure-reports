@@ -1,0 +1,1 @@
+{"id":"bc160fb591a1846c2f4ba682ff510cf3","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir includes mobile phone in telecom","name":"includes mobile phone in telecom","status":"passed","testResultsByEnv":{"default":"577e35d53f5934e623c7266a5c8067b2"}}

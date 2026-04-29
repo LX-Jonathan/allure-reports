@@ -1,0 +1,1 @@
+{"id":"389eb426e568016fefd8687002da76fc","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event returns validation error for invalid event type","name":"returns validation error for invalid event type","status":"passed","testResultsByEnv":{"default":"741de62615bbe3bccbff272a18a8baee"}}

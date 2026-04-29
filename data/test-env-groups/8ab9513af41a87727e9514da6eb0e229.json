@@ -1,0 +1,1 @@
+{"id":"8ab9513af41a87727e9514da6eb0e229","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/admin/:parentLabId/generate returns 400 for non-http protocol","name":"returns 400 for non-http protocol","status":"passed","testResultsByEnv":{"default":"c49bf2acce41a8907b99369cda7ace20"}}

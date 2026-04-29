@@ -1,0 +1,1 @@
+{"id":"c2e0cc60e0e305dc47a497f757ea214a","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes PUT /api/v1/portal-config/:parentLabId returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"c0f377924ed6352dee87bfff104e325f"}}

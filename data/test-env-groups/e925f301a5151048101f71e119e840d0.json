@@ -1,0 +1,1 @@
+{"id":"e925f301a5151048101f71e119e840d0","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /available-orgs/:parentLabId returns available orgs excluding already-linked ones","name":"returns available orgs excluding already-linked ones","status":"passed","testResultsByEnv":{"default":"90ebb17b2213a644128d815230bb332b"}}

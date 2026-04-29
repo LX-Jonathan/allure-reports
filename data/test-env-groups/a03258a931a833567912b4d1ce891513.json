@@ -1,0 +1,1 @@
+{"id":"a03258a931a833567912b4d1ce891513","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management updateUser should update user and return updated record","name":"should update user and return updated record","status":"passed","testResultsByEnv":{"default":"c36370fbd5246573b84928942c6f6d9e"}}

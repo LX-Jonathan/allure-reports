@@ -1,0 +1,1 @@
+{"id":"695f19cfe2a0fa982d738ca112a18f61","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) PATCH /api/v1/pre-registration-links/:id returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"8efd78803b8eb537b0138b2f2cf654b3"}}

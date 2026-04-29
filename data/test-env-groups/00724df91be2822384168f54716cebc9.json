@@ -1,0 +1,1 @@
+{"id":"00724df91be2822384168f54716cebc9","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/bulk-retry should handle partial failures","name":"should handle partial failures","status":"passed","testResultsByEnv":{"default":"4424f1fec969f8f80ae0e3dc19f55f2c"}}

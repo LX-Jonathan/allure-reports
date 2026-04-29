@@ -1,0 +1,1 @@
+{"id":"f0263aded3d953a0ff38ba9f687b7dc6","fullName":"server/lib/__tests__/sms.test.ts#sms isSmsConfigured should return false when only SID is set","name":"should return false when only SID is set","status":"passed","testResultsByEnv":{"default":"64fb39cb67bcb221fd048ef832f7429a"}}

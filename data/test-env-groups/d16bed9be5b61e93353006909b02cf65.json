@@ -1,0 +1,1 @@
+{"id":"d16bed9be5b61e93353006909b02cf65","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth returned state flags exposes isLoggingOut from logout mutation","name":"exposes isLoggingOut from logout mutation","status":"passed","testResultsByEnv":{"default":"2e3f4a5a42d7f778ee6a742ff65ea391"}}

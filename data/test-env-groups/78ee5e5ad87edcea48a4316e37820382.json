@@ -1,0 +1,1 @@
+{"id":"78ee5e5ad87edcea48a4316e37820382","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/frhc-api-configs returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"144122bde16a75e79db5f77684fa8d9f"}}

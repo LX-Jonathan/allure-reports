@@ -1,0 +1,1 @@
+{"id":"98d1b3021ecb27768d16764022a31f41","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print resolves by labId when no templateId","name":"resolves by labId when no templateId","status":"passed","testResultsByEnv":{"default":"ef91e696bc20479e18fccc5f55bf5cf1"}}

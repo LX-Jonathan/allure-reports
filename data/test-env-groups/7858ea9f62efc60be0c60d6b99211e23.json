@@ -1,0 +1,1 @@
+{"id":"7858ea9f62efc60be0c60d6b99211e23","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service edge cases should increment templatesRecognized when createCacheEntry returns null","name":"should increment templatesRecognized when createCacheEntry returns null","status":"passed","testResultsByEnv":{"default":"d517051270b4c108d989a1cf8bf4c965"}}

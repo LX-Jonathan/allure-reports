@@ -1,0 +1,1 @@
+{"id":"aa0172f335ef89c626e3e776abde12af","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeOCRText should omit confidence from metadata when not provided","name":"should omit confidence from metadata when not provided","status":"passed","testResultsByEnv":{"default":"940e811a28343681be5b8011f790a39f"}}

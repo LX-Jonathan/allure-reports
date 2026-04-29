@@ -1,0 +1,1 @@
+{"id":"da9630bde99d15a64a6bb882610ac8c9","fullName":"server/services/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getCollectedAmount returns collected amount data from GROUPING SETS query","name":"returns collected amount data from GROUPING SETS query","status":"passed","testResultsByEnv":{"default":"dbebbfa8c449d0f0d9c948f3ddd29b80"}}

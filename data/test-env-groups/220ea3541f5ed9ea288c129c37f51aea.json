@@ -1,0 +1,1 @@
+{"id":"220ea3541f5ed9ea288c129c37f51aea","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items returns 500 on database error during insert","name":"returns 500 on database error during insert","status":"passed","testResultsByEnv":{"default":"0c0906d44597ab5bfab6a1ad4b465f53"}}

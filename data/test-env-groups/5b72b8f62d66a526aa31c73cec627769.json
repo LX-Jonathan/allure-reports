@@ -1,0 +1,1 @@
+{"id":"5b72b8f62d66a526aa31c73cec627769","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service isLabOperationsConfigured returns true when AWS env vars are set","name":"returns true when AWS env vars are set","status":"passed","testResultsByEnv":{"default":"0d5ae830ff1969a12142849668ca51d2"}}

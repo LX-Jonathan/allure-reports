@@ -1,0 +1,1 @@
+{"id":"d7b1f7aa6b92f4ad921ad04b628a6466","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 400 when email is missing","name":"returns 400 when email is missing","status":"passed","testResultsByEnv":{"default":"1660cf3b9a83f63594f0ac8fa3fa42d7"}}

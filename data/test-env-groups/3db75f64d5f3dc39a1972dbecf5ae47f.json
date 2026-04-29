@@ -1,0 +1,1 @@
+{"id":"3db75f64d5f3dc39a1972dbecf5ae47f","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes POST /api/v1/lxu/quickstarts/:id/download returns 200 and tracks download","name":"returns 200 and tracks download","status":"passed","testResultsByEnv":{"default":"402dba04e492a218f0e875e09ff5c961"}}

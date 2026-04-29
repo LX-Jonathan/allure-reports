@@ -1,0 +1,1 @@
+{"id":"78d2ce978fae7fad6fa52f58dd9ebbc3","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateProviderRules emits NO_PROVIDER error when provider has no name or firstName","name":"emits NO_PROVIDER error when provider has no name or firstName","status":"passed","testResultsByEnv":{"default":"d0da5d71b454532802a48b34f0b1955c"}}

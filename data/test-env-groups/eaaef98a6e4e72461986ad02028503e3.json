@@ -1,0 +1,1 @@
+{"id":"eaaef98a6e4e72461986ad02028503e3","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"0150904099b2c051cf8814ae185cce6d"}}

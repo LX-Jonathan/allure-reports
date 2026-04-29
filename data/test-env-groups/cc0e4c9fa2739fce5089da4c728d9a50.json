@@ -1,0 +1,1 @@
+{"id":"cc0e4c9fa2739fce5089da4c728d9a50","fullName":"client/src/pages/__tests__/lab-selector.test.tsx#LabSelectorPage clicking a lab card calls setSelectedSuperOrgId and navigates","name":"clicking a lab card calls setSelectedSuperOrgId and navigates","status":"passed","testResultsByEnv":{"default":"c81c09e98e1fda66b1953053bcad3085"}}

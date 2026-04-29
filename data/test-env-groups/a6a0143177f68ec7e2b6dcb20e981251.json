@@ -1,0 +1,1 @@
+{"id":"a6a0143177f68ec7e2b6dcb20e981251","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when org user has no organization assigned","name":"should return error when org user has no organization assigned","status":"passed","testResultsByEnv":{"default":"5d7a1927a814ca4ee5235a5f5c90211a"}}

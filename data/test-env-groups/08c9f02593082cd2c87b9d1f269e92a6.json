@@ -1,0 +1,1 @@
+{"id":"08c9f02593082cd2c87b9d1f269e92a6","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-lookup returns 404 when no provider found with NPI","name":"returns 404 when no provider found with NPI","status":"passed","testResultsByEnv":{"default":"ec936084ac9a1c6cf620709475f297f4"}}

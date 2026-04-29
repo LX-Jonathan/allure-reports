@@ -1,0 +1,1 @@
+{"id":"b4e1a28a328db2c29473d25b83e02c91","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/lookup/batch returns 400 when cptCodes missing","name":"returns 400 when cptCodes missing","status":"passed","testResultsByEnv":{"default":"36dc5c43a4b123853aecf53a557b2f9e"}}

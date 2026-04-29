@@ -1,0 +1,1 @@
+{"id":"224b331bd0ceeee567f16b42af2c2859","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id returns 400 on Zod validation error","name":"returns 400 on Zod validation error","status":"passed","testResultsByEnv":{"default":"051b7e721ae7b0de9fa4c5de0a889395"}}

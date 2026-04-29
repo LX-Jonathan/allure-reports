@@ -1,0 +1,1 @@
+{"id":"7002b4cab34283615254d4c66bf35cfb","fullName":"client/src/components/patient/__tests__/demographics-check-dialog.test.tsx#DemographicsCheckDialog disables update button until at least one field is selected","name":"disables update button until at least one field is selected","status":"passed","testResultsByEnv":{"default":"c471175d05869bb059b4c58843dc3a39"}}

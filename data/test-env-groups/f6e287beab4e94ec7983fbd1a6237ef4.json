@@ -1,0 +1,1 @@
+{"id":"f6e287beab4e94ec7983fbd1a6237ef4","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management setUserLocationAssignments should only delete when empty array is provided","name":"should only delete when empty array is provided","status":"passed","testResultsByEnv":{"default":"e4572d3952a18aef391ab600ad511bdd"}}

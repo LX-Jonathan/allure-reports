@@ -1,0 +1,1 @@
+{"id":"0a7c57e322939e778f1ed6cc12ef5db8","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker edge cases should log error messages on failure","name":"should log error messages on failure","status":"passed","testResultsByEnv":{"default":"b46ec15dc9faf76af118b0232afce34f"}}

@@ -1,0 +1,1 @@
+{"id":"2efed300b969b6d32f00e2417f13208f","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes GET /api/conversations/:id should return conversation with messages when found","name":"should return conversation with messages when found","status":"passed","testResultsByEnv":{"default":"6bc277a6cd790c1af21e2a42a1ce6131"}}

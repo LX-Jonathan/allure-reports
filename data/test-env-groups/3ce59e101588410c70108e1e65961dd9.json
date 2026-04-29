@@ -1,0 +1,1 @@
+{"id":"3ce59e101588410c70108e1e65961dd9","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory role middleware should apply role middleware when allowedRoles are specified","name":"should apply role middleware when allowedRoles are specified","status":"passed","testResultsByEnv":{"default":"faa3ed2a17ce8a55d0bb0593500af296"}}

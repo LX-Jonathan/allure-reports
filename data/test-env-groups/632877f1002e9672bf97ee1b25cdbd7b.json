@@ -1,0 +1,1 @@
+{"id":"632877f1002e9672bf97ee1b25cdbd7b","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientCreditConsumptionJournal returns null when amount is negative","name":"returns null when amount is negative","status":"passed","testResultsByEnv":{"default":"0efb9190dbe17571048e20325969e895"}}

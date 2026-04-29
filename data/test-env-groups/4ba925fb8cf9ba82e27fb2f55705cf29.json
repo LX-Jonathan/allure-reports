@@ -1,0 +1,1 @@
+{"id":"4ba925fb8cf9ba82e27fb2f55705cf29","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/lookup/rate falls back to CMS when no primary match","name":"falls back to CMS when no primary match","status":"passed","testResultsByEnv":{"default":"ff5b14949746070edd90561171977ffc"}}

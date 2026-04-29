@@ -1,0 +1,1 @@
+{"id":"25892a24d406de47ce4fc452e64ec54a","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#quarantineRepeatedFailures should return 0 for results queue (no quarantine support)","name":"should return 0 for results queue (no quarantine support)","status":"passed","testResultsByEnv":{"default":"62a719a83c88f0107d94228f28cd6d51"}}

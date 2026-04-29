@@ -1,0 +1,1 @@
+{"id":"52a58c36ee33a8037cab31d13cf8de59","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies returns 200 with filtered results by labId","name":"returns 200 with filtered results by labId","status":"passed","testResultsByEnv":{"default":"732b8763546364817c85dc17b5bf1f53"}}

@@ -1,0 +1,1 @@
+{"id":"75cd120e2eb1e16abce67a5d6f93f8e4","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getFilteredLocationCount should return count of locationIds array length directly","name":"should return count of locationIds array length directly","status":"passed","testResultsByEnv":{"default":"358f244bfe01f1c798a9875ca12c7c06"}}

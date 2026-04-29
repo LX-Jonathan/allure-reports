@@ -1,0 +1,1 @@
+{"id":"cbe177ad90dd78e82c62318d0042d98c","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient getAccessToken (via testConnection) should refresh token when near expiry","name":"should refresh token when near expiry","status":"passed","testResultsByEnv":{"default":"f523b4b43657c03275756f53ad6e3a41"}}

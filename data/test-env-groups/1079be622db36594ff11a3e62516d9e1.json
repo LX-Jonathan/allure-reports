@@ -1,0 +1,1 @@
+{"id":"1079be622db36594ff11a3e62516d9e1","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service cropRegion should return the cropped buffer","name":"should return the cropped buffer","status":"passed","testResultsByEnv":{"default":"2aaf5904fd783c81119f7c4c24be63b1"}}

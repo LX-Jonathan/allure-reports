@@ -1,0 +1,1 @@
+{"id":"1911a9f94b17b8815e0d80cfa63026b2","fullName":"client/src/components/patient/__tests__/verification-helpers.test.tsx#verification-helpers maskSSN masks all but last 4 digits when length >= 4","name":"masks all but last 4 digits when length >= 4","status":"passed","testResultsByEnv":{"default":"fd6deca40a6c63fcf04a6b32aebdd162"}}

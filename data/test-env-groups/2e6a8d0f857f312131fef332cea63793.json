@@ -1,0 +1,1 @@
+{"id":"2e6a8d0f857f312131fef332cea63793","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses patient DOB for guarantor when guarantor DOB is missing","name":"uses patient DOB for guarantor when guarantor DOB is missing","status":"passed","testResultsByEnv":{"default":"697a51b7364c5a3c941551c2dac1246a"}}

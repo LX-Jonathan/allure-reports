@@ -1,0 +1,1 @@
+{"id":"750d49d2fa7093f1bb485d06fc161fdf","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) extractResourceInfo — extracts UUID resourceId from path segment","name":"extractResourceInfo — extracts UUID resourceId from path segment","status":"passed","testResultsByEnv":{"default":"8ddf18c60eb7e8852d99e08fa9404394"}}

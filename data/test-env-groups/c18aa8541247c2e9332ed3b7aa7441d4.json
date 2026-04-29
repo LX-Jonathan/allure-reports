@@ -1,0 +1,1 @@
+{"id":"c18aa8541247c2e9332ed3b7aa7441d4","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment parses PRINT WIDTH and LABEL LENGTH from config response","name":"checkEnvironment parses PRINT WIDTH and LABEL LENGTH from config response","status":"passed","testResultsByEnv":{"default":"9b0092d0dcb374128d4537e63df837df"}}

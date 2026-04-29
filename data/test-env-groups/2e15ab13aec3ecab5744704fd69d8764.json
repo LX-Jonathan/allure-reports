@@ -1,0 +1,1 @@
+{"id":"2e15ab13aec3ecab5744704fd69d8764","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should update progress at each step","name":"should update progress at each step","status":"passed","testResultsByEnv":{"default":"bf16f5e60d1199e14f35532206c0b26e"}}

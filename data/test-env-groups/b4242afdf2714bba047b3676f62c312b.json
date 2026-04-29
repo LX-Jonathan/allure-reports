@@ -1,0 +1,1 @@
+{"id":"b4242afdf2714bba047b3676f62c312b","fullName":"server/routes/__tests__/public-portal.routes.test.ts#public-portal.routes returns 403 when portal is disabled","name":"returns 403 when portal is disabled","status":"passed","testResultsByEnv":{"default":"a512fcfb2409a529abb546b76409df4b"}}

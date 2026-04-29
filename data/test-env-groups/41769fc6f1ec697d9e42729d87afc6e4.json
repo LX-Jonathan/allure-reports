@@ -1,0 +1,1 @@
+{"id":"41769fc6f1ec697d9e42729d87afc6e4","fullName":"client/src/components/__tests__/lab-switcher.test.tsx#LabSwitcher calls setSelectedSuperOrgId when a lab is selected","name":"calls setSelectedSuperOrgId when a lab is selected","status":"passed","testResultsByEnv":{"default":"7dd6b2c6599fe37ac4a4660e93f4e212"}}

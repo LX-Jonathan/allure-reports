@@ -1,0 +1,1 @@
+{"id":"fd0baee032c0dfcd1b5c49d53b6798c3","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should return 0 when org user has no organization","name":"should return 0 when org user has no organization","status":"passed","testResultsByEnv":{"default":"f08ff198e32afd54162cb44b46ee67c0"}}

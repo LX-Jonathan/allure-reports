@@ -1,0 +1,1 @@
+{"id":"1c0695faa8200046609c6948628e50ab","fullName":"server/lib/__tests__/auth.test.ts#auth generatePasswordResetToken should generate 32-byte token","name":"should generate 32-byte token","status":"passed","testResultsByEnv":{"default":"0eaab21dc3399147506a2467bb85e8d5"}}

@@ -1,0 +1,1 @@
+{"id":"ee53b2548a053aad45ca3307e7c719c7","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules returns empty array for user without organization access","name":"returns empty array for user without organization access","status":"passed","testResultsByEnv":{"default":"1f0b4d76e770590b241615eb552379c4"}}

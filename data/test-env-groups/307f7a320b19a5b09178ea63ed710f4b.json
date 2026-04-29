@@ -1,0 +1,1 @@
+{"id":"307f7a320b19a5b09178ea63ed710f4b","fullName":"client/src/components/patient/__tests__/patient-demographic-history.test.tsx#PatientDemographicHistory renders the empty state when no events are returned","name":"renders the empty state when no events are returned","status":"passed","testResultsByEnv":{"default":"c1e6a725032f041b2cc80ae7bc027601"}}

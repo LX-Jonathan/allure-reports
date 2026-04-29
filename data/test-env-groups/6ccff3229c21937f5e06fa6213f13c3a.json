@@ -1,0 +1,1 @@
+{"id":"6ccff3229c21937f5e06fa6213f13c3a","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Import GET /api/v1/medications/import/template returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"14e339d22e2c62e68dab76951aba40c2"}}

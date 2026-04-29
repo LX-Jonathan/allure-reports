@@ -1,0 +1,1 @@
+{"id":"7073d8807a99af668327264f0c1ab634","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Bulk Scan updateBulkScanBatch returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"c36e5fc8a9847972a29e48d97bd9a728"}}

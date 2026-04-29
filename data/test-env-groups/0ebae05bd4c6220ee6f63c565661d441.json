@@ -1,0 +1,1 @@
+{"id":"0ebae05bd4c6220ee6f63c565661d441","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /hie-records/:id/status returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"fd674531e93c834166c47e83239e0895"}}

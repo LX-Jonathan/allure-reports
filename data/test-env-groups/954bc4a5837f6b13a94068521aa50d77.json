@@ -1,0 +1,1 @@
+{"id":"954bc4a5837f6b13a94068521aa50d77","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo redirects to external URL when logoUrl is external","name":"redirects to external URL when logoUrl is external","status":"passed","testResultsByEnv":{"default":"198c707bacc91555fe4e0531949953c3"}}

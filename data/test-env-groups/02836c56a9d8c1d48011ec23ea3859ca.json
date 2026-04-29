@@ -1,0 +1,1 @@
+{"id":"02836c56a9d8c1d48011ec23ea3859ca","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientResultsReadyEmail should queue results ready email successfully","name":"should queue results ready email successfully","status":"passed","testResultsByEnv":{"default":"702cbff2975a48e70c5d8ca72b56dc55"}}

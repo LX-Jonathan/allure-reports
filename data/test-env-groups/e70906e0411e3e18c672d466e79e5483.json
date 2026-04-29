@@ -1,0 +1,1 @@
+{"id":"e70906e0411e3e18c672d466e79e5483","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations returns 200 with archived conversations when archived=true","name":"returns 200 with archived conversations when archived=true","status":"passed","testResultsByEnv":{"default":"49ecf4f519a5aa2ff7b612872e4e94a2"}}

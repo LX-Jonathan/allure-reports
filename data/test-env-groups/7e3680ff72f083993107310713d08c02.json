@@ -1,0 +1,1 @@
+{"id":"7e3680ff72f083993107310713d08c02","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createWorker should register event handlers on worker","name":"should register event handlers on worker","status":"passed","testResultsByEnv":{"default":"c1b8c3fee3517958f85c9528c1da24b1"}}

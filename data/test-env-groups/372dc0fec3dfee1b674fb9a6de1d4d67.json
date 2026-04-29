@@ -1,0 +1,1 @@
+{"id":"372dc0fec3dfee1b674fb9a6de1d4d67","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getById should return order when location-level user accesses order in their location","name":"should return order when location-level user accesses order in their location","status":"passed","testResultsByEnv":{"default":"7178be398370114a6ff9a8b0b4252c65"}}

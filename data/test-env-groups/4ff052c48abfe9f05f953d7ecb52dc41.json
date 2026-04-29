@@ -1,0 +1,1 @@
+{"id":"4ff052c48abfe9f05f953d7ecb52dc41","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/alert-rules should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"ff72f179839bee32e9a45430c69c0469"}}

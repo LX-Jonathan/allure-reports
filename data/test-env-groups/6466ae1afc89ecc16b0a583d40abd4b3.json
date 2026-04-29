@@ -1,0 +1,1 @@
+{"id":"6466ae1afc89ecc16b0a583d40abd4b3","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements does not apply fallback range when tenant has rules configured","name":"does not apply fallback range when tenant has rules configured","status":"passed","testResultsByEnv":{"default":"66eca6d0244c2a1709cc220163a43579"}}

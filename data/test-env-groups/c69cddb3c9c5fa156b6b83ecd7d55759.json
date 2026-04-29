@@ -1,0 +1,1 @@
+{"id":"c69cddb3c9c5fa156b6b83ecd7d55759","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes DELETE /api/v1/flu-shots/:id returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"7ec1a14002539bb664845c9af731bd7e"}}

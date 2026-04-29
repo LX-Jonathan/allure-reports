@@ -1,0 +1,1 @@
+{"id":"eeab9da5815565348052194a25cbc287","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /assign returns 404 when national company not found","name":"returns 404 when national company not found","status":"passed","testResultsByEnv":{"default":"b733cbba04e131ed9aa8effb3960fddd"}}

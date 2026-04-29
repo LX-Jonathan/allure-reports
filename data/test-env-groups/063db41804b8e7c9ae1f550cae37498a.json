@@ -1,0 +1,1 @@
+{"id":"063db41804b8e7c9ae1f550cae37498a","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should use first page confidence when available in batch","name":"should use first page confidence when available in batch","status":"passed","testResultsByEnv":{"default":"3787f7c7f8bc2112762500979f0f7041"}}

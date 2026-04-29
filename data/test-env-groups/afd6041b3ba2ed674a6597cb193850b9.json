@@ -1,0 +1,1 @@
+{"id":"afd6041b3ba2ed674a6597cb193850b9","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections - additional branches infers email field type from fhirPath","name":"infers email field type from fhirPath","status":"passed","testResultsByEnv":{"default":"e947c90d242bf4e87d44c68e2746bd69"}}

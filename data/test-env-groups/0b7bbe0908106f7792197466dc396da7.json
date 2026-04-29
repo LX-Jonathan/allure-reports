@@ -1,0 +1,1 @@
+{"id":"0b7bbe0908106f7792197466dc396da7","fullName":"server/routes/lib/__tests__/order-detail-query.test.ts#buildAbnSummary returns null when metadata is missing or has no failing tests","name":"returns null when metadata is missing or has no failing tests","status":"passed","testResultsByEnv":{"default":"88b0899ab1866c82a738a358110a5b14"}}

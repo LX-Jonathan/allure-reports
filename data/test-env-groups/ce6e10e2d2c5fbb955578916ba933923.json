@@ -1,0 +1,1 @@
+{"id":"ce6e10e2d2c5fbb955578916ba933923","fullName":"server/__tests__/storage-results.test.ts#DatabaseStorage - Lab Results getOrganizationById (result-interface) should return org when found","name":"should return org when found","status":"passed","testResultsByEnv":{"default":"3055ee99d3712151492ba38ad754b498"}}

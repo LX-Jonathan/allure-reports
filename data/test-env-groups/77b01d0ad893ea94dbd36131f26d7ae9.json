@@ -1,0 +1,1 @@
+{"id":"77b01d0ad893ea94dbd36131f26d7ae9","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker edge cases should handle undefined attemptsMade","name":"should handle undefined attemptsMade","status":"passed","testResultsByEnv":{"default":"7061911f7584be27274c437e2038a94f"}}

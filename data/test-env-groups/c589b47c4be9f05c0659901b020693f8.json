@@ -1,0 +1,1 @@
+{"id":"c589b47c4be9f05c0659901b020693f8","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker startEligibilityWorker should register failed event handler","name":"should register failed event handler","status":"passed","testResultsByEnv":{"default":"9007d744a7a8f919a52d90957b3790b4"}}

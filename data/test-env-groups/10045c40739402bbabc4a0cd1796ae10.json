@@ -1,0 +1,1 @@
+{"id":"10045c40739402bbabc4a0cd1796ae10","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should set isEligible to true when DiscoveredEligibility has results","name":"should set isEligible to true when DiscoveredEligibility has results","status":"passed","testResultsByEnv":{"default":"7226810f6a1bee41392445761ab78c4d"}}

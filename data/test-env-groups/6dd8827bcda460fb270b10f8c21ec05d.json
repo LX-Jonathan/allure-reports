@@ -1,0 +1,1 @@
+{"id":"6dd8827bcda460fb270b10f8c21ec05d","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /reset/:discipline returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"0060bcc84a9b86b1c7c55251b1afa5c0"}}

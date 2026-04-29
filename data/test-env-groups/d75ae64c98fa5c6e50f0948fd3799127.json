@@ -1,0 +1,1 @@
+{"id":"d75ae64c98fa5c6e50f0948fd3799127","fullName":"server/routes/lib/__tests__/order-detail-query.test.ts#buildAbnSummary includes failing tests and propagates carrier name and pricing","name":"includes failing tests and propagates carrier name and pricing","status":"passed","testResultsByEnv":{"default":"78ba39c96c224c873d45c1440608b0a9"}}

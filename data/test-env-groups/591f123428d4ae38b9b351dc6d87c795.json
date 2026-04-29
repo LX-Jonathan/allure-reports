@@ -1,0 +1,1 @@
+{"id":"591f123428d4ae38b9b351dc6d87c795","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService extractTenants (via key registration) should extract list tenant from local key prefix (scale-redis-keys)","name":"should extract list tenant from local key prefix (scale-redis-keys)","status":"passed","testResultsByEnv":{"default":"102ba7f40bb38812ac54382fa452e155"}}

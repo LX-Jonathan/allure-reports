@@ -1,0 +1,1 @@
+{"id":"ad66813e9b910cf4f5a5f4f8c9e32bb1","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link-usage returns 404 when thread not found in org","name":"returns 404 when thread not found in org","status":"passed","testResultsByEnv":{"default":"673a189c9c551096c9c816c5fa2d7d6d"}}

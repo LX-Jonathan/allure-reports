@@ -1,0 +1,1 @@
+{"id":"96ef99197fa2352188a6609dde25041d","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo-from-url returns 400 for private/internal URLs (127.0.0.1)","name":"returns 400 for private/internal URLs (127.0.0.1)","status":"passed","testResultsByEnv":{"default":"1272db138126423b09ace10d05f43674"}}

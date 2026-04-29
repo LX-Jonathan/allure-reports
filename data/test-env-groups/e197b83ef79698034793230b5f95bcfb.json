@@ -1,0 +1,1 @@
+{"id":"e197b83ef79698034793230b5f95bcfb","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/installment-credit-payment clamps over-application to remaining plan balance","name":"clamps over-application to remaining plan balance","status":"passed","testResultsByEnv":{"default":"77afcd4b9b3c8db5feb176d071c9e709"}}

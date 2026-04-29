@@ -1,0 +1,1 @@
+{"id":"98f5d04d338212dc6887923181f2c06e","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness account mapping evaluation should flag missing order number as error","name":"should flag missing order number as error","status":"passed","testResultsByEnv":{"default":"ea7cf9ad2145d8e3e9f024f97483e913"}}

@@ -1,0 +1,1 @@
+{"id":"a0938e1e78710716182bbf55ef57fc93","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalUserById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"582a06b69259313f5346ceeb9144f0f3"}}

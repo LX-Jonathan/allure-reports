@@ -1,0 +1,1 @@
+{"id":"ade8f883169cefbffc1e917c36b39cdc","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return true for valid transition from received to processing","name":"should return true for valid transition from received to processing","status":"passed","testResultsByEnv":{"default":"a152676142a9d3dbafbb667ac0faf990"}}

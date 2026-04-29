@@ -1,0 +1,1 @@
+{"id":"09ff9f65ef008bedf81363fc04ca56ac","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients DOB search patterns searches patients by partial DOB MM/DD","name":"searches patients by partial DOB MM/DD","status":"passed","testResultsByEnv":{"default":"6f9a7f263e6114e44f9212f52104ab56"}}

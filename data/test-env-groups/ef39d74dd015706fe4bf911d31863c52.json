@@ -1,0 +1,1 @@
+{"id":"ef39d74dd015706fe4bf911d31863c52","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes DELETE /api/order-intake/pending-jobs/:jobId returns 200 when redis not configured","name":"returns 200 when redis not configured","status":"passed","testResultsByEnv":{"default":"63eb8789f09da2c768d451fc0e20d999"}}

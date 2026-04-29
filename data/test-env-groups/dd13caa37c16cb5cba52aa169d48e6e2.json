@@ -1,0 +1,1 @@
+{"id":"dd13caa37c16cb5cba52aa169d48e6e2","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when patient is in a different organization","name":"should return error when patient is in a different organization","status":"passed","testResultsByEnv":{"default":"3592419b2c376991485158ad03148f78"}}

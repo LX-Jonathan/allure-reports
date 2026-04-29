@@ -1,0 +1,1 @@
+{"id":"92ec065304550d145bcb22116368882b","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/tickets returns tickets with pagination","name":"returns tickets with pagination","status":"passed","testResultsByEnv":{"default":"a91b941f737695cd9b7f3907447ca161"}}

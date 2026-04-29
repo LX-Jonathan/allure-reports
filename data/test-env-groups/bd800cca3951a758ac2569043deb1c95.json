@@ -1,0 +1,1 @@
+{"id":"bd800cca3951a758ac2569043deb1c95","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post837ClaimJournal should use current date when dateOfService is null","name":"should use current date when dateOfService is null","status":"passed","testResultsByEnv":{"default":"b8df3742cc5b7fefe57096e6b3b333c8"}}

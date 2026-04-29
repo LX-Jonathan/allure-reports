@@ -1,0 +1,1 @@
+{"id":"999386a7c5683e098d63651deab318cd","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns empty sections when template has no versions","name":"returns empty sections when template has no versions","status":"passed","testResultsByEnv":{"default":"2b744ef64bd8949eff32dd2fc13ec39b"}}

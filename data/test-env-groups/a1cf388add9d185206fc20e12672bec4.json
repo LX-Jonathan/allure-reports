@@ -1,0 +1,1 @@
+{"id":"a1cf388add9d185206fc20e12672bec4","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 400 when csvData is missing","name":"returns 400 when csvData is missing","status":"passed","testResultsByEnv":{"default":"f2e30b4c351e7ead19a97d5497ec217a"}}

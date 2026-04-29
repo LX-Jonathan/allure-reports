@@ -1,0 +1,1 @@
+{"id":"75fed4fe002949633f993b254319f6bf","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner handles ConvertToBlob error callback gracefully","name":"handles ConvertToBlob error callback gracefully","status":"passed","testResultsByEnv":{"default":"5143606185b87073fd59ee95397404d2"}}

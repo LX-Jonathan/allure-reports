@@ -1,0 +1,1 @@
+{"id":"c2c1a51e2d05686c3c54bb87dc8697c7","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#checkCircuitBreaker should use default cooldown when not specified","name":"should use default cooldown when not specified","status":"passed","testResultsByEnv":{"default":"2e7b08f16ea57cbd4842d4398bcd84b0"}}

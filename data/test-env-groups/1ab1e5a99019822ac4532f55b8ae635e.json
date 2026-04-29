@@ -1,0 +1,1 @@
+{"id":"1ab1e5a99019822ac4532f55b8ae635e","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware resource path parsing should handle API v1 paths","name":"should handle API v1 paths","status":"passed","testResultsByEnv":{"default":"f1fe3e8bed0dc0db678180454f6a202d"}}

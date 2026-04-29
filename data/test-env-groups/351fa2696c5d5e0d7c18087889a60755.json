@@ -1,0 +1,1 @@
+{"id":"351fa2696c5d5e0d7c18087889a60755","fullName":"server/__tests__/apply-remit-lines-to-order-items.test.ts#classifyRemitLine denies when claim is denied even if no CARC adjustments are present","name":"denies when claim is denied even if no CARC adjustments are present","status":"passed","testResultsByEnv":{"default":"e7393ab4024d5c0f50b20ccd24dac971"}}

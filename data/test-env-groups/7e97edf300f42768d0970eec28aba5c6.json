@@ -1,0 +1,1 @@
+{"id":"7e97edf300f42768d0970eec28aba5c6","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#readWeeklyDigestConfig returns defaults when settings is missing or malformed","name":"returns defaults when settings is missing or malformed","status":"passed","testResultsByEnv":{"default":"6b1799da3346562ef6705de912be3458"}}

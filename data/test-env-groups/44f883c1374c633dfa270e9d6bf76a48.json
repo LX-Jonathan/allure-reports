@@ -1,0 +1,1 @@
+{"id":"44f883c1374c633dfa270e9d6bf76a48","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /locations filters locations by labClientId when provided","name":"filters locations by labClientId when provided","status":"passed","testResultsByEnv":{"default":"f418d99e4817f656fc4608ac81525d83"}}

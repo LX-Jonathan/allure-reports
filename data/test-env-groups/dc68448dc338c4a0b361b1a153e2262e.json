@@ -1,0 +1,1 @@
+{"id":"dc68448dc338c4a0b361b1a153e2262e","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"66c811a1d239424266e3c7eeaf45c446"}}

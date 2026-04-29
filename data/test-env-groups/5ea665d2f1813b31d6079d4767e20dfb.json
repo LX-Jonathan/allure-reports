@@ -1,0 +1,1 @@
+{"id":"5ea665d2f1813b31d6079d4767e20dfb","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes PUT / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9f1282d18b4091760d2b4b156bac9ea7"}}

@@ -1,0 +1,1 @@
+{"id":"e824fdeee93e5e148d824fd842c02489","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService AI response parsing should handle stage1 AI failure with fallback criteria","name":"should handle stage1 AI failure with fallback criteria","status":"passed","testResultsByEnv":{"default":"a3b0f4264b0fa83acb931bb031f4f539"}}

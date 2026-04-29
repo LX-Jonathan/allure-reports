@@ -1,0 +1,1 @@
+{"id":"d1c9701d36e4bcba67627cfe2576569d","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId/preview returns preview data when profile exists","name":"returns preview data when profile exists","status":"passed","testResultsByEnv":{"default":"0883be08b02d87be048f204caf2adbf3"}}

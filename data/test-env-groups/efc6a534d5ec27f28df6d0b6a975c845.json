@@ -1,0 +1,1 @@
+{"id":"efc6a534d5ec27f28df6d0b6a975c845","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/purge-all purges when no linked local records","name":"purges when no linked local records","status":"passed","testResultsByEnv":{"default":"18e3f174ce17cc585e9a70662f092c67"}}

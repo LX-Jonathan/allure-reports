@@ -1,0 +1,1 @@
+{"id":"dadbc51c7d02412e5618050b6d5a3d4b","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets creates ticket with all fields","name":"creates ticket with all fields","status":"passed","testResultsByEnv":{"default":"0e15dc46b528bd7478cf432d4e7a9562"}}

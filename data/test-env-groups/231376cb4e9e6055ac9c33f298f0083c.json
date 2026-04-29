@@ -1,0 +1,1 @@
+{"id":"231376cb4e9e6055ac9c33f298f0083c","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#getBindingKeysFromScanTemplate skips fields without bindingKey","name":"skips fields without bindingKey","status":"passed","testResultsByEnv":{"default":"cdf47f4202976822af2f5e9c32d86409"}}

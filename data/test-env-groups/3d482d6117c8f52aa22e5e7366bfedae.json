@@ -1,0 +1,1 @@
+{"id":"3d482d6117c8f52aa22e5e7366bfedae","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket returns empty array for getTypingUsers with no matching conversation","name":"returns empty array for getTypingUsers with no matching conversation","status":"passed","testResultsByEnv":{"default":"0c1c121d97c05db68b13c091e7cb5cf2"}}

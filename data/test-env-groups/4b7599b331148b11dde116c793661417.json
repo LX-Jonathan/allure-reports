@@ -1,0 +1,1 @@
+{"id":"4b7599b331148b11dde116c793661417","fullName":"client/src/components/__tests__/medication-autocomplete.test.tsx#MedicationAutocomplete calls onChange with empty string when input is cleared","name":"calls onChange with empty string when input is cleared","status":"passed","testResultsByEnv":{"default":"2646849da1e7b758ef9e9d5dba1c312e"}}

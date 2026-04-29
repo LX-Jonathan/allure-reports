@@ -1,0 +1,1 @@
+{"id":"a53e974ed4046784566dd3ebc2e6b814","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Email Verification Codes incrementEmailVerificationCodeAttempts should increment attempts counter","name":"should increment attempts counter","status":"passed","testResultsByEnv":{"default":"418f2130a3f6f95cc3aa4cf9c6032d29"}}

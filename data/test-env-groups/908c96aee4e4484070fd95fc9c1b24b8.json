@@ -1,0 +1,1 @@
+{"id":"908c96aee4e4484070fd95fc9c1b24b8","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryption round-trip with mocked randomBytes should use crypto.randomBytes for IV generation","name":"should use crypto.randomBytes for IV generation","status":"passed","testResultsByEnv":{"default":"3180aaf2741cae9752b667c3150e4ea2"}}

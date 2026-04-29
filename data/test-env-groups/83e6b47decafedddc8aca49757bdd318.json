@@ -1,0 +1,1 @@
+{"id":"83e6b47decafedddc8aca49757bdd318","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes DELETE /api/v1/super-orgs/:id should prevent deletion if org has children","name":"should prevent deletion if org has children","status":"passed","testResultsByEnv":{"default":"93c73e45918aa23c6b6f7a5a54d72c81"}}

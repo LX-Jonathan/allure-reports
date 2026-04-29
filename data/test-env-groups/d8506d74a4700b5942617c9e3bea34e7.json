@@ -1,0 +1,1 @@
+{"id":"d8506d74a4700b5942617c9e3bea34e7","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /cancel-payment-intent blocks cross-tenant cancel-payment-intent (PAY-3)","name":"blocks cross-tenant cancel-payment-intent (PAY-3)","status":"passed","testResultsByEnv":{"default":"60a8897c3f3db48535ad6f7a6264ed27"}}

@@ -1,0 +1,1 @@
+{"id":"c4de339bb5419139ccc11dd15cf30f90","fullName":"server/lib/__tests__/r2.test.ts#r2.ts uploadDocument should throw error when bucket name is not configured","name":"should throw error when bucket name is not configured","status":"passed","testResultsByEnv":{"default":"3df5fd0e7f5d7cc0686ca37157f4f0d1"}}

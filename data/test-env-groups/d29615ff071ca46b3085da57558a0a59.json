@@ -1,0 +1,1 @@
+{"id":"d29615ff071ca46b3085da57558a0a59","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /insurance-card returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"a1f2dfa7fadced79ab62cd7a2b73e54d"}}

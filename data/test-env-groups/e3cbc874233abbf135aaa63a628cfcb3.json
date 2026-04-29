@@ -1,0 +1,1 @@
+{"id":"e3cbc874233abbf135aaa63a628cfcb3","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should allow assigned user to post message","name":"should allow assigned user to post message","status":"passed","testResultsByEnv":{"default":"8141c4ebf9c80335dfd88722dc948414"}}

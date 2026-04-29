@@ -1,0 +1,1 @@
+{"id":"20de53ac9f36785e9ed121205fea3f29","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should return 403 when header token is missing","name":"should return 403 when header token is missing","status":"passed","testResultsByEnv":{"default":"5c0489faded96fe9d0e9cd5a9aaa7742"}}

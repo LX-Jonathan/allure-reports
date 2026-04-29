@@ -1,0 +1,1 @@
+{"id":"ee44f4ee18c811fb1d0e4bc5c817faf8","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes GET /api/conversations should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"b0c8961ccc3209660fa10e2c5d34eb13"}}

@@ -1,0 +1,1 @@
+{"id":"b1ffb35c925752a18b456838ab083fc0","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes DELETE /api/v1/flu-shots/:id returns 403 for user without required role (provider)","name":"returns 403 for user without required role (provider)","status":"passed","testResultsByEnv":{"default":"200926a0fbc256fb9142f8c13900a927"}}

@@ -1,0 +1,1 @@
+{"id":"b3aa3aadce80eeb808f7eb4fbab23621","fullName":"server/routes/__tests__/temporal.routes.test.ts#Temporal Routes GET /api/temporal/stats returns stats when configured","name":"returns stats when configured","status":"passed","testResultsByEnv":{"default":"cc3826ed14a3c973d87e4744a20e33a3"}}

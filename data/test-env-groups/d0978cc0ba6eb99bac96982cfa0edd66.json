@@ -1,0 +1,1 @@
+{"id":"d0978cc0ba6eb99bac96982cfa0edd66","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/:id/pdf returns 200 with PDF content-type for super_admin","name":"returns 200 with PDF content-type for super_admin","status":"passed","testResultsByEnv":{"default":"6446b4ca39eab1c1908146e0886e5e8d"}}

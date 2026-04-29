@@ -1,0 +1,1 @@
+{"id":"78055e469fe3910aee4dc6f635878d4b","fullName":"client/src/lib/__tests__/marketplace-utils.test.ts#buildMarketplaceFallbackGradient falls back to neutral indigo defaults when colors are missing","name":"falls back to neutral indigo defaults when colors are missing","status":"passed","testResultsByEnv":{"default":"ea34020df965d8f92108c9974c77b4f0"}}

@@ -1,0 +1,1 @@
+{"id":"f117fb1ed683ba1399089bc3b33ca25a","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET /:id user with no lab access gets 403","name":"user with no lab access gets 403","status":"passed","testResultsByEnv":{"default":"d1ff4801a524091e66f7a9d246b0f4a9"}}

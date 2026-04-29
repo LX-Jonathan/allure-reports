@@ -1,0 +1,1 @@
+{"id":"13c5227f469eebd91b871d0e41c4a628","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId can set assignedToId to null","name":"can set assignedToId to null","status":"passed","testResultsByEnv":{"default":"aa35a7bc14e4a21712488e27c3453c40"}}

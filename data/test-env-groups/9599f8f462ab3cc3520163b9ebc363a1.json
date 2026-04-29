@@ -1,0 +1,1 @@
+{"id":"9599f8f462ab3cc3520163b9ebc363a1","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getFilteredClaims should filter by sourceType","name":"should filter by sourceType","status":"passed","testResultsByEnv":{"default":"f32df067906c21a0faa25da71ca7bcf0"}}

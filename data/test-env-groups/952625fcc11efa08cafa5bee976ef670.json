@@ -1,0 +1,1 @@
+{"id":"952625fcc11efa08cafa5bee976ef670","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes PATCH /api/v1/lab-tests/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"719c8f6aef02f3fe70979f9a9168047c"}}

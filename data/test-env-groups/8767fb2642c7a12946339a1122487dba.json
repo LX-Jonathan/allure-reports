@@ -1,0 +1,1 @@
+{"id":"8767fb2642c7a12946339a1122487dba","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/:id/find-diagnoses should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"a238e42cbf76a8fd7f1fd3114ffcdc29"}}

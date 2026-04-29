@@ -1,0 +1,1 @@
+{"id":"ace48636cc71e20106c84b3d937f3045","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes GET /api/v1/interfaces/circuit-breaker/:queueType returns default when not configured","name":"returns default when not configured","status":"passed","testResultsByEnv":{"default":"58b81c707a056b438ce1eedc733f309e"}}

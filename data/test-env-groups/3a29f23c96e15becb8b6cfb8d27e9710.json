@@ -1,0 +1,1 @@
+{"id":"3a29f23c96e15becb8b6cfb8d27e9710","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserById should include role, superOrg, organization, location relations","name":"should include role, superOrg, organization, location relations","status":"passed","testResultsByEnv":{"default":"6560bcf9005081107ce091491c95cc92"}}

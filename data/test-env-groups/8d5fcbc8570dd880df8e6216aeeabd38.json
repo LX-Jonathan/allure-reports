@@ -1,0 +1,1 @@
+{"id":"8d5fcbc8570dd880df8e6216aeeabd38","fullName":"server/__tests__/system.routes.test.ts#system routes GET /api/v1/system/configs returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"0a8caf781c29a32e359a1e42de011e5b"}}

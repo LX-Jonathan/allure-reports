@@ -1,0 +1,1 @@
+{"id":"f61638b3f0e143aa618ee0448dcc0234","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: auth_code_invalid","name":"es: auth_code_invalid","status":"passed","testResultsByEnv":{"default":"8bb674346846c966b3e679f40f2dcdda"}}

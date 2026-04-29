@@ -1,0 +1,1 @@
+{"id":"412d2524fb90d37e98c9be2ce110e9c3","fullName":"server/lib/__tests__/reportCache.test.ts#setCachedReport passes ttlSeconds to cache.set when provided","name":"passes ttlSeconds to cache.set when provided","status":"passed","testResultsByEnv":{"default":"f7cb92f703d1e1d0a514ecc8671100ea"}}

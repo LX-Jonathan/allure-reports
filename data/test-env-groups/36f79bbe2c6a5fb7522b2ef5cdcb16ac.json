@@ -1,0 +1,1 @@
+{"id":"36f79bbe2c6a5fb7522b2ef5cdcb16ac","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcessWithSSE should send progress event with error message on failure","name":"should send progress event with error message on failure","status":"passed","testResultsByEnv":{"default":"b7e93ff22da94beacaba71bd43ee1599"}}

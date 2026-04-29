@@ -1,0 +1,1 @@
+{"id":"59789ac595c6d5491b90e4c2ae3e6d08","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should credit patient AR for the payment amount","name":"should credit patient AR for the payment amount","status":"passed","testResultsByEnv":{"default":"0c1913ac786f25111f5330f6d4d0c8fa"}}

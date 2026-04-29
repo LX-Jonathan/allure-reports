@@ -1,0 +1,1 @@
+{"id":"0d122c8858686c8f492f3bc68799a837","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert respects forceAdminLink override (e.g. for previews/tests)","name":"respects forceAdminLink override (e.g. for previews/tests)","status":"passed","testResultsByEnv":{"default":"f670edd7598cd323adc9c4d4ecb3150b"}}

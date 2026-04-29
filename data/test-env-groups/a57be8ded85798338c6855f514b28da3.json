@@ -1,0 +1,1 @@
+{"id":"a57be8ded85798338c6855f514b28da3","fullName":"server/__tests__/temporal.test.ts#temporal lib getTemporalNamespaceInfo throws when API key is not set","name":"throws when API key is not set","status":"passed","testResultsByEnv":{"default":"fa0d3305639512897aa1e59a8086cc5c"}}

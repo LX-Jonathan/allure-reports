@@ -1,0 +1,1 @@
+{"id":"44c24fc06aecf4ba08e91ffa56b6ed3d","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 400 when DNS resolves to private IP","name":"returns 400 when DNS resolves to private IP","status":"passed","testResultsByEnv":{"default":"2c251160476e228dba2ea68f36b75825"}}

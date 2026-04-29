@@ -1,0 +1,1 @@
+{"id":"4dd32de0e3d464174132f7e121ec2429","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/shipments (Staff Portal - Create Shipment) returns 201 when shipment is created","name":"returns 201 when shipment is created","status":"passed","testResultsByEnv":{"default":"5368f0843154acec7e1aa6065ab26ce8"}}

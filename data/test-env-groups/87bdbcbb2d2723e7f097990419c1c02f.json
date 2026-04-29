@@ -1,0 +1,1 @@
+{"id":"87bdbcbb2d2723e7f097990419c1c02f","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Specimen Options GET /api/v1/lab-tests/specimen-options returns empty arrays when no tests found","name":"returns empty arrays when no tests found","status":"passed","testResultsByEnv":{"default":"ed8975c8fb304606efbd4f55c3a56783"}}

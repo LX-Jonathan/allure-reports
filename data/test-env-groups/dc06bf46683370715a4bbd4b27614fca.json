@@ -1,0 +1,1 @@
+{"id":"dc06bf46683370715a4bbd4b27614fca","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 403 when creating for a different lab","name":"returns 403 when creating for a different lab","status":"passed","testResultsByEnv":{"default":"1bf0fa3cfb9f3b96734ae23679b406d3"}}

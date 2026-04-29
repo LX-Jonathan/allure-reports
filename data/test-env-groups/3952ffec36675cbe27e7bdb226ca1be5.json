@@ -1,0 +1,1 @@
+{"id":"3952ffec36675cbe27e7bdb226ca1be5","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /simulate-reader returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c8be03f926f1993315abd52b82bf37fc"}}

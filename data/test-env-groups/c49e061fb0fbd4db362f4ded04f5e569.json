@@ -1,0 +1,1 @@
+{"id":"c49e061fb0fbd4db362f4ded04f5e569","fullName":"server/__tests__/orders.routes.test.ts#orders.routes PATCH /api/v1/orders/:id should reject update on completed order","name":"should reject update on completed order","status":"passed","testResultsByEnv":{"default":"a1dbb4b0fd275521cb23f9839c7316fc"}}

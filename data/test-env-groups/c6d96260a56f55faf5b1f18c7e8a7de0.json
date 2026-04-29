@@ -1,0 +1,1 @@
+{"id":"c6d96260a56f55faf5b1f18c7e8a7de0","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/articles/:id creates new version when createVersion is true","name":"creates new version when createVersion is true","status":"passed","testResultsByEnv":{"default":"146583b92eea94b493ab4cbdc32fcb79"}}

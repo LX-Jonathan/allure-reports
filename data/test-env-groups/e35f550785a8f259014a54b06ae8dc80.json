@@ -1,0 +1,1 @@
+{"id":"e35f550785a8f259014a54b06ae8dc80","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Audit Logs getAuditLogCountToday returns count of logs today","name":"returns count of logs today","status":"passed","testResultsByEnv":{"default":"982868c22dacd2f4c7564cf7cf7d9565"}}

@@ -1,0 +1,1 @@
+{"id":"9540a97fa621f04eea6224e48b18bdba","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest uses statusText when response text is empty","name":"uses statusText when response text is empty","status":"passed","testResultsByEnv":{"default":"2b3485646c68de884a91baa1aa2bdd1f"}}

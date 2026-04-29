@@ -1,0 +1,1 @@
+{"id":"4fb620449a78963398d783915487fae5","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes PATCH /:linkId/status returns 400 for invalid status","name":"returns 400 for invalid status","status":"passed","testResultsByEnv":{"default":"1d1c0adc862b80b23b4aeccc58918f91"}}

@@ -1,0 +1,1 @@
+{"id":"2846fbaa9264edd7e4f969bd0c602473","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 100.64.0.1 (100.64-127.x.x CGNAT) via IP literal","name":"blocks 100.64.0.1 (100.64-127.x.x CGNAT) via IP literal","status":"passed","testResultsByEnv":{"default":"725f8553e585a0c8c50f2de89ba5e473"}}

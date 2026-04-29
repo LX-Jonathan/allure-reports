@@ -1,0 +1,1 @@
+{"id":"a3848817a3b45454e274921e846a597d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"24f89223fe5e3c9f671c6b475a4794b5"}}

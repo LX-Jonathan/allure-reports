@@ -1,0 +1,1 @@
+{"id":"827c94c923ec9b22fa6f37ab2d4afa0f","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"9adff34fe27bd60f31acc9882d9bce67"}}

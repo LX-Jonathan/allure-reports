@@ -1,0 +1,1 @@
+{"id":"4210a800b64a9c57ffdc07944f204edb","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/validate returns 400 when required columns are missing","name":"returns 400 when required columns are missing","status":"passed","testResultsByEnv":{"default":"1792ba01f502a4c8bba5ae3943015a0e"}}

@@ -1,0 +1,1 @@
+{"id":"37bcafa68d19bf284612664946d294ce","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should return 400 for missing content","name":"should return 400 for missing content","status":"passed","testResultsByEnv":{"default":"f6f5164c2a853d796e3b4c3520a4a004"}}

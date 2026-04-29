@@ -1,0 +1,1 @@
+{"id":"8c27d924a902b3300a44e107d5876841","fullName":"client/src/pages/__tests__/manual-payments-history.test.tsx#Manual Payments — HistoryTab Cancel closes the dialog without calling the API","name":"Cancel closes the dialog without calling the API","status":"passed","testResultsByEnv":{"default":"d43de2749adafdd64bed35611cec1bec"}}

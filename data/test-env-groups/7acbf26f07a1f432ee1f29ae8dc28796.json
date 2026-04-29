@@ -1,0 +1,1 @@
+{"id":"7acbf26f07a1f432ee1f29ae8dc28796","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should return null when Redis returns null","name":"should return null when Redis returns null","status":"passed","testResultsByEnv":{"default":"7cb13609268f67b9d651d155067f4754"}}

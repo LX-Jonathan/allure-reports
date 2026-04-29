@@ -1,0 +1,1 @@
+{"id":"bea4c0885b877078a314cf37ee38e9e3","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should return count with full access and no filters","name":"should return count with full access and no filters","status":"passed","testResultsByEnv":{"default":"eb6780b837c1c6df61d7364dae00272f"}}

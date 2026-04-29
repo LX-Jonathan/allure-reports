@@ -1,0 +1,1 @@
+{"id":"a2e7197c148136fc065e3531fb187b01","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar CheckInEligibilityCoverageSection does not render the re-run button while a check is pending","name":"does not render the re-run button while a check is pending","status":"passed","testResultsByEnv":{"default":"c2f3f6cb3f4c5baf0da5fa5e0fbb69cf"}}

@@ -1,0 +1,1 @@
+{"id":"1963bc683f19eea7464258bafef0d1c6","fullName":"client/src/pages/__tests__/communication-consent-skip-metrics.test.tsx#CommunicationConsentSkipMetricsPage surfaces an error toast when the request fails","name":"surfaces an error toast when the request fails","status":"passed","testResultsByEnv":{"default":"2519761e59c5785789f9409bc6a089d3"}}

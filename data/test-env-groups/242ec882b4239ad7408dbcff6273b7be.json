@@ -1,0 +1,1 @@
+{"id":"242ec882b4239ad7408dbcff6273b7be","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/stats returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"3c6a0fdbca9572bf594965a7d03ae575"}}

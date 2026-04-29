@@ -1,0 +1,1 @@
+{"id":"1a7d76dc88a6eeb8fc78d531c6ddacb8","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /:id returns template with versions and active version","name":"returns template with versions and active version","status":"passed","testResultsByEnv":{"default":"85966280bdf56fc8bf43743c53912008"}}

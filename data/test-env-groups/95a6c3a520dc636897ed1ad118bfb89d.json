@@ -1,0 +1,1 @@
+{"id":"95a6c3a520dc636897ed1ad118bfb89d","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxy-invitations/:code/accept creates a proxy and marks the invitation accepted on success","name":"creates a proxy and marks the invitation accepted on success","status":"passed","testResultsByEnv":{"default":"9c6d622d4435739daaad5bd775d932ee"}}

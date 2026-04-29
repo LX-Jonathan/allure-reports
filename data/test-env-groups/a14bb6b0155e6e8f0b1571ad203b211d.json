@@ -1,0 +1,1 @@
+{"id":"a14bb6b0155e6e8f0b1571ad203b211d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite skips auto-invite for patient without email","name":"skips auto-invite for patient without email","status":"passed","testResultsByEnv":{"default":"505eb35c4d286ec738089b31b522a013"}}

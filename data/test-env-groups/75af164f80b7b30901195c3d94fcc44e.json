@@ -1,0 +1,1 @@
+{"id":"75af164f80b7b30901195c3d94fcc44e","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore destroy should delete session from redis","name":"should delete session from redis","status":"passed","testResultsByEnv":{"default":"67fb38f973d1a9fba23e5622b8f545c7"}}

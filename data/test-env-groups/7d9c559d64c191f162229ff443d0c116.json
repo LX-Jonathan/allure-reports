@@ -1,0 +1,1 @@
+{"id":"7d9c559d64c191f162229ff443d0c116","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /rules/:id (CPT/ICD-10 overrides) accepts CPT/ICD-10 overrides on a template-backed rule","name":"accepts CPT/ICD-10 overrides on a template-backed rule","status":"passed","testResultsByEnv":{"default":"3de0fcf4060e0e52d6d64855ebd2401a"}}

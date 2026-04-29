@@ -1,0 +1,1 @@
+{"id":"94b35793aea528bc65029f13d1aad463","fullName":"server/lib/__tests__/reportCache.test.ts#startProactiveRefresh / stopProactiveRefresh starts a timer when redis is configured and clears it on stop","name":"starts a timer when redis is configured and clears it on stop","status":"passed","testResultsByEnv":{"default":"308f8c7bdf3397c3521fa03af74e62d3"}}

@@ -1,0 +1,1 @@
+{"id":"b8e73499f39cc1fc226f94e87d899988","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageInsurance chain should require org_admin or super_admin roles","name":"should require org_admin or super_admin roles","status":"passed","testResultsByEnv":{"default":"207cf21d8fad19f3d11a0095dd94655a"}}

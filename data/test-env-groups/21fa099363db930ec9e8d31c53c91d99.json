@@ -1,0 +1,1 @@
+{"id":"21fa099363db930ec9e8d31c53c91d99","fullName":"client/src/contexts/__tests__/portal-navigation-context.test.tsx#PortalNavigationContext provider goBack returns to the previous navigated path","name":"provider goBack returns to the previous navigated path","status":"passed","testResultsByEnv":{"default":"05d031d8e56f12cefb4b9137f688d58b"}}

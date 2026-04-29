@@ -1,0 +1,1 @@
+{"id":"079cdd768bd32d1397883dfc99cbdfb0","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Biometrics getBiometricCount returns 0 when empty","name":"returns 0 when empty","status":"passed","testResultsByEnv":{"default":"b559932a4a3292cf01b872998842f1ed"}}

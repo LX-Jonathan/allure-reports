@@ -1,0 +1,1 @@
+{"id":"d7a1a41c0017ef8386afcf4d91e389ba","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"e672994c30fb77edb821eb2c92515311"}}

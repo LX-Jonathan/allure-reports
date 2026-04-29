@@ -1,0 +1,1 @@
+{"id":"d3c6ee47ccc2be7e3dbb1bc165ad12f2","fullName":"server/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getRevenueCosts should use cache when redis configured","name":"should use cache when redis configured","status":"passed","testResultsByEnv":{"default":"23d3830230c757c33a0c8d0e53692c98"}}

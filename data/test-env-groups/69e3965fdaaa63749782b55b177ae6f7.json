@@ -1,0 +1,1 @@
+{"id":"69e3965fdaaa63749782b55b177ae6f7","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptCookieValue / decryptCookieValue encrypts and round-trips correctly when PHI_ENCRYPTION_KEY is set","name":"encrypts and round-trips correctly when PHI_ENCRYPTION_KEY is set","status":"passed","testResultsByEnv":{"default":"a0b2394c1ce17e1fd720ae132847f3a4"}}

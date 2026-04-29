@@ -1,0 +1,1 @@
+{"id":"4b62d600fc82e484551f1532e0209264","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended GET /api/v1/diagnosis-codes/batch-lookup returns matched codes from NLM API","name":"returns matched codes from NLM API","status":"passed","testResultsByEnv":{"default":"3b864b130023756811efcf247bff9ee5"}}

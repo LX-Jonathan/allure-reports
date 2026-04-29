@@ -1,0 +1,1 @@
+{"id":"e36541e04ccf6047910cce03884fa854","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /templates/:id/compile returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"3d24d80fa4a43a8f6d3cb9b7ced99f8f"}}

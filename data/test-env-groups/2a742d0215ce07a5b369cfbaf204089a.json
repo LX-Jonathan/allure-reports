@@ -1,0 +1,1 @@
+{"id":"2a742d0215ce07a5b369cfbaf204089a","fullName":"client/src/hooks/__tests__/useOrderCciIgnore.test.tsx#useOrderCciIgnore handleIgnoreCciPair preserves existing entries when adding another pair","name":"preserves existing entries when adding another pair","status":"passed","testResultsByEnv":{"default":"5afcaac980f22aada389b9abd148021a"}}

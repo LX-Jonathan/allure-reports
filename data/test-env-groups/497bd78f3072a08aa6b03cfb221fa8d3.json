@@ -1,0 +1,1 @@
+{"id":"497bd78f3072a08aa6b03cfb221fa8d3","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/notify-results should send email notification","name":"should send email notification","status":"passed","testResultsByEnv":{"default":"169883f59fb23ed1cd79edde23b07236"}}

@@ -1,0 +1,1 @@
+{"id":"e31714aaa3f27ed4583b72bae0efa55d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients returns 400 when addressZip is invalid for US (too long or non-numeric)","name":"returns 400 when addressZip is invalid for US (too long or non-numeric)","status":"passed","testResultsByEnv":{"default":"70eec95e4eed7791380de6b958900b5a"}}

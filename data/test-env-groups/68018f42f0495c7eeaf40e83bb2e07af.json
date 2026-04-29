@@ -1,0 +1,1 @@
+{"id":"68018f42f0495c7eeaf40e83bb2e07af","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print allows non-super_admin when assignment exists","name":"allows non-super_admin when assignment exists","status":"passed","testResultsByEnv":{"default":"84f4a6375cfba1d1ad49f128bfeb40fb"}}

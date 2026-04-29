@@ -1,0 +1,1 @@
+{"id":"6487b5c50ce4d89286369da083a6426a","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes authentication (401) GET /cpt-lookup/:code should return 401 when not authenticated","name":"GET /cpt-lookup/:code should return 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"30c21e7da87f969a14d6c6e822e4b225"}}

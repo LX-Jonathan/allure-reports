@@ -1,0 +1,1 @@
+{"id":"15a4167ac859b86c57b4dddcf4ea63e8","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Providers getProviderByLinkedUserId returns provider when found","name":"returns provider when found","status":"passed","testResultsByEnv":{"default":"c6660c9383a118757617f7fd18fb90c2"}}

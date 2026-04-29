@@ -1,0 +1,1 @@
+{"id":"bc38e8ac64d45ada5737098e60f049d8","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding returns 403 when org-level user tries to create for location outside org","name":"returns 403 when org-level user tries to create for location outside org","status":"passed","testResultsByEnv":{"default":"832adb61edc9b3499bd54073a6c48539"}}

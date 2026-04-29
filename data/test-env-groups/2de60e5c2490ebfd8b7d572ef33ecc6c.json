@@ -1,0 +1,1 @@
+{"id":"2de60e5c2490ebfd8b7d572ef33ecc6c","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Trading Partners deleteTradingPartner returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"7c72cbf80c3b63baa7bd35cf9cc1ccae"}}

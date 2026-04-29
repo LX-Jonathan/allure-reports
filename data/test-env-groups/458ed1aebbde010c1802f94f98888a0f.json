@@ -1,0 +1,1 @@
+{"id":"458ed1aebbde010c1802f94f98888a0f","fullName":"client/src/hooks/__tests__/use-patient-insurance-status.test.ts#getInsuranceStatus handles undefined / null profile gracefully","name":"handles undefined / null profile gracefully","status":"passed","testResultsByEnv":{"default":"f8ec31e6a132bd0c63fefb0282837e71"}}

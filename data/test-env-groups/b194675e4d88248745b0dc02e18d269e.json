@@ -1,0 +1,1 @@
+{"id":"b194675e4d88248745b0dc02e18d269e","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/retry-failed should retry failed order jobs (200)","name":"should retry failed order jobs (200)","status":"passed","testResultsByEnv":{"default":"54fd58e3d1a0c1d74bde860c1bbc0eba"}}

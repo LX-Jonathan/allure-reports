@@ -1,0 +1,1 @@
+{"id":"659c0fe4546998a7bf6578e55f9770d9","fullName":"client/src/pages/__tests__/appointments.test.tsx#AppointmentsPage jumps the toast 'View check-in' link to the insurance step when coverage is flagged","name":"jumps the toast 'View check-in' link to the insurance step when coverage is flagged","status":"passed","testResultsByEnv":{"default":"d42ef1382ee3e0b1a2f55d250930735f"}}

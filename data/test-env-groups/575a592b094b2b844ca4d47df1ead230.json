@@ -1,0 +1,1 @@
+{"id":"575a592b094b2b844ca4d47df1ead230","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should return null for non-Bearer auth type","name":"should return null for non-Bearer auth type","status":"passed","testResultsByEnv":{"default":"ce4a60f9e01aeeb1d8e14ca2e7c35b7e"}}

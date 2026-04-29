@@ -1,0 +1,1 @@
+{"id":"b04bc84294701b580f6ae22d0f586409","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService compareDemographics should compare strings case-insensitively","name":"should compare strings case-insensitively","status":"passed","testResultsByEnv":{"default":"c0904b0b06fa3e1fa75bd2219019670c"}}

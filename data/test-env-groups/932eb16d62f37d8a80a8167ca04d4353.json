@@ -1,0 +1,1 @@
+{"id":"932eb16d62f37d8a80a8167ca04d4353","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules defaults paymentType to 'insurance' when absent and applies DX check","name":"defaults paymentType to 'insurance' when absent and applies DX check","status":"passed","testResultsByEnv":{"default":"e5335c6f5c8f25b419eea583e79f1c39"}}

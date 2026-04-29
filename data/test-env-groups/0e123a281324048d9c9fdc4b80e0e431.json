@@ -1,0 +1,1 @@
+{"id":"0e123a281324048d9c9fdc4b80e0e431","fullName":"server/routes/__tests__/user-view-portal-labchat.routes.test.ts#User-view portal LabChat preview routes GET /:patientId/portal/doctalk/conversations rejects unauthenticated requests","name":"rejects unauthenticated requests","status":"passed","testResultsByEnv":{"default":"578a5ca5b6d46cc20fde9e86d068c4bb"}}

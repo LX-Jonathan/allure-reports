@@ -1,0 +1,1 @@
+{"id":"c38f47489fd0f701f8856c521c383f68","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/activate (Patient Portal - Activate Kit) returns 404 when kit not found","name":"returns 404 when kit not found","status":"passed","testResultsByEnv":{"default":"40b3a8901e6c0eec6290c1d62e750d40"}}

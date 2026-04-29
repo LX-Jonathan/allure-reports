@@ -1,0 +1,1 @@
+{"id":"d8143a335b91ef0da7ac77871d77ef7a","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /cancel-payment-intent cancels a valid payment intent","name":"cancels a valid payment intent","status":"passed","testResultsByEnv":{"default":"05537c6098bfcda54fd8504d08e5c07c"}}

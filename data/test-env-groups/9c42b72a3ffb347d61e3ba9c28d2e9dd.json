@@ -1,0 +1,1 @@
+{"id":"9c42b72a3ffb347d61e3ba9c28d2e9dd","fullName":"client/src/pages/patient/__tests__/patient-profile-retry-banner.test.tsx#<PropagationRetryBanners /> ignores succeeded rows so they don't inflate the pending banner","name":"ignores succeeded rows so they don't inflate the pending banner","status":"passed","testResultsByEnv":{"default":"37598933697c22e64d5b80974d76f5ed"}}

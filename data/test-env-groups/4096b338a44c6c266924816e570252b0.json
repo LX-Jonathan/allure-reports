@@ -1,0 +1,1 @@
+{"id":"4096b338a44c6c266924816e570252b0","fullName":"server/lib/__tests__/reportCache.test.ts#getCachedReport returns data and isStale=false for a fresh entry","name":"returns data and isStale=false for a fresh entry","status":"passed","testResultsByEnv":{"default":"518585041e32f3e637dd2168277d2e42"}}

@@ -1,0 +1,1 @@
+{"id":"fc24a1e8f9af36850dce0fb41f704d62","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes DELETE /api/v1/users/:id returns 403 when org_admin tries to delete user from different org","name":"returns 403 when org_admin tries to delete user from different org","status":"passed","testResultsByEnv":{"default":"ebd09c9cd01c7c1e0b0452de19c6543f"}}

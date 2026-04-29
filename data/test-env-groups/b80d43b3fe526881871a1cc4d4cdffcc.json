@@ -1,0 +1,1 @@
+{"id":"b80d43b3fe526881871a1cc4d4cdffcc","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items returns 500 on database error during update","name":"returns 500 on database error during update","status":"passed","testResultsByEnv":{"default":"b8aac49b7d4f16dc935b181e83c09100"}}

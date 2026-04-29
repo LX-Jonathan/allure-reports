@@ -1,0 +1,1 @@
+{"id":"2787bcc76c4e3343cfada51feb7e82a8","fullName":"server/lib/__tests__/labchatNotifications.test.ts#notifyPatientOfStaffLabchatReply falls back to the patient's phone field when mobilePhone is missing","name":"falls back to the patient's phone field when mobilePhone is missing","status":"passed","testResultsByEnv":{"default":"c0922eab33eabef1448ebbdc4781b69f"}}

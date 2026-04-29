@@ -1,0 +1,1 @@
+{"id":"a65deaaf4be0c07a09693c8c8f00da91","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker startEmailWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"9766b091a2c3d29728dde41e54baa04e"}}

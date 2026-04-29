@@ -1,0 +1,1 @@
+{"id":"7b4f47743c6d0e17415c82fec92e04ce","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /refunds returns paginated refund list filtered by patientId","name":"returns paginated refund list filtered by patientId","status":"passed","testResultsByEnv":{"default":"20e5cc9664d515e81e545f789268a1db"}}

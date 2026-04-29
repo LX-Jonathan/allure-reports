@@ -1,0 +1,1 @@
+{"id":"34512dfa5b9bb5ea2eabcf6eca8b5961","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes GET /api/conversations/:id should not fetch messages if conversation not found","name":"should not fetch messages if conversation not found","status":"passed","testResultsByEnv":{"default":"e5d27f0693d45d0462796d4c317ceba0"}}

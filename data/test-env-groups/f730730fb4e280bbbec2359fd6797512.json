@@ -1,0 +1,1 @@
+{"id":"f730730fb4e280bbbec2359fd6797512","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id returns 403 when org_admin tries to update user from different org","name":"returns 403 when org_admin tries to update user from different org","status":"passed","testResultsByEnv":{"default":"b948e3fb0423cf100824ba2cf1f1e89f"}}

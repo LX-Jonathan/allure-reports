@@ -1,0 +1,1 @@
+{"id":"f246b105f7cbd1cf957497e49f1493e9","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserByEmailIncludingDeleted returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"1501ee9c7664ad54fb81363222e77392"}}

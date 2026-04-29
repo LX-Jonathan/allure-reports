@@ -1,0 +1,1 @@
+{"id":"dfd60e3bf2f41d531e1b834ab02cc6bb","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent refunds renders the empty state when no refunds are returned","name":"renders the empty state when no refunds are returned","status":"passed","testResultsByEnv":{"default":"d7883fb2ce9af7fe2f43d99bb8a42b79"}}

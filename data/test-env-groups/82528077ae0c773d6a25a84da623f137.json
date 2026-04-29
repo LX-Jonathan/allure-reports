@@ -1,0 +1,1 @@
+{"id":"82528077ae0c773d6a25a84da623f137","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/forgot-password returns 200 with generic message for existing user","name":"returns 200 with generic message for existing user","status":"passed","testResultsByEnv":{"default":"e86d4082aaf5d6ff34accc7e448750b9"}}

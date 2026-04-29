@@ -1,0 +1,1 @@
+{"id":"d53fffd0d7636fa81989cd0bb88713ac","fullName":"server/lib/__tests__/auth.test.ts#auth hashToken should handle empty string","name":"should handle empty string","status":"passed","testResultsByEnv":{"default":"bbc8b045954f0830f07169d384a66c11"}}

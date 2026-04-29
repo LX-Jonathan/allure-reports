@@ -1,0 +1,1 @@
+{"id":"3fbc6a717cc1eb017bcea9f951dff981","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory DELETE /:id (delete) should soft delete when softDelete is enabled","name":"should soft delete when softDelete is enabled","status":"passed","testResultsByEnv":{"default":"4ae8366f24774c4abf7dd8d45036a3b9"}}

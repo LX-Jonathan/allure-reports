@@ -1,0 +1,1 @@
+{"id":"47b46c3a0b6cd4b8e65198f6178bd9e7","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results returns empty results for location-level user with no locationId","name":"returns empty results for location-level user with no locationId","status":"passed","testResultsByEnv":{"default":"22a2c3ad270f74030adce47194df2250"}}

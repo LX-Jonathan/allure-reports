@@ -1,0 +1,1 @@
+{"id":"6e4ec858459c716755fb955a00b79a67","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update PATCH /api/v1/medications/:id returns 404 when medication not found","name":"returns 404 when medication not found","status":"passed","testResultsByEnv":{"default":"526816df00183c1d8720b9e34caaee64"}}

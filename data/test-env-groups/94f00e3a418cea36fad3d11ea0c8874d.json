@@ -1,0 +1,1 @@
+{"id":"94f00e3a418cea36fad3d11ea0c8874d","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations createUser lowercases email on insert","name":"lowercases email on insert","status":"passed","testResultsByEnv":{"default":"68f2f3613207784e1fcadea53f209b6d"}}

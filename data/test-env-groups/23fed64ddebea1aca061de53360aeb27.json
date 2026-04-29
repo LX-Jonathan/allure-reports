@@ -1,0 +1,1 @@
+{"id":"23fed64ddebea1aca061de53360aeb27","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should include footer text in body","name":"should include footer text in body","status":"passed","testResultsByEnv":{"default":"4b289eaa0f1fa155232b13efc25c5b4f"}}

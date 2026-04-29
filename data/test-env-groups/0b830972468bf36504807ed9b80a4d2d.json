@@ -1,0 +1,1 @@
+{"id":"0b830972468bf36504807ed9b80a4d2d","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 404 when contract not found","name":"returns 404 when contract not found","status":"passed","testResultsByEnv":{"default":"3a2bacc94b708c9969086b63158516af"}}

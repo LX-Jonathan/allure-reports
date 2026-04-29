@@ -1,0 +1,1 @@
+{"id":"72405f8f52012f8dd9dfe986781cfd48","fullName":"server/jobs/__tests__/scheduler.test.ts#runManualSync should return failure result from sync","name":"should return failure result from sync","status":"passed","testResultsByEnv":{"default":"c8c9f617c0e19c18387290b2a0f2fd1a"}}

@@ -1,0 +1,1 @@
+{"id":"49075ba527ce362ecf1e4b815ab11946","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar does not render extra phone rows when only the primary number exists","name":"does not render extra phone rows when only the primary number exists","status":"passed","testResultsByEnv":{"default":"f0fcd510960fbbbd0f83ce95e9e6526d"}}

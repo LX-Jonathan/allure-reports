@@ -1,0 +1,1 @@
+{"id":"d313d5a2285d27814d65108f311e1ec8","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 400 for subject exceeding max length","name":"returns 400 for subject exceeding max length","status":"passed","testResultsByEnv":{"default":"3821d82cbd3a49c8141e1b089c1fe9aa"}}

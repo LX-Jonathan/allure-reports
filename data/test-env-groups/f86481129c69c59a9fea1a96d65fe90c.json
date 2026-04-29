@@ -1,0 +1,1 @@
+{"id":"f86481129c69c59a9fea1a96d65fe90c","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/activate (Patient Portal - Activate Kit) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"8053f95433b34ad28bd13757a2ae2638"}}

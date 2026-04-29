@@ -1,0 +1,1 @@
+{"id":"fdb30fb8e1400a1ee99a58806fff3297","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId returns null when no profile","name":"returns null when no profile","status":"passed","testResultsByEnv":{"default":"a56cecbf2639968a8ab608b607cb320b"}}

@@ -1,0 +1,1 @@
+{"id":"54f50185269b142db245c5f1c386b820","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints DELETE /api/v1/lxu/admin/contextual-help/:id returns 200 when mapping is deleted","name":"returns 200 when mapping is deleted","status":"passed","testResultsByEnv":{"default":"64fea335adaaee668362689209fcb9e5"}}

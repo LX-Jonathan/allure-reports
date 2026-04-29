@@ -1,0 +1,1 @@
+{"id":"dec86f934727c42f88008a81d491e4f6","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should send correct request body with base64 encoded images","name":"should send correct request body with base64 encoded images","status":"passed","testResultsByEnv":{"default":"0488d272fd3e9fffc6bbc221b8441cc5"}}

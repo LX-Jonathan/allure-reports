@@ -1,0 +1,1 @@
+{"id":"648b90c68b0030898b19ecb0da14056c","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /history returns audit logs scoped to the stripe_config resource","name":"returns audit logs scoped to the stripe_config resource","status":"passed","testResultsByEnv":{"default":"fd6fff94e1ba9a2094f23dcb994bc3c9"}}

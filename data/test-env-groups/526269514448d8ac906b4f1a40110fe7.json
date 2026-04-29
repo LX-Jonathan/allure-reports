@@ -1,0 +1,1 @@
+{"id":"526269514448d8ac906b4f1a40110fe7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id returns 404 when company not found","name":"returns 404 when company not found","status":"passed","testResultsByEnv":{"default":"e3ceeb306c28855210f193e49de423d5"}}

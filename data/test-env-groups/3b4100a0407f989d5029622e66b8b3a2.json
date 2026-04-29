@@ -1,0 +1,1 @@
+{"id":"3b4100a0407f989d5029622e66b8b3a2","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth logout clears localStorage and redirects","name":"logout clears localStorage and redirects","status":"passed","testResultsByEnv":{"default":"5ddbf73fed8f968b7a5202bcfbf39f06"}}

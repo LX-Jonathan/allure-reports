@@ -1,0 +1,1 @@
+{"id":"fb3d161b9b2274b0425ccadfed136813","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts returns 400 for duplicate account code","name":"returns 400 for duplicate account code","status":"passed","testResultsByEnv":{"default":"bd648419380e4aefbb4e07f7c6cfd75b"}}

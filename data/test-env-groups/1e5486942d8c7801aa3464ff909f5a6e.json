@@ -1,0 +1,1 @@
+{"id":"1e5486942d8c7801aa3464ff909f5a6e","fullName":"client/src/components/patient/__tests__/financial-scorecard-tab.test.tsx#UnifiedScorecardTab (financial section) calls onNavigate with correct tab for demographics","name":"calls onNavigate with correct tab for demographics","status":"passed","testResultsByEnv":{"default":"99596b8aaa824ceade08d29ed9e7d222"}}

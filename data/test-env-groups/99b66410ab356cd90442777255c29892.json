@@ -1,0 +1,1 @@
+{"id":"99b66410ab356cd90442777255c29892","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /invoices/:invoiceId returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"0a7d919abaaebb3d01c72be7f6a3e45f"}}

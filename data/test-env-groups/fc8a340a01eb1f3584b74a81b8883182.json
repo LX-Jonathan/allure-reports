@@ -1,0 +1,1 @@
+{"id":"fc8a340a01eb1f3584b74a81b8883182","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should show last 4 digits correctly","name":"should show last 4 digits correctly","status":"passed","testResultsByEnv":{"default":"e06e46ce94b3a915d7dac6c9563f434e"}}

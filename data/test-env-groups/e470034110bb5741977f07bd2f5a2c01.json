@@ -1,0 +1,1 @@
+{"id":"e470034110bb5741977f07bd2f5a2c01","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes PATCH /api/interfaces/data-issues/:id returns 404 when update returns null","name":"returns 404 when update returns null","status":"passed","testResultsByEnv":{"default":"4d092d45f0c6edf9680662f4cc398cea"}}

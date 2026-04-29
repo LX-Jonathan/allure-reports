@@ -1,0 +1,1 @@
+{"id":"ac14ec186ce49cd835545022ce85463e","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET / returns templates list with parentLabId from user context","name":"returns templates list with parentLabId from user context","status":"passed","testResultsByEnv":{"default":"8506b3abadb3cd36c38c9ebd94f57a2a"}}

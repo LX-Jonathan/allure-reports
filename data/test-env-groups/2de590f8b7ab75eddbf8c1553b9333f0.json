@@ -1,0 +1,1 @@
+{"id":"2de590f8b7ab75eddbf8c1553b9333f0","fullName":"server/middleware/__tests__/patientAuth.test.ts#requireClinicalMfa calls next when MFA already verified in memory","name":"calls next when MFA already verified in memory","status":"passed","testResultsByEnv":{"default":"bfa6dbfea7c8aed9202ef739e253e968"}}

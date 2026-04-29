@@ -1,0 +1,1 @@
+{"id":"7eb45cb5287da6138b400fc361d0a11d","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules emits INSURANCE_REQUIRES_DX for medicaid payment type","name":"emits INSURANCE_REQUIRES_DX for medicaid payment type","status":"passed","testResultsByEnv":{"default":"1a06a37071415d25c585ca71a46e12a4"}}

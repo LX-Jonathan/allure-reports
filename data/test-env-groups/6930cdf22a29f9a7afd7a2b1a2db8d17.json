@@ -1,0 +1,1 @@
+{"id":"6930cdf22a29f9a7afd7a2b1a2db8d17","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/threads/:threadId/resolve returns 400 when no parentLabId","name":"returns 400 when no parentLabId","status":"passed","testResultsByEnv":{"default":"2d9fb836d2e9ba51456626408f8c7252"}}

@@ -1,0 +1,1 @@
+{"id":"6f30a61ad1d6bf3c51088d4a552fabe9","fullName":"server/config/__tests__/env.test.ts#env schema validation validates SENDGRID_FROM_EMAIL as proper email","name":"validates SENDGRID_FROM_EMAIL as proper email","status":"passed","testResultsByEnv":{"default":"746e16596d10d739f85c1dc12f0de3b6"}}

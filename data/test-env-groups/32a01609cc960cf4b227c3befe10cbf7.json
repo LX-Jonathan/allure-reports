@@ -1,0 +1,1 @@
+{"id":"32a01609cc960cf4b227c3befe10cbf7","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo returns 500 for invalid file type","name":"returns 500 for invalid file type","status":"passed","testResultsByEnv":{"default":"2c9705941fa496b79beab4fd1469976d"}}

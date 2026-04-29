@@ -1,0 +1,1 @@
+{"id":"379ca0dc1235a7a9a91b51e028fb56bf","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar renders recent order hold/release events with reason, actor, and order link","name":"renders recent order hold/release events with reason, actor, and order link","status":"passed","testResultsByEnv":{"default":"42c1e3e98a99d5b8eb28f5fd1f501c3d"}}

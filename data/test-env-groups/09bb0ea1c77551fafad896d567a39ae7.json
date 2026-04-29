@@ -1,0 +1,1 @@
+{"id":"09bb0ea1c77551fafad896d567a39ae7","fullName":"server/lib/__tests__/logger.test.ts#logger argument normalisation should serialise a bare Error instance","name":"should serialise a bare Error instance","status":"passed","testResultsByEnv":{"default":"43e4773b71830d911bdcf0cb62cd627c"}}

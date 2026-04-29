@@ -1,0 +1,1 @@
+{"id":"ddc63923cebc6f5a0d54b675dfa15b44","fullName":"client/src/components/__tests__/drivers-license-scanner.test.tsx#DriversLicenseScanner shows error when OCR returns insufficient data","name":"shows error when OCR returns insufficient data","status":"passed","testResultsByEnv":{"default":"dc4c84861029828c93763e41cf517a18"}}

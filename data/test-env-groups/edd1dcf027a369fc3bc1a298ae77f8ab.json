@@ -1,0 +1,1 @@
+{"id":"edd1dcf027a369fc3bc1a298ae77f8ab","fullName":"server/middleware/__tests__/rateLimit.test.ts#authRateLimitMiddleware Redis rate limiting should fall back on generic Redis error","name":"should fall back on generic Redis error","status":"passed","testResultsByEnv":{"default":"d62ce00223fc3023139e16420b1f5512"}}

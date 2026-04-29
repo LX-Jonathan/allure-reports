@@ -1,0 +1,1 @@
+{"id":"57df47187c8b3a326fc412d0e363bb15","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:scheduleId/events/:eventId returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"30f3384c9117a5e0684fc992a4408af9"}}

@@ -1,0 +1,1 @@
+{"id":"f2bc16aff609a12345a885d047f65f00","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/shares returns 400 when neither userId nor roleId provided","name":"returns 400 when neither userId nor roleId provided","status":"passed","testResultsByEnv":{"default":"4c41cdf9c28eff40cc2c8023414a94ea"}}

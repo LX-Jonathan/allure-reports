@@ -1,0 +1,1 @@
+{"id":"e90cb52a22337171845b31331ecd2e7d","fullName":"server/__tests__/system.routes.test.ts#system routes POST /api/v1/system/test-email returns 503 when email not configured","name":"returns 503 when email not configured","status":"passed","testResultsByEnv":{"default":"7cda8932831029a577cdfc7b5def2a6e"}}

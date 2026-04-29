@@ -1,0 +1,1 @@
+{"id":"13994b8613bfefc1f2712b39514e219b","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /invite returns 403 when parentLabId does not match user","name":"returns 403 when parentLabId does not match user","status":"passed","testResultsByEnv":{"default":"f39416ead44e3ca229275aff62405b4c"}}

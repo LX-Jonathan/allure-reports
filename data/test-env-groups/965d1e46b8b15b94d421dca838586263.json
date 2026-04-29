@@ -1,0 +1,1 @@
+{"id":"965d1e46b8b15b94d421dca838586263","fullName":"server/routes/__tests__/labchat-portal-link.routes.test.ts#POST /api/v1/labchat/clients/:orgId/threads/:threadId/portal-link returns 400 when destinationKey is missing/empty","name":"returns 400 when destinationKey is missing/empty","status":"passed","testResultsByEnv":{"default":"0c0ab57c326539e2fd847dd19797c6ba"}}

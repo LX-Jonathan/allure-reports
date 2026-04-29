@@ -1,0 +1,1 @@
+{"id":"672600ffdcd13c4cf26382a972bd818c","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms phone number normalization should strip non-digit characters before normalizing","name":"should strip non-digit characters before normalizing","status":"passed","testResultsByEnv":{"default":"9ebd3b6a3bace4382f86f4e60040de87"}}

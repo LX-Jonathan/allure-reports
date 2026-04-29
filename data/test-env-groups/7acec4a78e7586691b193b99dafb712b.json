@@ -1,0 +1,1 @@
+{"id":"7acec4a78e7586691b193b99dafb712b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"a6b207b5f0ba269e6b9159179eceb519"}}

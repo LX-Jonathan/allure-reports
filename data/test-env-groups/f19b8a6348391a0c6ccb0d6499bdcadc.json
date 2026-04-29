@@ -1,0 +1,1 @@
+{"id":"f19b8a6348391a0c6ccb0d6499bdcadc","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules emits INSURANCE_REQUIRES_DX for medicare payment type","name":"emits INSURANCE_REQUIRES_DX for medicare payment type","status":"passed","testResultsByEnv":{"default":"1bb53f15f0ece88ca648b5c86e0e6389"}}

@@ -1,0 +1,1 @@
+{"id":"204eddd27e721f17562b9a01fb7b6c54","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware Redis rate limiting should return 429 when Redis rate limit exceeded","name":"should return 429 when Redis rate limit exceeded","status":"passed","testResultsByEnv":{"default":"003f4ea5e433329c7ffd267899af73ca"}}

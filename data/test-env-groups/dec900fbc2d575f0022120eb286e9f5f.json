@@ -1,0 +1,1 @@
+{"id":"dec900fbc2d575f0022120eb286e9f5f","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests/:id should return a lab test by id","name":"should return a lab test by id","status":"passed","testResultsByEnv":{"default":"f7ba7f3015d1468669780ef70039fae7"}}

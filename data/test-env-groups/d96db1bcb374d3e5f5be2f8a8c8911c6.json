@@ -1,0 +1,1 @@
+{"id":"d96db1bcb374d3e5f5be2f8a8c8911c6","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Email Verification Codes markEmailVerificationCodeAsUsed should set usedAt timestamp","name":"should set usedAt timestamp","status":"passed","testResultsByEnv":{"default":"b1d6b0b582ba02ba33d24ee18c196d3e"}}

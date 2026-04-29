@@ -1,0 +1,1 @@
+{"id":"406319d105ae224353446e03c7ec4139","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 400 when lab is already active and requesting activate","name":"returns 400 when lab is already active and requesting activate","status":"passed","testResultsByEnv":{"default":"38d38a0159edda287c7e8c1d65d2790d"}}

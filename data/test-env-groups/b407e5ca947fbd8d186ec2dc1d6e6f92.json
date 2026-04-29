@@ -1,0 +1,1 @@
+{"id":"b407e5ca947fbd8d186ec2dc1d6e6f92","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads creates thread in existing conversation","name":"creates thread in existing conversation","status":"passed","testResultsByEnv":{"default":"8b257a5092a77f301f22675857190b81"}}

@@ -1,0 +1,1 @@
+{"id":"0dc21d9798bf58871e6b679aba0bf27b","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /insurance-card returns 200 with parsed insurance data for happy path","name":"returns 200 with parsed insurance data for happy path","status":"passed","testResultsByEnv":{"default":"c8f6c26f3dfdd690c3eb082a8fc9c1d6"}}

@@ -1,0 +1,1 @@
+{"id":"52cb2636026cb07729d9e49560a4b856","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext initial state returns null selected entities when no user","name":"returns null selected entities when no user","status":"passed","testResultsByEnv":{"default":"9e93fe1048c4f46e7e334fce06e34c25"}}

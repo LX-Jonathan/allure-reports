@@ -1,0 +1,1 @@
+{"id":"867239780f1fabfa0ccaab0d15ea5359","fullName":"client/src/lib/__tests__/queryClient.test.ts#fetchAsset does NOT attach Authorization for cross-origin URLs","name":"does NOT attach Authorization for cross-origin URLs","status":"passed","testResultsByEnv":{"default":"6e84814c0fe0a5b6b23ded63a15c82e7"}}

@@ -1,0 +1,1 @@
+{"id":"8b317c3d2cd1385ddf7cc9bc4d60ead7","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query recognizes a cookie-only session even without a localStorage access token","name":"recognizes a cookie-only session even without a localStorage access token","status":"passed","testResultsByEnv":{"default":"48c79b7d7b1a934dc0b2cd2156047bd5"}}

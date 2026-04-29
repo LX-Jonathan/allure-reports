@@ -1,0 +1,1 @@
+{"id":"0e8f7f57d5214e09d351cc10596db2b4","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies allows org_admin to create company","name":"allows org_admin to create company","status":"passed","testResultsByEnv":{"default":"8e7753baf47e60800cabafe40c1bff89"}}

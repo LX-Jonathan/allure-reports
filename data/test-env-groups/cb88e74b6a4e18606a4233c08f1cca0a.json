@@ -1,0 +1,1 @@
+{"id":"cb88e74b6a4e18606a4233c08f1cca0a","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes POST /api/prompt-pay validation edge cases rejects daysToPayWithin exceeding 365","name":"rejects daysToPayWithin exceeding 365","status":"passed","testResultsByEnv":{"default":"55dd83981e1b42d985707444cca2693b"}}

@@ -1,0 +1,1 @@
+{"id":"32853b857352b7a80364f7f14a66f4f1","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/export returns CSV for non-super_admin with parentLabId","name":"returns CSV for non-super_admin with parentLabId","status":"passed","testResultsByEnv":{"default":"25ef248e4238a39f18af2cbcd225ebba"}}

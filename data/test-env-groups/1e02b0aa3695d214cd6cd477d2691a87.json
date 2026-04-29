@@ -1,0 +1,1 @@
+{"id":"1e02b0aa3695d214cd6cd477d2691a87","fullName":"server/lib/__tests__/patient-dashboard-summary.test.ts#patient-dashboard-summary getPatientDashboardSummary returns zeros when no active org links","name":"getPatientDashboardSummary returns zeros when no active org links","status":"passed","testResultsByEnv":{"default":"f4e1b7d57bebb57503659b9fd6226dc5"}}

@@ -1,0 +1,1 @@
+{"id":"dd29a5b08837176a1a6e1d23b01175b3","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should return null for Bearer with trailing space (empty token)","name":"should return null for Bearer with trailing space (empty token)","status":"passed","testResultsByEnv":{"default":"9e62088bc484fe3fb1422a1d040b2ce3"}}

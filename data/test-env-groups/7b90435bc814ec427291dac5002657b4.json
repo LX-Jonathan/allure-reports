@@ -1,0 +1,1 @@
+{"id":"7b90435bc814ec427291dac5002657b4","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /my-linked-labs returns linked labs for user with labId","name":"returns linked labs for user with labId","status":"passed","testResultsByEnv":{"default":"d00280a527eb28a0cb6b37b006ca6ead"}}

@@ -1,0 +1,1 @@
+{"id":"f1e9e39d547060c1c52baf767441a9f2","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generatePatientAccessToken should generate JWT with correct payload","name":"should generate JWT with correct payload","status":"passed","testResultsByEnv":{"default":"916ad408c85f1b5daddeb8e74b253929"}}

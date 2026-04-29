@@ -1,0 +1,1 @@
+{"id":"037fe79ab308cfd0225e0649e9b7be67","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should allow staff to create internal notes","name":"should allow staff to create internal notes","status":"passed","testResultsByEnv":{"default":"5ff06c8dec0075c92c11d39f2a4d8f2f"}}

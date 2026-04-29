@@ -1,0 +1,1 @@
+{"id":"5d1954fe7804fb10716c2896ef43f125","fullName":"shared/__tests__/financial-variance.test.ts#resolveCopayVarianceConfig ignores negative or non-finite values for absolute","name":"ignores negative or non-finite values for absolute","status":"passed","testResultsByEnv":{"default":"3a792d7e7091dd7c4b14861a25c11aaf"}}

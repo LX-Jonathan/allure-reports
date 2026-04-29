@@ -1,0 +1,1 @@
+{"id":"04701d837e7c3e628aa70d65f8390317","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir includes telecom when phone and email are provided","name":"includes telecom when phone and email are provided","status":"passed","testResultsByEnv":{"default":"ffb6940e7d20fda7affff899b0e637fb"}}

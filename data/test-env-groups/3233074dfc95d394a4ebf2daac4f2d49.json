@@ -1,0 +1,1 @@
+{"id":"3233074dfc95d394a4ebf2daac4f2d49","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should log file size after successful read","name":"should log file size after successful read","status":"passed","testResultsByEnv":{"default":"42549c296dc7054b7cafa480760c9fb1"}}

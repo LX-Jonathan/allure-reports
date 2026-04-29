@@ -1,0 +1,1 @@
+{"id":"0158122931d655e9beb543a511fa5678","fullName":"client/src/pages/__tests__/patient-edit.test.tsx#PatientEditPage renders at least one button when fetch rejects","name":"renders at least one button when fetch rejects","status":"passed","testResultsByEnv":{"default":"9907c892930f40154229bf4c91173519"}}

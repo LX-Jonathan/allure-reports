@@ -1,0 +1,1 @@
+{"id":"9e036b0f93e08432b5f76d4f2b5ca413","fullName":"client/src/components/orders/__tests__/PatientStoredCreditIndicator.test.tsx#PatientStoredCreditIndicator renders nothing when no patientId is provided","name":"renders nothing when no patientId is provided","status":"passed","testResultsByEnv":{"default":"fc331dcbed1d126ab1658468baf381a3"}}

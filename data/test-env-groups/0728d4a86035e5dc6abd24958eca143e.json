@@ -1,0 +1,1 @@
+{"id":"0728d4a86035e5dc6abd24958eca143e","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"5f9a11cf246f09176d4fb412e5e4c188"}}

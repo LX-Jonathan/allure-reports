@@ -1,0 +1,1 @@
+{"id":"798bf006bcc4608f00786cd423d06664","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getShares should return empty array when report not found","name":"should return empty array when report not found","status":"passed","testResultsByEnv":{"default":"d8e947c4f6aeee5e6e537df9040ad8ee"}}

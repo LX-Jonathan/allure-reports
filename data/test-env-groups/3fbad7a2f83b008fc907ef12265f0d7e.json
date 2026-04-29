@@ -1,0 +1,1 @@
+{"id":"3fbad7a2f83b008fc907ef12265f0d7e","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/read returns 403 when user is not an active participant","name":"returns 403 when user is not an active participant","status":"passed","testResultsByEnv":{"default":"26253c93d675e6f8242c6a78e5208c81"}}

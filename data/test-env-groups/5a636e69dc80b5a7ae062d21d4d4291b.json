@@ -1,0 +1,1 @@
+{"id":"5a636e69dc80b5a7ae062d21d4d4291b","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#isRateLimitError should handle non-Error non-string input","name":"should handle non-Error non-string input","status":"passed","testResultsByEnv":{"default":"d236d9796599484b17ab558c7e684f36"}}

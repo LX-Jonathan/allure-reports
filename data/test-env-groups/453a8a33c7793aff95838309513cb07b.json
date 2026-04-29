@@ -1,0 +1,1 @@
+{"id":"453a8a33c7793aff95838309513cb07b","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware permission-based chains canCreateOrders should include both provider and staff","name":"canCreateOrders should include both provider and staff","status":"passed","testResultsByEnv":{"default":"49767acbf70c1d1af22e0495f4178c0d"}}

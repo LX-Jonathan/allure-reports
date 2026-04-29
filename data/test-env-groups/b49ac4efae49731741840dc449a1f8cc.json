@@ -1,0 +1,1 @@
+{"id":"b49ac4efae49731741840dc449a1f8cc","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector renders 'All' option items in super-org column for superadmin","name":"renders 'All' option items in super-org column for superadmin","status":"passed","testResultsByEnv":{"default":"448823e92f1796d9b4502be8fae1445e"}}

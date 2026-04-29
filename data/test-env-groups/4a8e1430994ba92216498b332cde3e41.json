@@ -1,0 +1,1 @@
+{"id":"4a8e1430994ba92216498b332cde3e41","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Batch Lookup POST /api/v1/lab-tests/batch-lookup returns matching lab tests by codes","name":"returns matching lab tests by codes","status":"passed","testResultsByEnv":{"default":"b46694cf18cf1e2508aa097c6a2eb50b"}}

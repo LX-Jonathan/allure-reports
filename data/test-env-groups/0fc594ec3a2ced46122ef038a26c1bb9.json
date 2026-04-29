@@ -1,0 +1,1 @@
+{"id":"0fc594ec3a2ced46122ef038a26c1bb9","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes PATCH /api/payment-plans/:id returns 404 when plan not found","name":"returns 404 when plan not found","status":"passed","testResultsByEnv":{"default":"b12d0f4db74cd5d2b17c4e25a1c98a9c"}}

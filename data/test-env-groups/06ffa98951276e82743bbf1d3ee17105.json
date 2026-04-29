@@ -1,0 +1,1 @@
+{"id":"06ffa98951276e82743bbf1d3ee17105","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 404 when organization not found under super org","name":"returns 404 when organization not found under super org","status":"passed","testResultsByEnv":{"default":"dca99fcab1d68c6ff72b657aaa8c3568"}}

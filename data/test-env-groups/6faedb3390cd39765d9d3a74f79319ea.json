@@ -1,0 +1,1 @@
+{"id":"6faedb3390cd39765d9d3a74f79319ea","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty payment history when there are no orders","name":"shows empty payment history when there are no orders","status":"passed","testResultsByEnv":{"default":"0ab9a66bf10160fd0cc7c63bcf7c54ba"}}

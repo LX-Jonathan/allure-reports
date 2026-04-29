@@ -1,0 +1,1 @@
+{"id":"7148d0628cdd7c48526b4cc3337d3c11","fullName":"server/middleware/__tests__/csrf.test.ts#getCSRFToken should return empty string if no token is available","name":"should return empty string if no token is available","status":"passed","testResultsByEnv":{"default":"3f85cf58b4d2659b422f7abad59b10ef"}}

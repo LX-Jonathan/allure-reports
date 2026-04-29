@@ -1,0 +1,1 @@
+{"id":"21ce58f4d3291c99c2d2de10c9049d70","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner stops and restarts scanner when camera changes while scanning","name":"stops and restarts scanner when camera changes while scanning","status":"passed","testResultsByEnv":{"default":"905fe8621f6b4c5283b995a369856ac9"}}

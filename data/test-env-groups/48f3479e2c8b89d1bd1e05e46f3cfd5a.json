@@ -1,0 +1,1 @@
+{"id":"48f3479e2c8b89d1bd1e05e46f3cfd5a","fullName":"server/lib/__tests__/labchatNotifications.test.ts#notifyPatientOfStaffLabchatReply does nothing when the thread has no patientId","name":"does nothing when the thread has no patientId","status":"passed","testResultsByEnv":{"default":"ebd539932db2be986f4b4de25e6563d1"}}

@@ -1,0 +1,1 @@
+{"id":"1d34db28aee77fdc7ca78aa27e2f31f4","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload generates payer_code from payer_name when payerId is missing","name":"generates payer_code from payer_name when payerId is missing","status":"passed","testResultsByEnv":{"default":"6abb481d540b3e631a6eb332f9ecd677"}}

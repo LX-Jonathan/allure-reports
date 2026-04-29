@@ -1,0 +1,1 @@
+{"id":"6a50b56b307d53a134ef16217022cf35","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is not configured getBulkScanSplitQueue should return null","name":"getBulkScanSplitQueue should return null","status":"passed","testResultsByEnv":{"default":"a4e7fd7fdf7549eef1645828bb3b7e63"}}

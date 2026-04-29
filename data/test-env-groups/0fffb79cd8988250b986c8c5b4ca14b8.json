@@ -1,0 +1,1 @@
+{"id":"0fffb79cd8988250b986c8c5b4ca14b8","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan updateBulkScanItemStatus should include additional data when provided","name":"should include additional data when provided","status":"passed","testResultsByEnv":{"default":"a57d67a9f3e14734cff7413435c59ae8"}}

@@ -1,0 +1,1 @@
+{"id":"e457046bc1e80b2bd71701679e80b8a2","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService update should not allow updating labId","name":"should not allow updating labId","status":"passed","testResultsByEnv":{"default":"9265304ad27c000f91ba3cb2deb49c03"}}

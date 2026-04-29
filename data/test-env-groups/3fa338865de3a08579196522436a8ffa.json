@@ -1,0 +1,1 @@
+{"id":"3fa338865de3a08579196522436a8ffa","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions GET /coverage-flags returns 400 when patientIds query param is missing","name":"returns 400 when patientIds query param is missing","status":"passed","testResultsByEnv":{"default":"d9c9d4f912d4c9cea2e0d7c840d47524"}}

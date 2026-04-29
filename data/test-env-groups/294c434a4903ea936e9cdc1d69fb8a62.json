@@ -1,0 +1,1 @@
+{"id":"294c434a4903ea936e9cdc1d69fb8a62","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should not create patient AR line when totalPatientResponsibility is 0","name":"should not create patient AR line when totalPatientResponsibility is 0","status":"passed","testResultsByEnv":{"default":"e258c671c107146de0384cf12ebb91c0"}}

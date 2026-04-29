@@ -1,0 +1,1 @@
+{"id":"b81906b753054dd3165853acc0dd5afa","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Approved for Diagnosis (AI) POST /api/v1/lab-tests/approved-for-diagnosis returns 400 when diagnosisCodes is missing","name":"returns 400 when diagnosisCodes is missing","status":"passed","testResultsByEnv":{"default":"85cd0156a801096e0307c7cd4e291a5c"}}

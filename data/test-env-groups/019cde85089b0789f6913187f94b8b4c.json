@@ -1,0 +1,1 @@
+{"id":"019cde85089b0789f6913187f94b8b4c","fullName":"server/services/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getRevenueCosts returns cached result when redis is configured","name":"returns cached result when redis is configured","status":"passed","testResultsByEnv":{"default":"99fb78716760378d052bdd36706f60e6"}}

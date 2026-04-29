@@ -1,0 +1,1 @@
+{"id":"0d86d3fedaff585f7af9dd736359415f","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord procedures should use code.text as name fallback","name":"should use code.text as name fallback","status":"passed","testResultsByEnv":{"default":"9fb925a86ce1230bfcc277b53ff64da5"}}

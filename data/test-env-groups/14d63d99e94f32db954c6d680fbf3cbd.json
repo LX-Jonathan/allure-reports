@@ -1,0 +1,1 @@
+{"id":"14d63d99e94f32db954c6d680fbf3cbd","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"9d620a9139257f0cdaf29c4cc7d97119"}}

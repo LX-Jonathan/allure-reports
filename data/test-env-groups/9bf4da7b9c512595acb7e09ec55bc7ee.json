@@ -1,0 +1,1 @@
+{"id":"9bf4da7b9c512595acb7e09ec55bc7ee","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations returns 200 with paginated conversations","name":"returns 200 with paginated conversations","status":"passed","testResultsByEnv":{"default":"c654d7c1dd76e5eb213664569b20e0b2"}}

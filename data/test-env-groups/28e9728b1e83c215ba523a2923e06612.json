@@ -1,0 +1,1 @@
+{"id":"28e9728b1e83c215ba523a2923e06612","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 224.0.0.1 (224+ multicast range) via IP literal","name":"blocks 224.0.0.1 (224+ multicast range) via IP literal","status":"passed","testResultsByEnv":{"default":"911175253144748e44ac8b30da2039f2"}}

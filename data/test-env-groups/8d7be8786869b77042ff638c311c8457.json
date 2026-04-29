@@ -1,0 +1,1 @@
+{"id":"8d7be8786869b77042ff638c311c8457","fullName":"server/routes/__tests__/audit.routes.test.ts#Audit Routes GET /api/v1/audit-logs a Lab Admin cannot read another lab's logs by passing a different labId","name":"a Lab Admin cannot read another lab's logs by passing a different labId","status":"passed","testResultsByEnv":{"default":"54c5194e5b288c4075788d53cd3b6b22"}}

@@ -1,0 +1,1 @@
+{"id":"4f41862c18ffd25c63baf63345cac014","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes GET /:parentLabId returns both twilio and sendgrid config together","name":"returns both twilio and sendgrid config together","status":"passed","testResultsByEnv":{"default":"99872114bfd2d5b52fad5f74ab290b12"}}

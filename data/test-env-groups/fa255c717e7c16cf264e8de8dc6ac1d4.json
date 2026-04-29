@@ -1,0 +1,1 @@
+{"id":"fa255c717e7c16cf264e8de8dc6ac1d4","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /validate returns 400 for empty pairs array","name":"returns 400 for empty pairs array","status":"passed","testResultsByEnv":{"default":"6b49eb17daad885395f56ea4026bcda1"}}

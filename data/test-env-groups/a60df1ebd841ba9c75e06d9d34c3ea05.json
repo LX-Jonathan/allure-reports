@@ -1,0 +1,1 @@
+{"id":"a60df1ebd841ba9c75e06d9d34c3ea05","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/reset-password returns 200 on successful reset","name":"returns 200 on successful reset","status":"passed","testResultsByEnv":{"default":"4342eb5eef57f80d30808ad1a6c28277"}}

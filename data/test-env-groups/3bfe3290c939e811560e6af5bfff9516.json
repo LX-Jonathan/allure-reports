@@ -1,0 +1,1 @@
+{"id":"3bfe3290c939e811560e6af5bfff9516","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes POST /api/v1/check-ins (create) reuses an existing check-in for the same appointment","name":"reuses an existing check-in for the same appointment","status":"passed","testResultsByEnv":{"default":"63cb434af40c00cbe30c7484d7da42d6"}}

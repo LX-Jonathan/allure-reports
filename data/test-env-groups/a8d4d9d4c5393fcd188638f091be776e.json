@@ -1,0 +1,1 @@
+{"id":"a8d4d9d4c5393fcd188638f091be776e","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector Dialog onOpenChange sets open to false when closing","name":"Dialog onOpenChange sets open to false when closing","status":"passed","testResultsByEnv":{"default":"459f3e876dcd6469fba5eba2a52069d0"}}

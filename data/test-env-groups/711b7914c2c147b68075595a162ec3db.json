@@ -1,0 +1,1 @@
+{"id":"711b7914c2c147b68075595a162ec3db","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should escape single quotes in filter values","name":"should escape single quotes in filter values","status":"passed","testResultsByEnv":{"default":"dedddd230eefb78cd4a76a1b62e32034"}}

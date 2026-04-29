@@ -1,0 +1,1 @@
+{"id":"478b98056293589b758f9bd8a98ce0f4","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag missing gender as error","name":"should flag missing gender as error","status":"passed","testResultsByEnv":{"default":"0d393b2803ddd758e03c2947a0cf31dc"}}

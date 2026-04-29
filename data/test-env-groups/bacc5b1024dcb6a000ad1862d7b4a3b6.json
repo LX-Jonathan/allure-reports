@@ -1,0 +1,1 @@
+{"id":"bacc5b1024dcb6a000ad1862d7b4a3b6","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: email_not_verified","name":"es: email_not_verified","status":"passed","testResultsByEnv":{"default":"4e47139b2c8337aa2cf1f150f2ade5a9"}}

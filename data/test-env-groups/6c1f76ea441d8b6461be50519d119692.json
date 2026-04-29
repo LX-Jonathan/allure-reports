@@ -1,0 +1,1 @@
+{"id":"6c1f76ea441d8b6461be50519d119692","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should return 403 when non-staff tries to create internal note","name":"should return 403 when non-staff tries to create internal note","status":"passed","testResultsByEnv":{"default":"a44352117f19d104b9804368268dec77"}}

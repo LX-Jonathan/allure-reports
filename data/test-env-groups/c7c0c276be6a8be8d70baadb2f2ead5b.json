@@ -1,0 +1,1 @@
+{"id":"c7c0c276be6a8be8d70baadb2f2ead5b","fullName":"server/lib/__tests__/r2.test.ts#r2.ts downloadDocument should throw error when R2 is not configured","name":"should throw error when R2 is not configured","status":"passed","testResultsByEnv":{"default":"ae42708af042e624220f580dc186fbe4"}}

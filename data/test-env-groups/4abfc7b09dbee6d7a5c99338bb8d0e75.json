@@ -1,0 +1,1 @@
+{"id":"4abfc7b09dbee6d7a5c99338bb8d0e75","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/results/queue should return 403 for non-admin users","name":"should return 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"7cf734aa7fa4209310a27c678ee34a45"}}

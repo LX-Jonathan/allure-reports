@@ -1,0 +1,1 @@
+{"id":"b21217e1304a6932518fea1bc98798f3","fullName":"client/src/components/portal/__tests__/acting-context-badge.test.tsx#ActingContextBadge inactive-link warning does not render the warning when actingLink is missing","name":"does not render the warning when actingLink is missing","status":"passed","testResultsByEnv":{"default":"49fa789521e5eda0b74b3323e69dcb13"}}

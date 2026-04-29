@@ -1,0 +1,1 @@
+{"id":"f883f701a0b23cb4b57c420829dae222","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should be case-insensitive for Bearer prefix","name":"should be case-insensitive for Bearer prefix","status":"passed","testResultsByEnv":{"default":"936854bad833ebf2b833214ac4aa3e9b"}}

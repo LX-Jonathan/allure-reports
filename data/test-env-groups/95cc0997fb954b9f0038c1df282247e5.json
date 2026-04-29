@@ -1,0 +1,1 @@
+{"id":"95cc0997fb954b9f0038c1df282247e5","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation org-level users should allow access to any location in their org","name":"should allow access to any location in their org","status":"passed","testResultsByEnv":{"default":"474031aa7cb66eab82005bfea3068a56"}}

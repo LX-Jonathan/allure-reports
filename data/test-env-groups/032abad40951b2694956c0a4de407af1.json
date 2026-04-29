@@ -1,0 +1,1 @@
+{"id":"032abad40951b2694956c0a4de407af1","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"fa39f5fca8cf1d35bfd8dbf756425808"}}

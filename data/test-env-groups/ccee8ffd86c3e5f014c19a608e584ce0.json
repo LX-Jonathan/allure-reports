@@ -1,0 +1,1 @@
+{"id":"ccee8ffd86c3e5f014c19a608e584ce0","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/activate (Patient Portal - Activate Kit) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"96091497ac5eb95ce36fe662d8c09ddf"}}

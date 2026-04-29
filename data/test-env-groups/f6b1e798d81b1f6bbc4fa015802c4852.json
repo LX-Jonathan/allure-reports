@@ -1,0 +1,1 @@
+{"id":"f6b1e798d81b1f6bbc4fa015802c4852","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId/inquiries returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"9073a95be6c50056128d991889a7d2c5"}}

@@ -1,0 +1,1 @@
+{"id":"615d015161baea35b5e9c03ed262345e","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient returns 403 when user has no labId and no full access","name":"returns 403 when user has no labId and no full access","status":"passed","testResultsByEnv":{"default":"344e52f0eb46792968019d408ffa968b"}}

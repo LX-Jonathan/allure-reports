@@ -1,0 +1,1 @@
+{"id":"156ba72079f27ae7b3949b7198f2d73e","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /health returns the threshold-trip metadata when alerted","name":"returns the threshold-trip metadata when alerted","status":"passed","testResultsByEnv":{"default":"ae9e745b49aedfbcf5027d1ec80e5b7a"}}

@@ -1,0 +1,1 @@
+{"id":"064051d24208e9ef5f06a064a400a3f5","fullName":"client/src/hooks/__tests__/useFeeEstimationReadiness.test.tsx#useFeeEstimationReadiness - status derivation returns to idle when patient is cleared","name":"returns to idle when patient is cleared","status":"passed","testResultsByEnv":{"default":"11b23cf6aec39e49a618e429d1f84e62"}}

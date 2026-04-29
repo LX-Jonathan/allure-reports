@@ -1,0 +1,1 @@
+{"id":"be26946299b15ef4e7b64c5f32f62288","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should queue order notification email successfully","name":"should queue order notification email successfully","status":"passed","testResultsByEnv":{"default":"9097841424b614e0cadb642f0cb95f57"}}

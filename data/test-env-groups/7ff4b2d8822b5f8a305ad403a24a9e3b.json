@@ -1,0 +1,1 @@
+{"id":"7ff4b2d8822b5f8a305ad403a24a9e3b","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should queue item processing jobs with correct data","name":"should queue item processing jobs with correct data","status":"passed","testResultsByEnv":{"default":"fd8c8b92a6f70da8c62ad251b773e09e"}}

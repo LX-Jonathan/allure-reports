@@ -1,0 +1,1 @@
+{"id":"bfa0a2a779384461fa11c9f1dd77d5e2","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes DELETE /:id deletes prior authorization successfully as super_admin","name":"deletes prior authorization successfully as super_admin","status":"passed","testResultsByEnv":{"default":"9bc340a1502d33db8a85c2f7fa8a6312"}}

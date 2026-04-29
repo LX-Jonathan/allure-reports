@@ -1,0 +1,1 @@
+{"id":"bbb65e3c79dc5d13feffef56df0d33d0","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return true for valid transition from pending to collected","name":"should return true for valid transition from pending to collected","status":"passed","testResultsByEnv":{"default":"83a4d833851e74d511a13a7890de2ef7"}}

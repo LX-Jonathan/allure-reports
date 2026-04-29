@@ -1,0 +1,1 @@
+{"id":"559cdcdd8511e95d0ac1bf12a04fdeff","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes DELETE /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"823a30922bae46bd2edaf6d90d834e1e"}}

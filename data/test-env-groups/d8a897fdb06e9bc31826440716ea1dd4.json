@@ -1,0 +1,1 @@
+{"id":"d8a897fdb06e9bc31826440716ea1dd4","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#getHeroImageWarnings skips dimension warnings when width/height are missing","name":"skips dimension warnings when width/height are missing","status":"passed","testResultsByEnv":{"default":"4fe9697232e13f45b7d612ddea2c630f"}}

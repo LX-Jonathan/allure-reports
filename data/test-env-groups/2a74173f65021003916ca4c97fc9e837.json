@@ -1,0 +1,1 @@
+{"id":"2a74173f65021003916ca4c97fc9e837","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns 500 when AI response cannot be parsed","name":"returns 500 when AI response cannot be parsed","status":"passed","testResultsByEnv":{"default":"a95b1547efa6aa23bba6308b2e3d91bf"}}

@@ -1,0 +1,1 @@
+{"id":"3b8fd75e6487c7ea79df4d97f5684d2f","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service isGoodQualityOCR should return false when confidence below very_high threshold","name":"should return false when confidence below very_high threshold","status":"passed","testResultsByEnv":{"default":"843f8d0a6cd2e83453beed8425fdad84"}}

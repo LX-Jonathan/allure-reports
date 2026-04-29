@@ -1,0 +1,1 @@
+{"id":"0e1d777603a2b7f303142d00c670b948","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes PATCH /api/onboarding/:flowId/sections/:sectionId returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"750e6c92e6be35a3eef09db40fc05b64"}}

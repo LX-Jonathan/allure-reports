@@ -1,0 +1,1 @@
+{"id":"d7413eea1dd73458039b9c3ccfd8bf59","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments returns 403 for location-level user without location access","name":"returns 403 for location-level user without location access","status":"passed","testResultsByEnv":{"default":"e857d4e4aa25b5cb6320b5f2ca8933be"}}

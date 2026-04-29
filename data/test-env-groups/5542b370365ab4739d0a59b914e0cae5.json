@@ -1,0 +1,1 @@
+{"id":"5542b370365ab4739d0a59b914e0cae5","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/publish returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"02d07cd41261e9dd32f56ad344a0c3ce"}}

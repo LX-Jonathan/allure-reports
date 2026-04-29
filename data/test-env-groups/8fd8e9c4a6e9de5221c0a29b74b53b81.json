@@ -1,0 +1,1 @@
+{"id":"8fd8e9c4a6e9de5221c0a29b74b53b81","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring isStale treats fresh timestamps as not stale","name":"treats fresh timestamps as not stale","status":"passed","testResultsByEnv":{"default":"0453e64570f66d0956c0f1f304fa0686"}}

@@ -1,0 +1,1 @@
+{"id":"dd0855cdcf70102a384848296f2cb55c","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker edge cases should NOT log login code regardless of subject format (sec-email-worker-log)","name":"should NOT log login code regardless of subject format (sec-email-worker-log)","status":"passed","testResultsByEnv":{"default":"c26a4436c7a3e34a83030c3e211b80df"}}

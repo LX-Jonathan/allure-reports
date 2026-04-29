@@ -1,0 +1,1 @@
+{"id":"1a5040e26db96b67142de02aa71aa95a","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs should return labs for super admin","name":"should return labs for super admin","status":"passed","testResultsByEnv":{"default":"b25ce1e26390ac36ec3da904159d86b8"}}

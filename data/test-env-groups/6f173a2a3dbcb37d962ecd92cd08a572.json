@@ -1,0 +1,1 @@
+{"id":"6f173a2a3dbcb37d962ecd92cd08a572","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService set with Redis configured should not return in-memory value when Redis returns null","name":"should not return in-memory value when Redis returns null","status":"passed","testResultsByEnv":{"default":"2e2817d9cd4b4e1d292ee9166be7c414"}}

@@ -1,0 +1,1 @@
+{"id":"6f3e40a6be9243ac6f861dc3eebfc532","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /suspicious-activity-reports/summary returns 400 for an invalid days filter","name":"returns 400 for an invalid days filter","status":"passed","testResultsByEnv":{"default":"9a0cff861c7b7f25779e48cfae1c1b72"}}

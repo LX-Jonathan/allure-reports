@@ -1,0 +1,1 @@
+{"id":"ed5125d8a5b55d78b345ef02e85fa959","fullName":"client/src/hooks/__tests__/useFeeEstimationReadiness.test.tsx#useFeeEstimationReadiness - explicit triggerFeeEstimation does not fire when there is no patient","name":"does not fire when there is no patient","status":"passed","testResultsByEnv":{"default":"036b1554654cf609083cc6aef6569397"}}

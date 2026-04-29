@@ -1,0 +1,1 @@
+{"id":"61bfa76534b208dcc0a95442726551b2","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) POST / returns 400 for invalid body (bad uuid)","name":"returns 400 for invalid body (bad uuid)","status":"passed","testResultsByEnv":{"default":"a55d6eebc55b86e6a8cde5493ed546cf"}}

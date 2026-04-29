@@ -1,0 +1,1 @@
+{"id":"8f2d94f484045244282cf1c4996e5428","fullName":"client/src/hooks/__tests__/use-patient-insurance-status.test.ts#getInsuranceStatus flags missing insurance when no records on file","name":"flags missing insurance when no records on file","status":"passed","testResultsByEnv":{"default":"04f2e8364099828c8b74bbb0709e21fb"}}

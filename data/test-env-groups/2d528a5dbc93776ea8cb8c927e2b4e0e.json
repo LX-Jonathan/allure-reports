@@ -1,0 +1,1 @@
+{"id":"2d528a5dbc93776ea8cb8c927e2b4e0e","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 403 when user from different org tries to update","name":"returns 403 when user from different org tries to update","status":"passed","testResultsByEnv":{"default":"efe84b0eb257955b1a218cf9f8eb3bcd"}}

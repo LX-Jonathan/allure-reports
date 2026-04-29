@@ -1,0 +1,1 @@
+{"id":"233c673bcaeca4cd7b6b209eb59853d8","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should return 200 when updating ticket status","name":"should return 200 when updating ticket status","status":"passed","testResultsByEnv":{"default":"bac9d2f105afd6e95cf90ef5d9cadf1a"}}

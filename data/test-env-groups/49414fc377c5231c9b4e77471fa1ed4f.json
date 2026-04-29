@@ -1,0 +1,1 @@
+{"id":"49414fc377c5231c9b4e77471fa1ed4f","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications Routes DELETE /api/v1/medications/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"0a1610752916fb3f6bca3a4df53fd284"}}

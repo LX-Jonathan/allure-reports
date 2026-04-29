@@ -1,0 +1,1 @@
+{"id":"97e38f86cb0fc8997b0817f01ddc2c35","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getFilteredClaims should not filter by assignedToMe when userId is not provided","name":"should not filter by assignedToMe when userId is not provided","status":"passed","testResultsByEnv":{"default":"c32d90ce148dd1141ffce342f7465555"}}

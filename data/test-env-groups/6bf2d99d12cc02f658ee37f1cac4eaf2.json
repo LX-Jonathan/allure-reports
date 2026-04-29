@@ -1,0 +1,1 @@
+{"id":"6bf2d99d12cc02f658ee37f1cac4eaf2","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan deleteQueueAlertRule should return true when rule deleted","name":"should return true when rule deleted","status":"passed","testResultsByEnv":{"default":"4397c257751b54dbc474f448947e1a0e"}}

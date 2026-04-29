@@ -1,0 +1,1 @@
+{"id":"2726a1247190f7cecca44243feaf50df","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:id returns 403 when user has no organization assigned","name":"returns 403 when user has no organization assigned","status":"passed","testResultsByEnv":{"default":"1d93f4d4487eb455fc13a50bbf3a3f5d"}}

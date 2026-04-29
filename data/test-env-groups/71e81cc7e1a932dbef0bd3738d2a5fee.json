@@ -1,0 +1,1 @@
+{"id":"71e81cc7e1a932dbef0bd3738d2a5fee","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes PATCH /api/fee-schedules/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"6d09f0a2d489f5178b4b92787e812bc3"}}

@@ -1,0 +1,1 @@
+{"id":"7408ee44dd6645eb8fb19ce07a454a52","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler billing resolution cron callback should update job status when sync returns failure","name":"should update job status when sync returns failure","status":"passed","testResultsByEnv":{"default":"735c96eec5bdf623520d519e3f20fdd1"}}

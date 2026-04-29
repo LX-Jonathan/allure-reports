@@ -1,0 +1,1 @@
+{"id":"2991089b5001dec4c026c03e40a97bd2","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter lab userType (org-level) should handle lab user without parentLabId","name":"should handle lab user without parentLabId","status":"passed","testResultsByEnv":{"default":"899c18d1c54c7d7ae7447c93fee0adc3"}}

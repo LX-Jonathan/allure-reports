@@ -1,0 +1,1 @@
+{"id":"c665d7447d7a65869746b407dd2e8943","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory DELETE /:id (delete) should delete an existing resource","name":"should delete an existing resource","status":"passed","testResultsByEnv":{"default":"23cf7166d5bd92f072d1f50faeacc183"}}

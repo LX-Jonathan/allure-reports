@@ -1,0 +1,1 @@
+{"id":"2bdfdf2bcd53bffdd7615310333a84ce","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendEmail per-lab consent guardrail blocks non-transactional sends when consent is revoked","name":"blocks non-transactional sends when consent is revoked","status":"passed","testResultsByEnv":{"default":"5eadf3c3dd1ca661bfb3ac02cd0d74b9"}}

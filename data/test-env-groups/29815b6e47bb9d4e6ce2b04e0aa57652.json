@@ -1,0 +1,1 @@
+{"id":"29815b6e47bb9d4e6ce2b04e0aa57652","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /labs/:id deletes successfully and sets audit context","name":"deletes successfully and sets audit context","status":"passed","testResultsByEnv":{"default":"25a9d808719facddcd40bb6bd621860e"}}

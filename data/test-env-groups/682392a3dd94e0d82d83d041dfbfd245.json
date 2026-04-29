@@ -1,0 +1,1 @@
+{"id":"682392a3dd94e0d82d83d041dfbfd245","fullName":"server/__tests__/users.routes.test.ts#users routes POST /api/v1/users/:id/resend-invite returns 404 when user not found","name":"returns 404 when user not found","status":"passed","testResultsByEnv":{"default":"91d7c59d75decabb3b3340875c24576d"}}

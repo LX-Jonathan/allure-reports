@@ -1,0 +1,1 @@
+{"id":"a4b6cfb7445637695e4506461ba6c7ad","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should return null when amount is negative","name":"should return null when amount is negative","status":"passed","testResultsByEnv":{"default":"9c30c85aad6f59312800231a1866734b"}}

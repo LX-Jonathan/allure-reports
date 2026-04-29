@@ -1,0 +1,1 @@
+{"id":"ba165142243790f83d8fa10766b50111","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth - scheduleRefresh redirects to login when refresh fails on expired token","name":"redirects to login when refresh fails on expired token","status":"passed","testResultsByEnv":{"default":"7736a4f7ccb7afad8e5108d835cdeed5"}}

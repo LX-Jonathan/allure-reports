@@ -1,0 +1,1 @@
+{"id":"c63ab945957a24d6895dd12fb451b4bd","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management updatePatientInsurance throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"09b06ba4429f04099b541451e4f86864"}}

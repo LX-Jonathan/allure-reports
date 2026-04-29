@@ -1,0 +1,1 @@
+{"id":"55919a0c45a3f61b783de965f145076e","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"61696f8fca73010d0985260e4832bf48"}}

@@ -1,0 +1,1 @@
+{"id":"8a255ea14ec8441d8cb171ee409d7cd9","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/quickstarts/:slug returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f6388d547c62e162ea4156400297a8e2"}}

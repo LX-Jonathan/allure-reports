@@ -1,0 +1,1 @@
+{"id":"ec6559e4ed53b320061bfd8f1f207044","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/create-master returns 400 when mobilePhone is unparsable","name":"returns 400 when mobilePhone is unparsable","status":"passed","testResultsByEnv":{"default":"f0d65071eb46b588d791e5b096f306e4"}}

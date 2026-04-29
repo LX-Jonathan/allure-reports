@@ -1,0 +1,1 @@
+{"id":"7de4e27ef12ae6c0918508bad7d251aa","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batch-action returns 403 when user has no access to batch","name":"returns 403 when user has no access to batch","status":"passed","testResultsByEnv":{"default":"c37a2ba99f354c97ffa9164ce5e57aa7"}}

@@ -1,0 +1,1 @@
+{"id":"9bd81f45e24818969fee9cfbea9c3f92","fullName":"server/__tests__/migrate.test.ts#migrate runMigrations should exit with code 1 when DATABASE_URL is not set","name":"should exit with code 1 when DATABASE_URL is not set","status":"passed","testResultsByEnv":{"default":"0bb938f14a3a0c6f718f6325e03f4ccc"}}

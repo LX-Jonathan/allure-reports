@@ -1,0 +1,1 @@
+{"id":"49d1f67b1fe01c9395cb115d6e3a6a32","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getAuthRateLimiter should return null when Redis is not configured","name":"should return null when Redis is not configured","status":"passed","testResultsByEnv":{"default":"e71913ee18927b6e6b15df41e6120e03"}}

@@ -1,0 +1,1 @@
+{"id":"066381ba7f426e0d7ad2a14eaecb307c","fullName":"server/__tests__/worker-process.test.ts#worker-process shutdown function should register SIGTERM handler","name":"should register SIGTERM handler","status":"passed","testResultsByEnv":{"default":"fcfdd2d9adac62956b5bf6b1ce022e37"}}

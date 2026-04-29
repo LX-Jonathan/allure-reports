@@ -1,0 +1,1 @@
+{"id":"4614904a8afe9fa8c990da3abf484f55","fullName":"client/src/components/__tests__/lab-switcher.test.tsx#LabSwitcher renders nothing when query returns undefined data","name":"renders nothing when query returns undefined data","status":"passed","testResultsByEnv":{"default":"a7ab8de884a68503d9b154b4828eb445"}}

@@ -1,0 +1,1 @@
+{"id":"6f24915745b2d5a1936f85935da9660c","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes PATCH /api/v1/master-patients/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"cf83a082085c9f69b65bcf6f2859200c"}}

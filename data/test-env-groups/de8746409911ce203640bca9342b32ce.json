@@ -1,0 +1,1 @@
+{"id":"de8746409911ce203640bca9342b32ce","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan updateBulkScanBatchProgress should update progress fields","name":"should update progress fields","status":"passed","testResultsByEnv":{"default":"d1581e0f2adedea6da70c4c0030be28a"}}

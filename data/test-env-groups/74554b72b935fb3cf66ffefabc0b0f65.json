@@ -1,0 +1,1 @@
+{"id":"74554b72b935fb3cf66ffefabc0b0f65","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify feeds candidate-key rejections into the verify-failure alerter","name":"feeds candidate-key rejections into the verify-failure alerter","status":"passed","testResultsByEnv":{"default":"deb64913b110324ce339992d4d904eb5"}}

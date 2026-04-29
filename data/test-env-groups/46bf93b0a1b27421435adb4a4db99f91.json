@@ -1,0 +1,1 @@
+{"id":"46bf93b0a1b27421435adb4a4db99f91","fullName":"server/__tests__/reporting.service.test.ts#ReportingService generateCSV (via exportReport) should filter out id columns in CSV","name":"should filter out id columns in CSV","status":"passed","testResultsByEnv":{"default":"30659d6936b6c26eaea53a7f17bc093e"}}

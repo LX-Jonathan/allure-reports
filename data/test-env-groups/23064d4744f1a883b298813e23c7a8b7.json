@@ -1,0 +1,1 @@
+{"id":"23064d4744f1a883b298813e23c7a8b7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/discovery returns 400 when FRHC not configured for org context","name":"returns 400 when FRHC not configured for org context","status":"passed","testResultsByEnv":{"default":"cf94ff0db2ebf51b52bed1853caff735"}}

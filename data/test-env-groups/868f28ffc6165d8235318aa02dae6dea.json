@@ -1,0 +1,1 @@
+{"id":"868f28ffc6165d8235318aa02dae6dea","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements returns required:false for every CPT when payer is self_pay","name":"returns required:false for every CPT when payer is self_pay","status":"passed","testResultsByEnv":{"default":"d7f8919e5ec9685e897d14cbcca995cd"}}

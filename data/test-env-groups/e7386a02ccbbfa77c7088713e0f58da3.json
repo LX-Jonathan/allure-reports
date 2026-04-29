@@ -1,0 +1,1 @@
+{"id":"e7386a02ccbbfa77c7088713e0f58da3","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/sources/:sourceId/destinations returns destinations","name":"returns destinations","status":"passed","testResultsByEnv":{"default":"d51233b418f97b0b24051824022c42b7"}}

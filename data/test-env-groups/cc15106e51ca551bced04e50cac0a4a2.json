@@ -1,0 +1,1 @@
+{"id":"cc15106e51ca551bced04e50cac0a4a2","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/start redirects when no domain match found","name":"redirects when no domain match found","status":"passed","testResultsByEnv":{"default":"7660e75f9abb92fbc0e078c4340676d3"}}

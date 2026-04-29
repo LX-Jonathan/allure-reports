@@ -1,0 +1,1 @@
+{"id":"dc6eb42b6cf1643862272e8658258d72","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getUniqueClientsFromCache should use clientCode as name when clientName is missing","name":"should use clientCode as name when clientName is missing","status":"passed","testResultsByEnv":{"default":"daab7a864835cf541b994763661803b6"}}

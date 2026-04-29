@@ -1,0 +1,1 @@
+{"id":"248f2bf856bbdda84003d662e59515b7","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/new-version returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"baf7c2be17e0587e3130cc14bc6da510"}}

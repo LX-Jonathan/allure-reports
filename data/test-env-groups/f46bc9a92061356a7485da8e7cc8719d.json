@@ -1,0 +1,1 @@
+{"id":"f46bc9a92061356a7485da8e7cc8719d","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/provider/my-orders returns 200 with provider orders","name":"returns 200 with provider orders","status":"passed","testResultsByEnv":{"default":"92ca52d4389984b8a3c10570b301c011"}}

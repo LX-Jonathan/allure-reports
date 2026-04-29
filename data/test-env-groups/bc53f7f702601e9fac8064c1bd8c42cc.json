@@ -1,0 +1,1 @@
+{"id":"bc53f7f702601e9fac8064c1bd8c42cc","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/circuit-breaker/:queueType/close should close circuit breaker (200)","name":"should close circuit breaker (200)","status":"passed","testResultsByEnv":{"default":"e5214efe7d6892eafda6ceedab5fa4f6"}}

@@ -1,0 +1,1 @@
+{"id":"7e22314a58acaffa50ba9b4454122dde","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient testConnection should default error message when error.message is empty","name":"should default error message when error.message is empty","status":"passed","testResultsByEnv":{"default":"56d920063e906dbb677878f9a0b2b011"}}

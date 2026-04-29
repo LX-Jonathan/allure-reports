@@ -1,0 +1,1 @@
+{"id":"0eb4cc95cbc2cc55d122f623de24051e","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireOrg should allow labxchange user to access any org","name":"should allow labxchange user to access any org","status":"passed","testResultsByEnv":{"default":"4ec22895d227b7386183ccc3758e6914"}}

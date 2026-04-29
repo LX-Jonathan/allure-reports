@@ -1,0 +1,1 @@
+{"id":"3b505ee7d2af81e060c9872ed0a4058b","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Bulk Scan getBulkScanBatchById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"ca2567bd5e564a7cf793b4f0d8ecb08e"}}

@@ -1,0 +1,1 @@
+{"id":"a3c25bacde61add2363ca1ea815bd45b","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 400 when user with email already exists","name":"returns 400 when user with email already exists","status":"passed","testResultsByEnv":{"default":"e7c736725ef5859bd028c2dfae2281a4"}}

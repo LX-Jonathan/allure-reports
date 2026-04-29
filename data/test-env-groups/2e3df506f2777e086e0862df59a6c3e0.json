@@ -1,0 +1,1 @@
+{"id":"2e3df506f2777e086e0862df59a6c3e0","fullName":"client/src/hooks/__tests__/use-patient-lab-issues.test.tsx#usePatientLabIssues aggregates multiple distinct issue kinds at once","name":"aggregates multiple distinct issue kinds at once","status":"passed","testResultsByEnv":{"default":"89636af169f0d59477460c058b6c47c9"}}

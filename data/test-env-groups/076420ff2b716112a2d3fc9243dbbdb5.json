@@ -1,0 +1,1 @@
+{"id":"076420ff2b716112a2d3fc9243dbbdb5","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"95ba88a4ef6b2b6525ce0b3141fcfc2e"}}

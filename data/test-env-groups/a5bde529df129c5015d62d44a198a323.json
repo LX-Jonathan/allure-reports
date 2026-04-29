@@ -1,0 +1,1 @@
+{"id":"a5bde529df129c5015d62d44a198a323","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings mapOrderStatusToFhir maps unknown status to active","name":"maps unknown status to active","status":"passed","testResultsByEnv":{"default":"5f3a0497b9ecf779512524e4ee880db2"}}

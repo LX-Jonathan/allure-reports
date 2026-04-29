@@ -1,0 +1,1 @@
+{"id":"00e7a9107cacc736875a310535a524e7","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes GET /templates/:id returns template when found","name":"returns template when found","status":"passed","testResultsByEnv":{"default":"b5fc7f6f652572720ad9ed303e597313"}}

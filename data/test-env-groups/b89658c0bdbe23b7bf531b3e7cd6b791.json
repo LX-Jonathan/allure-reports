@@ -1,0 +1,1 @@
+{"id":"b89658c0bdbe23b7bf531b3e7cd6b791","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /for-lab/:parentLabId allows labxchange user to view any lab","name":"allows labxchange user to view any lab","status":"passed","testResultsByEnv":{"default":"7045cbcd4ae0fa6e34a3516a5f060c9d"}}

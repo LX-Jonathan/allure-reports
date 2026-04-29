@@ -1,0 +1,1 @@
+{"id":"1cde0a3aa5ec72b9e82e00664c36897c","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar does not fall back to the legacy phone column when mobilePhone is empty","name":"does not fall back to the legacy phone column when mobilePhone is empty","status":"passed","testResultsByEnv":{"default":"0595160de6d3abe6524697d1014e82f9"}}

@@ -1,0 +1,1 @@
+{"id":"03c2392702756553a25c6352c62dcd3d","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda formatDateForAndromeda should handle single digit month and day","name":"should handle single digit month and day","status":"passed","testResultsByEnv":{"default":"0965e481b15935541319c88792f264e8"}}

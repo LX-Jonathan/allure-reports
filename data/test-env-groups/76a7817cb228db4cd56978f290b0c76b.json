@@ -1,0 +1,1 @@
+{"id":"76a7817cb228db4cd56978f290b0c76b","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules returns 403 when super org mismatch","name":"returns 403 when super org mismatch","status":"passed","testResultsByEnv":{"default":"9d63ac4e61b38915bd84ada1ee23b985"}}

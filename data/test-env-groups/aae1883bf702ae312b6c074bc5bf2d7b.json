@@ -1,0 +1,1 @@
+{"id":"aae1883bf702ae312b6c074bc5bf2d7b","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Interface Data Issues getInterfaceDataIssueStats returns zeros with no issues","name":"returns zeros with no issues","status":"passed","testResultsByEnv":{"default":"c8368ed63d72b37b2b91808d35d04f05"}}

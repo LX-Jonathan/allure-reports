@@ -1,0 +1,1 @@
+{"id":"e532efb25e92eca79a8090e082975cd5","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextFromMultiplePages should propagate errors from individual page extraction","name":"should propagate errors from individual page extraction","status":"passed","testResultsByEnv":{"default":"e3a0a4fccad160cb052c5d1d4674e181"}}

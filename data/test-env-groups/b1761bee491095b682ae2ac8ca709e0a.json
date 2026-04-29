@@ -1,0 +1,1 @@
+{"id":"b1761bee491095b682ae2ac8ca709e0a","fullName":"client/src/pages/__tests__/patient-edit.test.tsx#PatientEditPage guarantor relationship auto-default renders existing extra phone numbers from the patient record","name":"renders existing extra phone numbers from the patient record","status":"passed","testResultsByEnv":{"default":"6a8b03a6b2f21ac98690262f98132680"}}

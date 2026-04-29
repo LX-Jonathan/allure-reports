@@ -1,0 +1,1 @@
+{"id":"f72bf102dc2a651f143a623653f8931d","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab renders active badge for non-revoked consent","name":"renders active badge for non-revoked consent","status":"passed","testResultsByEnv":{"default":"9e406bf5220fa8e4eafd7b18db399636"}}

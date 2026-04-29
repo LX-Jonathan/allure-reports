@@ -1,0 +1,1 @@
+{"id":"9232b4a3cf803d606e0eb8a3c24f508f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers returns 400 on validation error - missing firstName","name":"returns 400 on validation error - missing firstName","status":"passed","testResultsByEnv":{"default":"79c54874c71a6e880f6d5869cbbcbc2f"}}

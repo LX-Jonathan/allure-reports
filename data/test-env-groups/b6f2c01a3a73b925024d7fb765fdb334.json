@@ -1,0 +1,1 @@
+{"id":"b6f2c01a3a73b925024d7fb765fdb334","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch does not retry 403 for GET request","name":"does not retry 403 for GET request","status":"passed","testResultsByEnv":{"default":"e7b66384f673e81e160e652c4cc20953"}}

@@ -1,0 +1,1 @@
+{"id":"79fe1f1de433eb39bb789a4ee002a730","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/ai-health-insights returns 500 when OpenAI throws error","name":"returns 500 when OpenAI throws error","status":"passed","testResultsByEnv":{"default":"848050f27ff6f7cc35bae9236029bd4a"}}

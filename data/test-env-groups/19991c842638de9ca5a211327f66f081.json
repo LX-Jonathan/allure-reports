@@ -1,0 +1,1 @@
+{"id":"19991c842638de9ca5a211327f66f081","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service getAllCircuitBreakerMetrics should reflect per-breaker state in combined metrics","name":"should reflect per-breaker state in combined metrics","status":"passed","testResultsByEnv":{"default":"9a34f5262ef0d7b26d0c5b73162c83d7"}}

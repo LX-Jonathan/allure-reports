@@ -1,0 +1,1 @@
+{"id":"2b4ca92b4cb1b825ea2b0527734d3756","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/logo returns 200 on successful logo upload","name":"returns 200 on successful logo upload","status":"passed","testResultsByEnv":{"default":"a38e7848935fe176ede4d2f8edb8103b"}}

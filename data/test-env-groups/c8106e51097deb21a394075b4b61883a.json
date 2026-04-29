@@ -1,0 +1,1 @@
+{"id":"c8106e51097deb21a394075b4b61883a","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PUT /locations/:id/providers returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"dd403937bda3ffc56126c6a5025c5445"}}

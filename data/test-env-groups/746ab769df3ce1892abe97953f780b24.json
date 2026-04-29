@@ -1,0 +1,1 @@
+{"id":"746ab769df3ce1892abe97953f780b24","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canResolveBillingItems chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"31b3349c5a600c7b1fc391b980b19238"}}

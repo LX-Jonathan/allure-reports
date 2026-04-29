@@ -1,0 +1,1 @@
+{"id":"3ad7cba0d9733b5b1e61e98dcac46967","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for month less than 1","name":"should throw error for month less than 1","status":"passed","testResultsByEnv":{"default":"d8af926d43029c474aa6719026f1947d"}}

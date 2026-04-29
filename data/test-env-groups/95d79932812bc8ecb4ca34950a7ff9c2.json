@@ -1,0 +1,1 @@
+{"id":"95d79932812bc8ecb4ca34950a7ff9c2","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should credit DTC shipping revenue for shippingCost","name":"should credit DTC shipping revenue for shippingCost","status":"passed","testResultsByEnv":{"default":"4430c569db5cf6624c5ec258b6eabb4a"}}

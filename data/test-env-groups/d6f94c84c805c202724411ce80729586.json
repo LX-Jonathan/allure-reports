@@ -1,0 +1,1 @@
+{"id":"d6f94c84c805c202724411ce80729586","fullName":"server/routes/__tests__/manual-payments-refund-credit.routes.test.ts#Manual Payments — refund-credit endpoint 401 when the request is unauthenticated","name":"401 when the request is unauthenticated","status":"passed","testResultsByEnv":{"default":"edfebf48960251cf09db634581016dcd"}}

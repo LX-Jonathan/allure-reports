@@ -1,0 +1,1 @@
+{"id":"fcc44b984a5dfdf54e6e094cb908df5b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/ai-health-insights returns 200 with AI insights","name":"returns 200 with AI insights","status":"passed","testResultsByEnv":{"default":"3d141917c7d12f3ae1206b2635fda4dd"}}

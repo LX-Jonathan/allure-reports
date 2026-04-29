@@ -1,0 +1,1 @@
+{"id":"a05ff9999a273d94bbc883664912b595","fullName":"server/__tests__/bullmq.test.ts#bullmq lib queue getters getOrderQueue returns a Queue","name":"getOrderQueue returns a Queue","status":"passed","testResultsByEnv":{"default":"97cd3820aac0998d81b3df67a64d07c2"}}

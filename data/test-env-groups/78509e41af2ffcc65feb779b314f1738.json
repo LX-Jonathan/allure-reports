@@ -1,0 +1,1 @@
+{"id":"78509e41af2ffcc65feb779b314f1738","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/portal-summary aggregates across orgs for super_admin with parentLabId filter","name":"aggregates across orgs for super_admin with parentLabId filter","status":"passed","testResultsByEnv":{"default":"4e8a7770faf83484586235f94aa16ce0"}}

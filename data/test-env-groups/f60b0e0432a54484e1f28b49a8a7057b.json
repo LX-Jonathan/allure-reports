@@ -1,0 +1,1 @@
+{"id":"f60b0e0432a54484e1f28b49a8a7057b","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /connection-token returns 500 when Stripe API fails","name":"returns 500 when Stripe API fails","status":"passed","testResultsByEnv":{"default":"346caf656d1afdc01d02b1ba12b77efb"}}

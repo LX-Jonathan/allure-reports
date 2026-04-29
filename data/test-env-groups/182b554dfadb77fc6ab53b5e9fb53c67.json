@@ -1,0 +1,1 @@
+{"id":"182b554dfadb77fc6ab53b5e9fb53c67","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should not apply denoise when option is false","name":"should not apply denoise when option is false","status":"passed","testResultsByEnv":{"default":"85cc4a495ff06ef04e6e2d7211f18288"}}

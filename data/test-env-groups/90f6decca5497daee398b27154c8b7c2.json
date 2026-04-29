@@ -1,0 +1,1 @@
+{"id":"90f6decca5497daee398b27154c8b7c2","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextFromMultiplePagesWithGoogleVision should propagate errors from individual page processing","name":"should propagate errors from individual page processing","status":"passed","testResultsByEnv":{"default":"7d4bebd6b8a44cf47ffada95785d2915"}}

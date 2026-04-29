@@ -1,0 +1,1 @@
+{"id":"adcb357672360c1b3de8fae2cd67dfa3","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should update batch progress after successful item","name":"should update batch progress after successful item","status":"passed","testResultsByEnv":{"default":"77c6f1a62424e5ebffc4f28fa1f884a3"}}

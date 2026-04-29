@@ -1,0 +1,1 @@
+{"id":"f7b199230ffb8da9802965f02c6feb49","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts PATCH /chart-of-accounts/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"e934e69a7c954ac4d186ef67e02a1502"}}

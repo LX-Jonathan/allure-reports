@@ -1,0 +1,1 @@
+{"id":"c109659940548aac7884fd21085b69c5","fullName":"server/routes/__tests__/data-import.routes.test.ts#Data Import Routes POST /validate returns context error for insurance import without parentLabId or labId","name":"returns context error for insurance import without parentLabId or labId","status":"passed","testResultsByEnv":{"default":"733a718339c6a09be8d3ce12df2b3d44"}}

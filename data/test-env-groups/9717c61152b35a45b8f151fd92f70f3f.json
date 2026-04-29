@@ -1,0 +1,1 @@
+{"id":"9717c61152b35a45b8f151fd92f70f3f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/demographic-verifications returns 200 with verifications","name":"returns 200 with verifications","status":"passed","testResultsByEnv":{"default":"a462d9a7b90fcee58805366e8a56c83e"}}

@@ -1,0 +1,1 @@
+{"id":"0fa0ce8a844c524645206683d85fe9ee","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"8f3fcc50ae35aaa2764b958a8ef2a1ee"}}

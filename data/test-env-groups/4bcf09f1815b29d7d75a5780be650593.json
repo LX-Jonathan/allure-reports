@@ -1,0 +1,1 @@
+{"id":"4bcf09f1815b29d7d75a5780be650593","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePageImage should log the stored key and size in KB","name":"should log the stored key and size in KB","status":"passed","testResultsByEnv":{"default":"7c189d2beb1fc60a3cbaf5068c46c4f1"}}

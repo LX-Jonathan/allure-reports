@@ -1,0 +1,1 @@
+{"id":"55a71c3cd3d277ef8a072ccef119a13c","fullName":"client/src/hooks/__tests__/use-patient-insurance-status.test.ts#getInsuranceStatus flags only the back when front is on file","name":"flags only the back when front is on file","status":"passed","testResultsByEnv":{"default":"62fc20c8569922c6205158829c731ab2"}}

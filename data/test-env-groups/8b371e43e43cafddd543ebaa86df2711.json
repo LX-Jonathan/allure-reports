@@ -1,0 +1,1 @@
+{"id":"8b371e43e43cafddd543ebaa86df2711","fullName":"client/src/components/__tests__/patient-portal-layout.test.tsx#PatientPortalLayout redirects to login when not loading and no user","name":"redirects to login when not loading and no user","status":"passed","testResultsByEnv":{"default":"528ded63e5bbec27e89e653646051251"}}

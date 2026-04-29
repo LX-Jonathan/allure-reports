@@ -1,0 +1,1 @@
+{"id":"5ecbafbe770dfd12c30f7b105aeb628a","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query returns null when server says unauthorized even if no localStorage token exists","name":"returns null when server says unauthorized even if no localStorage token exists","status":"passed","testResultsByEnv":{"default":"87a1449bdd19ffee090cddf88e4e8b8c"}}

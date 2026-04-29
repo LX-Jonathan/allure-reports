@@ -1,0 +1,1 @@
+{"id":"aa2bb7367310ffc0efa2a3ed3b50e85f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-search returns 502 when NPI registry is down","name":"returns 502 when NPI registry is down","status":"passed","testResultsByEnv":{"default":"0031864b7acfb9ce624080348a51d4f2"}}

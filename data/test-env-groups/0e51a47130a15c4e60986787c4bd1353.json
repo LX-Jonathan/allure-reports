@@ -1,0 +1,1 @@
+{"id":"0e51a47130a15c4e60986787c4bd1353","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/from-intake returns 404 when location not found","name":"returns 404 when location not found","status":"passed","testResultsByEnv":{"default":"a531d11c44a33905ec05600aa353f2e6"}}

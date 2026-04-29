@@ -1,0 +1,1 @@
+{"id":"6bfcac935d72ca0ab3c234ec9bf34dae","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Audit Logs getAuditLogCountToday should return 0 when no logs today","name":"should return 0 when no logs today","status":"passed","testResultsByEnv":{"default":"ca067d84cf73564a357e3a2c72bee13f"}}

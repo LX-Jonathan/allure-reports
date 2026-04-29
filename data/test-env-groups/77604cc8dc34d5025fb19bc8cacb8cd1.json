@@ -1,0 +1,1 @@
+{"id":"77604cc8dc34d5025fb19bc8cacb8cd1","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getOrgs should return all non-deleted orgs","name":"should return all non-deleted orgs","status":"passed","testResultsByEnv":{"default":"efc79a93172e46d29d4d5e02583c4f50"}}

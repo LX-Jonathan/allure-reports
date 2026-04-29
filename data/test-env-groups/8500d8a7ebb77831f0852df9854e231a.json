@@ -1,0 +1,1 @@
+{"id":"8500d8a7ebb77831f0852df9854e231a","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes DELETE / returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"987f8372f2dc2408c4cc63768b3a9644"}}

@@ -1,0 +1,1 @@
+{"id":"220c9ed2983a0dc282b04b83001eb6c9","fullName":"client/src/components/patient/__tests__/eligibility-check-dialog.test.tsx#EligibilityCheckDialog calls onAcceptInsurance immediately when matched company exists","name":"calls onAcceptInsurance immediately when matched company exists","status":"passed","testResultsByEnv":{"default":"935690d38a3a90ad4c6341511ee3df55"}}

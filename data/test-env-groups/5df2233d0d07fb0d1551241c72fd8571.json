@@ -1,0 +1,1 @@
+{"id":"5df2233d0d07fb0d1551241c72fd8571","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPaymentWithJournal (end-to-end orchestration) falls back to ids when receipt numbers are missing","name":"falls back to ids when receipt numbers are missing","status":"passed","testResultsByEnv":{"default":"fa9da211d2dfae66972dad5c9fba95aa"}}

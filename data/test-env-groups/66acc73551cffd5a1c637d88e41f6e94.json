@@ -1,0 +1,1 @@
+{"id":"66acc73551cffd5a1c637d88e41f6e94","fullName":"client/src/pages/__tests__/patient-edit.test.tsx#PatientEditPage Self-pay address sync clears the guarantor address fields when Self is turned off","name":"clears the guarantor address fields when Self is turned off","status":"passed","testResultsByEnv":{"default":"3eeff5baf6b551a8ca43ec89a7432cda"}}

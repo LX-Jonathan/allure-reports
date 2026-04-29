@@ -1,0 +1,1 @@
+{"id":"698aa467713ccdd20b3b5f3f67465112","fullName":"server/services/__tests__/payment-application.test.ts#applyPaymentToPlan throws when enrollment is not active","name":"throws when enrollment is not active","status":"passed","testResultsByEnv":{"default":"03cc3a2ee5df1e5145d0ff62479ed5c9"}}

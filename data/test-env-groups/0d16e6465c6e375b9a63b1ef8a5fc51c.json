@@ -1,0 +1,1 @@
+{"id":"0d16e6465c6e375b9a63b1ef8a5fc51c","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should return 503 when R2 not configured","name":"should return 503 when R2 not configured","status":"passed","testResultsByEnv":{"default":"d81d4f4092e590070be46f18bc3d9c9c"}}

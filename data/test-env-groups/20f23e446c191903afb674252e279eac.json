@@ -1,0 +1,1 @@
+{"id":"20f23e446c191903afb674252e279eac","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes POST /api/prompt-pay returns 400 on validation error (missing required fields)","name":"returns 400 on validation error (missing required fields)","status":"passed","testResultsByEnv":{"default":"0f23cef8dfb58a084e066f90e5426bb3"}}

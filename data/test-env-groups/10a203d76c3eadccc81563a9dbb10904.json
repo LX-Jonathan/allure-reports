@@ -1,0 +1,1 @@
+{"id":"10a203d76c3eadccc81563a9dbb10904","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/pending-jobs/bulk-delete should return 400 without jobIds array","name":"should return 400 without jobIds array","status":"passed","testResultsByEnv":{"default":"e8980c53c4c600464e7b717159696854"}}

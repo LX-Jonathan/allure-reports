@@ -1,0 +1,1 @@
+{"id":"b43c63dfe544c7c3408af3b3bf8c55aa","fullName":"server/lib/__tests__/auth.test.ts#auth getInviteExpiry should return date 7 days from now","name":"should return date 7 days from now","status":"passed","testResultsByEnv":{"default":"882d0508f2605cdd7cebc865938bc0c9"}}

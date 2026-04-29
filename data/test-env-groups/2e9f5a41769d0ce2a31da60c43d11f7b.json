@@ -1,0 +1,1 @@
+{"id":"2e9f5a41769d0ce2a31da60c43d11f7b","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits/:kitId/results (Patient Portal - Get Kit Results) returns 200 with kit results","name":"returns 200 with kit results","status":"passed","testResultsByEnv":{"default":"06d12dec15922d901f5947e3d622e6e5"}}

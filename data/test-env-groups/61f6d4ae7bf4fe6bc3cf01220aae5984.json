@@ -1,0 +1,1 @@
+{"id":"61f6d4ae7bf4fe6bc3cf01220aae5984","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should return undefined for unrecognized values","name":"should return undefined for unrecognized values","status":"passed","testResultsByEnv":{"default":"2263753910158aee48734f3933a65258"}}

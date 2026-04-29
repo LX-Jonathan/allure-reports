@@ -1,0 +1,1 @@
+{"id":"08bc021caa472ba3d01d133fe2b822cb","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/installment-credit-payment returns 404 when no active enrollment exists","name":"returns 404 when no active enrollment exists","status":"passed","testResultsByEnv":{"default":"c4586fdfe811d91212e222906caa78d1"}}

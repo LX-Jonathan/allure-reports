@@ -1,0 +1,1 @@
+{"id":"ce944fce9d00238e89d8191679e591f1","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 403 when lab_client user has no access to org","name":"returns 403 when lab_client user has no access to org","status":"passed","testResultsByEnv":{"default":"b9b473ba936e2981e84baecc4efb912f"}}

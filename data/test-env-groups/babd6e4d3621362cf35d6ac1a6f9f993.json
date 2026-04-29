@@ -1,0 +1,1 @@
+{"id":"babd6e4d3621362cf35d6ac1a6f9f993","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes DELETE /pre-registration-links/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"d3a8f3c085323d255fbd26281098c334"}}

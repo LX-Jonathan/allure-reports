@@ -1,0 +1,1 @@
+{"id":"87d313092919dbaab6176bf3fbf7d27a","fullName":"client/src/pages/__tests__/patient-portal-hub.test.tsx#PatientPortalHubPage redirects an unknown section slug to notifications for a staff user","name":"redirects an unknown section slug to notifications for a staff user","status":"passed","testResultsByEnv":{"default":"09225e2a2610a071b8fcaddcc792e1d1"}}

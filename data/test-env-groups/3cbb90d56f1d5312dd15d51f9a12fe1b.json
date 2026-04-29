@@ -1,0 +1,1 @@
+{"id":"3cbb90d56f1d5312dd15d51f9a12fe1b","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 403 when order is cancelled","name":"returns 403 when order is cancelled","status":"passed","testResultsByEnv":{"default":"3110f6a4ee51aa86c2597e5e8dff11b4"}}

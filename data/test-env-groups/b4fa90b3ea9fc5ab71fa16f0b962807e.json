@@ -1,0 +1,1 @@
+{"id":"b4fa90b3ea9fc5ab71fa16f0b962807e","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getMultiplierForCategory defaults to commercial for unknown category","name":"defaults to commercial for unknown category","status":"passed","testResultsByEnv":{"default":"e2f223240fa4fb495bc86ce80ccb33db"}}

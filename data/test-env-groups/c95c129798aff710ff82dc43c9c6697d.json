@@ -1,0 +1,1 @@
+{"id":"c95c129798aff710ff82dc43c9c6697d","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should create initial message when attachments provided","name":"should create initial message when attachments provided","status":"passed","testResultsByEnv":{"default":"6b26bd92e2918167a4cfc0d75612e853"}}

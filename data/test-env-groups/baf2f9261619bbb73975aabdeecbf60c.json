@@ -1,0 +1,1 @@
+{"id":"baf2f9261619bbb73975aabdeecbf60c","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes POST /api/v1/labs should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"be88ec4685ec3036ffd5d8f96d085749"}}

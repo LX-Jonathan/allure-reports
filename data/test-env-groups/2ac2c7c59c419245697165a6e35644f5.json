@@ -1,0 +1,1 @@
+{"id":"2ac2c7c59c419245697165a6e35644f5","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/apply-mappings returns 400 on validation error - empty mappings array","name":"returns 400 on validation error - empty mappings array","status":"passed","testResultsByEnv":{"default":"390089fc9db62ebad5efb20d53ef3d5f"}}

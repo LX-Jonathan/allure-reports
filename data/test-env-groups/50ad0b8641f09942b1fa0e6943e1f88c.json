@@ -1,0 +1,1 @@
+{"id":"50ad0b8641f09942b1fa0e6943e1f88c","fullName":"server/lib/__tests__/reportCache.test.ts#registerWarmupHandler registers a handler with a TTL option","name":"registers a handler with a TTL option","status":"passed","testResultsByEnv":{"default":"8d872e6bd1fa106d2d9f642ad7c45baa"}}

@@ -1,0 +1,1 @@
+{"id":"851ddf2db57d7b81632b3edbe4434db9","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canViewBillingQueue chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"baf1f09cd719a66338f09655b85d2795"}}

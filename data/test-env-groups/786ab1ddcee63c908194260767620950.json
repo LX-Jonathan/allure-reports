@@ -1,0 +1,1 @@
+{"id":"786ab1ddcee63c908194260767620950","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log error body when present","name":"should log error body when present","status":"passed","testResultsByEnv":{"default":"c04e04cacb56223db889c17a81bd73b2"}}

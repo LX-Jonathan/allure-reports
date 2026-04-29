@@ -1,0 +1,1 @@
+{"id":"fda260efb805ce11c086648d9a34ce6e","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service retrieveCheckboxJSON should return null when artifact not found","name":"should return null when artifact not found","status":"passed","testResultsByEnv":{"default":"b6a18f77430de8f4e776648e873a9f33"}}

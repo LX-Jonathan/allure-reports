@@ -1,0 +1,1 @@
+{"id":"98ab6ea594a0170860bc22aa6ed188cf","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/lookup returns 400 when insurances array is empty","name":"returns 400 when insurances array is empty","status":"passed","testResultsByEnv":{"default":"ebada035c8aea6c6a68604c5fdea6900"}}

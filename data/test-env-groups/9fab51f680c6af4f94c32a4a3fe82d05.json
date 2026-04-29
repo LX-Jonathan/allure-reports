@@ -1,0 +1,1 @@
+{"id":"9fab51f680c6af4f94c32a4a3fe82d05","fullName":"server/routes/__tests__/patient-auth-sms.routes.test.ts#patient-auth SMS failure routes POST /phone-register should succeed when sendSms returns true in production","name":"should succeed when sendSms returns true in production","status":"passed","testResultsByEnv":{"default":"1a9be160c4ea92891b851a1b7fdc942b"}}

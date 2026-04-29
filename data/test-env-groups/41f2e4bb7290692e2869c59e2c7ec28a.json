@@ -1,0 +1,1 @@
+{"id":"41f2e4bb7290692e2869c59e2c7ec28a","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should omit patient name from description when null","name":"should omit patient name from description when null","status":"passed","testResultsByEnv":{"default":"692b43281e5d85e72ecfd476b5d26bcf"}}

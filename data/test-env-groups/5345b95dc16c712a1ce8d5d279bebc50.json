@@ -1,0 +1,1 @@
+{"id":"5345b95dc16c712a1ce8d5d279bebc50","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync clearBillingCache should clear cache chunks and metadata when Redis is configured","name":"should clear cache chunks and metadata when Redis is configured","status":"passed","testResultsByEnv":{"default":"0e57310bed7db68140d569d6095fb75f"}}

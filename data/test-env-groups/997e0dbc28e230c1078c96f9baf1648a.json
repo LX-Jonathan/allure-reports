@@ -1,0 +1,1 @@
+{"id":"997e0dbc28e230c1078c96f9baf1648a","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxy-invitations/:code/accept requires authentication","name":"requires authentication","status":"passed","testResultsByEnv":{"default":"f8c062c7cb547f0d33d1c0e9d324dfa7"}}

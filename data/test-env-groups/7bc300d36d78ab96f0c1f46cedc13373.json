@@ -1,0 +1,1 @@
+{"id":"7bc300d36d78ab96f0c1f46cedc13373","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware excluded paths should skip CSRF validation for excluded path: /api/v1/auth/register","name":"should skip CSRF validation for excluded path: /api/v1/auth/register","status":"passed","testResultsByEnv":{"default":"1760f9c01cfd71a1c350935aa5338f81"}}

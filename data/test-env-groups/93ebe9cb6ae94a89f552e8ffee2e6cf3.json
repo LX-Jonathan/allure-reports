@@ -1,0 +1,1 @@
+{"id":"93ebe9cb6ae94a89f552e8ffee2e6cf3","fullName":"client/src/components/__tests__/patient-page-hero.test.tsx#PatientPageHero falls back to default portal purple gradient when brandColor is invalid","name":"falls back to default portal purple gradient when brandColor is invalid","status":"passed","testResultsByEnv":{"default":"7e512e6ba0b624319b39a078ff6189e0"}}

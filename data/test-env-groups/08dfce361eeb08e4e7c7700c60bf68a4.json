@@ -1,0 +1,1 @@
+{"id":"08dfce361eeb08e4e7c7700c60bf68a4","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should register dashboard keys under the dashboard tag (scale-redis-keys)","name":"should register dashboard keys under the dashboard tag (scale-redis-keys)","status":"passed","testResultsByEnv":{"default":"e912150f3017f6b94fbc7884624709a7"}}

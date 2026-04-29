@@ -1,0 +1,1 @@
+{"id":"fdba3a9647e0632f6f2f0fc94d323381","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /fhir-connections/stats returns aggregated stats","name":"returns aggregated stats","status":"passed","testResultsByEnv":{"default":"a7428bf99b13f1f875ce240d2a7838a3"}}

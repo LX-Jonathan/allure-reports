@@ -1,0 +1,1 @@
+{"id":"20f2422a22da664f2335874f481eb138","fullName":"server/jobs/__tests__/mfa-enrollment-reminder.test.ts#runMfaEnrollmentReminderSweep counts users without an email address as skipped and never queues mail","name":"counts users without an email address as skipped and never queues mail","status":"passed","testResultsByEnv":{"default":"2c06befae4c8e1c04b202dc07f8aa6fb"}}

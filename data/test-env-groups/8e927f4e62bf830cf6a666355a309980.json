@@ -1,0 +1,1 @@
+{"id":"8e927f4e62bf830cf6a666355a309980","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Password Reset Tokens cleanupExpiredPasswordResetTokens should hard delete expired tokens","name":"should hard delete expired tokens","status":"passed","testResultsByEnv":{"default":"c4a6d290c10d6a4f687bb647324f471e"}}

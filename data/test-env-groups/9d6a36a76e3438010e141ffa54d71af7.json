@@ -1,0 +1,1 @@
+{"id":"9d6a36a76e3438010e141ffa54d71af7","fullName":"client/src/hooks/__tests__/useReadinessQueueDraft.test.tsx#useReadinessQueueDraft falls back to a default note when there are no issues and no readiness note","name":"falls back to a default note when there are no issues and no readiness note","status":"passed","testResultsByEnv":{"default":"d0ef04e4d0ac205def0674f9559e2e90"}}

@@ -1,0 +1,1 @@
+{"id":"3fe69718fa4bb9a5b4de05592d70595a","fullName":"client/src/hooks/__tests__/useMedNecessityState.test.ts#useMedNecessityState setError also clears loading","name":"setError also clears loading","status":"passed","testResultsByEnv":{"default":"8048b6fbd9f6fe91122c52d0e3f377a5"}}

@@ -1,0 +1,1 @@
+{"id":"ba33478aac85c9980c83f90683bc96b5","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /order/:orderId/detail returns order detail with all related data","name":"returns order detail with all related data","status":"passed","testResultsByEnv":{"default":"665c08b7630cb492e7581efa4bd5f7a2"}}

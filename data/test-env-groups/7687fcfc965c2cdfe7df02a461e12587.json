@@ -1,0 +1,1 @@
+{"id":"7687fcfc965c2cdfe7df02a461e12587","fullName":"client/src/hooks/__tests__/use-patient-insurance-status.test.ts#getInsuranceStatus flags missing insurance when only secondary insurance exists","name":"flags missing insurance when only secondary insurance exists","status":"passed","testResultsByEnv":{"default":"c52a5448af34381477b9a55369a4272b"}}

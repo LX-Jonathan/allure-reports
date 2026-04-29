@@ -1,0 +1,1 @@
+{"id":"4f00d92d6753b2d14bc38756819e4729","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related generateMRN should generate MRN with org prefix and padded number","name":"should generate MRN with org prefix and padded number","status":"passed","testResultsByEnv":{"default":"998b63c1da192fd91dbd4f36941f3b88"}}

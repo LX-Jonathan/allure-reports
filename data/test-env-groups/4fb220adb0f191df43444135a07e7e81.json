@@ -1,0 +1,1 @@
+{"id":"4fb220adb0f191df43444135a07e7e81","fullName":"server/lib/__tests__/auth.test.ts#auth generateAccessToken should generate JWT with correct payload","name":"should generate JWT with correct payload","status":"passed","testResultsByEnv":{"default":"901e383ae1bc2ffc56fdccef2578d559"}}

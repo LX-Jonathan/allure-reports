@@ -1,0 +1,1 @@
+{"id":"5e32bc21a95e55e80cf4f404fada8dcd","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /837/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"faad0fa5c8f8dbcc4ec78d36d8b7900f"}}

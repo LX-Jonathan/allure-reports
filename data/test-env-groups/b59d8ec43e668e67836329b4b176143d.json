@@ -1,0 +1,1 @@
+{"id":"b59d8ec43e668e67836329b4b176143d","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"77706cb6406ccfa4bf59d7f500ac2045"}}

@@ -1,0 +1,1 @@
+{"id":"ef893d89b9fe8becace125d294cedca9","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/read returns 200 when marking conversation as read","name":"returns 200 when marking conversation as read","status":"passed","testResultsByEnv":{"default":"a1c46149b2496588b09c9f9c2bdc49e3"}}

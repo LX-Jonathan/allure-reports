@@ -1,0 +1,1 @@
+{"id":"ff243cb9e1a4fe698e25477f98eda3ee","fullName":"server/services/__tests__/athenaSync.test.ts#helper function logic effectiveErrorType logic should fall back to adviceInfoRequest when others are empty","name":"should fall back to adviceInfoRequest when others are empty","status":"passed","testResultsByEnv":{"default":"8ea10b6d105cc0233ba88f9099bed93a"}}

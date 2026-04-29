@@ -1,0 +1,1 @@
+{"id":"82e57a1a38b669efe272b4914670716a","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware identifier extraction should use socket.remoteAddress as fallback","name":"should use socket.remoteAddress as fallback","status":"passed","testResultsByEnv":{"default":"535dfe504570082a75133c3c7cb5219e"}}

@@ -1,0 +1,1 @@
+{"id":"a492dfc2c5b418497aabf33ca76993c8","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/modifiers should return all CPT modifiers with categories","name":"should return all CPT modifiers with categories","status":"passed","testResultsByEnv":{"default":"b7cdca7fdd3496ffafbf7e7ea4847daf"}}

@@ -1,0 +1,1 @@
+{"id":"982d426df7005f0ed8f9aa4cc0e5b170","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 403 when labId does not match access filter","name":"returns 403 when labId does not match access filter","status":"passed","testResultsByEnv":{"default":"e494832cc6a5b0a503242526d45c9959"}}

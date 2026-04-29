@@ -1,0 +1,1 @@
+{"id":"d9fa67de7ad7382f940dbfe34a9807d4","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo-from-url returns 400 when url is not a string","name":"returns 400 when url is not a string","status":"passed","testResultsByEnv":{"default":"53cf8e8d10550b23eab5d3f335430e0a"}}

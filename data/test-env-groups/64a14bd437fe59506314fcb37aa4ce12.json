@@ -1,0 +1,1 @@
+{"id":"64a14bd437fe59506314fcb37aa4ce12","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify returns 400 when no saved key exists and no candidate supplied","name":"returns 400 when no saved key exists and no candidate supplied","status":"passed","testResultsByEnv":{"default":"6679f27d8b618080f08a1de6ebdac85a"}}

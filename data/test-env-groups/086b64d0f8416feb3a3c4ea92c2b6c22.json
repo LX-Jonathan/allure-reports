@@ -1,0 +1,1 @@
+{"id":"086b64d0f8416feb3a3c4ea92c2b6c22","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should use 'Cash Out' label for cash_out/paid_out","name":"should use 'Cash Out' label for cash_out/paid_out","status":"passed","testResultsByEnv":{"default":"083ed9acb209f086465391e080d45d4c"}}

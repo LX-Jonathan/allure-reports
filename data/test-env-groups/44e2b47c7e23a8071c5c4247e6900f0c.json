@@ -1,0 +1,1 @@
+{"id":"44e2b47c7e23a8071c5c4247e6900f0c","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PUT /api/v1/providers/my-signature (additional edge cases) returns 403 when user has no tenant","name":"returns 403 when user has no tenant","status":"passed","testResultsByEnv":{"default":"41cc18949322523db02b14c6ae8a69ab"}}

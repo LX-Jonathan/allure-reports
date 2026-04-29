@@ -1,0 +1,1 @@
+{"id":"94ca8ccbf3251af588051be03f89f9ee","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Password Reset Tokens markPasswordResetTokenAsUsed should set usedAt timestamp","name":"should set usedAt timestamp","status":"passed","testResultsByEnv":{"default":"92594624bd9ce98c2af1d94aaa6aed21"}}

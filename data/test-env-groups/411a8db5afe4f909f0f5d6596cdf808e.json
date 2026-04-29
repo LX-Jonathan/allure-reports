@@ -1,0 +1,1 @@
+{"id":"411a8db5afe4f909f0f5d6596cdf808e","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes PATCH /api/v1/fee-estimation/patient/:patientId/financial-info should return 401 when not authenticated","name":"should return 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"cb6d96753897d99d778c03f665017976"}}

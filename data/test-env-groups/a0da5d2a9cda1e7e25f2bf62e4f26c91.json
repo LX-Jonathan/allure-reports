@@ -1,0 +1,1 @@
+{"id":"a0da5d2a9cda1e7e25f2bf62e4f26c91","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/analytics/metrics should cap days at 30","name":"should cap days at 30","status":"passed","testResultsByEnv":{"default":"59769a19f47beddb667929b1eebef22e"}}

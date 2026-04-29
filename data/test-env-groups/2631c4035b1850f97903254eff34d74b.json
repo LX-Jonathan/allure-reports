@@ -1,0 +1,1 @@
+{"id":"2631c4035b1850f97903254eff34d74b","fullName":"server/middleware/__tests__/rateLimit.test.ts#sensitiveRateLimitMiddleware in-memory rate limiting should allow first request with 3 attempts limit","name":"should allow first request with 3 attempts limit","status":"passed","testResultsByEnv":{"default":"450a5952e04e184076ce1a7f453e2852"}}

@@ -1,0 +1,1 @@
+{"id":"3e74fb041f83e13b6caeaef1bac37f4b","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker should return worker instance when created successfully","name":"should return worker instance when created successfully","status":"passed","testResultsByEnv":{"default":"0a8898766b34550f910750a5e808d416"}}

@@ -1,0 +1,1 @@
+{"id":"383c506efdf0bf2b8a2d244b9748f404","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements checks fee schedule existence when hasPayerSchedule is omitted","name":"checks fee schedule existence when hasPayerSchedule is omitted","status":"passed","testResultsByEnv":{"default":"58aad14e115c392aff0d8e81fa8201e4"}}

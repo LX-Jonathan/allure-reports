@@ -1,0 +1,1 @@
+{"id":"61fac11320d8be603a794c21b6366450","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should authenticate via cookie token","name":"should authenticate via cookie token","status":"passed","testResultsByEnv":{"default":"d154226485e424e0accc840a49867e9e"}}

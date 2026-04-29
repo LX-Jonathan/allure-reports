@@ -1,0 +1,1 @@
+{"id":"2506f4c400057485a4ebeac69dd8ac40","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules returns 403 when location-level user lacks location access","name":"returns 403 when location-level user lacks location access","status":"passed","testResultsByEnv":{"default":"e38a88e32f7d6a8cd4b89c2ec80253f1"}}

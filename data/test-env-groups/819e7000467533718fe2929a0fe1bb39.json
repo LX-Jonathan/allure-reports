@@ -1,0 +1,1 @@
+{"id":"819e7000467533718fe2929a0fe1bb39","fullName":"server/services/__tests__/payment-application.test.ts#debitPatientAccount — wentNegative semantics positive → positive: wentNegative is false (balance stayed >= 0)","name":"positive → positive: wentNegative is false (balance stayed >= 0)","status":"passed","testResultsByEnv":{"default":"a4e2ba51a1f7a1c8f3b639c98e99a8f5"}}

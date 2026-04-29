@@ -1,0 +1,1 @@
+{"id":"6290bceb77e7c056973c8b4ed7400ff5","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit reuses the supplied executor instead of opening a new transaction","name":"reuses the supplied executor instead of opening a new transaction","status":"passed","testResultsByEnv":{"default":"54c1f7e93daea7665f8f7e6abe5be524"}}

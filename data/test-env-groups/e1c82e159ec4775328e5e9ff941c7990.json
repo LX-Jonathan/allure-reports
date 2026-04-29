@@ -1,0 +1,1 @@
+{"id":"e1c82e159ec4775328e5e9ff941c7990","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"4a32c9cee6ee43920e1af26a88a5e9bf"}}

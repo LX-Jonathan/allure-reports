@@ -1,0 +1,1 @@
+{"id":"105f6016f4229dc08cdb0c9816ead2b2","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes DELETE /api/v1/favorites/:id returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"6e654dc61fc01f9f458454dee4a3096a"}}

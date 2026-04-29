@@ -1,0 +1,1 @@
+{"id":"9d8c4a078d538f57a08e4ced6d876db6","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Lab Tests getAllLabTestsForExport should return all tests without filters","name":"should return all tests without filters","status":"passed","testResultsByEnv":{"default":"acd637fc8980aa9d6096edd42e0006a8"}}

@@ -1,0 +1,1 @@
+{"id":"aa04f523f236ee6fb0bcabc69770885c","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should run billing sync successfully when Athena is configured","name":"should run billing sync successfully when Athena is configured","status":"passed","testResultsByEnv":{"default":"3bd046a83491c5b3acbe8072bd2bbf17"}}

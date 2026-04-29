@@ -1,0 +1,1 @@
+{"id":"a1e89121c059d287a1f109d845205435","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore set should set session with default ttl when cookie has no maxAge","name":"should set session with default ttl when cookie has no maxAge","status":"passed","testResultsByEnv":{"default":"f0e9e33cedbf61a1b3fc8d36db6fe0af"}}

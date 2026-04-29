@@ -1,0 +1,1 @@
+{"id":"33947be855b7397e54464fdbf403decd","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes GET /api/v1/locations returns empty array for limited-access user without organization","name":"returns empty array for limited-access user without organization","status":"passed","testResultsByEnv":{"default":"2bd4cf70281c75611e6a975f72e05570"}}

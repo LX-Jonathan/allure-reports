@@ -1,0 +1,1 @@
+{"id":"e7e4a40ff5b4a4f36ae2ebed7d23364f","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/items/:itemId/result returns 400 when result is missing","name":"returns 400 when result is missing","status":"passed","testResultsByEnv":{"default":"6e10b769981e80eab7b726127483980c"}}

@@ -1,0 +1,1 @@
+{"id":"52b69202921eb06c1e7242fc135b66fa","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError every code in en.auth.login.serverErrors is registered in KNOWN_CODES","name":"every code in en.auth.login.serverErrors is registered in KNOWN_CODES","status":"passed","testResultsByEnv":{"default":"1388351267dd506fcd47d37ad55b6986"}}

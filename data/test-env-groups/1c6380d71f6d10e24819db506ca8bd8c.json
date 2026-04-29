@@ -1,0 +1,1 @@
+{"id":"1c6380d71f6d10e24819db506ca8bd8c","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#submitToPayer should handle patient not found and use Unknown patient name","name":"should handle patient not found and use Unknown patient name","status":"passed","testResultsByEnv":{"default":"ab3fab27b2ebcbe82d35d1d95a963bf9"}}

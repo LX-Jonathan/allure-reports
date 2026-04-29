@@ -1,0 +1,1 @@
+{"id":"25783496b777cd18429c2e04bade7b78","fullName":"server/lib/__tests__/auth.test.ts#auth verifyAccessToken should return payload for valid token","name":"should return payload for valid token","status":"passed","testResultsByEnv":{"default":"ccb2f76fea79106bca22c2d8a5c784dd"}}

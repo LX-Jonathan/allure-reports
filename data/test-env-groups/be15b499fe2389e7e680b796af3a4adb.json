@@ -1,0 +1,1 @@
+{"id":"be15b499fe2389e7e680b796af3a4adb","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: no_totp_enrollment","name":"es: no_totp_enrollment","status":"passed","testResultsByEnv":{"default":"1657a50fffe2b61d7ed3aba815121144"}}

@@ -1,0 +1,1 @@
+{"id":"0275193a81d43fd989eebdac86daca24","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service resolvePrice uses cms_fallback when fee schedules are empty but CMS returns a rate","name":"uses cms_fallback when fee schedules are empty but CMS returns a rate","status":"passed","testResultsByEnv":{"default":"b67e0f14a5547ae809984ef8b02a5591"}}

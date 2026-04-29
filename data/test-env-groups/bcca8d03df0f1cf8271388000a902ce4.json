@@ -1,0 +1,1 @@
+{"id":"bcca8d03df0f1cf8271388000a902ce4","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id should return 200 with ticket for super admin","name":"should return 200 with ticket for super admin","status":"passed","testResultsByEnv":{"default":"c8e2882085992ed5bb195c0dd2e0a5d8"}}

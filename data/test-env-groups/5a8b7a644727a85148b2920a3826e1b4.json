@@ -1,0 +1,1 @@
+{"id":"5a8b7a644727a85148b2920a3826e1b4","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: password_change_unavailable","name":"en: password_change_unavailable","status":"passed","testResultsByEnv":{"default":"668285012f7101fec613ecd6ba410f74"}}

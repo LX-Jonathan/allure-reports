@@ -1,0 +1,1 @@
+{"id":"5d10e0739cdb40204b82e3502e594840","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Import POST /api/v1/medications/import/:id/confirm returns 202 on successful confirmation","name":"returns 202 on successful confirmation","status":"passed","testResultsByEnv":{"default":"09f2e3adb53e2912d283ec9676fbea35"}}

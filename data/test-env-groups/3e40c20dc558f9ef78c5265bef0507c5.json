@@ -1,0 +1,1 @@
+{"id":"3e40c20dc558f9ef78c5265bef0507c5","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes PATCH /api/v1/fee-estimation/patient/:patientId/financial-info should return 500 on server error","name":"should return 500 on server error","status":"passed","testResultsByEnv":{"default":"131617f1affa25406423190a77940225"}}

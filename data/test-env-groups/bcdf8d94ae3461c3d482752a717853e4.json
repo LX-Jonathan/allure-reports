@@ -1,0 +1,1 @@
+{"id":"bcdf8d94ae3461c3d482752a717853e4","fullName":"client/src/stores/__tests__/dtcCartStore.test.ts#useDtcCartStore getItemCount returns 0 for empty cart","name":"returns 0 for empty cart","status":"passed","testResultsByEnv":{"default":"7b200a57499f1bcc841be6840f4ce6fe"}}

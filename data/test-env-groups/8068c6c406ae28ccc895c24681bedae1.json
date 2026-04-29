@@ -1,0 +1,1 @@
+{"id":"8068c6c406ae28ccc895c24681bedae1","fullName":"client/src/components/payments/__tests__/payment-detail-dialog.test.tsx#PaymentDetailDialog read-only view uses 'Refund in POS' label for refundable Stripe payments","name":"uses 'Refund in POS' label for refundable Stripe payments","status":"passed","testResultsByEnv":{"default":"9d7770047e8631d930677ab03dd627a2"}}

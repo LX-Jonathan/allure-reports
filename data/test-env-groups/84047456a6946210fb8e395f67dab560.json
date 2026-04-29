@@ -1,0 +1,1 @@
+{"id":"84047456a6946210fb8e395f67dab560","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary hides the 'OOP max nearly met' badge once the OOP max is fully met","name":"hides the 'OOP max nearly met' badge once the OOP max is fully met","status":"passed","testResultsByEnv":{"default":"3d5cead9a8beb23be971df1659878340"}}

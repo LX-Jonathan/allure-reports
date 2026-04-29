@@ -1,0 +1,1 @@
+{"id":"8b1d284bcac9d022dc1f71b77d6b5a6d","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canViewAuditLogs chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"17044fd83740ab55f75f773d01aac91a"}}

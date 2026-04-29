@@ -1,0 +1,1 @@
+{"id":"410073d9e28a049dffe1c8d099fddf66","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases PATCH /fee-schedules/:id allows partial updates with only isActive","name":"PATCH /fee-schedules/:id allows partial updates with only isActive","status":"passed","testResultsByEnv":{"default":"1420a21abe3a93534182a5f48657fa14"}}

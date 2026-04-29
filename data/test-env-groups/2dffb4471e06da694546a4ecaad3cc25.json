@@ -1,0 +1,1 @@
+{"id":"2dffb4471e06da694546a4ecaad3cc25","fullName":"server/replit_integrations/chat/__tests__/storage.test.ts#chatStorage createMessage should insert with correct conversationId, role, and content","name":"should insert with correct conversationId, role, and content","status":"passed","testResultsByEnv":{"default":"63ae771703e9aae254db6cc5e1a653c7"}}

@@ -1,0 +1,1 @@
+{"id":"59cb20dab336795c0a583e4c76c16861","fullName":"server/lib/__tests__/email.test.ts#email sendWelcomeEmail sends welcome email with correct subject","name":"sends welcome email with correct subject","status":"passed","testResultsByEnv":{"default":"82c21938158b74dd568c23e8b4e0058d"}}

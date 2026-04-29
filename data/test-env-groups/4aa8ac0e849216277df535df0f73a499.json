@@ -1,0 +1,1 @@
+{"id":"4aa8ac0e849216277df535df0f73a499","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id/link-user returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"e2746c55fd5251b9e203ccc0cc3cad91"}}

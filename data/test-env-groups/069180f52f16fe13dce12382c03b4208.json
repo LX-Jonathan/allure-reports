@@ -1,0 +1,1 @@
+{"id":"069180f52f16fe13dce12382c03b4208","fullName":"server/__tests__/stripeConfig.test.ts#stripeConfig module init from env constructs a Stripe client when STRIPE_SECRET_KEY is set in env","name":"constructs a Stripe client when STRIPE_SECRET_KEY is set in env","status":"passed","testResultsByEnv":{"default":"d69615c94a03c7390c0c0432e6bd20f5"}}

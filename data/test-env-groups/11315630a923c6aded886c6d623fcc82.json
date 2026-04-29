@@ -1,0 +1,1 @@
+{"id":"11315630a923c6aded886c6d623fcc82","fullName":"client/src/components/__tests__/working-patient-selector.test.tsx#WorkingPatientSelector calls setWorkingPatient when a result is selected","name":"calls setWorkingPatient when a result is selected","status":"passed","testResultsByEnv":{"default":"c4dda99f7e062dc4803ee3c342d70951"}}

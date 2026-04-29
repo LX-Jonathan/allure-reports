@@ -1,0 +1,1 @@
+{"id":"81939730d1f4fc57bcc57e7f022a95ef","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes POST /api/v1/patients/:patientId/documents returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"2cac8412bc81524821765880b64073f2"}}

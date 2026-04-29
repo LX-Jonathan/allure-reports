@@ -1,0 +1,1 @@
+{"id":"79a424401104a598d66cc19b026174a9","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations/:id/messages returns serialized messages","name":"returns serialized messages","status":"passed","testResultsByEnv":{"default":"af308d1236f3f906a36256bdbb4cb25d"}}

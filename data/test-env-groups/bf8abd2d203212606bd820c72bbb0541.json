@@ -1,0 +1,1 @@
+{"id":"bf8abd2d203212606bd820c72bbb0541","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy Error handling - DB rejections propagate updateOrg throws when db.update rejects","name":"updateOrg throws when db.update rejects","status":"passed","testResultsByEnv":{"default":"e328c6628fec606107f40727af11b5f5"}}

@@ -1,0 +1,1 @@
+{"id":"4469697111bf7a85c8d5f9f4e16ebaed","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes POST /api/v1/lxu/articles/:id/feedback returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"5a8a70fadbf125c502b88c9539d40a16"}}

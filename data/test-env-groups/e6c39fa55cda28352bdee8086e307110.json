@@ -1,0 +1,1 @@
+{"id":"e6c39fa55cda28352bdee8086e307110","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getOrderCount should return 0 when location-level user has no locations","name":"should return 0 when location-level user has no locations","status":"passed","testResultsByEnv":{"default":"6ff1dbd75ee86b95f2fbe068b1556b79"}}

@@ -1,0 +1,1 @@
+{"id":"bb36dcb0c84ac12a13aa14cb3f108680","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should require provider for signature-required orders","name":"should require provider for signature-required orders","status":"passed","testResultsByEnv":{"default":"761016dbe9bda8e748c50b719db9a236"}}

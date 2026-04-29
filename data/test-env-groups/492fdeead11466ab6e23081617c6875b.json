@@ -1,0 +1,1 @@
+{"id":"492fdeead11466ab6e23081617c6875b","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections - additional branches does not return options for non-gender select fields","name":"does not return options for non-gender select fields","status":"passed","testResultsByEnv":{"default":"269db6865b9cdc2481d019e445ab6777"}}

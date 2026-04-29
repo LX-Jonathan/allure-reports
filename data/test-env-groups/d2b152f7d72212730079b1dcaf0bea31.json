@@ -1,0 +1,1 @@
+{"id":"d2b152f7d72212730079b1dcaf0bea31","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth CSRF token header includes x-csrf-token header in sendCode when getCSRFToken returns a value","name":"includes x-csrf-token header in sendCode when getCSRFToken returns a value","status":"passed","testResultsByEnv":{"default":"e5a802dd15eda2e506e7cbf3775df073"}}

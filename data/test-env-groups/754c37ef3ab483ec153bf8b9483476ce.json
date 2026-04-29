@@ -1,0 +1,1 @@
+{"id":"754c37ef3ab483ec153bf8b9483476ce","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptCookieValue / decryptCookieValue returns plaintext unchanged when there is no colon","name":"returns plaintext unchanged when there is no colon","status":"passed","testResultsByEnv":{"default":"50512b9d59caf815062c9f9bf8b41807"}}

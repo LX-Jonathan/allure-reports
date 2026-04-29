@@ -1,0 +1,1 @@
+{"id":"02ab32a8103a8eb27e13bc4aec7dd37a","fullName":"server/__tests__/billing-list-patient-paid-aggregation.test.ts#Billing list patient-paid aggregation ignores payments with null orderId","name":"ignores payments with null orderId","status":"passed","testResultsByEnv":{"default":"6f7fd3fc17a629cc076a64a43ec4bfda"}}

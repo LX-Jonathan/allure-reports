@@ -1,0 +1,1 @@
+{"id":"479452ee4e18f229b7ec6f856e30f139","fullName":"server/lib/__tests__/labchatNotifications.test.ts#notifyPatientOfStaffLabchatReply honors the email opt-out and does not call sendEmail or render the template","name":"honors the email opt-out and does not call sendEmail or render the template","status":"passed","testResultsByEnv":{"default":"c2eaa861df2548482da3f8eb462058eb"}}

@@ -1,0 +1,1 @@
+{"id":"4552bea4dc968ff705b3cce53f3125dd","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /patients/export returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"85dad9e94f1feba337ff9ef36aec4b43"}}

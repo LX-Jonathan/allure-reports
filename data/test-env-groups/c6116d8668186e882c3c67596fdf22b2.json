@@ -1,0 +1,1 @@
+{"id":"c6116d8668186e882c3c67596fdf22b2","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/ai-enrich returns 500 when AI returns no parseable JSON array","name":"returns 500 when AI returns no parseable JSON array","status":"passed","testResultsByEnv":{"default":"fa2a6beec9da78fe82840f7078e5dcf1"}}

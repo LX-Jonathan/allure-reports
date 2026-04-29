@@ -1,0 +1,1 @@
+{"id":"e87db73216de6ff75ac2bc46cf6b395b","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerOpenJournal should include formatted float amount in description","name":"should include formatted float amount in description","status":"passed","testResultsByEnv":{"default":"90b390d5eb93f9566fb66397e17bac98"}}

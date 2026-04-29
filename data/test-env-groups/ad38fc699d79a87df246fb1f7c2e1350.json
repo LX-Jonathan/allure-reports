@@ -1,0 +1,1 @@
+{"id":"ad38fc699d79a87df246fb1f7c2e1350","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations returns existing terminal location if already registered","name":"returns existing terminal location if already registered","status":"passed","testResultsByEnv":{"default":"ffc510a2a85ab16c2b1bbd239dc2923c"}}

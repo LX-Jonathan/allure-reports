@@ -1,0 +1,1 @@
+{"id":"eac39472591d9560b0ceb38ebc862d7d","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should use default from email when not configured","name":"should use default from email when not configured","status":"passed","testResultsByEnv":{"default":"b6d61c1abe327a06bd65e2229f3fae05"}}

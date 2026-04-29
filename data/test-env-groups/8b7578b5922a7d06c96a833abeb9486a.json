@@ -1,0 +1,1 @@
+{"id":"8b7578b5922a7d06c96a833abeb9486a","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 400 for invalid patientId UUID","name":"returns 400 for invalid patientId UUID","status":"passed","testResultsByEnv":{"default":"9daa510ce9e895f6597515a3e50bef3f"}}

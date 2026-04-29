@@ -1,0 +1,1 @@
+{"id":"f80023bcb932ecf0fae59987c6c8fe9e","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended POST /api/v1/diagnosis-codes/suggest returns empty suggestions when no labId and codes match","name":"returns empty suggestions when no labId and codes match","status":"passed","testResultsByEnv":{"default":"48d517db776392ac51ac262962223fbb"}}

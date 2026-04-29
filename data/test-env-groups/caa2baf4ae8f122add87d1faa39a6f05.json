@@ -1,0 +1,1 @@
+{"id":"caa2baf4ae8f122add87d1faa39a6f05","fullName":"client/src/components/__tests__/patient-portal-layout.test.tsx#PatientPortalLayout Pay Now is wrapped in a Link to /patient/billing when no onNavigate","name":"Pay Now is wrapped in a Link to /patient/billing when no onNavigate","status":"passed","testResultsByEnv":{"default":"c3340afdbb1ddef179c393ca12ade028"}}

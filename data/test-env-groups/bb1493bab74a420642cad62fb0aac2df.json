@@ -1,0 +1,1 @@
+{"id":"bb1493bab74a420642cad62fb0aac2df","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET /api/v1/prior-authorizations/:id/notes omits legacy synthesis when clinicalNotes is empty","name":"omits legacy synthesis when clinicalNotes is empty","status":"passed","testResultsByEnv":{"default":"8f1dbbce901ec673a169749647b02e9e"}}

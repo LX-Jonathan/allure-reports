@@ -1,0 +1,1 @@
+{"id":"a9c1d833762ad76c69a4accf41611009","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders returns 400 when provider has no linked user for signature","name":"returns 400 when provider has no linked user for signature","status":"passed","testResultsByEnv":{"default":"83af32f681eaecd8215cbfd57f22bb28"}}

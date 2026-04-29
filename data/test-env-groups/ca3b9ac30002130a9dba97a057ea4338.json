@@ -1,0 +1,1 @@
+{"id":"ca3b9ac30002130a9dba97a057ea4338","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms phone number normalization should return false for phone number with fewer than 10 digits","name":"should return false for phone number with fewer than 10 digits","status":"passed","testResultsByEnv":{"default":"2f16a08fb5263dd5f28b287f3ec472bc"}}

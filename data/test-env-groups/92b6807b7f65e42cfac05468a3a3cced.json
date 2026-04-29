@@ -1,0 +1,1 @@
+{"id":"92b6807b7f65e42cfac05468a3a3cced","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF renders dashes for null payment method","name":"renders dashes for null payment method","status":"passed","testResultsByEnv":{"default":"2a226a9b2966fa95fedd5c3d0be15680"}}

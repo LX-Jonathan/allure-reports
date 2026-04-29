@@ -1,0 +1,1 @@
+{"id":"4abfe1097d0602278da1a3d9d5a84ce2","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePageImage should include jobId and pageNumber in metadata","name":"should include jobId and pageNumber in metadata","status":"passed","testResultsByEnv":{"default":"15c9b300e90f0073d6763066869e6100"}}

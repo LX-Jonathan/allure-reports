@@ -1,0 +1,1 @@
+{"id":"de4d7764d6e99c11bf9ee1c9d0bedd69","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes DELETE /api/v1/form-configs/:id returns 200 with success message for super admin","name":"returns 200 with success message for super admin","status":"passed","testResultsByEnv":{"default":"4d2e107824c85b14fae97bc7830c54f1"}}

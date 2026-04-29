@@ -1,0 +1,1 @@
+{"id":"35280670be65bf47d0792f469e6cb378","fullName":"client/src/components/check-in/__tests__/WalkInDialog.test.tsx#WalkInDialog omits address and insurance from the create payload when left empty","name":"omits address and insurance from the create payload when left empty","status":"passed","testResultsByEnv":{"default":"45756655507e0378c1fb3c6744b68a0f"}}

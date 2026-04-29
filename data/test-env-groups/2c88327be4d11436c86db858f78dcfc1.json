@@ -1,0 +1,1 @@
+{"id":"2c88327be4d11436c86db858f78dcfc1","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logPageComplete should not set cost when both tokens are 0 (falsy)","name":"should not set cost when both tokens are 0 (falsy)","status":"passed","testResultsByEnv":{"default":"255257f74b43d2eb7acbd63ff3b1c6d3"}}

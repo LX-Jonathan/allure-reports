@@ -1,0 +1,1 @@
+{"id":"8209dbf18080bad7e93d4e27ed39270f","fullName":"server/services/__tests__/payment-application.test.ts#syncCreditRefundForStripeRefund returns null and skips work when card refund amount is zero","name":"returns null and skips work when card refund amount is zero","status":"passed","testResultsByEnv":{"default":"005e7b8d3f602f53c93c47ee8573095c"}}

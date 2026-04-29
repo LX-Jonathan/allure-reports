@@ -1,0 +1,1 @@
+{"id":"79a73bfa2c8884a09406f867eb28db9e","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket sets isAuthenticated to false on failed authentication","name":"sets isAuthenticated to false on failed authentication","status":"passed","testResultsByEnv":{"default":"89efbefc268b6b04ba811681584d38c6"}}

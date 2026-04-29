@@ -1,0 +1,1 @@
+{"id":"55b0c376edaac77b4280ce7ec81c59d3","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Eligibility & Onboarding hasAcceptedTerms returns false when not accepted","name":"returns false when not accepted","status":"passed","testResultsByEnv":{"default":"8b294b57b4ed43f61da3d2196e1e7a5a"}}

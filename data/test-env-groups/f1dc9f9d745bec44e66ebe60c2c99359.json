@@ -1,0 +1,1 @@
+{"id":"f1dc9f9d745bec44e66ebe60c2c99359","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/schedules returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"19e22def568d0f0b4aca576eade35cc8"}}

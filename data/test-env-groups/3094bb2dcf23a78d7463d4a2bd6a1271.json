@@ -1,0 +1,1 @@
+{"id":"3094bb2dcf23a78d7463d4a2bd6a1271","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService updateSchedule returns null when report is not found","name":"returns null when report is not found","status":"passed","testResultsByEnv":{"default":"1922c95c5240f1ef481199fcd30770a2"}}

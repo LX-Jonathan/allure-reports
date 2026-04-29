@@ -1,0 +1,1 @@
+{"id":"16448e2b5ac8c8f658d795d328c37ae3","fullName":"server/lib/__tests__/labchatNotifications.test.ts#notifyPatientOfStaffLabchatReply skips SMS when the patient has no phone on file but still emails","name":"skips SMS when the patient has no phone on file but still emails","status":"passed","testResultsByEnv":{"default":"85ce4e18001964f6e45edf2429d77baf"}}

@@ -1,0 +1,1 @@
+{"id":"608cb4193fa00b9ec9babca9aaebc853","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance GET /:id/eligibility/:requestId returns 404 when the request is missing","name":"returns 404 when the request is missing","status":"passed","testResultsByEnv":{"default":"6b8599b49a66b99b734575e747651916"}}

@@ -1,0 +1,1 @@
+{"id":"236e1c92dcaaafef980db11ce26cc27b","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations updateUser throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"45d0b466fd582a8ba5890a62001e48bd"}}

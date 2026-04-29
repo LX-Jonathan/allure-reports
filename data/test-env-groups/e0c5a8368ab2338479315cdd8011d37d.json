@@ -1,0 +1,1 @@
+{"id":"e0c5a8368ab2338479315cdd8011d37d","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector filters locations by super-org when no org selected","name":"filters locations by super-org when no org selected","status":"passed","testResultsByEnv":{"default":"2a1fe58f1663bae4758399b527baa48b"}}

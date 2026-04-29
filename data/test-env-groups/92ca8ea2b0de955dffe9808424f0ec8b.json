@@ -1,0 +1,1 @@
+{"id":"92ca8ea2b0de955dffe9808424f0ec8b","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob - additional coverage should delete Redis file after final error (non-retryable)","name":"should delete Redis file after final error (non-retryable)","status":"passed","testResultsByEnv":{"default":"90327c7851ba988212727a95b59427c3"}}

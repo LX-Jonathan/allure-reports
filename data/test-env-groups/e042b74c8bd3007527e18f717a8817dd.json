@@ -1,0 +1,1 @@
+{"id":"e042b74c8bd3007527e18f717a8817dd","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - FRHC API Configs getFrhcApiConfigById should set hasPassword false when no password","name":"should set hasPassword false when no password","status":"passed","testResultsByEnv":{"default":"aa71ae625259d9902aade4a06edf32b2"}}

@@ -1,0 +1,1 @@
+{"id":"a2b21d112e2c7b336d0450cede028521","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processLocationRow should throw when name is missing","name":"should throw when name is missing","status":"passed","testResultsByEnv":{"default":"50dd0197b626a29653471e69d714aee5"}}

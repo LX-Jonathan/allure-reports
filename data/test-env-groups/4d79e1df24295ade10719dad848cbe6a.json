@@ -1,0 +1,1 @@
+{"id":"4d79e1df24295ade10719dad848cbe6a","fullName":"server/middleware/__tests__/auditTenantResolver.test.ts#auditTenantResolver canonicalizeResourceType maps singular and plural forms to a canonical key","name":"maps singular and plural forms to a canonical key","status":"passed","testResultsByEnv":{"default":"33ffe4c965b96f4bbc706d51abfa9f79"}}

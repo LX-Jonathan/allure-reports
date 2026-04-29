@@ -1,0 +1,1 @@
+{"id":"41e638dfa126558008d2b4b8a39a7872","fullName":"server/routes/__tests__/patient-auth-recovery-codes.routes.test.ts#patient-auth recovery codes POST /recovery-codes/generate returns 10 plaintext codes formatted as XXXXX-XXXXX","name":"returns 10 plaintext codes formatted as XXXXX-XXXXX","status":"passed","testResultsByEnv":{"default":"0944a3fdde27bbf93f01b4bcfc672777"}}

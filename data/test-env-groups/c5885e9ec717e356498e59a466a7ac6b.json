@@ -1,0 +1,1 @@
+{"id":"c5885e9ec717e356498e59a466a7ac6b","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes DELETE /api/v1/locations/:id returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"d10ff16dd72e45dd4842cc49784bb980"}}

@@ -1,0 +1,1 @@
+{"id":"62cd889c7a3199882424a5b819f2bed5","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id/unlink-user returns 200 on successful unlink","name":"returns 200 on successful unlink","status":"passed","testResultsByEnv":{"default":"f56285195025f1fc93a5523cf2ddabbb"}}

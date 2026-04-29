@@ -1,0 +1,1 @@
+{"id":"7537f1a9735d0e5a3b468ca2140c9d9c","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetchJson throws on non-ok response with error message","name":"throws on non-ok response with error message","status":"passed","testResultsByEnv":{"default":"b1f161b21683bc511950055a515961bb"}}

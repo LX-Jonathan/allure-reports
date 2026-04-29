@@ -1,0 +1,1 @@
+{"id":"f90b7c3b963c29f0f00900c13b5cd3a3","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject INSERT SQL keyword in filter","name":"should reject INSERT SQL keyword in filter","status":"passed","testResultsByEnv":{"default":"6f810ad64df4703cf3a40b9d1accc8e2"}}

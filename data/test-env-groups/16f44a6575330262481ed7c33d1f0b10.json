@@ -1,0 +1,1 @@
+{"id":"16f44a6575330262481ed7c33d1f0b10","fullName":"server/__tests__/reporting.service.test.ts#ReportingService buildReportAccessFilter (via executeReport) should return base filter for non-super admin","name":"should return base filter for non-super admin","status":"passed","testResultsByEnv":{"default":"7b5088372acb8e23fa7907be043036bd"}}

@@ -1,0 +1,1 @@
+{"id":"e01f7a1098b030244274860d9ad8502a","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/data-issues/:id returns 200 with issue data","name":"returns 200 with issue data","status":"passed","testResultsByEnv":{"default":"60d862cac0f849370886eed813b5f0d1"}}

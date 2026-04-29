@@ -1,0 +1,1 @@
+{"id":"6f1f9587f9ce3f9784fa9896a060cb38","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:patientId/insurance/:insuranceId returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"057b72fcf18b9f108994411d4b585592"}}

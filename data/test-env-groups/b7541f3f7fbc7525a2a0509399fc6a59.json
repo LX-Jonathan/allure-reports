@@ -1,0 +1,1 @@
+{"id":"b7541f3f7fbc7525a2a0509399fc6a59","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#getHeroImageWarnings returns an empty array when no image is provided","name":"returns an empty array when no image is provided","status":"passed","testResultsByEnv":{"default":"86d14163a20bd7f214cf1305efedef9a"}}

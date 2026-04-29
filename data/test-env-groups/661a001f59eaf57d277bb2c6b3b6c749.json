@@ -1,0 +1,1 @@
+{"id":"661a001f59eaf57d277bb2c6b3b6c749","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes PATCH /api/prompt-pay/:id returns 404 when discount not found","name":"returns 404 when discount not found","status":"passed","testResultsByEnv":{"default":"79a2e61fa988c03bb36f2261f3794aaf"}}

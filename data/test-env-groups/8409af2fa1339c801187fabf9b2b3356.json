@@ -1,0 +1,1 @@
+{"id":"8409af2fa1339c801187fabf9b2b3356","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageFormConfigs chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"81b1865326a1f209d9aa43a61ba63261"}}

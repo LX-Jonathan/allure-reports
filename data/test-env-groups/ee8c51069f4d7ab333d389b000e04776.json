@@ -1,0 +1,1 @@
+{"id":"ee8c51069f4d7ab333d389b000e04776","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda formatCollectionDateForAndromeda should format a Date object to yyyyMMddHHmmss","name":"should format a Date object to yyyyMMddHHmmss","status":"passed","testResultsByEnv":{"default":"592317d3d5d2b5d8449629651d413b53"}}

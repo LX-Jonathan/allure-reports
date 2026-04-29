@@ -1,0 +1,1 @@
+{"id":"35492b89e27ddf1bc597c833a8fa94ba","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should fail when SendGrid API key is not configured","name":"should fail when SendGrid API key is not configured","status":"passed","testResultsByEnv":{"default":"2f9abe97cdbbe3238ef9a0d380ae1f7f"}}

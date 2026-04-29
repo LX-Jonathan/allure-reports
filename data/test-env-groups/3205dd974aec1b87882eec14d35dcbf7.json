@@ -1,0 +1,1 @@
+{"id":"3205dd974aec1b87882eec14d35dcbf7","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService memoize should return cached value on subsequent calls","name":"should return cached value on subsequent calls","status":"passed","testResultsByEnv":{"default":"1571864eda00148b397e9e0820dad467"}}

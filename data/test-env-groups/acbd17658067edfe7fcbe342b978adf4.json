@@ -1,0 +1,1 @@
+{"id":"acbd17658067edfe7fcbe342b978adf4","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service searchClfsCodes returns empty array when no match","name":"returns empty array when no match","status":"passed","testResultsByEnv":{"default":"e991663c8ea76e92a8daf591b08cef58"}}

@@ -1,0 +1,1 @@
+{"id":"55f89ae364783278287d006a7dc67cc2","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker event handlers should log error in error event handler","name":"should log error in error event handler","status":"passed","testResultsByEnv":{"default":"a210252fa47e75b2d1d910f73700fe56"}}

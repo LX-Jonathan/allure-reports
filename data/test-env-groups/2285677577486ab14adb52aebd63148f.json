@@ -1,0 +1,1 @@
+{"id":"2285677577486ab14adb52aebd63148f","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should throw when imageBuffer is null/undefined","name":"should throw when imageBuffer is null/undefined","status":"passed","testResultsByEnv":{"default":"a299f01b7d86a3e37c67112c63c538e6"}}

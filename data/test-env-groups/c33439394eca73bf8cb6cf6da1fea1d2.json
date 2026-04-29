@@ -1,0 +1,1 @@
+{"id":"c33439394eca73bf8cb6cf6da1fea1d2","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import/:id/confirm returns 500 when job queue fails","name":"returns 500 when job queue fails","status":"passed","testResultsByEnv":{"default":"a42b31ec8a41851a7e57672661baa913"}}

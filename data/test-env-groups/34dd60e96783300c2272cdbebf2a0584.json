@@ -1,0 +1,1 @@
+{"id":"34dd60e96783300c2272cdbebf2a0584","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Public Pre-Registration Routes GET /api/v1/public/pre-registration/:linkCode returns 400 when link is inactive","name":"returns 400 when link is inactive","status":"passed","testResultsByEnv":{"default":"39d51960056fae72bf9ecabe3c6046ae"}}

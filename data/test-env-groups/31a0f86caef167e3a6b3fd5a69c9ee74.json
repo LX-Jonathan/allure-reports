@@ -1,0 +1,1 @@
+{"id":"31a0f86caef167e3a6b3fd5a69c9ee74","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findManyPaginated should calculate correct pagination metadata","name":"should calculate correct pagination metadata","status":"passed","testResultsByEnv":{"default":"499e74b7b1f3954866e9bb129e57fdc9"}}

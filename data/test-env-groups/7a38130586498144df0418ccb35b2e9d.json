@@ -1,0 +1,1 @@
+{"id":"7a38130586498144df0418ccb35b2e9d","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service getCircuitBreakerMetrics should return stats from the breaker instance","name":"should return stats from the breaker instance","status":"passed","testResultsByEnv":{"default":"b8e84359864c59fb623fb5b4d1c20b2f"}}

@@ -1,0 +1,1 @@
+{"id":"743fd74e549aee50f54fe225576e088a","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status (with BullMQ enabled) returns job statuses with BullMQ configured","name":"returns job statuses with BullMQ configured","status":"passed","testResultsByEnv":{"default":"6f1a61bfac92ca3a1307a711a8aa01d9"}}

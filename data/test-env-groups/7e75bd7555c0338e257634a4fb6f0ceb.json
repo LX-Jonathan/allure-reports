@@ -1,0 +1,1 @@
+{"id":"7e75bd7555c0338e257634a4fb6f0ceb","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextFromMultiplePages should handle empty array without divide-by-zero","name":"should handle empty array without divide-by-zero","status":"passed","testResultsByEnv":{"default":"c185f78f7e13df50f14e798f55280fba"}}

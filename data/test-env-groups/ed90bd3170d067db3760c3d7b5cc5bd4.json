@@ -1,0 +1,1 @@
+{"id":"ed90bd3170d067db3760c3d7b5cc5bd4","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker error handling should log error message on failure","name":"should log error message on failure","status":"passed","testResultsByEnv":{"default":"cc28d432e6feb474d6047658e407dd0c"}}

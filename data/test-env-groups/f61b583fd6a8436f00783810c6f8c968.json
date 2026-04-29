@@ -1,0 +1,1 @@
+{"id":"f61b583fd6a8436f00783810c6f8c968","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /837/:id/lines/:lineId deletes the line","name":"deletes the line","status":"passed","testResultsByEnv":{"default":"29d3a81b8d04c2ba6841071242e978ef"}}

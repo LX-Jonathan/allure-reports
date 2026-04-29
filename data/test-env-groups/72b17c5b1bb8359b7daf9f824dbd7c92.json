@@ -1,0 +1,1 @@
+{"id":"72b17c5b1bb8359b7daf9f824dbd7c92","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/ai-health-insights returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"372eda03ebbfeda3d152ad93a6645841"}}

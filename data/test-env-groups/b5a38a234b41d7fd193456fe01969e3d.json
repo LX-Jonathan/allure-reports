@@ -1,0 +1,1 @@
+{"id":"b5a38a234b41d7fd193456fe01969e3d","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#MarketplaceEditorPage gallery URL add + position insertion disables the Add URL button when input is empty","name":"disables the Add URL button when input is empty","status":"passed","testResultsByEnv":{"default":"80df78c65e00fa0eda8908bca5ba6e45"}}

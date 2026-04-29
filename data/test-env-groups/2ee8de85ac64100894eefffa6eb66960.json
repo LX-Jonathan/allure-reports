@@ -1,0 +1,1 @@
+{"id":"2ee8de85ac64100894eefffa6eb66960","fullName":"server/lib/__tests__/staff-notifications.test.ts#recordStaffNotifications swallows emit failures so a flaky socket adapter never breaks callers","name":"swallows emit failures so a flaky socket adapter never breaks callers","status":"passed","testResultsByEnv":{"default":"b6fb622182b1129b3307375d4f5dda64"}}

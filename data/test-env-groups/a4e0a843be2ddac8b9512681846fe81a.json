@@ -1,0 +1,1 @@
+{"id":"a4e0a843be2ddac8b9512681846fe81a","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service formatLog should include timestamp and level in output","name":"should include timestamp and level in output","status":"passed","testResultsByEnv":{"default":"7be201f989dc4ce8a847b97b23450385"}}

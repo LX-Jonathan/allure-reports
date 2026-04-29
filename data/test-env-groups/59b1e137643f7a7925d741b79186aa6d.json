@@ -1,0 +1,1 @@
+{"id":"59b1e137643f7a7925d741b79186aa6d","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId/messages/:messageId/file returns 404 when message has no file key","name":"returns 404 when message has no file key","status":"passed","testResultsByEnv":{"default":"68bce9138da6b3832d24964858f6ed58"}}

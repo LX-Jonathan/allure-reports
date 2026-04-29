@@ -1,0 +1,1 @@
+{"id":"53c51735ed2528f7886d69f51ae42400","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService submitAuthorization returns a fallback result when Anthropic is not configured","name":"returns a fallback result when Anthropic is not configured","status":"passed","testResultsByEnv":{"default":"1192e5473a0d044a53d52eb39ab6e4c3"}}

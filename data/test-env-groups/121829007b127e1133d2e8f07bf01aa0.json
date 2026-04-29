@@ -1,0 +1,1 @@
+{"id":"121829007b127e1133d2e8f07bf01aa0","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness overall readiness and scoring should set queueItemId from queue item","name":"should set queueItemId from queue item","status":"passed","testResultsByEnv":{"default":"56eeeaf731f0ca9b55133bfbc88dcd50"}}

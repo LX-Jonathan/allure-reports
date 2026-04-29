@@ -1,0 +1,1 @@
+{"id":"702c8e61edf2280dc02fa535e9a14d0f","fullName":"client/src/components/patient/__tests__/eligibility-verification-detail-dialog.test.tsx#EligibilityVerificationDetailDialog renders nothing when verification is null","name":"renders nothing when verification is null","status":"passed","testResultsByEnv":{"default":"f4876aab3a192d0f31fe6e3b761a0848"}}

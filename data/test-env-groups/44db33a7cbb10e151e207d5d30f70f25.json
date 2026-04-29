@@ -1,0 +1,1 @@
+{"id":"44db33a7cbb10e151e207d5d30f70f25","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions getRoleByName should return role when found by name","name":"should return role when found by name","status":"passed","testResultsByEnv":{"default":"ce26468297efcf3929cb90a92631e3f5"}}

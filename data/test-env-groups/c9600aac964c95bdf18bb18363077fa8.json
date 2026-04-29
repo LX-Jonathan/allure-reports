@@ -1,0 +1,1 @@
+{"id":"c9600aac964c95bdf18bb18363077fa8","fullName":"server/lib/__tests__/logger.test.ts#logger log levels should write error to console.error","name":"should write error to console.error","status":"passed","testResultsByEnv":{"default":"878ad68457fd86151a482d8664014d67"}}

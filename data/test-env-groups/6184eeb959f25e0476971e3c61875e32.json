@@ -1,0 +1,1 @@
+{"id":"6184eeb959f25e0476971e3c61875e32","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"4f131eada9a70f7bc4f40a47a9c1b9a6"}}

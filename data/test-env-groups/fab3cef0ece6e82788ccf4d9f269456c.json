@@ -1,0 +1,1 @@
+{"id":"fab3cef0ece6e82788ccf4d9f269456c","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts decodePatientToken should return null for invalid token","name":"should return null for invalid token","status":"passed","testResultsByEnv":{"default":"f65e51a21433edf2a0286b0f819307b0"}}

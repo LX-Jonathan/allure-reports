@@ -1,0 +1,1 @@
+{"id":"6bf6d154cdda2c71e5967bc3f4eae97d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"ce82e7efaa54b2e7f292783ccb217bf1"}}

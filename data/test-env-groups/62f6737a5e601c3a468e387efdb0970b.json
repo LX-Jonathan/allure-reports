@@ -1,0 +1,1 @@
+{"id":"62f6737a5e601c3a468e387efdb0970b","fullName":"server/__tests__/static.test.ts#serveStatic static middleware setup should call app.use twice (static and fallback)","name":"should call app.use twice (static and fallback)","status":"passed","testResultsByEnv":{"default":"0cb0b45cdf9c313d4d176f11d1236a19"}}

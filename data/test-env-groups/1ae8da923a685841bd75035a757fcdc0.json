@@ -1,0 +1,1 @@
+{"id":"1ae8da923a685841bd75035a757fcdc0","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern in-memory cache should delete keys matching labId pattern","name":"should delete keys matching labId pattern","status":"passed","testResultsByEnv":{"default":"b836f5f3316d25348f8e786a8ce46e3a"}}

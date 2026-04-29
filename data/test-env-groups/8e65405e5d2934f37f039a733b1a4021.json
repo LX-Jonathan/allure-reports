@@ -1,0 +1,1 @@
+{"id":"8e65405e5d2934f37f039a733b1a4021","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check-async returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"6c09d7b2b31670f1c497915d68dda310"}}

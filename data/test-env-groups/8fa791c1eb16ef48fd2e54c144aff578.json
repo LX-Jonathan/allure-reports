@@ -1,0 +1,1 @@
+{"id":"8fa791c1eb16ef48fd2e54c144aff578","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/favorites returns list of favorites for authenticated user","name":"returns list of favorites for authenticated user","status":"passed","testResultsByEnv":{"default":"f4cdd605a47fb1e333ef670d62623151"}}

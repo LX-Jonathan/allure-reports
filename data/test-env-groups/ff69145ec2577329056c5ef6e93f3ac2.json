@@ -1,0 +1,1 @@
+{"id":"ff69145ec2577329056c5ef6e93f3ac2","fullName":"client/src/pages/__tests__/stripe-payment-config.test.tsx#StripePaymentConfigPage verify-failure health banner 'Verify now' triggers a saved-key verify request","name":"'Verify now' triggers a saved-key verify request","status":"passed","testResultsByEnv":{"default":"7827c3226a93c6d5595d3ea6ac65cffa"}}

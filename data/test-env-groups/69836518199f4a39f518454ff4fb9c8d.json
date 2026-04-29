@@ -1,0 +1,1 @@
+{"id":"69836518199f4a39f518454ff4fb9c8d","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord medications should map medication entries","name":"should map medication entries","status":"passed","testResultsByEnv":{"default":"148012a35d115937e3bdc1fd5a46f188"}}

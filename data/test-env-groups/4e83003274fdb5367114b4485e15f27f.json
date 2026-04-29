@@ -1,0 +1,1 @@
+{"id":"4e83003274fdb5367114b4485e15f27f","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /templates returns 400 for invalid data","name":"returns 400 for invalid data","status":"passed","testResultsByEnv":{"default":"2e876d74ce7622d3667544bbc9f8e6bc"}}

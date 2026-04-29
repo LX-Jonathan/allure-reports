@@ -1,0 +1,1 @@
+{"id":"4a10009e577881f293f4dff8aceceec6","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError uses the singular form for invalid_code with attemptsRemaining=1 (English)","name":"uses the singular form for invalid_code with attemptsRemaining=1 (English)","status":"passed","testResultsByEnv":{"default":"51428355c6eada5ed8fe406b390fe2d9"}}

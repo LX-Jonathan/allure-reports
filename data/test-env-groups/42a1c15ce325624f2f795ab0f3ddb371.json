@@ -1,0 +1,1 @@
+{"id":"42a1c15ce325624f2f795ab0f3ddb371","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth token refresh lifecycle stops token refresh when not authenticated","name":"stops token refresh when not authenticated","status":"passed","testResultsByEnv":{"default":"e21b2ed0a9f37a47c1486ae16b022d9a"}}

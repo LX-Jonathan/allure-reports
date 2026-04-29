@@ -1,0 +1,1 @@
+{"id":"256736239f0a79bb2776be75cd6abfe6","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment parses only width when LABEL LENGTH is missing","name":"checkEnvironment parses only width when LABEL LENGTH is missing","status":"passed","testResultsByEnv":{"default":"af6db62eebff4a22107435b93f0f2b7e"}}

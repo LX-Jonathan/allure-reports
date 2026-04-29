@@ -1,0 +1,1 @@
+{"id":"1285a6c6c04ff410daa0ac7f2e06d2c1","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"91527fb75f39d3006626b987944e15c2"}}

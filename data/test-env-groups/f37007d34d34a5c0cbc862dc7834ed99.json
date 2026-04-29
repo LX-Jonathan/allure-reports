@@ -1,0 +1,1 @@
+{"id":"f37007d34d34a5c0cbc862dc7834ed99","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent returns 400 when amount is missing","name":"returns 400 when amount is missing","status":"passed","testResultsByEnv":{"default":"47ba538b236fd956559610966d0a078f"}}

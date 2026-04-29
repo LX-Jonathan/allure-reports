@@ -1,0 +1,1 @@
+{"id":"c77dd7bc8d5c0a7d31c035377f5e0da4","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts isStrongPassword should return all errors for completely weak password","name":"should return all errors for completely weak password","status":"passed","testResultsByEnv":{"default":"89d0f99d324ef38d8c8ca76803ab325d"}}

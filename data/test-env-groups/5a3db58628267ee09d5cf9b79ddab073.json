@@ -1,0 +1,1 @@
+{"id":"5a3db58628267ee09d5cf9b79ddab073","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo-from-url returns 400 when url is missing","name":"returns 400 when url is missing","status":"passed","testResultsByEnv":{"default":"625f643d67f1a60269e4c66f00d7dbcc"}}

@@ -1,0 +1,1 @@
+{"id":"4e01b39c137883e1d7a6d74aff03c7a2","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/frhc-api-configs returns 400 for invalid query params","name":"returns 400 for invalid query params","status":"passed","testResultsByEnv":{"default":"0c90c172cdd9e2b69962b84ef02d1b66"}}

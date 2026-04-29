@@ -1,0 +1,1 @@
+{"id":"8dc5ad8cc1ccdf4a3c5fc2c89364b6bc","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 403 for unauthorized role (viewer)","name":"returns 403 for unauthorized role (viewer)","status":"passed","testResultsByEnv":{"default":"19e05c6943b5e3e913ca21d129fa9f8b"}}

@@ -1,0 +1,1 @@
+{"id":"03619161749cc2c5f90910c4622e898f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should return null when amount is 0","name":"should return null when amount is 0","status":"passed","testResultsByEnv":{"default":"d7f77774fefe458ea06013462094c84e"}}

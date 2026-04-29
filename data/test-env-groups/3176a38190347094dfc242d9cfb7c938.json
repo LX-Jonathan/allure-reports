@@ -1,0 +1,1 @@
+{"id":"3176a38190347094dfc242d9cfb7c938","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/sources/:sourceId returns 400 when not configured","name":"returns 400 when not configured","status":"passed","testResultsByEnv":{"default":"40e75eb9a93cc5dfb54352085cd4dd4a"}}

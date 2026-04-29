@@ -1,0 +1,1 @@
+{"id":"381caaa339c66564288103b82bff8e44","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should save user message to storage","name":"should save user message to storage","status":"passed","testResultsByEnv":{"default":"fd5557b6c78620034b0b79505638beee"}}

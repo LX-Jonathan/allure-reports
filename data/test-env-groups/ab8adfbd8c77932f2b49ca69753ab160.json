@@ -1,0 +1,1 @@
+{"id":"ab8adfbd8c77932f2b49ca69753ab160","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner handles NotFoundException silently during scanning","name":"handles NotFoundException silently during scanning","status":"passed","testResultsByEnv":{"default":"344da9d7248c7885d43fc0289f7b231e"}}

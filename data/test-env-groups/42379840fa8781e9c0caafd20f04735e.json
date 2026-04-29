@@ -1,0 +1,1 @@
+{"id":"42379840fa8781e9c0caafd20f04735e","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance DELETE /:id/insurances/:insuranceId returns 404 when the check-in does not exist","name":"returns 404 when the check-in does not exist","status":"passed","testResultsByEnv":{"default":"721079389053ea7db34f2a06e6b22e44"}}

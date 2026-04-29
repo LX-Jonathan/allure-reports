@@ -1,0 +1,1 @@
+{"id":"71cb6769b66c0456d5e9345ad67c2957","fullName":"client/src/lib/__tests__/printGoodFaithEstimate.test.ts#printGoodFaithEstimate returns null when the window cannot be opened","name":"returns null when the window cannot be opened","status":"passed","testResultsByEnv":{"default":"4b790771411a2c9a435463c90a0584ac"}}

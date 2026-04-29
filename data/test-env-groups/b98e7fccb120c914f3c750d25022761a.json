@@ -1,0 +1,1 @@
+{"id":"b98e7fccb120c914f3c750d25022761a","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: invalid_refresh_token","name":"en: invalid_refresh_token","status":"passed","testResultsByEnv":{"default":"1ada0263a5d7e77ed1eec777837b0dbf"}}

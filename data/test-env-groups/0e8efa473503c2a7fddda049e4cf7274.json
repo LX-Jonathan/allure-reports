@@ -1,0 +1,1 @@
+{"id":"0e8efa473503c2a7fddda049e4cf7274","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Appointments getAppointmentByBarcode returns undefined when not found","name":"returns undefined when not found","status":"passed","testResultsByEnv":{"default":"20539b9ad0ffbeca8235d4f12073fd77"}}

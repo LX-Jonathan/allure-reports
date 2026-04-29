@@ -1,0 +1,1 @@
+{"id":"1dd46440aa8d3d45e373561a4c6b6662","fullName":"server/services/__tests__/payment-application.test.ts#debitPatientAccount — wentNegative semantics writes a debit ledger entry tagged with the supplied source/meta","name":"writes a debit ledger entry tagged with the supplied source/meta","status":"passed","testResultsByEnv":{"default":"a5db7c27941e4e93f03f4238afdfb2fd"}}

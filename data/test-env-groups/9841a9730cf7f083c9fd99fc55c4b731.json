@@ -1,0 +1,1 @@
+{"id":"9841a9730cf7f083c9fd99fc55c4b731","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postRefundJournal should return null when amount is 0","name":"should return null when amount is 0","status":"passed","testResultsByEnv":{"default":"4ce377b1e274cfc15d8d76223684ccae"}}

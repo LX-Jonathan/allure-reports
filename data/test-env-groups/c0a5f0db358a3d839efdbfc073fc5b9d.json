@@ -1,0 +1,1 @@
+{"id":"c0a5f0db358a3d839efdbfc073fc5b9d","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/:slug/inquiries returns 400 when contact form not enabled","name":"returns 400 when contact form not enabled","status":"passed","testResultsByEnv":{"default":"b019d7084921b56f187fb234538ac388"}}

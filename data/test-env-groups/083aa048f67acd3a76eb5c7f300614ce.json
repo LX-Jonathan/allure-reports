@@ -1,0 +1,1 @@
+{"id":"083aa048f67acd3a76eb5c7f300614ce","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 400 when patient has no portal account","name":"returns 400 when patient has no portal account","status":"passed","testResultsByEnv":{"default":"0bf436ed46350e19233e10bf3df6cf91"}}

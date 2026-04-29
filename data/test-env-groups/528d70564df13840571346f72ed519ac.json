@@ -1,0 +1,1 @@
+{"id":"528d70564df13840571346f72ed519ac","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/discovery returns 400 when insurance service disabled for org context","name":"returns 400 when insurance service disabled for org context","status":"passed","testResultsByEnv":{"default":"800106fef53fc8e2cb0be94dab4da9ff"}}

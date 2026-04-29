@@ -1,0 +1,1 @@
+{"id":"5c573c31d18f8bffd39968cab1ad5f39","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanItemJobs should add multiple jobs in bulk when queue is available","name":"should add multiple jobs in bulk when queue is available","status":"passed","testResultsByEnv":{"default":"b286fda2fb3ea7924172602701bccb20"}}

@@ -1,0 +1,1 @@
+{"id":"885d11e50ef73b6314317a8e5363c785","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules returns 500 when storage throws an error","name":"returns 500 when storage throws an error","status":"passed","testResultsByEnv":{"default":"0543dba897a4e47edb36ca9bfba2850b"}}

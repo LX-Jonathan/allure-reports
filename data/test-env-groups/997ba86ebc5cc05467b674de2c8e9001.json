@@ -1,0 +1,1 @@
+{"id":"997ba86ebc5cc05467b674de2c8e9001","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports/:id/schedules returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"67660a6cbde37e0641ded4360a81f186"}}

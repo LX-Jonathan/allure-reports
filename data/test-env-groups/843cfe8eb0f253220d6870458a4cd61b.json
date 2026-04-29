@@ -1,0 +1,1 @@
+{"id":"843cfe8eb0f253220d6870458a4cd61b","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"72bdc63e891bb61d0f5318080fccf70e"}}

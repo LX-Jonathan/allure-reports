@@ -1,0 +1,1 @@
+{"id":"14cad9771b8d0cb6e6b558c52f2f9c4e","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/plans returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"b9c2d9ee22b7af5b2078909b9d35b663"}}

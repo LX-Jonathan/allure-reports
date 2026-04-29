@@ -1,0 +1,1 @@
+{"id":"c6c65fcc225893d8038cfd5b73804e02","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply sharpen with sigma 1.0 when option is true","name":"should apply sharpen with sigma 1.0 when option is true","status":"passed","testResultsByEnv":{"default":"14366dc62baafa75a47284fe19a13819"}}

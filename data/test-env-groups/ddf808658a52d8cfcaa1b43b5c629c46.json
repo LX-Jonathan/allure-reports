@@ -1,0 +1,1 @@
+{"id":"ddf808658a52d8cfcaa1b43b5c629c46","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth Replit OIDC session-based auth should handle missing role name with empty string","name":"should handle missing role name with empty string","status":"passed","testResultsByEnv":{"default":"07884d35add390d4a6f699a284cc142f"}}

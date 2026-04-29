@@ -1,0 +1,1 @@
+{"id":"e1ee06e5fbba5df1a0ac57dfd66b97e9","fullName":"client/src/lib/__tests__/return-to.test.ts#buildLoginLink / buildRegisterLink appends encoded next when returnTo is safe","name":"appends encoded next when returnTo is safe","status":"passed","testResultsByEnv":{"default":"235db858af622304a9668b9c1456ed22"}}

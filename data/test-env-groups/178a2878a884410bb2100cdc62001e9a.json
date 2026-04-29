@@ -1,0 +1,1 @@
+{"id":"178a2878a884410bb2100cdc62001e9a","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag missing first name as error","name":"should flag missing first name as error","status":"passed","testResultsByEnv":{"default":"c666c23ff2a83fdba445aff3071cb332"}}

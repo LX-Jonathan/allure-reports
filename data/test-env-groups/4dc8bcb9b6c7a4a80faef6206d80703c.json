@@ -1,0 +1,1 @@
+{"id":"4dc8bcb9b6c7a4a80faef6206d80703c","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/ai-enrich returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"9061b301b216777e10ec5fdec47cac23"}}

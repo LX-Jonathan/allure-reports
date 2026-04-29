@@ -1,0 +1,1 @@
+{"id":"0a4a6a0332b555e97751d9b35ec2e5bd","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware optionalAuth JWT-based auth should continue without user when no token provided","name":"should continue without user when no token provided","status":"passed","testResultsByEnv":{"default":"4d938a4fb3e1dc65cace567fa731d685"}}

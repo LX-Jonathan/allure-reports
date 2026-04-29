@@ -1,0 +1,1 @@
+{"id":"eedfc21c34a94faed9f3c8aaa8401901","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetchJson throws fallback message when error response has no JSON","name":"throws fallback message when error response has no JSON","status":"passed","testResultsByEnv":{"default":"4caa8b6e65c0f7b9d72c710fdf653133"}}

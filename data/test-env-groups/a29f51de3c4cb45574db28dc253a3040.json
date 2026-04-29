@@ -1,0 +1,1 @@
+{"id":"a29f51de3c4cb45574db28dc253a3040","fullName":"server/lib/__tests__/logger.test.ts#logger getConfiguredLevel — NODE_ENV fallback (no LOG_LEVEL set) uses 'info' when NODE_ENV=production — debug logs are suppressed","name":"uses 'info' when NODE_ENV=production — debug logs are suppressed","status":"passed","testResultsByEnv":{"default":"f531c81e435a7057a99a3833c4cbb0c3"}}

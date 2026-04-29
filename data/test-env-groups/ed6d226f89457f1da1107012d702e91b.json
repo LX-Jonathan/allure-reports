@@ -1,0 +1,1 @@
+{"id":"ed6d226f89457f1da1107012d702e91b","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/shipments/:id/events (Staff Portal - Create Shipment Event) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"5fcd20138a1804a963776219d3d08a3f"}}

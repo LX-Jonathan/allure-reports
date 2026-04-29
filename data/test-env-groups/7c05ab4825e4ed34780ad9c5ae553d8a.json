@@ -1,0 +1,1 @@
+{"id":"7c05ab4825e4ed34780ad9c5ae553d8a","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service console output levels should log warn to console.warn","name":"should log warn to console.warn","status":"passed","testResultsByEnv":{"default":"abb9b58c8ad2c4cc2bc4435527bddfdf"}}

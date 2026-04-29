@@ -1,0 +1,1 @@
+{"id":"a548c0f1e95f674795de220e17561a48","fullName":"client/src/lib/__tests__/phone.test.ts#formatPhoneInput US/NANP input (default mask) truncates US-shaped input to 10 digits","name":"truncates US-shaped input to 10 digits","status":"passed","testResultsByEnv":{"default":"cfac67af0cf38a6b87b88339e8acc3c9"}}

@@ -1,0 +1,1 @@
+{"id":"73ea02fbc838e5f41eebde5524637a1f","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should update status to importing at start","name":"should update status to importing at start","status":"passed","testResultsByEnv":{"default":"c267efb47ef5a3e467957cb2a545a0e1"}}

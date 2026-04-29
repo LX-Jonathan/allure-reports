@@ -1,0 +1,1 @@
+{"id":"a277567551ed1a7d614a85e02c2d1e5f","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getById should return null when location user cannot access patient location","name":"should return null when location user cannot access patient location","status":"passed","testResultsByEnv":{"default":"08f63b01f333c7d0746897202606e2e0"}}

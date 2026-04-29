@@ -1,0 +1,1 @@
+{"id":"062c83e8eefe73262741376393411d15","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should extract insurance card data from front image only","name":"should extract insurance card data from front image only","status":"passed","testResultsByEnv":{"default":"f16ad0e2894ec838cbfa127d6e4275fa"}}

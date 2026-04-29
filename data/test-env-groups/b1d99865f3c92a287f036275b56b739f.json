@@ -1,0 +1,1 @@
+{"id":"b1d99865f3c92a287f036275b56b739f","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo returns 503 when R2 not configured for internal logo","name":"returns 503 when R2 not configured for internal logo","status":"passed","testResultsByEnv":{"default":"96e70a43183602919b54c79564fd92d1"}}

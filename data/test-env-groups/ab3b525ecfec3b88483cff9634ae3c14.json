@@ -1,0 +1,1 @@
+{"id":"ab3b525ecfec3b88483cff9634ae3c14","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/logo returns 503 when R2 is not configured","name":"returns 503 when R2 is not configured","status":"passed","testResultsByEnv":{"default":"02782a4b7ab6b05033edaaffc7d865a9"}}

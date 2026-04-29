@@ -1,0 +1,1 @@
+{"id":"955b4ca360a89aa0d75090562d9aa26b","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 409 for duplicate trading partner","name":"returns 409 for duplicate trading partner","status":"passed","testResultsByEnv":{"default":"6cbdd865148a43c8929690a8f6a23fa6"}}

@@ -1,0 +1,1 @@
+{"id":"5fd74f383c071a962a089aed022afbb4","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /pre-registration-links returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"f20d140d33139526612690fa3f4bb958"}}

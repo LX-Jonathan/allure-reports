@@ -1,0 +1,1 @@
+{"id":"408da6eb052df5bc68a07a20fce9a63c","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda submitOrderToAndromeda should throw error when only client ID is missing","name":"should throw error when only client ID is missing","status":"passed","testResultsByEnv":{"default":"05aa956e5dde8e7c2e7468527a7b48cb"}}

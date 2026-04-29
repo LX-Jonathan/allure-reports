@@ -1,0 +1,1 @@
+{"id":"06ceddbe36eea2f3623eb08803c19bf1","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns 403 when labId does not match user org","name":"returns 403 when labId does not match user org","status":"passed","testResultsByEnv":{"default":"5a3471f798a790b133fd0b9778cedfd6"}}

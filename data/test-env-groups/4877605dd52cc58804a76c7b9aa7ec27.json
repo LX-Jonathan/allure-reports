@@ -1,0 +1,1 @@
+{"id":"4877605dd52cc58804a76c7b9aa7ec27","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes POST /:id/send attaches a PDF when attachPdf=true","name":"attaches a PDF when attachPdf=true","status":"passed","testResultsByEnv":{"default":"d35e1f6d6ff7ed21b65e4bec6e55378a"}}

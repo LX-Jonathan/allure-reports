@@ -1,0 +1,1 @@
+{"id":"fe9ff924a11664ee425023910c804eea","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract strips markdown fencing from AI response","name":"strips markdown fencing from AI response","status":"passed","testResultsByEnv":{"default":"875b2338b52d1df23f58bba1c388f68e"}}

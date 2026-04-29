@@ -1,0 +1,1 @@
+{"id":"4a51036c870d96739711434628c36f40","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel renders a visible Fix affordance on failure rows with onClick","name":"renders a visible Fix affordance on failure rows with onClick","status":"passed","testResultsByEnv":{"default":"f3b242e3eda278ddb34dd21173474f51"}}

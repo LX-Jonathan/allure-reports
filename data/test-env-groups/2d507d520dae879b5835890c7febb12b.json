@@ -1,0 +1,1 @@
+{"id":"2d507d520dae879b5835890c7febb12b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 404 when location not found","name":"returns 404 when location not found","status":"passed","testResultsByEnv":{"default":"3871c6b29fb53b66e7ade1282db476b3"}}

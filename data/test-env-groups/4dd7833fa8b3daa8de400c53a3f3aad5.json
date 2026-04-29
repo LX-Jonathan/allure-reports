@@ -1,0 +1,1 @@
+{"id":"4dd7833fa8b3daa8de400c53a3f3aad5","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId updates both twilio and sendgrid simultaneously","name":"updates both twilio and sendgrid simultaneously","status":"passed","testResultsByEnv":{"default":"3fca95a480785b100a2a02a28a9db2d4"}}

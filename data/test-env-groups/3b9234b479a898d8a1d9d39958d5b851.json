@@ -1,0 +1,1 @@
+{"id":"3b9234b479a898d8a1d9d39958d5b851","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan getQueueAnalytics should return null avgProcessingTimeMs when no metrics have it","name":"should return null avgProcessingTimeMs when no metrics have it","status":"passed","testResultsByEnv":{"default":"757df41387ad980bc9b2b44dae9b37f9"}}

@@ -1,0 +1,1 @@
+{"id":"abd8ea451da0e1f8cd90a6080b91df7e","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - FRHC API Configs updateFrhcApiConfig should encrypt password when provided and non-empty","name":"should encrypt password when provided and non-empty","status":"passed","testResultsByEnv":{"default":"0cdff95fef2259b34f9471ea24eb1e5b"}}

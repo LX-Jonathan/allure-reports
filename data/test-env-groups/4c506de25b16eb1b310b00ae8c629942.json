@@ -1,0 +1,1 @@
+{"id":"4c506de25b16eb1b310b00ae8c629942","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes DELETE /api/v1/locations/:id returns 404 when location not found","name":"returns 404 when location not found","status":"passed","testResultsByEnv":{"default":"42cf27b0c7ef9cb485b85e3dd50096bd"}}

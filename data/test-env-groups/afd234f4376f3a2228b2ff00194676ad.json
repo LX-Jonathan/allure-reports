@@ -1,0 +1,1 @@
+{"id":"afd234f4376f3a2228b2ff00194676ad","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Patient Documents getPatientDocuments returns empty when none found","name":"returns empty when none found","status":"passed","testResultsByEnv":{"default":"c5ca79ec46ad8bea30c6c1d8c94c743c"}}

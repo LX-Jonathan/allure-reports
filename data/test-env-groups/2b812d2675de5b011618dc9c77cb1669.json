@@ -1,0 +1,1 @@
+{"id":"2b812d2675de5b011618dc9c77cb1669","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes POST /api/v1/interfaces/circuit-breaker/:queueType/open opens circuit breaker","name":"opens circuit breaker","status":"passed","testResultsByEnv":{"default":"7d3d89f24efe834daef7314f568995c8"}}

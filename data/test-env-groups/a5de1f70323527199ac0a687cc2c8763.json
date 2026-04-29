@@ -1,0 +1,1 @@
+{"id":"a5de1f70323527199ac0a687cc2c8763","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service terminateTesseractWorker should call terminate on active worker","name":"should call terminate on active worker","status":"passed","testResultsByEnv":{"default":"5d87f8ef898326981e8addfa72b2778e"}}

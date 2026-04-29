@@ -1,0 +1,1 @@
+{"id":"62b4039fdb067f5fd845d2583d02ad1c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getAllBulkScanItems applies status filter on items","name":"applies status filter on items","status":"passed","testResultsByEnv":{"default":"83ba5674fde182743523cfbea5733125"}}

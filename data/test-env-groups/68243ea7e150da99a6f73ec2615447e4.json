@@ -1,0 +1,1 @@
+{"id":"68243ea7e150da99a6f73ec2615447e4","fullName":"client/src/stores/__tests__/authStore.test.ts#useAuthStore setAccessToken can set token to null","name":"setAccessToken can set token to null","status":"passed","testResultsByEnv":{"default":"6e81dd2b9cde8d053047e85f45013595"}}

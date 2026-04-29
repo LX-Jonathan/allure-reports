@@ -1,0 +1,1 @@
+{"id":"5f3ff81e66830838acd778da3c32caee","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /hie-records/:id/status updates status to archived without setting reviewedBy","name":"updates status to archived without setting reviewedBy","status":"passed","testResultsByEnv":{"default":"7b1b1f3a1dee3f761d59f101fbd15f35"}}

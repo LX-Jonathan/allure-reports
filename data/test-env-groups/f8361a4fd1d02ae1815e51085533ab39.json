@@ -1,0 +1,1 @@
+{"id":"f8361a4fd1d02ae1815e51085533ab39","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap scopes to locations for location_admin","name":"scopes to locations for location_admin","status":"passed","testResultsByEnv":{"default":"4ec946b068b52880d57a8ca8591fcf30"}}

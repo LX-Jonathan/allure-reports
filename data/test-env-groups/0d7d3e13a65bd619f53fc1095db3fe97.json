@@ -1,0 +1,1 @@
+{"id":"0d7d3e13a65bd619f53fc1095db3fe97","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth logout mutation clears tokens and user data on logout","name":"clears tokens and user data on logout","status":"passed","testResultsByEnv":{"default":"0ea39cfff520e2d2ba227b2dcec50255"}}

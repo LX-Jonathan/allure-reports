@@ -1,0 +1,1 @@
+{"id":"14e502f7105e53a8c512552750981ef3","fullName":"client/src/lib/__tests__/import-configs.test.ts#INSURANCE_CONFIG.buildPayload (CSV generation) generates csvData with correct headers and values","name":"generates csvData with correct headers and values","status":"passed","testResultsByEnv":{"default":"bbd22adbe71da57ebd6665e2900e2557"}}

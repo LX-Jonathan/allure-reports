@@ -1,0 +1,1 @@
+{"id":"c481f0e2a07ff88f78cc2f6afa8cca21","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins (list scoping) rejects users without a lab assignment","name":"rejects users without a lab assignment","status":"passed","testResultsByEnv":{"default":"86b82c6ce273191a91685e6e4bf6bf57"}}

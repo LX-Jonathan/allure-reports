@@ -1,0 +1,1 @@
+{"id":"02a4fc26d1ad6691471e1f15a804fcc7","fullName":"server/__tests__/storage-results.test.ts#DatabaseStorage - Lab Results createLabResult should encrypt patientDob when present","name":"should encrypt patientDob when present","status":"passed","testResultsByEnv":{"default":"3997c88d7de21c7d96e494796bd6fe38"}}

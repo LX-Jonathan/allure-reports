@@ -1,0 +1,1 @@
+{"id":"e9a35d4bb26cd290f13b9ef652fe14e8","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getBulkScanBatches applies parentLabId filter","name":"applies parentLabId filter","status":"passed","testResultsByEnv":{"default":"cfeccc2a4c7ba902e28d594644c4faf9"}}

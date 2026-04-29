@@ -1,0 +1,1 @@
+{"id":"09ef3016a43f6566f9a50349247a58ff","fullName":"client/src/pages/__tests__/patients.test.tsx#PatientsPage uses typed search (not id) when no working patient is pinned","name":"uses typed search (not id) when no working patient is pinned","status":"passed","testResultsByEnv":{"default":"f0d4cd282b3069b2520b468e528cf55b"}}

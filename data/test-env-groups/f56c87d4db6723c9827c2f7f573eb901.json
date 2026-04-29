@@ -1,0 +1,1 @@
+{"id":"f56c87d4db6723c9827c2f7f573eb901","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusColors returns correct classes for a known status","name":"returns correct classes for a known status","status":"passed","testResultsByEnv":{"default":"9f5db74857b4a4806115b2aa1af6aa5f"}}

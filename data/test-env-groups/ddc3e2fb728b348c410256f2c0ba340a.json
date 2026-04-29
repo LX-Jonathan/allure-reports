@@ -1,0 +1,1 @@
+{"id":"ddc3e2fb728b348c410256f2c0ba340a","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware optionalAuth should always call next regardless of auth status","name":"should always call next regardless of auth status","status":"passed","testResultsByEnv":{"default":"19691dc8eabb2536157f629a1eb1f0d4"}}

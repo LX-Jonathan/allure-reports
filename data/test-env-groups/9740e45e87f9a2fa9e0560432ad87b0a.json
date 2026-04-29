@@ -1,0 +1,1 @@
+{"id":"9740e45e87f9a2fa9e0560432ad87b0a","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/workflow-type returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"caa485b201b724fe20afbced96ec6af8"}}

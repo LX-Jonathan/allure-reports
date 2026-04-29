@@ -1,0 +1,1 @@
+{"id":"6b57e171c1e245051cb67a3dd00eed04","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Cross-cutting edge cases GET /clients/:orgId/details returns zero stats when no orders","name":"GET /clients/:orgId/details returns zero stats when no orders","status":"passed","testResultsByEnv":{"default":"4eca83c65467158e05ef366defe34d8d"}}

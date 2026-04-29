@@ -1,0 +1,1 @@
+{"id":"0b6435705a8f9566fa52f7015d8bfd9f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts PATCH /chart-of-accounts/:id returns 400 when changing to duplicate account code","name":"returns 400 when changing to duplicate account code","status":"passed","testResultsByEnv":{"default":"5f38d5242b3bf25f38341ef0fb907e24"}}

@@ -1,0 +1,1 @@
+{"id":"83c6bd6b91aadc2b5209e395cd94dbe4","fullName":"server/__tests__/auth-login-code.routes.test.ts#POST /api/auth/send-code returns 200 and queues an email for an active user","name":"returns 200 and queues an email for an active user","status":"passed","testResultsByEnv":{"default":"be181c8c4c87ee4f993148007971fcaf"}}

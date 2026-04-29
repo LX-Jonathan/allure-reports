@@ -1,0 +1,1 @@
+{"id":"0f00d9d7e87381be1d33b5496d7fe3d8","fullName":"server/routes/__tests__/api-keys.routes.test.ts#API Keys Routes DELETE /api/v1/api-keys/:id allows org_admin to revoke key from their own organization","name":"allows org_admin to revoke key from their own organization","status":"passed","testResultsByEnv":{"default":"4a749618e3e5b0c7988183b2c44ec965"}}

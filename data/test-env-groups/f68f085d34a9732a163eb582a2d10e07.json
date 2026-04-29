@@ -1,0 +1,1 @@
+{"id":"f68f085d34a9732a163eb582a2d10e07","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /api/order-entry-templates/:id/reference-document returns 403 when user lacks required role","name":"returns 403 when user lacks required role","status":"passed","testResultsByEnv":{"default":"f0610119272a33a6f1eb5afe95772701"}}

@@ -1,0 +1,1 @@
+{"id":"5bc6bdf357bf8ca20603205579f22bdf","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda isAndromedaConfigured should return false when both credentials are missing","name":"should return false when both credentials are missing","status":"passed","testResultsByEnv":{"default":"f2f624c9ba86cdfea10ee872017764ef"}}

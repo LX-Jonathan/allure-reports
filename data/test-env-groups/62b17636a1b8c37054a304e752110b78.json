@@ -1,0 +1,1 @@
+{"id":"62b17636a1b8c37054a304e752110b78","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket disconnects socket on unmount","name":"disconnects socket on unmount","status":"passed","testResultsByEnv":{"default":"b8a9acd35ff7b0de0f595f455495e8fb"}}

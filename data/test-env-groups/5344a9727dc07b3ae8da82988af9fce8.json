@@ -1,0 +1,1 @@
+{"id":"5344a9727dc07b3ae8da82988af9fce8","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap scopes to org for org_admin","name":"scopes to org for org_admin","status":"passed","testResultsByEnv":{"default":"9d66525532e97584bf6daa061359ef37"}}

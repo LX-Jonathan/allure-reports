@@ -1,0 +1,1 @@
+{"id":"4a737474c2b64a178d6e662d610b964d","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware results API paths should skip CSRF validation for /api/v1/results/batch paths","name":"should skip CSRF validation for /api/v1/results/batch paths","status":"passed","testResultsByEnv":{"default":"ed8b77853bd3e6029f3e34e5c39c1138"}}

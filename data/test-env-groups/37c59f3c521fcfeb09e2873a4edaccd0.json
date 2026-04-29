@@ -1,0 +1,1 @@
+{"id":"37c59f3c521fcfeb09e2873a4edaccd0","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should propagate sharp errors","name":"should propagate sharp errors","status":"passed","testResultsByEnv":{"default":"8cc2a9d021ab51fdbb17c4994b0d7b26"}}

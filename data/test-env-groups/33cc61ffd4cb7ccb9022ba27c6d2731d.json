@@ -1,0 +1,1 @@
+{"id":"33cc61ffd4cb7ccb9022ba27c6d2731d","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET / enriches results with patientName and lineItems","name":"enriches results with patientName and lineItems","status":"passed","testResultsByEnv":{"default":"7ed7f8f94f2dda28f9f3bff1faec6daa"}}

@@ -1,0 +1,1 @@
+{"id":"2c9137c2a0be9d3e729a5d8ce7e40e51","fullName":"server/config/__tests__/env.test.ts#validateEnv function throws when SESSION_SECRET is too short","name":"throws when SESSION_SECRET is too short","status":"passed","testResultsByEnv":{"default":"6903cff7b9b2c915b28ab094d20be1f4"}}

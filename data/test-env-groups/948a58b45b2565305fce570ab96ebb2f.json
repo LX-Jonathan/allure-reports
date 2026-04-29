@@ -1,0 +1,1 @@
+{"id":"948a58b45b2565305fce570ab96ebb2f","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service shouldSkipClaude should require higher confidence for known templates than unknown","name":"should require higher confidence for known templates than unknown","status":"passed","testResultsByEnv":{"default":"7b712820017474ead01a276cde98c68a"}}

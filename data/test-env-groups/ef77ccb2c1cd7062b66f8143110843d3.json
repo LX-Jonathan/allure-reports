@@ -1,0 +1,1 @@
+{"id":"ef77ccb2c1cd7062b66f8143110843d3","fullName":"server/lib/__tests__/marketplace-website-scraper.test.ts#marketplace-website-scraper extractImagesFromHtml resolves relative URLs against baseUrl","name":"resolves relative URLs against baseUrl","status":"passed","testResultsByEnv":{"default":"74b3f1b259556b22cc6baaed774cd920"}}

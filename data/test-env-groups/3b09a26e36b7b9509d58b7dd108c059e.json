@@ -1,0 +1,1 @@
+{"id":"3b09a26e36b7b9509d58b7dd108c059e","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/sign returns 400 when signature not required","name":"returns 400 when signature not required","status":"passed","testResultsByEnv":{"default":"2a35e79b5667311cc30dafd9b7c38ef2"}}

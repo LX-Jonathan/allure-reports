@@ -1,0 +1,1 @@
+{"id":"d7e4d19699aec8011773fdbb2f2cbe67","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest calls post837ClaimJournal when totalBilled > 0","name":"calls post837ClaimJournal when totalBilled > 0","status":"passed","testResultsByEnv":{"default":"5b1c1aea345294dd6396e4c71af79f96"}}

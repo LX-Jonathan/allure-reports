@@ -1,0 +1,1 @@
+{"id":"ae2449ed05d35ceb4d7f341aeab936f4","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/messages returns 201 when sending a message","name":"returns 201 when sending a message","status":"passed","testResultsByEnv":{"default":"efad662dd654438b5edf28b9ff0dd8b9"}}

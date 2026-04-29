@@ -1,0 +1,1 @@
+{"id":"eb153b0dd5fcb4da671d9f536af80f2a","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/eligibility/requests/:id returns request data for completed status","name":"returns request data for completed status","status":"passed","testResultsByEnv":{"default":"c1793f8f91a5f177193817afab0c0694"}}

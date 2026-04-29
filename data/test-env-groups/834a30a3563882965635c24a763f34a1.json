@@ -1,0 +1,1 @@
+{"id":"834a30a3563882965635c24a763f34a1","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - tenant scope on /query free-text search on 'ticket' matches patient date of birth via EXISTS","name":"free-text search on 'ticket' matches patient date of birth via EXISTS","status":"passed","testResultsByEnv":{"default":"85f6eb3cc4a3d90fc463d68dd25f6050"}}

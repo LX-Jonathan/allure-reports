@@ -1,0 +1,1 @@
+{"id":"3df52c37a22d3d1937c5d83b85e830ab","fullName":"server/__tests__/orders.routes.test.ts#orders.routes DELETE /api/v1/orders/:id/insurance/:insuranceId should reject on completed order","name":"should reject on completed order","status":"passed","testResultsByEnv":{"default":"f489f913fefae3e94e07a516ca4c5122"}}

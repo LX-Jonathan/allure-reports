@@ -1,0 +1,1 @@
+{"id":"b032d5471b2c57b24a380dcceaf78348","fullName":"client/src/components/patient/__tests__/propensity-band-indicator.test.tsx#PropensityBandIndicator renders the unknown badge when score is null (insufficient history)","name":"renders the unknown badge when score is null (insufficient history)","status":"passed","testResultsByEnv":{"default":"71a0c1682fccb4058fdb6e38f2165a6c"}}

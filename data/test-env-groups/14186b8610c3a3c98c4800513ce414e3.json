@@ -1,0 +1,1 @@
+{"id":"14186b8610c3a3c98c4800513ce414e3","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should return null when amount is 0","name":"should return null when amount is 0","status":"passed","testResultsByEnv":{"default":"27a95e42deb6d1ff2f7b0c04246351fa"}}

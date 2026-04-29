@@ -1,0 +1,1 @@
+{"id":"34ce5a0595b7aca3c685a675cbaa346e","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should add companies not returned by AI to unmapped","name":"should add companies not returned by AI to unmapped","status":"passed","testResultsByEnv":{"default":"f726ee8871635bbafdac9dac0accca21"}}

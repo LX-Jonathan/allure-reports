@@ -1,0 +1,1 @@
+{"id":"56ff4f9c7df6b1e9300eedc2b085bf4f","fullName":"server/middleware/__tests__/auditTenantResolver.test.ts#auditTenantResolver resolveResourceTenant self-attributes when the resource IS the tenant (lab/organization)","name":"self-attributes when the resource IS the tenant (lab/organization)","status":"passed","testResultsByEnv":{"default":"5fa6cd25c5e55534df22699eaa38f578"}}

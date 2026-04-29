@@ -1,0 +1,1 @@
+{"id":"7afba6666dc38f5dd54ff925f280f936","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should return 403 for unauthorized user","name":"should return 403 for unauthorized user","status":"passed","testResultsByEnv":{"default":"260b087a6cf6401ecc2e4e5ed7775fa5"}}

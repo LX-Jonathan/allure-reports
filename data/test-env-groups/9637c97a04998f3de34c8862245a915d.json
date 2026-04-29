@@ -1,0 +1,1 @@
+{"id":"9637c97a04998f3de34c8862245a915d","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"276a3fb95a5001bdc73d335716b32a70"}}

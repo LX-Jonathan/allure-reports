@@ -1,0 +1,1 @@
+{"id":"91f6912e7745ee7c5dbedcf99464683e","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /hie-records/:id/status returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"9477b0a63cc6413534df8e16c4d6b72f"}}

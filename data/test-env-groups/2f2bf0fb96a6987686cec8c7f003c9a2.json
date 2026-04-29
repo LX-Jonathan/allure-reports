@@ -1,0 +1,1 @@
+{"id":"2f2bf0fb96a6987686cec8c7f003c9a2","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query returns 400 when question is not a string","name":"returns 400 when question is not a string","status":"passed","testResultsByEnv":{"default":"1ae3f39335fa56f3a6b02690a697b573"}}

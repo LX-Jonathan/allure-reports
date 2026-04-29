@@ -1,0 +1,1 @@
+{"id":"bdd1bca411bb5e90ed24e9927b088b31","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect appends a known reason code on staff redirects","name":"appends a known reason code on staff redirects","status":"passed","testResultsByEnv":{"default":"ed8697206a25770a37b0d0c162ef8780"}}

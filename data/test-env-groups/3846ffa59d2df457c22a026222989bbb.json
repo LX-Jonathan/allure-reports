@@ -1,0 +1,1 @@
+{"id":"3846ffa59d2df457c22a026222989bbb","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent deletes source PDF from R2 when exists","name":"deletes source PDF from R2 when exists","status":"passed","testResultsByEnv":{"default":"09f8f24cd2cc3f66dfe8650fec3d2a6c"}}

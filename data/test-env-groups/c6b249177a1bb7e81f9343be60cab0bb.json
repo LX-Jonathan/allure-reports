@@ -1,0 +1,1 @@
+{"id":"c6b249177a1bb7e81f9343be60cab0bb","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST / returns 400 for empty discipline","name":"returns 400 for empty discipline","status":"passed","testResultsByEnv":{"default":"8c19ae514098f9ddf8a79dc7294d3c22"}}

@@ -1,0 +1,1 @@
+{"id":"d21a2bde4afd840f26a5a097d72f0e41","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get in-memory cache (Redis not configured) should return cached value when key exists and not expired","name":"should return cached value when key exists and not expired","status":"passed","testResultsByEnv":{"default":"e0c4c1b7cc43ba450fe33daa5dd344ff"}}

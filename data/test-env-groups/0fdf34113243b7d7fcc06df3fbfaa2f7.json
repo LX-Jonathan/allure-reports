@@ -1,0 +1,1 @@
+{"id":"0fdf34113243b7d7fcc06df3fbfaa2f7","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserByEmailIncludingDeleted should return user even if deleted","name":"should return user even if deleted","status":"passed","testResultsByEnv":{"default":"e4372c940862486310677a32fecf57ca"}}

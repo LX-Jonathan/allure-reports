@@ -1,0 +1,1 @@
+{"id":"409e7bd1c8c40fd336f70a23ae8fa98a","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is configured getBulkScanItemQueue should return a Queue instance","name":"getBulkScanItemQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"ae0e40fc5cb15ae44627fdffd0f2a932"}}

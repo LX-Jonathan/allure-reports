@@ -1,0 +1,1 @@
+{"id":"78983a0e2998e76dabd0a61ac9759249","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Public patient form requests GET returns the form request when token matches","name":"GET returns the form request when token matches","status":"passed","testResultsByEnv":{"default":"06f1acbade06f9a14ff991f5d53852cf"}}

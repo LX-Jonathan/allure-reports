@@ -1,0 +1,1 @@
+{"id":"b5d8ffccec8c8307ae28ae4210caeb86","fullName":"server/routes/__tests__/index.routes.test.ts#Routes Index Redis configuration logs full rate limiting when Redis is configured","name":"logs full rate limiting when Redis is configured","status":"passed","testResultsByEnv":{"default":"d0808d540169698861ad038e7628d859"}}

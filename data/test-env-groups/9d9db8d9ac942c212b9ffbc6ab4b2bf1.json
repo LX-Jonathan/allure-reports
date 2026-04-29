@@ -1,0 +1,1 @@
+{"id":"9d9db8d9ac942c212b9ffbc6ab4b2bf1","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules error handling returns 500 on db error during creation","name":"returns 500 on db error during creation","status":"passed","testResultsByEnv":{"default":"52ef4dfd61c7d23e739195907442bcef"}}

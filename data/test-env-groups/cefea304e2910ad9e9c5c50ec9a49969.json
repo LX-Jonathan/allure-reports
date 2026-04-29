@@ -1,0 +1,1 @@
+{"id":"cefea304e2910ad9e9c5c50ec9a49969","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations returns 200 with empty conversations when user has no conversations","name":"returns 200 with empty conversations when user has no conversations","status":"passed","testResultsByEnv":{"default":"715f592f7a77e65cab5aa0777100230a"}}

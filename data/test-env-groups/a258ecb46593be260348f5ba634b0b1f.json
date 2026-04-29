@@ -1,0 +1,1 @@
+{"id":"a258ecb46593be260348f5ba634b0b1f","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes PATCH /api/onboarding/:flowId/sections/:sectionId returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"06f8fee667c386549c14ac1366821a65"}}

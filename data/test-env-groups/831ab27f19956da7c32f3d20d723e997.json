@@ -1,0 +1,1 @@
+{"id":"831ab27f19956da7c32f3d20d723e997","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog defaults type to appointment_issue when appointmentId provided","name":"defaults type to appointment_issue when appointmentId provided","status":"passed","testResultsByEnv":{"default":"e60d4120c4b2eb91531664854ef454d6"}}

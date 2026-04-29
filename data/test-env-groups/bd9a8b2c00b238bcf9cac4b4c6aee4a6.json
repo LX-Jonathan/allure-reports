@@ -1,0 +1,1 @@
+{"id":"bd9a8b2c00b238bcf9cac4b4c6aee4a6","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/plans returns 201 on successful plan creation","name":"returns 201 on successful plan creation","status":"passed","testResultsByEnv":{"default":"f20eda87b5a04bf286aa68dd7496daca"}}

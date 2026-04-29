@@ -1,0 +1,1 @@
+{"id":"ff9cf1419b6198243c966bda101b8a9b","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should handle case-insensitive Bearer prefix","name":"should handle case-insensitive Bearer prefix","status":"passed","testResultsByEnv":{"default":"43743ae170e85418f3c5dce2c31f2837"}}

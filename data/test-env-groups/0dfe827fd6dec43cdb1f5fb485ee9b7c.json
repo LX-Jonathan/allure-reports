@@ -1,0 +1,1 @@
+{"id":"0dfe827fd6dec43cdb1f5fb485ee9b7c","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord observations (labs and vitals) should put observations without category into labResults","name":"should put observations without category into labResults","status":"passed","testResultsByEnv":{"default":"aaa40d9e1f5885becbdc63a0047ec78b"}}

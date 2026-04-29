@@ -1,0 +1,1 @@
+{"id":"afbddcde0113c6a4bc9c4f6da6baa6f4","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/products/:id (Staff Portal - Get Product) returns 404 when product not found","name":"returns 404 when product not found","status":"passed","testResultsByEnv":{"default":"d38d438a3e2a98c6a0977fc4764e7a78"}}

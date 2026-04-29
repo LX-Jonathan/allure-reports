@@ -1,0 +1,1 @@
+{"id":"709537db03226cdfb5f48709aa59be24","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#useAoeLogicEvaluation rules with no conditions returns false for rule with empty conditions array","name":"returns false for rule with empty conditions array","status":"passed","testResultsByEnv":{"default":"1bfcfa30d34fa77afe194c6263aa72ab"}}

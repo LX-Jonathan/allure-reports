@@ -1,0 +1,1 @@
+{"id":"a6b9b12c63fe0368bc6bae21981d3075","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan closeCircuitBreaker should update circuit breaker fields to closed state","name":"should update circuit breaker fields to closed state","status":"passed","testResultsByEnv":{"default":"d13f7ece1e84fc6fcbb585901ef0c005"}}

@@ -1,0 +1,1 @@
+{"id":"d79b0f98a533d17410fefa7ab72cfd71","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"6a2868a2adf64f3c83a083bff62a78c4"}}

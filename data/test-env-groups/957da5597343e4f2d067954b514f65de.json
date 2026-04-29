@@ -1,0 +1,1 @@
+{"id":"957da5597343e4f2d067954b514f65de","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processDataImportJob job lifecycle should fail when no column mapping found","name":"should fail when no column mapping found","status":"passed","testResultsByEnv":{"default":"819b6d7ddace9a78b48ef1f211889a30"}}

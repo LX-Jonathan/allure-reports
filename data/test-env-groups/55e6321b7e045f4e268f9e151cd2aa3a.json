@@ -1,0 +1,1 @@
+{"id":"55e6321b7e045f4e268f9e151cd2aa3a","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /locations/:id returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"19c34c590175c471cffbb7eac587594c"}}

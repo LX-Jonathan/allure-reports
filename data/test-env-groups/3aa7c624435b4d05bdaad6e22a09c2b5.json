@@ -1,0 +1,1 @@
+{"id":"3aa7c624435b4d05bdaad6e22a09c2b5","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: no_password_set","name":"es: no_password_set","status":"passed","testResultsByEnv":{"default":"e0774a833a7344853f31c849e31d76fb"}}

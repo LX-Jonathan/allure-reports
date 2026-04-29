@@ -1,0 +1,1 @@
+{"id":"3b4ece923b22c229380d80f4f488acee","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan getNextBulkScanItemForReview returns next item after sequence","name":"returns next item after sequence","status":"passed","testResultsByEnv":{"default":"8f8e9f876c31e09056284ee94ec90994"}}

@@ -1,0 +1,1 @@
+{"id":"50a588da1b5f4b2b2d0949cc79b1d4b3","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/discovery returns successful discovery response (no org context)","name":"returns successful discovery response (no org context)","status":"passed","testResultsByEnv":{"default":"224e32580685f2289462484a1a362793"}}

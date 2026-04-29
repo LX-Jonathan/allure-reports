@@ -1,0 +1,1 @@
+{"id":"ba118e78f2f9a34fc4c3d41575d587e7","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"07c664726e014401a80807972490e013"}}

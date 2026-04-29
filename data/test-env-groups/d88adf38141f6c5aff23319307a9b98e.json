@@ -1,0 +1,1 @@
+{"id":"d88adf38141f6c5aff23319307a9b98e","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts isStrongPassword should return 4 errors for password with no valid criteria","name":"should return 4 errors for password with no valid criteria","status":"passed","testResultsByEnv":{"default":"4fc6eec6e5f2d3970838fa48749a1d8f"}}

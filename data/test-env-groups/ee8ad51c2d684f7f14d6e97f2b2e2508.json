@@ -1,0 +1,1 @@
+{"id":"ee8ad51c2d684f7f14d6e97f2b2e2508","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id/status should return 500 if update fails","name":"should return 500 if update fails","status":"passed","testResultsByEnv":{"default":"5134662cdec7cd0de1df147ec086ca24"}}

@@ -1,0 +1,1 @@
+{"id":"28400872f4ccc58b5bdccd90d6cb0815","fullName":"client/src/contexts/__tests__/patient-impersonation-context.test.tsx#ImpersonationContext restores history methods on unmount","name":"restores history methods on unmount","status":"passed","testResultsByEnv":{"default":"aefd7775a12d1ff1abdd5685c303dd11"}}

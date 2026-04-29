@@ -1,0 +1,1 @@
+{"id":"c5512d1e31adcbef07a2d85c9497536c","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id returns 200 with company when found","name":"returns 200 with company when found","status":"passed","testResultsByEnv":{"default":"1e5565265410321f95613fbbb8f388a9"}}

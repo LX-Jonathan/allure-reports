@@ -1,0 +1,1 @@
+{"id":"6e9cd28286484deb8be4222c9c89d847","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search returns decrypted patient results when found","name":"returns decrypted patient results when found","status":"passed","testResultsByEnv":{"default":"1339ad1e613164cf1e499b5c519b5b50"}}

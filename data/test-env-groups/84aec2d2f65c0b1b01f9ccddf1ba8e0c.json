@@ -1,0 +1,1 @@
+{"id":"84aec2d2f65c0b1b01f9ccddf1ba8e0c","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord demographics should handle patient with no name","name":"should handle patient with no name","status":"passed","testResultsByEnv":{"default":"f989a433b851af6dee1bc665f75d2f21"}}

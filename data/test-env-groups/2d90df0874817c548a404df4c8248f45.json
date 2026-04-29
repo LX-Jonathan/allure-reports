@@ -1,0 +1,1 @@
+{"id":"2d90df0874817c548a404df4c8248f45","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 403 for org_admin trying to create super-org level config","name":"returns 403 for org_admin trying to create super-org level config","status":"passed","testResultsByEnv":{"default":"e8cf040e34fb9927d757e881164d7632"}}

@@ -1,0 +1,1 @@
+{"id":"2d44908e324f6402c3dac4f00c24a753","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should use originalUrl from request for different routes","name":"should use originalUrl from request for different routes","status":"passed","testResultsByEnv":{"default":"23e0cbf455c933f7a6f30da1df15e602"}}

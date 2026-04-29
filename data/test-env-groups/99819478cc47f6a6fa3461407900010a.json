@@ -1,0 +1,1 @@
+{"id":"99819478cc47f6a6fa3461407900010a","fullName":"server/routes/__tests__/patient-auth-sms.routes.test.ts#patient-auth SMS failure routes POST /phone-register should log failure audit event when SMS fails in production","name":"should log failure audit event when SMS fails in production","status":"passed","testResultsByEnv":{"default":"0c56fa93ae176b7b6680836df0f4bc3c"}}

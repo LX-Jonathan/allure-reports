@@ -1,0 +1,1 @@
+{"id":"8674eef9ca5d614fcd9fba6560c0a829","fullName":"server/lib/__tests__/cache.service.test.ts#invalidatePatientCaches should invalidate patient and stats caches for specific organization","name":"should invalidate patient and stats caches for specific organization","status":"passed","testResultsByEnv":{"default":"c6bebcabaaf09216817022e9e4b720a6"}}

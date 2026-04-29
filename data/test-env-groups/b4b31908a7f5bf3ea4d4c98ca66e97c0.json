@@ -1,0 +1,1 @@
+{"id":"b4b31908a7f5bf3ea4d4c98ca66e97c0","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes DELETE /api/v1/lab-tests/:id should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"b213a0f400f363ac6195292db8073782"}}

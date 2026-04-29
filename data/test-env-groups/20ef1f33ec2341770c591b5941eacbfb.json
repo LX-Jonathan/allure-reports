@@ -1,0 +1,1 @@
+{"id":"20ef1f33ec2341770c591b5941eacbfb","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings observationToResult parses valueQuantity","name":"parses valueQuantity","status":"passed","testResultsByEnv":{"default":"9097fd7cc9fbdbec9f727abf84901c16"}}

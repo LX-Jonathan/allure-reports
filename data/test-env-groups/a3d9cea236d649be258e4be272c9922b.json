@@ -1,0 +1,1 @@
+{"id":"a3d9cea236d649be258e4be272c9922b","fullName":"server/lib/__tests__/stripe-verify-failure-alerter.test.ts#recordStripeVerifyFailure alert state snapshot captures the same metadata the inbox alert uses","name":"captures the same metadata the inbox alert uses","status":"passed","testResultsByEnv":{"default":"439fc76b1a0ce0191445003283ed349d"}}

@@ -1,0 +1,1 @@
+{"id":"f7b527747adbb84fa54e9ed78aba0227","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records/:id returns 403 when org access denied","name":"returns 403 when org access denied","status":"passed","testResultsByEnv":{"default":"4d91bfd6fea1817a7600d453e06ea1f8"}}

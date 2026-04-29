@@ -1,0 +1,1 @@
+{"id":"85f78d7e5b98744400f4a91ae24af73e","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary hides the plan year reset row when payer omits the dates","name":"hides the plan year reset row when payer omits the dates","status":"passed","testResultsByEnv":{"default":"87b1b04be576967474e9721513930b00"}}

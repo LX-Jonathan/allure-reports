@@ -1,0 +1,1 @@
+{"id":"ae2ce975ce2fbcc4071335b5f1af2d85","fullName":"server/lib/__tests__/auth.test.ts#auth hasPermission should return false for non-existent permission","name":"should return false for non-existent permission","status":"passed","testResultsByEnv":{"default":"92b68824079456603bf00693d7035f3f"}}

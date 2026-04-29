@@ -1,0 +1,1 @@
+{"id":"d5dc33dfca91282291c9207285ac4711","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related generateMRN should use PAT prefix when org has no slug","name":"should use PAT prefix when org has no slug","status":"passed","testResultsByEnv":{"default":"8f37d956f983b9cae0b3982b0d034ef5"}}

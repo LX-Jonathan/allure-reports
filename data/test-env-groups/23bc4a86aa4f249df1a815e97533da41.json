@@ -1,0 +1,1 @@
+{"id":"23bc4a86aa4f249df1a815e97533da41","fullName":"server/routes/__tests__/data-import.routes.test.ts#Data Import Routes GET /:id allows owner to access their own job and strips parsedData/columnMapping","name":"allows owner to access their own job and strips parsedData/columnMapping","status":"passed","testResultsByEnv":{"default":"f5f69a66095ffe45598fb977cf151eb4"}}

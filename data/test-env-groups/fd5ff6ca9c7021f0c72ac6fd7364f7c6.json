@@ -1,0 +1,1 @@
+{"id":"fd5ff6ca9c7021f0c72ac6fd7364f7c6","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/change-password returns 200 on successful change","name":"returns 200 on successful change","status":"passed","testResultsByEnv":{"default":"cf1ca6c877bd3447e53dc2cb43d9fe5a"}}

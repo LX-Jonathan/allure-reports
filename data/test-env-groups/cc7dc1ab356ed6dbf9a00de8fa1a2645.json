@@ -1,0 +1,1 @@
+{"id":"cc7dc1ab356ed6dbf9a00de8fa1a2645","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"606bcf394feb9042da586d11bfca264d"}}

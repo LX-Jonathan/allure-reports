@@ -1,0 +1,1 @@
+{"id":"6d77f9f4f7e28b97afca982905a860f6","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/:id/reminder returns 400 for invalid recipient email","name":"returns 400 for invalid recipient email","status":"passed","testResultsByEnv":{"default":"f677360fadddb4774d8a2bae8a47eae2"}}

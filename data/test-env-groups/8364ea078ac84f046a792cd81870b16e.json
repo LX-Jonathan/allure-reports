@@ -1,0 +1,1 @@
+{"id":"8364ea078ac84f046a792cd81870b16e","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules emits NO_PRIMARY_DIAGNOSIS as warning for external source","name":"emits NO_PRIMARY_DIAGNOSIS as warning for external source","status":"passed","testResultsByEnv":{"default":"0386153debbe2e0ccc3088c99af9ad13"}}

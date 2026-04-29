@@ -1,0 +1,1 @@
+{"id":"bda5ef9f2d09010ad4a7ea0a88a005ec","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service getExtensionFromMimeType should return .webp for image/webp","name":"should return .webp for image/webp","status":"passed","testResultsByEnv":{"default":"069bad5b47e7e1eae2a8e64a050ac43f"}}

@@ -1,0 +1,1 @@
+{"id":"c459b1345251db98b74275f3d61932c0","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections filters fields by useInDataEntry when dataEntryOnly is true","name":"filters fields by useInDataEntry when dataEntryOnly is true","status":"passed","testResultsByEnv":{"default":"304cf061a175dc050a94f2eff8bcbf84"}}

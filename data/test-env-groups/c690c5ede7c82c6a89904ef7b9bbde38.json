@@ -1,0 +1,1 @@
+{"id":"c690c5ede7c82c6a89904ef7b9bbde38","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService queueReportExecution should queue report when configured","name":"should queue report when configured","status":"passed","testResultsByEnv":{"default":"9636b14af75d00361fc298f4948776e8"}}

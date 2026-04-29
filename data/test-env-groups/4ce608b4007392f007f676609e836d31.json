@@ -1,0 +1,1 @@
+{"id":"4ce608b4007392f007f676609e836d31","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should build correct FRHC payload","name":"should build correct FRHC payload","status":"passed","testResultsByEnv":{"default":"c3cddee3751ef07f77d66bb8d4bc0a72"}}

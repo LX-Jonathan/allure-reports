@@ -1,0 +1,1 @@
+{"id":"0b21b8f5489964c19cb9f141b583e605","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id/status returns 200 and updates user status","name":"returns 200 and updates user status","status":"passed","testResultsByEnv":{"default":"2836071817a24c574962a84bcccfc438"}}

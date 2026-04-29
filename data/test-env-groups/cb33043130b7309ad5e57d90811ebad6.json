@@ -1,0 +1,1 @@
+{"id":"cb33043130b7309ad5e57d90811ebad6","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"427d4dcd961c8b59ecf61d7acd6c8e75"}}

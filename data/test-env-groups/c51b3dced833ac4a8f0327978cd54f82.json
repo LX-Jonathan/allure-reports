@@ -1,0 +1,1 @@
+{"id":"c51b3dced833ac4a8f0327978cd54f82","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/draws-summary scopes to location for location_admin","name":"scopes to location for location_admin","status":"passed","testResultsByEnv":{"default":"b6477cf0864c1cb82fb4b9c5297b9b44"}}

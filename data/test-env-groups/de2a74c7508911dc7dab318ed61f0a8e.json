@@ -1,0 +1,1 @@
+{"id":"de2a74c7508911dc7dab318ed61f0a8e","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes DELETE /api/payment-plans/:id returns 404 when plan not found","name":"returns 404 when plan not found","status":"passed","testResultsByEnv":{"default":"4aa34f1abedbb4580f14cb8516933cef"}}

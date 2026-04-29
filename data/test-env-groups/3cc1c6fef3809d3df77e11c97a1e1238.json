@@ -1,0 +1,1 @@
+{"id":"3cc1c6fef3809d3df77e11c97a1e1238","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getRedisClient should return a Redis client when configured","name":"should return a Redis client when configured","status":"passed","testResultsByEnv":{"default":"f2f403c08a5283956455d769ffb0e9c3"}}

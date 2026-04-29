@@ -1,0 +1,1 @@
+{"id":"db55d6950d1f7466fb6f777ad7f01368","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 500 when AI returns no text block","name":"returns 500 when AI returns no text block","status":"passed","testResultsByEnv":{"default":"8fba7f04d6973a7a1c1e50e13a9900f8"}}

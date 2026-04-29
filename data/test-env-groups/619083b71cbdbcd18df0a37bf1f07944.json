@@ -1,0 +1,1 @@
+{"id":"619083b71cbdbcd18df0a37bf1f07944","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search returns [] when search query is absent","name":"returns [] when search query is absent","status":"passed","testResultsByEnv":{"default":"9ec99b1869d92af6fdaa24e1499a3139"}}

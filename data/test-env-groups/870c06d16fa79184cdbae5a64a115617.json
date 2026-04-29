@@ -1,0 +1,1 @@
+{"id":"870c06d16fa79184cdbae5a64a115617","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: mfa_factor_required","name":"es: mfa_factor_required","status":"passed","testResultsByEnv":{"default":"4a129aea7b61350a157fc36fab403744"}}

@@ -1,0 +1,1 @@
+{"id":"77c16ea4e7876d2ea7d313feddd0946c","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode returns hidden when gallery section exists but is not visible","name":"returns hidden when gallery section exists but is not visible","status":"passed","testResultsByEnv":{"default":"daa5069f94d2e3d4ab53851c5a65519e"}}

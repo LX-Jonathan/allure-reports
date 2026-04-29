@@ -1,0 +1,1 @@
+{"id":"589c53ec0ecd3d1a7963e91e910adf3a","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/generate-abo returns 400 when no tests require ABO","name":"returns 400 when no tests require ABO","status":"passed","testResultsByEnv":{"default":"1e7c364a1d59289e172c40cafb1fbeeb"}}

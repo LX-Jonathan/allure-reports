@@ -1,0 +1,1 @@
+{"id":"a5a5185afe6a4071d655d1270b89b506","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/favorites returns empty array when no favorites exist","name":"returns empty array when no favorites exist","status":"passed","testResultsByEnv":{"default":"89f7e58a091788a41de70c566d5315d0"}}

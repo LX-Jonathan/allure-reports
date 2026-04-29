@@ -1,0 +1,1 @@
+{"id":"17106e00cd9b2a9d4cc67b1dff533622","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes PATCH /users/:userId/status returns 400 for invalid status","name":"returns 400 for invalid status","status":"passed","testResultsByEnv":{"default":"540432e546546daf79fe5e138ee243cd"}}

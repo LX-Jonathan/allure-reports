@@ -1,0 +1,1 @@
+{"id":"2d0c0d03029067aa1710e2f272d8f0ce","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#aggregateDailyMetrics should aggregate hourly metrics into daily metrics","name":"should aggregate hourly metrics into daily metrics","status":"passed","testResultsByEnv":{"default":"f0e2dbe0543d0e134bbf541461e49345"}}

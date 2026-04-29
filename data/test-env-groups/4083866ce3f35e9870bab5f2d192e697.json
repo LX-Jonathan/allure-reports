@@ -1,0 +1,1 @@
+{"id":"4083866ce3f35e9870bab5f2d192e697","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject SQL comment syntax in filter","name":"should reject SQL comment syntax in filter","status":"passed","testResultsByEnv":{"default":"c44ca484a2143e583082e21dce69c288"}}

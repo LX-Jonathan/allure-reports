@@ -1,0 +1,1 @@
+{"id":"469fb11939f96a4afc9c401af52b231e","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /reports/venipuncture-fees returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"1f29f4784851b820ff7cc306aa5e28f1"}}

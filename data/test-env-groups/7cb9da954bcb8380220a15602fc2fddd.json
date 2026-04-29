@@ -1,0 +1,1 @@
+{"id":"7cb9da954bcb8380220a15602fc2fddd","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /appeals/:id returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"d3261129f8c9b5d9d80fa3e3e6016b3f"}}

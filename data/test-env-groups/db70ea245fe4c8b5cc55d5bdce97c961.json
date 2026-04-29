@@ -1,0 +1,1 @@
+{"id":"db70ea245fe4c8b5cc55d5bdce97c961","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits/:kitId/results (Patient Portal - Get Kit Results) returns 404 when kit not found","name":"returns 404 when kit not found","status":"passed","testResultsByEnv":{"default":"18640b351c309d8d9f178e7949ef2e35"}}

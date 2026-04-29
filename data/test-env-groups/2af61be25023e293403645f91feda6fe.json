@@ -1,0 +1,1 @@
+{"id":"2af61be25023e293403645f91feda6fe","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generatePasswordResetToken should generate 32-byte token","name":"should generate 32-byte token","status":"passed","testResultsByEnv":{"default":"a7ea8e0a3bf534528d54332d04006cae"}}

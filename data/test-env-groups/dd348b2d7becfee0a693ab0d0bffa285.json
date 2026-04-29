@@ -1,0 +1,1 @@
+{"id":"dd348b2d7becfee0a693ab0d0bffa285","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF omits address and identifier rows when fields are missing","name":"omits address and identifier rows when fields are missing","status":"passed","testResultsByEnv":{"default":"4660ea19c93a770e622ac576a90c61f7"}}

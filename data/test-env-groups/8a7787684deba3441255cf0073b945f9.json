@@ -1,0 +1,1 @@
+{"id":"8a7787684deba3441255cf0073b945f9","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should store file without extension","name":"should store file without extension","status":"passed","testResultsByEnv":{"default":"7005cb268fc6b957d22db30193185746"}}

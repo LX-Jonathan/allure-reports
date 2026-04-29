@@ -1,0 +1,1 @@
+{"id":"bdaaea5c8392fc111242b20d01a8c446","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePreprocessedImage should return null when R2 is not configured","name":"should return null when R2 is not configured","status":"passed","testResultsByEnv":{"default":"c8c8cc4618a97a2c20b620ef9c3b3715"}}

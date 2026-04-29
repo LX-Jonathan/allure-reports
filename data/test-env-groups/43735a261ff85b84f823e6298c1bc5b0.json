@@ -1,0 +1,1 @@
+{"id":"43735a261ff85b84f823e6298c1bc5b0","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getRoles returns empty array when no roles","name":"returns empty array when no roles","status":"passed","testResultsByEnv":{"default":"6c74d0cf50be5b67669ce0b32bff36f5"}}

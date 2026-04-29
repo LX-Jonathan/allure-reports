@@ -1,0 +1,1 @@
+{"id":"a2f5062d3e1aaaf619725b88396a143c","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService get should return cached value when Redis is configured","name":"should return cached value when Redis is configured","status":"passed","testResultsByEnv":{"default":"3c6ff4c38bf006c5da1e54265370ff32"}}

@@ -1,0 +1,1 @@
+{"id":"d6b641d567175c47dc715c29c1001eed","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info returns 400 on invalid URL (Zod validation)","name":"returns 400 on invalid URL (Zod validation)","status":"passed","testResultsByEnv":{"default":"4a23286f1dba9010d3c423380f7b617b"}}

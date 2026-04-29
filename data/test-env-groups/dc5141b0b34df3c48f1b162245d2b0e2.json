@@ -1,0 +1,1 @@
+{"id":"dc5141b0b34df3c48f1b162245d2b0e2","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Test Groups Routes POST /api/v1/test-groups returns 400 when name is missing","name":"returns 400 when name is missing","status":"passed","testResultsByEnv":{"default":"0c86850e99807a4f9815bef83e58186f"}}

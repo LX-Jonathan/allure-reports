@@ -1,0 +1,1 @@
+{"id":"4439ff63f790cf568763b3ed0aea27ae","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log authentication error for status 401","name":"should log authentication error for status 401","status":"passed","testResultsByEnv":{"default":"00954b4db9a285efdcac750f291c5891"}}

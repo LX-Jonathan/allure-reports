@@ -1,0 +1,1 @@
+{"id":"dfb535215b53cc622cbd5c32c0f2e461","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should log CRITICAL error when verification has size mismatch","name":"should log CRITICAL error when verification has size mismatch","status":"passed","testResultsByEnv":{"default":"5d75e91d54e53745f02e396d88da37ed"}}

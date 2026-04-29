@@ -1,0 +1,1 @@
+{"id":"f9699dd2a877f901965076ed046537de","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) POST /invoices/generate returns 401 without auth header","name":"POST /invoices/generate returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"843915cfb3d103b1bc1f3268be63a502"}}

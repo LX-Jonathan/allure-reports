@@ -1,0 +1,1 @@
+{"id":"241239278b6005c1b87059b3d9776322","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent payments renders the empty state when no payments are returned","name":"renders the empty state when no payments are returned","status":"passed","testResultsByEnv":{"default":"07a57e470224e198014e2e47edb400df"}}

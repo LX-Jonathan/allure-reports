@@ -1,0 +1,1 @@
+{"id":"5c1614e731567c1f2d0b7b6305b3d787","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore set should work without callback","name":"should work without callback","status":"passed","testResultsByEnv":{"default":"7da8790b3a14f65743d80d35511212aa"}}

@@ -1,0 +1,1 @@
+{"id":"102fdaff5eb1e6c6f5cb3269386152aa","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /simulate-reader returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"b69ea35f1e1b0ea8fa903dfb6c2f59cf"}}

@@ -1,0 +1,1 @@
+{"id":"51d89966167d315ecfc9298f19ea83ce","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/validate-address (pre-registration) returns 200 with not_us_address for non-US state","name":"returns 200 with not_us_address for non-US state","status":"passed","testResultsByEnv":{"default":"0eb8028b10bce64ee5259b50553c157c"}}

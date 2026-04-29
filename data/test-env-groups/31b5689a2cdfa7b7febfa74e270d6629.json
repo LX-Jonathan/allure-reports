@@ -1,0 +1,1 @@
+{"id":"31b5689a2cdfa7b7febfa74e270d6629","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers returns 200 with filters applied","name":"returns 200 with filters applied","status":"passed","testResultsByEnv":{"default":"ac3f2e84ded24cf171361a216933cdd7"}}

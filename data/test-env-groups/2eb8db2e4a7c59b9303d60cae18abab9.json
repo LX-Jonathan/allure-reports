@@ -1,0 +1,1 @@
+{"id":"2eb8db2e4a7c59b9303d60cae18abab9","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog prevents dialog close when forceRequired and no existing signature","name":"prevents dialog close when forceRequired and no existing signature","status":"passed","testResultsByEnv":{"default":"760cabde8ab9f02e21a1f78d9e2ee485"}}

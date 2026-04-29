@@ -1,0 +1,1 @@
+{"id":"046ce1ddce89879bb0d7eacd407b201b","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan updateBulkScanBatch should return null when batch not found","name":"should return null when batch not found","status":"passed","testResultsByEnv":{"default":"1407c58f818dd3f66a2a1664bd7ce632"}}

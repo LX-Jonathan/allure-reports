@@ -1,0 +1,1 @@
+{"id":"d029a7bb24ee1d59bad2e301b3e6d8a2","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should apply organization filter for full access users","name":"should apply organization filter for full access users","status":"passed","testResultsByEnv":{"default":"75d958f67231962788bdf429f0bdf211"}}

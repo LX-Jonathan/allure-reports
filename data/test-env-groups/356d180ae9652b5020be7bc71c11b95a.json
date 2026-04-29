@@ -1,0 +1,1 @@
+{"id":"356d180ae9652b5020be7bc71c11b95a","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/upload-url should accept allowed document types","name":"should accept allowed document types","status":"passed","testResultsByEnv":{"default":"ee312a2852bca05a5345bdd80cd6acb4"}}

@@ -1,0 +1,1 @@
+{"id":"4b37bca9ec4dfe18c454edf50019d886","fullName":"server/lib/__tests__/r2.test.ts#r2.ts deleteDocument should throw error when R2 is not configured","name":"should throw error when R2 is not configured","status":"passed","testResultsByEnv":{"default":"04707b8e70ecada0eed41a1072fc5f97"}}

@@ -1,0 +1,1 @@
+{"id":"24a8dfa15e8c1069394e4bef3c05d13f","fullName":"server/services/__tests__/payment-application.test.ts#syncCreditRefundForStripeRefund on a partial Stripe refund, refunds the proportional credit portion","name":"on a partial Stripe refund, refunds the proportional credit portion","status":"passed","testResultsByEnv":{"default":"9d7027da2ca5e5d8a18bc808811b4338"}}

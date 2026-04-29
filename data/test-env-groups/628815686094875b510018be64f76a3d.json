@@ -1,0 +1,1 @@
+{"id":"628815686094875b510018be64f76a3d","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes PUT /api/v1/marketplace/admin/:parentLabId returns 403 when user lacks required role","name":"returns 403 when user lacks required role","status":"passed","testResultsByEnv":{"default":"ff26e75777a425438a78a3bbbc32865e"}}

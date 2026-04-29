@@ -1,0 +1,1 @@
+{"id":"d63f081d4e9741b55bf3157607f3dc2f","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern in-memory cache should delete list: prefixed keys via in-memory prefix matching","name":"should delete list: prefixed keys via in-memory prefix matching","status":"passed","testResultsByEnv":{"default":"3244b099e9b3e573951c85f69f93c972"}}

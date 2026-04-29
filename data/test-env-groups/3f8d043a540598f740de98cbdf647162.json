@@ -1,0 +1,1 @@
+{"id":"3f8d043a540598f740de98cbdf647162","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Redis connection should register error and connect handlers on Redis connection","name":"should register error and connect handlers on Redis connection","status":"passed","testResultsByEnv":{"default":"581d365bf07af8b97717a86d0a362051"}}

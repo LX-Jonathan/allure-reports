@@ -1,0 +1,1 @@
+{"id":"1f4f48bfee30298b2ccda9a0a29a2b63","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when location-level user has no locations assigned","name":"should return error when location-level user has no locations assigned","status":"passed","testResultsByEnv":{"default":"bdc0034b0e0ceb5c73a216212d5fa8b8"}}

@@ -1,0 +1,1 @@
+{"id":"2696a0b886a931a0665b752adad80f1e","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService invalidatePattern should return false when Redis is not configured","name":"should return false when Redis is not configured","status":"passed","testResultsByEnv":{"default":"92c90873d6f7fab4fd7f5254828e0a0c"}}

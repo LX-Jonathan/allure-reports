@@ -1,0 +1,1 @@
+{"id":"ecbd45c4b876bb02cc1da8a8e4321382","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue error handling across all email functions should propagate database errors from queueWelcomeEmail","name":"should propagate database errors from queueWelcomeEmail","status":"passed","testResultsByEnv":{"default":"410f94606f8cba9b308ed39bb36921f5"}}

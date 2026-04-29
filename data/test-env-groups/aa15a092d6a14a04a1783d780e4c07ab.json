@@ -1,0 +1,1 @@
+{"id":"aa15a092d6a14a04a1783d780e4c07ab","fullName":"server/services/__tests__/operationsCenter.service.test.ts#operationsCenter.service evaluateOperationsCenter overall readiness and scoring should clamp score at 0 with many errors","name":"should clamp score at 0 with many errors","status":"passed","testResultsByEnv":{"default":"98cd67c44e39de16433d014ba842eb38"}}

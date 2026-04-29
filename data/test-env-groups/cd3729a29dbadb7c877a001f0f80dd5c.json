@@ -1,0 +1,1 @@
+{"id":"cd3729a29dbadb7c877a001f0f80dd5c","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) POST /api/v1/pre-registration-links returns 403 when user cannot access organization","name":"returns 403 when user cannot access organization","status":"passed","testResultsByEnv":{"default":"2391c56c6a68ddcc40dc53f23ec64df4"}}

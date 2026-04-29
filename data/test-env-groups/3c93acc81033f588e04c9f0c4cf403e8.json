@@ -1,0 +1,1 @@
+{"id":"3c93acc81033f588e04c9f0c4cf403e8","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should handle SSN with mixed separators","name":"should handle SSN with mixed separators","status":"passed","testResultsByEnv":{"default":"7923c4755408dd3af8fa6678b1300fc3"}}

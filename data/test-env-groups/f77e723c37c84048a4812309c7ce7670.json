@@ -1,0 +1,1 @@
+{"id":"f77e723c37c84048a4812309c7ce7670","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /invoices/:invoiceId returns 404 when invoice not found","name":"returns 404 when invoice not found","status":"passed","testResultsByEnv":{"default":"3a9d8314403acfa5b9d539ede76cf478"}}

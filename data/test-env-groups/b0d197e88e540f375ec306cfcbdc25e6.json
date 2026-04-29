@@ -1,0 +1,1 @@
+{"id":"b0d197e88e540f375ec306cfcbdc25e6","fullName":"client/src/hooks/__tests__/useOrderRiskScore.test.ts#useOrderRiskScore adds 30 when the patient has no insurance on file","name":"adds 30 when the patient has no insurance on file","status":"passed","testResultsByEnv":{"default":"3a9b5273ac8ce694c00b69b58db8a7c9"}}

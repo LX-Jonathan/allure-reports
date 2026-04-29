@@ -1,0 +1,1 @@
+{"id":"d8b57033190308bfcd46a85d5812afe9","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/:id/resend-invite fetches superOrg name when user has parentLabId","name":"fetches superOrg name when user has parentLabId","status":"passed","testResultsByEnv":{"default":"66b90e24e0d898e9b89c52e8ee6785f8"}}

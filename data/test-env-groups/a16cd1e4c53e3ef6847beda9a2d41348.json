@@ -1,0 +1,1 @@
+{"id":"a16cd1e4c53e3ef6847beda9a2d41348","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore destroy should return early when redis client is not available","name":"should return early when redis client is not available","status":"passed","testResultsByEnv":{"default":"7e7623b5273299fd27323ad91d30e766"}}

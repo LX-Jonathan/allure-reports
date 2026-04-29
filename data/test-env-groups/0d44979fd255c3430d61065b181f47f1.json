@@ -1,0 +1,1 @@
+{"id":"0d44979fd255c3430d61065b181f47f1","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId returns 403 for non-super_admin roles","name":"returns 403 for non-super_admin roles","status":"passed","testResultsByEnv":{"default":"3f29e7362a0b060e3eded7691b51e08b"}}

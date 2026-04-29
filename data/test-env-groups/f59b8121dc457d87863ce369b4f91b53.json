@@ -1,0 +1,1 @@
+{"id":"f59b8121dc457d87863ce369b4f91b53","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderByLinkedUserId should return null when not found","name":"should return null when not found","status":"passed","testResultsByEnv":{"default":"b403b0c629d49eaca38ab6cff26ac61c"}}

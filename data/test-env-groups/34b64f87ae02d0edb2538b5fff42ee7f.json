@@ -1,0 +1,1 @@
+{"id":"34b64f87ae02d0edb2538b5fff42ee7f","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth edge cases should handle empty string token","name":"should handle empty string token","status":"passed","testResultsByEnv":{"default":"d6d31e2537c26762d9f8657de51c0b5c"}}

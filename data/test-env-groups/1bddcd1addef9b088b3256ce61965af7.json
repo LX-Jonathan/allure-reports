@@ -1,0 +1,1 @@
+{"id":"1bddcd1addef9b088b3256ce61965af7","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan getScannerConfigByApiKey should not return extra fields beyond the shaped object","name":"should not return extra fields beyond the shaped object","status":"passed","testResultsByEnv":{"default":"69b352ed31878fcb10af38b7394cfc04"}}

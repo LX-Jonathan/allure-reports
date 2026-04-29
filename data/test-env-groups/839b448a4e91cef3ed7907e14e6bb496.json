@@ -1,0 +1,1 @@
+{"id":"839b448a4e91cef3ed7907e14e6bb496","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes GET /api/conversations/:id should return 500 if getMessagesByConversation fails","name":"should return 500 if getMessagesByConversation fails","status":"passed","testResultsByEnv":{"default":"5079c1005a1829bbe9ca90a7674f95cc"}}

@@ -1,0 +1,1 @@
+{"id":"93f8e01281ca6cf7d56eb96c9b6eb671","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes POST /:id/send returns 500 when sendEmail fails","name":"returns 500 when sendEmail fails","status":"passed","testResultsByEnv":{"default":"b2cc5ced7cc2b9d3bfc9dfb9cbabc258"}}

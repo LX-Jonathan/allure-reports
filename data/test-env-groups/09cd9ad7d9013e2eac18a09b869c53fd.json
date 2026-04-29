@@ -1,0 +1,1 @@
+{"id":"09cd9ad7d9013e2eac18a09b869c53fd","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService constructor should use default TTL of 300 seconds","name":"should use default TTL of 300 seconds","status":"passed","testResultsByEnv":{"default":"2b6253c90ddbd68dfcedbdc3f50fe1d3"}}

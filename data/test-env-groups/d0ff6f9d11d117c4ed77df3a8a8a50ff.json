@@ -1,0 +1,1 @@
+{"id":"d0ff6f9d11d117c4ed77df3a8a8a50ff","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generateSecureToken should use default length of 32 bytes","name":"should use default length of 32 bytes","status":"passed","testResultsByEnv":{"default":"1af9a3c3079f3178dd29083915ae6e69"}}

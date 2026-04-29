@@ -1,0 +1,1 @@
+{"id":"c1868bd414b67372d2abe1356e08ca33","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should clamp per-field confidence values into [0, 1]","name":"should clamp per-field confidence values into [0, 1]","status":"passed","testResultsByEnv":{"default":"34399ef3df961e90170bb8e4fc75598b"}}

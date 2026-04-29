@@ -1,0 +1,1 @@
+{"id":"bf6694473a1d0b499d6c6ab52cb4941d","fullName":"server/lib/__tests__/email.test.ts#email isEmailConfigured returns false when SENDGRID_API_KEY is not set","name":"returns false when SENDGRID_API_KEY is not set","status":"passed","testResultsByEnv":{"default":"f390af1f7022e491c8a64356c8f8b029"}}

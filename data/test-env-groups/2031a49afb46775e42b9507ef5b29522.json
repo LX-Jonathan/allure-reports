@@ -1,0 +1,1 @@
+{"id":"2031a49afb46775e42b9507ef5b29522","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/contextual-help returns 400 when route is missing","name":"returns 400 when route is missing","status":"passed","testResultsByEnv":{"default":"0c3610d52fd94b54d64feeec83bfe1ff"}}

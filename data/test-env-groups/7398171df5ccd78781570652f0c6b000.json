@@ -1,0 +1,1 @@
+{"id":"7398171df5ccd78781570652f0c6b000","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"43ed44af94db9c85a6959b3a586905ca"}}

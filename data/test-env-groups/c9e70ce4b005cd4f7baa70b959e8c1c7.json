@@ -1,0 +1,1 @@
+{"id":"c9e70ce4b005cd4f7baa70b959e8c1c7","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations should default title to 'New Chat' when title is empty string","name":"should default title to 'New Chat' when title is empty string","status":"passed","testResultsByEnv":{"default":"d004a4ec89aae80eff5979ae7735eb04"}}

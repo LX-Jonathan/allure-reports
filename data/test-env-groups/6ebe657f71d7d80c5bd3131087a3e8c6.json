@@ -1,0 +1,1 @@
+{"id":"6ebe657f71d7d80c5bd3131087a3e8c6","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /appeals/context/from-denial returns 400 when no params provided","name":"returns 400 when no params provided","status":"passed","testResultsByEnv":{"default":"38cadeb36d7acbb499039ef21aa3672d"}}

@@ -1,0 +1,1 @@
+{"id":"55eb0350ba34b2667fffdf46e37466f4","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/:id/items returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"de330ea6b28eb0cd510f239a9b73481e"}}

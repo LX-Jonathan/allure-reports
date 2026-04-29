@@ -1,0 +1,1 @@
+{"id":"d456b2117a99398768244a442d116f91","fullName":"server/routes/__tests__/manual-payments-refund-credit.routes.test.ts#Manual Payments — refund-credit endpoint 404 when payment is outside scope (preflight returns nothing)","name":"404 when payment is outside scope (preflight returns nothing)","status":"passed","testResultsByEnv":{"default":"2181baff1b7186de896ee3dbf21a30cf"}}

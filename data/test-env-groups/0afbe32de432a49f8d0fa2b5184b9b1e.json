@@ -1,0 +1,1 @@
+{"id":"0afbe32de432a49f8d0fa2b5184b9b1e","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 400 on Zod validation error (missing reason)","name":"returns 400 on Zod validation error (missing reason)","status":"passed","testResultsByEnv":{"default":"9fbb8662ee5a1c35cee03d5edc49b3e0"}}

@@ -1,0 +1,1 @@
+{"id":"b06b46fc4961b99c6863cc1493b036dd","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment sets isAvailable when service responds","name":"checkEnvironment sets isAvailable when service responds","status":"passed","testResultsByEnv":{"default":"f0dc87c96e2d012fb1adf46f1991cbaa"}}

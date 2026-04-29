@@ -1,0 +1,1 @@
+{"id":"9f52ce303eab7cda7a04699a26932292","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should return 403 when none of multiple permissions match","name":"should return 403 when none of multiple permissions match","status":"passed","testResultsByEnv":{"default":"b2c3863318f03f6e700455b3e2ee4f52"}}

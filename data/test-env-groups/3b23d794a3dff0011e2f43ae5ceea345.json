@@ -1,0 +1,1 @@
+{"id":"3b23d794a3dff0011e2f43ae5ceea345","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules returns 400 for invalid body (empty name)","name":"returns 400 for invalid body (empty name)","status":"passed","testResultsByEnv":{"default":"4df146f43ae484e761e535cb01c45a26"}}

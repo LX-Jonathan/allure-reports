@@ -1,0 +1,1 @@
+{"id":"18e73ee53b84c7d9cf2854b48b7778ce","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /resolve/for-order returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"a4698b68a03c11b77c863aaaf8bfe25c"}}

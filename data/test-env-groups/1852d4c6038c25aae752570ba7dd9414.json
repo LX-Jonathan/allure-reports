@@ -1,0 +1,1 @@
+{"id":"1852d4c6038c25aae752570ba7dd9414","fullName":"client/src/components/ui/__tests__/table.test.tsx#Table primitives renders TableCaption with sr-only when srOnly is true","name":"renders TableCaption with sr-only when srOnly is true","status":"passed","testResultsByEnv":{"default":"110f83f0509951ccc5c7c1c0d607336a"}}

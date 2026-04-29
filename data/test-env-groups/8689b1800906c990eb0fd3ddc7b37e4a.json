@@ -1,0 +1,1 @@
+{"id":"8689b1800906c990eb0fd3ddc7b37e4a","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"a8e591ad2029e59921b2b77f45446a18"}}

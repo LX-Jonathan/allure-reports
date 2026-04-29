@@ -1,0 +1,1 @@
+{"id":"09c345f07d9a308f8e309bfec1300a23","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should handle deletedAt","name":"should handle deletedAt","status":"passed","testResultsByEnv":{"default":"600e54d42e66248d5bd0600a50808fca"}}

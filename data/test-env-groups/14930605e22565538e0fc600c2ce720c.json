@@ -1,0 +1,1 @@
+{"id":"14930605e22565538e0fc600c2ce720c","fullName":"server/lib/__tests__/logger.test.ts#logger LOGGER_PASSTHROUGH='1' passthrough mode unwraps single-key { error: Error } to bare Error for spy compatibility","name":"unwraps single-key { error: Error } to bare Error for spy compatibility","status":"passed","testResultsByEnv":{"default":"61b6309633b91caf54580b6c0d4a4c81"}}

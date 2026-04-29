@@ -1,0 +1,1 @@
+{"id":"99c758d5eb6270270da52c42c6593839","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess requiresLocationFilter should return true for location-level user","name":"should return true for location-level user","status":"passed","testResultsByEnv":{"default":"aa215ae2f93e6d4cd7e6785d93f595e8"}}

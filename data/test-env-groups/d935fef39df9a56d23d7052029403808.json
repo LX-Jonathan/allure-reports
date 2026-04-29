@@ -1,0 +1,1 @@
+{"id":"d935fef39df9a56d23d7052029403808","fullName":"client/src/components/check-in/__tests__/InsuranceStepPanel.test.tsx#InsuranceStepPanel omits the waive action in the warning when waiving is not available","name":"omits the waive action in the warning when waiving is not available","status":"passed","testResultsByEnv":{"default":"075a74989ab9b70e256903c66426802f"}}

@@ -1,0 +1,1 @@
+{"id":"fb02f8ef312b6cc62c6ba529d2135b02","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"c9254486cbd43c6f3f1421a27923a3dc"}}

@@ -1,0 +1,1 @@
+{"id":"96dc60c74f4314fe8bd6c82ee41b56ec","fullName":"server/lib/__tests__/safeRegex.test.ts#validateRegex rejects negative bracket depth before close","name":"rejects negative bracket depth before close","status":"passed","testResultsByEnv":{"default":"d8e9c60fc65179e3fbe99fc65237f382"}}

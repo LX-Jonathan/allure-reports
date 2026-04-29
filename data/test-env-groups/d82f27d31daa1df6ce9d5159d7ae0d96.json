@@ -1,0 +1,1 @@
+{"id":"d82f27d31daa1df6ce9d5159d7ae0d96","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/resolve returns 403 when org_admin lacks access","name":"returns 403 when org_admin lacks access","status":"passed","testResultsByEnv":{"default":"1b5ee3e213d772ae566ff17baa6bcaf4"}}

@@ -1,0 +1,1 @@
+{"id":"41bd1c58dd748dbbd704c2377c06c5aa","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"c720c9ecdda3eb2854e9ca8b62c9f3fa"}}

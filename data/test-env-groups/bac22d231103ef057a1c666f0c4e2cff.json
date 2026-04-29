@@ -1,0 +1,1 @@
+{"id":"bac22d231103ef057a1c666f0c4e2cff","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) DELETE /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"e49acff519233fd5cb2afead90459cfd"}}

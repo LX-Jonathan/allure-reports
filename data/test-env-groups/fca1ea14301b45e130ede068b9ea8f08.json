@@ -1,0 +1,1 @@
+{"id":"fca1ea14301b45e130ede068b9ea8f08","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/abn-worklist returns 200 with stats for non-full-access user with parentLabId","name":"returns 200 with stats for non-full-access user with parentLabId","status":"passed","testResultsByEnv":{"default":"aaf2e60141b6dca043e5e81a118f2d86"}}

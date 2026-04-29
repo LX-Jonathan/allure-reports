@@ -1,0 +1,1 @@
+{"id":"4e5aad4416e011ca5d0acb3a5aa62234","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes PUT /api/v1/marketplace/admin/:parentLabId does not block when isPublished is not being set to true","name":"does not block when isPublished is not being set to true","status":"passed","testResultsByEnv":{"default":"4c20370c8061d69894cfda7fb7cfda8a"}}

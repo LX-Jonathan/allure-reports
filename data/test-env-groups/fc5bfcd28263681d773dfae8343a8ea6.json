@@ -1,0 +1,1 @@
+{"id":"fc5bfcd28263681d773dfae8343a8ea6","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 400 when locationId missing","name":"returns 400 when locationId missing","status":"passed","testResultsByEnv":{"default":"34df65d1f350c802ec3452fd206901d4"}}

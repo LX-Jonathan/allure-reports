@@ -1,0 +1,1 @@
+{"id":"c7cdc63fe33db6c35878f39799c1316b","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"dd0ebba7413decd06fbdfd5f56fdd133"}}

@@ -1,0 +1,1 @@
+{"id":"cb562f38b15053763072fa916369f89a","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check returns 400 on validation error - missing firstName","name":"returns 400 on validation error - missing firstName","status":"passed","testResultsByEnv":{"default":"28eb7a26ecb0662f84d2d7fc19fee6cb"}}

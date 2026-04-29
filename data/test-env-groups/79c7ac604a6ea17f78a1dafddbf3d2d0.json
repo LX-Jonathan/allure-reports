@@ -1,0 +1,1 @@
+{"id":"79c7ac604a6ea17f78a1dafddbf3d2d0","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status returns 503 when BullMQ not configured","name":"returns 503 when BullMQ not configured","status":"passed","testResultsByEnv":{"default":"dd22bff99b534110188b530d9fea84ee"}}

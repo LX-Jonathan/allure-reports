@@ -1,0 +1,1 @@
+{"id":"caea26385a192bb7ff3fa30444a04cdd","fullName":"client/src/lib/__tests__/marketplace-utils.test.ts#extractStateFromAddress ignores non-state two-letter sequences","name":"ignores non-state two-letter sequences","status":"passed","testResultsByEnv":{"default":"5a4f37996b4053ed3423c2ad0f50b2bc"}}

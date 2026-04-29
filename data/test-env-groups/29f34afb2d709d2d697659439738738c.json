@@ -1,0 +1,1 @@
+{"id":"29f34afb2d709d2d697659439738738c","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:id returns 403 when organization not assigned","name":"returns 403 when organization not assigned","status":"passed","testResultsByEnv":{"default":"fa916669eab9b6b6f6cbb4a19aea9f95"}}

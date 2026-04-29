@@ -1,0 +1,1 @@
+{"id":"a89540800a5b32d03d8eec436e01288f","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management setUserOrganizationAssignments should delete existing and insert new assignments","name":"should delete existing and insert new assignments","status":"passed","testResultsByEnv":{"default":"a83997a4905d895fc9465c7ac727d2c7"}}

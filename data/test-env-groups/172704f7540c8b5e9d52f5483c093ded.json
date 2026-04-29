@@ -1,0 +1,1 @@
+{"id":"172704f7540c8b5e9d52f5483c093ded","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes DELETE /api/v1/form-configs/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"89fa173eb4521ba4b49d378a624ad498"}}

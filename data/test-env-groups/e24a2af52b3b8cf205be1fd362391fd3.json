@@ -1,0 +1,1 @@
+{"id":"e24a2af52b3b8cf205be1fd362391fd3","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Generic Reports via /reports/:reportName returns 404 for unknown report name","name":"returns 404 for unknown report name","status":"passed","testResultsByEnv":{"default":"fb194b8856a7995599250a03e0267e21"}}

@@ -1,0 +1,1 @@
+{"id":"1ef249d135d28aecbf2fcd65a03ffcbc","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints PUT /api/v1/lab-tests/:id/image-url returns 400 when imageUrl is not a string","name":"returns 400 when imageUrl is not a string","status":"passed","testResultsByEnv":{"default":"a77038f30d49f97d13e925de25b35836"}}

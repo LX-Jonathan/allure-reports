@@ -1,0 +1,1 @@
+{"id":"4e4fa3dff28523687da7387a40279fdc","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /history returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"2b31d8ad84f28f6a4778f57830b26bc7"}}

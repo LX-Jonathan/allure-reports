@@ -1,0 +1,1 @@
+{"id":"9d80e718711d918c48257f537a19f905","fullName":"server/routes/__tests__/audit.routes.test.ts#Audit Routes GET /api/v1/audit-logs returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"1f22a130dc43c3bfa29f5277b1d5fbc7"}}

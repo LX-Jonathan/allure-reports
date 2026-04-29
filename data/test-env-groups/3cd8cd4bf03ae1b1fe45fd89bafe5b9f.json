@@ -1,0 +1,1 @@
+{"id":"3cd8cd4bf03ae1b1fe45fd89bafe5b9f","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth loginWithPassword mutation stores tokens and sets user on successful login","name":"stores tokens and sets user on successful login","status":"passed","testResultsByEnv":{"default":"9dd1bb7cf9947a2375a2daca24b15761"}}

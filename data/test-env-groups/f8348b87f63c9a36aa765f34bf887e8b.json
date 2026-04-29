@@ -1,0 +1,1 @@
+{"id":"f8348b87f63c9a36aa765f34bf887e8b","fullName":"server/__tests__/stripeConfig.test.ts#stripeConfig setStripeKeys rejects secret keys that don't start with sk_","name":"rejects secret keys that don't start with sk_","status":"passed","testResultsByEnv":{"default":"f5c2461d80a8277144c40928b156d300"}}

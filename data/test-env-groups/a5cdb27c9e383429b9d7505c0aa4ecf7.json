@@ -1,0 +1,1 @@
+{"id":"a5cdb27c9e383429b9d7505c0aa4ecf7","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes DELETE /api/v1/order-favorites/:id deletes an order favorite","name":"deletes an order favorite","status":"passed","testResultsByEnv":{"default":"8278863fa9866b7b9ea6c84a2d78833e"}}

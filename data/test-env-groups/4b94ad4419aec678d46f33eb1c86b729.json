@@ -1,0 +1,1 @@
+{"id":"4b94ad4419aec678d46f33eb1c86b729","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service listDatabases returns database names from Athena query","name":"returns database names from Athena query","status":"passed","testResultsByEnv":{"default":"32ab71d28cdf2ab417e3652a9997b191"}}

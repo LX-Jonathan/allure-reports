@@ -1,0 +1,1 @@
+{"id":"45cfa3efb7432d031533bc67abfaa224","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /assign returns 400 for empty superOrgIds","name":"returns 400 for empty superOrgIds","status":"passed","testResultsByEnv":{"default":"6cf0c299e2ca0937c98bcf0f72c4132f"}}

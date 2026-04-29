@@ -1,0 +1,1 @@
+{"id":"3bccd1e5b6951d04c97964f7c68190e8","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /config/:parentLabId returns 403 for non-super_admin roles","name":"returns 403 for non-super_admin roles","status":"passed","testResultsByEnv":{"default":"4aa331f67b0abd28fadbf0c022edd0d0"}}

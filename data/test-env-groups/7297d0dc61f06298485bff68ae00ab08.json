@@ -1,0 +1,1 @@
+{"id":"7297d0dc61f06298485bff68ae00ab08","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan getBulkScanBatches should apply locationId filter","name":"should apply locationId filter","status":"passed","testResultsByEnv":{"default":"ddf4d6397fca74d7a20d6812a02b3f87"}}

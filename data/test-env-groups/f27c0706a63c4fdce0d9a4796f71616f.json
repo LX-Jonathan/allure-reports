@@ -1,0 +1,1 @@
+{"id":"f27c0706a63c4fdce0d9a4796f71616f","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /835/ingest matches via claimControlNumber when no accessionId provided","name":"matches via claimControlNumber when no accessionId provided","status":"passed","testResultsByEnv":{"default":"74e294d6080c06658f6024e5ee99829d"}}

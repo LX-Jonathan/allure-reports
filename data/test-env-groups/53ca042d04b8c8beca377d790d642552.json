@@ -1,0 +1,1 @@
+{"id":"53ca042d04b8c8beca377d790d642552","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return false for backward transitions","name":"should return false for backward transitions","status":"passed","testResultsByEnv":{"default":"c971659054fec4c7b4dc94ad2344ab83"}}

@@ -1,0 +1,1 @@
+{"id":"275747981ee03ceda3cb91a09a1353d3","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Appointments deleteAppointmentSchedule returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"ed9496484f5806dec73f87a116f2cb51"}}

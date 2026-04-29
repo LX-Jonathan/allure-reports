@@ -1,0 +1,1 @@
+{"id":"e99366416dffdbb388880d84c00936c5","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should calculate exponential backoff for retry delay","name":"should calculate exponential backoff for retry delay","status":"passed","testResultsByEnv":{"default":"d7c70bab76fb77109834a2ea469a4a83"}}

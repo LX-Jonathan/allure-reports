@@ -1,0 +1,1 @@
+{"id":"2be2d7d8f41d3a837360b0b3e1c2f09a","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should return original for SSN with more than 9 digits","name":"should return original for SSN with more than 9 digits","status":"passed","testResultsByEnv":{"default":"11260a3c3ca736b23172cde964e54fea"}}

@@ -1,0 +1,1 @@
+{"id":"6fb22d8bfd20a7417b4b20c8d08af862","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /appeal-templates/:id returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"c4c7f6c8a49edd091786fff2a8a27c59"}}

@@ -1,0 +1,1 @@
+{"id":"68889eb5ee306425182a9fdabc2f2f09","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes GET /campaigns returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"151f479e699ded062ed56353a7ceb162"}}

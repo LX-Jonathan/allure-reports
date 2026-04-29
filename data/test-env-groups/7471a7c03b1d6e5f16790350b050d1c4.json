@@ -1,0 +1,1 @@
+{"id":"7471a7c03b1d6e5f16790350b050d1c4","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:patientId/insurance/:insuranceId returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"82cce33945e37e0c04bc80515742b7ff"}}

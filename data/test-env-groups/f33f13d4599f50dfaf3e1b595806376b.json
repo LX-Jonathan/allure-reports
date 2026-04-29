@@ -1,0 +1,1 @@
+{"id":"f33f13d4599f50dfaf3e1b595806376b","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postRefundJournal should debit patient AR and credit operating checking for non-cash","name":"should debit patient AR and credit operating checking for non-cash","status":"passed","testResultsByEnv":{"default":"880ce48a4a2b1fa59057c54b7b759826"}}

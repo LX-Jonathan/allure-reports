@@ -1,0 +1,1 @@
+{"id":"3945eedf583b314dc3a746857cfda068","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware results API paths should skip CSRF validation for /api/v1/results/ingest paths","name":"should skip CSRF validation for /api/v1/results/ingest paths","status":"passed","testResultsByEnv":{"default":"ffaa025481af4037c6deb2d4a675b61b"}}

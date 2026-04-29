@@ -1,0 +1,1 @@
+{"id":"12e6287899aa283842a6eb9b095c551d","fullName":"server/__tests__/format-order-payments-response.test.ts#shapePatientPayment — receipt link extraction extracts receiptUrl from metadata when present","name":"extracts receiptUrl from metadata when present","status":"passed","testResultsByEnv":{"default":"7eed14796018681cdd3c0eeb4bb43f90"}}

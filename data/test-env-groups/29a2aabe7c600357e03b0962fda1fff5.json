@@ -1,0 +1,1 @@
+{"id":"29a2aabe7c600357e03b0962fda1fff5","fullName":"server/__tests__/aggregate-order-insurance-verdict.test.ts#pickStrongerVerdict (task-1572) paid overrides pending_insurance but never denied","name":"paid overrides pending_insurance but never denied","status":"passed","testResultsByEnv":{"default":"7e69a3eb57525d7763d653800cab6f06"}}

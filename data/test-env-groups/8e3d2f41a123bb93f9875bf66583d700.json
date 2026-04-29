@@ -1,0 +1,1 @@
+{"id":"8e3d2f41a123bb93f9875bf66583d700","fullName":"client/src/pages/__tests__/rapid-tests.test.tsx#RapidTestsPage shows 'No rapid test orders found' empty state when list is empty","name":"shows 'No rapid test orders found' empty state when list is empty","status":"passed","testResultsByEnv":{"default":"876225530ca396fa352f495d0b1846f4"}}

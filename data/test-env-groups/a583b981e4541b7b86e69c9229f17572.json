@@ -1,0 +1,1 @@
+{"id":"a583b981e4541b7b86e69c9229f17572","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /history returns 500 when the storage call fails","name":"returns 500 when the storage call fails","status":"passed","testResultsByEnv":{"default":"e9d5edb25db90866f43de489850398d4"}}

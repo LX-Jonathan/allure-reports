@@ -1,0 +1,1 @@
+{"id":"26b20ab45505a8dec75075e35f75dc54","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService AI response parsing should handle AI response without confidence field","name":"should handle AI response without confidence field","status":"passed","testResultsByEnv":{"default":"9e7ea100a662eec28cdad2ac134a6a05"}}

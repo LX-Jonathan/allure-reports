@@ -1,0 +1,1 @@
+{"id":"2f4caf7dd8b05be39d76323613b6e118","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptPHI should return empty string when given empty string","name":"should return empty string when given empty string","status":"passed","testResultsByEnv":{"default":"caf9a713282a5db4bc5bbd9383bb9963"}}

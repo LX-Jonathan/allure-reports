@@ -1,0 +1,1 @@
+{"id":"3b184ee10c2c295a167f842c686d30c8","fullName":"client/src/components/patient/__tests__/demographics-check-dialog.test.tsx#DemographicsCheckDialog calls onRetryCheck when retry button clicked","name":"calls onRetryCheck when retry button clicked","status":"passed","testResultsByEnv":{"default":"57d8d0e720a769c520c899a75276dfc6"}}

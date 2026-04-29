@@ -1,0 +1,1 @@
+{"id":"de832041f23ae90d2c6c05d6e31c648f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"48c2d171592ff2abb1e35635d3279a3e"}}

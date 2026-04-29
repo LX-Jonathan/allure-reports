@@ -1,0 +1,1 @@
+{"id":"53c99180e5bfef913a75a9d88743cc0c","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints GET /api/v1/lxu/admin/quickstarts/:id returns 200 with quickstart details for admin","name":"returns 200 with quickstart details for admin","status":"passed","testResultsByEnv":{"default":"6c31db0bedc03c61b91726ef8d71ee84"}}

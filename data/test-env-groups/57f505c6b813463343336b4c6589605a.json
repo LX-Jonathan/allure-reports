@@ -1,0 +1,1 @@
+{"id":"57f505c6b813463343336b4c6589605a","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations still records a staff notification even when the inviter cannot be located","name":"still records a staff notification even when the inviter cannot be located","status":"passed","testResultsByEnv":{"default":"2897af3ea7e3c2b59b521fc463000653"}}

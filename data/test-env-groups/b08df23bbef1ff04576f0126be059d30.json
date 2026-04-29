@@ -1,0 +1,1 @@
+{"id":"b08df23bbef1ff04576f0126be059d30","fullName":"server/lib/__tests__/auth.test.ts#auth ROLE_PERMISSIONS should give super_admin the most permissions","name":"should give super_admin the most permissions","status":"passed","testResultsByEnv":{"default":"5b0f2833c50ca894d08a556f9ec29ead"}}

@@ -1,0 +1,1 @@
+{"id":"7ff052d145b91470d70c4621f22aa679","fullName":"server/middleware/__tests__/csrf.test.ts#getCSRFToken should return empty string if csrfToken is undefined and no cookie","name":"should return empty string if csrfToken is undefined and no cookie","status":"passed","testResultsByEnv":{"default":"0beba7349063b360ca2c1d48fba79687"}}

@@ -1,0 +1,1 @@
+{"id":"0b4ac1ddc8872f1a4eb75c7f1bd69b1d","fullName":"server/services/__tests__/payment-application.test.ts#applyPaymentToPlan applies one full installment and advances the next due date by one month","name":"applies one full installment and advances the next due date by one month","status":"passed","testResultsByEnv":{"default":"df93a0081b82ed0135445c37347814d1"}}

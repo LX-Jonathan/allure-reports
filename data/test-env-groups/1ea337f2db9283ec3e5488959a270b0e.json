@@ -1,0 +1,1 @@
+{"id":"1ea337f2db9283ec3e5488959a270b0e","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should skip tenant config when decryption returns null","name":"should skip tenant config when decryption returns null","status":"passed","testResultsByEnv":{"default":"62dbeb0692eda9f5660560d00416acc2"}}

@@ -1,0 +1,1 @@
+{"id":"cc14e74e85ec6e1e259f3404e2d74815","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 400 for private host (localhost)","name":"returns 400 for private host (localhost)","status":"passed","testResultsByEnv":{"default":"df72c4b1d78998fe3a63ec160fedcd7d"}}

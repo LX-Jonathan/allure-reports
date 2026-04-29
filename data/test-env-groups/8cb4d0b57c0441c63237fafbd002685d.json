@@ -1,0 +1,1 @@
+{"id":"8cb4d0b57c0441c63237fafbd002685d","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /order/:orderId/financials returns financial summary for order","name":"returns financial summary for order","status":"passed","testResultsByEnv":{"default":"fad2212f2e6d680e7306073c399b5eae"}}

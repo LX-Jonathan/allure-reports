@@ -1,0 +1,1 @@
+{"id":"392fae15109b93994169c21df383592c","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/activate (Patient Portal - Activate Kit) returns 200 when kit is activated successfully","name":"returns 200 when kit is activated successfully","status":"passed","testResultsByEnv":{"default":"bd5a9882c5d1511ebf0d206a879e130c"}}

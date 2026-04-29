@@ -1,0 +1,1 @@
+{"id":"af94677283ba6a9ac7f3f67047d1a111","fullName":"client/src/components/__tests__/portal-management-redirect.test.tsx#PortalManagementRedirect redirects to /patient-portal/dashboard when no tab is provided","name":"redirects to /patient-portal/dashboard when no tab is provided","status":"passed","testResultsByEnv":{"default":"9810a0738d7fb006b759db170fff77cf"}}

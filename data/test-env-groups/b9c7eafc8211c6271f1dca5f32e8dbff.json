@@ -1,0 +1,1 @@
+{"id":"b9c7eafc8211c6271f1dca5f32e8dbff","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns 403 for non-super_admin without org assignment","name":"returns 403 for non-super_admin without org assignment","status":"passed","testResultsByEnv":{"default":"7d1cf8e45af245eabb2e72e129b4f455"}}

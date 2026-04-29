@@ -1,0 +1,1 @@
+{"id":"00cc84db7548e8f9a73dee3071f7784a","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/order-counts uses cache with 30 second TTL","name":"uses cache with 30 second TTL","status":"passed","testResultsByEnv":{"default":"f4d0a7a1f0dc0633afb369b1823bdf1e"}}

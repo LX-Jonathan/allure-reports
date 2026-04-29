@@ -1,0 +1,1 @@
+{"id":"982b28a31a28fdeaf52f36b91958ba71","fullName":"server/services/__tests__/operationsTasks.service.test.ts#operationsTasks.service / validators isValidState accepts all known states and rejects unknowns","name":"isValidState accepts all known states and rejects unknowns","status":"passed","testResultsByEnv":{"default":"affbac98e0e4e5d066fe4a5f3adfe4f2"}}

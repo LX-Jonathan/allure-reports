@@ -1,0 +1,1 @@
+{"id":"42ae88e7770b47dca3064945f54db515","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link returns 400 when destination is not eligible for the patient","name":"returns 400 when destination is not eligible for the patient","status":"passed","testResultsByEnv":{"default":"e3cf9ff41e429825287f53e67b81d1c2"}}

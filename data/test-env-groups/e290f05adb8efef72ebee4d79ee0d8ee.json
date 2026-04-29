@@ -1,0 +1,1 @@
+{"id":"e290f05adb8efef72ebee4d79ee0d8ee","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes PATCH /api/v1/biometrics/:id returns 200 when updating biometric as super_admin","name":"returns 200 when updating biometric as super_admin","status":"passed","testResultsByEnv":{"default":"bab473c73a326148d5fab7642a929c8c"}}

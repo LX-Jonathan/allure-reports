@@ -1,0 +1,1 @@
+{"id":"878d9ecb97d0c395be4f3f7ee8cb148e","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob successful processing should update job progress during processing","name":"should update job progress during processing","status":"passed","testResultsByEnv":{"default":"e1fe71fa7135c01bb478abbee6bf39a2"}}

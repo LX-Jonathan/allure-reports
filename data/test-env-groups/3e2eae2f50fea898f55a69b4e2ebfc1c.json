@@ -1,0 +1,1 @@
+{"id":"3e2eae2f50fea898f55a69b4e2ebfc1c","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"8230bb1eacff87cb9da6ee9793bf20d6"}}

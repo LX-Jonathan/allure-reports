@@ -1,0 +1,1 @@
+{"id":"5fbfe00e91645f612a50fc08e24fb95d","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations should create a conversation with provided title","name":"should create a conversation with provided title","status":"passed","testResultsByEnv":{"default":"83cdf68f042a99e617971aab74ab779d"}}

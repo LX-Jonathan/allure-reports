@@ -1,0 +1,1 @@
+{"id":"00bc573a4552df46fa8014acfbb010d0","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId rejects twilio accountSid exceeding max length","name":"rejects twilio accountSid exceeding max length","status":"passed","testResultsByEnv":{"default":"6d912a9a9d641c57aa6907bdef79a3f4"}}

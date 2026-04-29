@@ -1,0 +1,1 @@
+{"id":"e6802293337f4490219f2ba891192fd0","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#useStripeConfigStatus uses the shared stripe-config status query key","name":"uses the shared stripe-config status query key","status":"passed","testResultsByEnv":{"default":"f027bba17b1a81b0f27142bc8d5e56f9"}}

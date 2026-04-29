@@ -1,0 +1,1 @@
+{"id":"d79a5216f8127d22d487d6ce818cdde5","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"6c2c445e167454c8513592ad6b533bea"}}

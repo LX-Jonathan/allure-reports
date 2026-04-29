@@ -1,0 +1,1 @@
+{"id":"9d32aaf169c42ff6e8210520ab99256b","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/recent-items returns empty array when no recent items exist","name":"returns empty array when no recent items exist","status":"passed","testResultsByEnv":{"default":"073439ec5a8afbd7a62f6ad89bb3ab4a"}}

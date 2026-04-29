@@ -1,0 +1,1 @@
+{"id":"382dbb9686d627e8964a923fc3a7d7d7","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/stats/summary should return 403 for non-staff users","name":"should return 403 for non-staff users","status":"passed","testResultsByEnv":{"default":"3f3f10a61c332b91b673e92d643c4fc3"}}

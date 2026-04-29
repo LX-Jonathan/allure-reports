@@ -1,0 +1,1 @@
+{"id":"c9c8af291d58fc19b73787ee48a75478","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should log error before rethrowing","name":"should log error before rethrowing","status":"passed","testResultsByEnv":{"default":"6356760ddc6a0168c089dd1f0ee7b806"}}

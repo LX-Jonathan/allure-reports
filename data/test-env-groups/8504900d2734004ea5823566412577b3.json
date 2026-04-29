@@ -1,0 +1,1 @@
+{"id":"8504900d2734004ea5823566412577b3","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/send-code returns 200 with generic message when user does not exist","name":"returns 200 with generic message when user does not exist","status":"passed","testResultsByEnv":{"default":"dac613653d679b05c1c55e446915903f"}}

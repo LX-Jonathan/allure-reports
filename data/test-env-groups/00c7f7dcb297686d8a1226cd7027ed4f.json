@@ -1,0 +1,1 @@
+{"id":"00c7f7dcb297686d8a1226cd7027ed4f","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processPatientRow should throw without both parentLabId and labId","name":"should throw without both parentLabId and labId","status":"passed","testResultsByEnv":{"default":"909628d809caf24e9c25eee34bfc1aba"}}

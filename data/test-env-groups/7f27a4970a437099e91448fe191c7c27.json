@@ -1,0 +1,1 @@
+{"id":"7f27a4970a437099e91448fe191c7c27","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/dashboard/stats (Staff Portal - Dashboard Stats) returns 400 when parentLabId is missing","name":"returns 400 when parentLabId is missing","status":"passed","testResultsByEnv":{"default":"f280aa265f50c913dbb1e3c186ffff94"}}

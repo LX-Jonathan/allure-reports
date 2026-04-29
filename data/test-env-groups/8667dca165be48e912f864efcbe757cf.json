@@ -1,0 +1,1 @@
+{"id":"8667dca165be48e912f864efcbe757cf","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post837ClaimJournal should return null when totalBilled is negative","name":"should return null when totalBilled is negative","status":"passed","testResultsByEnv":{"default":"a9e5f7e06d0363f09bd2a1c0cac53982"}}

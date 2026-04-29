@@ -1,0 +1,1 @@
+{"id":"3f114513aeec4e5fbe8d9b11c629b570","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/messages returns 404 when conversation not found","name":"returns 404 when conversation not found","status":"passed","testResultsByEnv":{"default":"1f025a5076b7ebcfa150e190ad3efb3c"}}

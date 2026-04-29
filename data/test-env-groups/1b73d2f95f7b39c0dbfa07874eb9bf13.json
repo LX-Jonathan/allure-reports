@@ -1,0 +1,1 @@
+{"id":"1b73d2f95f7b39c0dbfa07874eb9bf13","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes GET /api/v1/lab-tests/:id returns 200 with lab test when found","name":"returns 200 with lab test when found","status":"passed","testResultsByEnv":{"default":"0207ced79c0afd77e06941545c105dce"}}

@@ -1,0 +1,1 @@
+{"id":"e1f4a60f83767a1f0512617599753b8f","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processLocationRow should throw without organization context","name":"should throw without organization context","status":"passed","testResultsByEnv":{"default":"e1d2861ea3896bba305c906971cad99d"}}

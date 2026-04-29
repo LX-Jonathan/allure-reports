@@ -1,0 +1,1 @@
+{"id":"39bbaa60c6118272225d2cfd7c9db1fb","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware resource path parsing should handle paths with UUID","name":"should handle paths with UUID","status":"passed","testResultsByEnv":{"default":"795b479a6b0ba7ec96869d71eb32408b"}}

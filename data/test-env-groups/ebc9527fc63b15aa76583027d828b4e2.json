@@ -1,0 +1,1 @@
+{"id":"ebc9527fc63b15aa76583027d828b4e2","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Providers getProviderCount returns 0 when empty","name":"returns 0 when empty","status":"passed","testResultsByEnv":{"default":"c483681e63bcd3448aa38d30694454ef"}}

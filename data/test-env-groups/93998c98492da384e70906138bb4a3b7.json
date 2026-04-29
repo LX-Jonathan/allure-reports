@@ -1,0 +1,1 @@
+{"id":"93998c98492da384e70906138bb4a3b7","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service clearClfsCache clears cached data forcing re-fetch","name":"clears cached data forcing re-fetch","status":"passed","testResultsByEnv":{"default":"2c1b91e3d4f693585d557ccf21181bf2"}}

@@ -1,0 +1,1 @@
+{"id":"923f0335f235af83d5a8bbdf92497025","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /locations returns empty locations when no orgs found","name":"returns empty locations when no orgs found","status":"passed","testResultsByEnv":{"default":"ba37de8b5cf3484ad46c6bbafae72abc"}}

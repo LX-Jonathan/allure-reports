@@ -1,0 +1,1 @@
+{"id":"96570a560fbc4f73eb6c00e1cd3867e5","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf updates specialty from AI when not provided by user","name":"updates specialty from AI when not provided by user","status":"passed","testResultsByEnv":{"default":"73c0128999b13752f9bb609f0d68f53a"}}

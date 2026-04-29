@@ -1,0 +1,1 @@
+{"id":"ae35f9e77f03af44bafc54465f97e8d0","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service getTemplateCacheStats should return initial stats after clear","name":"should return initial stats after clear","status":"passed","testResultsByEnv":{"default":"03166c22606c13c312b2b4d131a66c8c"}}

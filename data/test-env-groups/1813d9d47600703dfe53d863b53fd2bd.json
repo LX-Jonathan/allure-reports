@@ -1,0 +1,1 @@
+{"id":"1813d9d47600703dfe53d863b53fd2bd","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/ai-map returns 400 when no parentLabId available","name":"returns 400 when no parentLabId available","status":"passed","testResultsByEnv":{"default":"8ac1ad1d07e69dca9077ecca0eb67731"}}

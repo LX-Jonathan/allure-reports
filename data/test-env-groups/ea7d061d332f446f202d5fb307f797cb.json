@@ -1,0 +1,1 @@
+{"id":"ea7d061d332f446f202d5fb307f797cb","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth invalid token provided should call next when token is invalid","name":"should call next when token is invalid","status":"passed","testResultsByEnv":{"default":"828c00d74e9bd6c1ba9feef8dc0a00fc"}}

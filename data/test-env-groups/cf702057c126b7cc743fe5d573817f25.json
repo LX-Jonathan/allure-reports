@@ -1,0 +1,1 @@
+{"id":"cf702057c126b7cc743fe5d573817f25","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"6892d65b45e399d07e2bb8bebef7c56a"}}

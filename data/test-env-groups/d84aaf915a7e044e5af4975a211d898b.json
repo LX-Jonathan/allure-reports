@@ -1,0 +1,1 @@
+{"id":"d84aaf915a7e044e5af4975a211d898b","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules returns 200 with custom pagination","name":"returns 200 with custom pagination","status":"passed","testResultsByEnv":{"default":"70180799650490878d06ff1a2a96b925"}}

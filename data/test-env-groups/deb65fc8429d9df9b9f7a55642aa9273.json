@@ -1,0 +1,1 @@
+{"id":"deb65fc8429d9df9b9f7a55642aa9273","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - User Invites cleanupExpiredInvites should hard delete expired unaccepted invites","name":"should hard delete expired unaccepted invites","status":"passed","testResultsByEnv":{"default":"40bedbe0afcb6ee22b85860b2c0a7805"}}

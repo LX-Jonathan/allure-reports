@@ -1,0 +1,1 @@
+{"id":"4dca8d4178494d4db4598f603028a0d1","fullName":"client/src/pages/__tests__/notifications.test.tsx#NotificationsPage writes the read-state choice into the URL when switching to Unread","name":"writes the read-state choice into the URL when switching to Unread","status":"passed","testResultsByEnv":{"default":"a2b39bf899b71d4a491125d4648f54ea"}}

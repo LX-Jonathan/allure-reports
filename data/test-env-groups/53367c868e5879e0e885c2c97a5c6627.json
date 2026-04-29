@@ -1,0 +1,1 @@
+{"id":"53367c868e5879e0e885c2c97a5c6627","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query fetches and returns user when access token exists","name":"fetches and returns user when access token exists","status":"passed","testResultsByEnv":{"default":"e65d5542441e81b8a42df72553fd1982"}}

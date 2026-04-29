@@ -1,0 +1,1 @@
+{"id":"57c65da4ec7c3bfe5faa2667b8dd6102","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware generateApiKey should only contain alphanumeric characters after prefix","name":"should only contain alphanumeric characters after prefix","status":"passed","testResultsByEnv":{"default":"366e13b21a923ac86efca8a40ef2f96f"}}

@@ -1,0 +1,1 @@
+{"id":"8a9f4fbe0bd5c0ad3383f5722f8988ac","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Validation edge cases PATCH /fhir-connections/:id rejects invalid fhirBaseUrl","name":"PATCH /fhir-connections/:id rejects invalid fhirBaseUrl","status":"passed","testResultsByEnv":{"default":"57569aa1c07a91896dc49d8620a45f28"}}

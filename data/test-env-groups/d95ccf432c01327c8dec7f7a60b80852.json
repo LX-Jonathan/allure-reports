@@ -1,0 +1,1 @@
+{"id":"d95ccf432c01327c8dec7f7a60b80852","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts verifyPatientAccessToken should return null for invalid token","name":"should return null for invalid token","status":"passed","testResultsByEnv":{"default":"141ab7764414a95b00bbdbf8ee6efcad"}}

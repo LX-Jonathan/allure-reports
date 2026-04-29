@@ -1,0 +1,1 @@
+{"id":"5e9bfe4c8b646c670e591c56a7a3af88","fullName":"client/src/components/patient/__tests__/payment-ratio-sparkline.test.tsx#PaymentRatioSparkline ignores orders with no responsibility or no createdAt","name":"ignores orders with no responsibility or no createdAt","status":"passed","testResultsByEnv":{"default":"91af4d38db1de652b0935445c7b657e5"}}

@@ -1,0 +1,1 @@
+{"id":"82ddfab19a365585321c1bff4f73eabc","fullName":"server/__tests__/worker-process.test.ts#worker-process error handlers should register unhandledRejection handler","name":"should register unhandledRejection handler","status":"passed","testResultsByEnv":{"default":"69a0a0c58d2f15d6e8a1fb72d0206021"}}

@@ -1,0 +1,1 @@
+{"id":"41d18a76fcae6db8397e296498be746c","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with stats for location_admin scoped to their locations","name":"returns 200 with stats for location_admin scoped to their locations","status":"passed","testResultsByEnv":{"default":"4c66b74a871cce4f5d4ef68e1102ad68"}}

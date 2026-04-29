@@ -1,0 +1,1 @@
+{"id":"a769942a5db2dd748a38fb2abfbe052c","fullName":"client/src/hooks/__tests__/useDxDropdownDirtyTracker.test.ts#useDxDropdownDirtyTracker resets cleanly across multiple open/close cycles","name":"resets cleanly across multiple open/close cycles","status":"passed","testResultsByEnv":{"default":"a1e0905ea9579c360b9ac0252728641d"}}

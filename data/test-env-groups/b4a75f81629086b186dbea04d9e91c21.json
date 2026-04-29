@@ -1,0 +1,1 @@
+{"id":"b4a75f81629086b186dbea04d9e91c21","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/generate-form returns 500 when Anthropic API throws","name":"returns 500 when Anthropic API throws","status":"passed","testResultsByEnv":{"default":"b6fb45e35aa2edf59d67a98f12ba74c4"}}

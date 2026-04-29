@@ -1,0 +1,1 @@
+{"id":"cbc097fa6437bec1106f6360f5b81fd2","fullName":"server/__tests__/interfaces.routes.test.ts#interfaces routes PATCH /api/v1/interfaces/alert-rules/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"9c3a21736f892deab4de5804bae07f1f"}}

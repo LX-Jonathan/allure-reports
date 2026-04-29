@@ -1,0 +1,1 @@
+{"id":"0798635973d2e45e36fe75285fe89fef","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should re-throw the original error","name":"should re-throw the original error","status":"passed","testResultsByEnv":{"default":"558aa8cf40fc4171a7cde0f813c45430"}}

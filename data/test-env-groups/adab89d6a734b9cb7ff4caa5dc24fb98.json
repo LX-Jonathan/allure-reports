@@ -1,0 +1,1 @@
+{"id":"adab89d6a734b9cb7ff4caa5dc24fb98","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service formatLog should include truncated jobId","name":"should include truncated jobId","status":"passed","testResultsByEnv":{"default":"47c1edd150dd848ba837ef733db99c9d"}}

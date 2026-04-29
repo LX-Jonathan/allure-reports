@@ -1,0 +1,1 @@
+{"id":"964832bbc52169a5281cc350fec12537","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients additional branches encrypts SSN and dateOfBirth during patient creation","name":"encrypts SSN and dateOfBirth during patient creation","status":"passed","testResultsByEnv":{"default":"b16bcb9d967177371ea4bd60895777cd"}}

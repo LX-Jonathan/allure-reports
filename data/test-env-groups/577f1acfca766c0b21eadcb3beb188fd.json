@@ -1,0 +1,1 @@
+{"id":"577f1acfca766c0b21eadcb3beb188fd","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup — additional branches returns 400 for invalid URL format (throws on parse)","name":"returns 400 for invalid URL format (throws on parse)","status":"passed","testResultsByEnv":{"default":"e4dc086ddd0361b5ba04231a70f0ff13"}}

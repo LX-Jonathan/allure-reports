@@ -1,0 +1,1 @@
+{"id":"2bca110f511fc37b8cdbbab45bb60908","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService parseOrderWithAI should throw error on invalid AI response","name":"should throw error on invalid AI response","status":"passed","testResultsByEnv":{"default":"3f295801045d656feab9279ff2fa4cad"}}

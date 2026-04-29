@@ -1,0 +1,1 @@
+{"id":"0e491fa85d4738d57b643b3317ee58c6","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/:id returns 200 with provider when found","name":"returns 200 with provider when found","status":"passed","testResultsByEnv":{"default":"0b4d4c038ee5549af0c93c41e6de07f3"}}

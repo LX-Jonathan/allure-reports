@@ -1,0 +1,1 @@
+{"id":"d97d6e105ed12264ed102e1ee2fbe114","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/products/:id (Staff Portal - Update Product) returns 200 when product is updated","name":"returns 200 when product is updated","status":"passed","testResultsByEnv":{"default":"56ca8812d418de7f3c7c65aae8e10fe2"}}

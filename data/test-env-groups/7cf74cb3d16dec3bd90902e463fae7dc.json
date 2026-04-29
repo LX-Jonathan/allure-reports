@@ -1,0 +1,1 @@
+{"id":"7cf74cb3d16dec3bd90902e463fae7dc","fullName":"client/src/stores/__tests__/authStore.test.ts#useAuthStore setCurrentOrg updates the org and clears location","name":"setCurrentOrg updates the org and clears location","status":"passed","testResultsByEnv":{"default":"33848932af883f3cf2d774feb31edc24"}}

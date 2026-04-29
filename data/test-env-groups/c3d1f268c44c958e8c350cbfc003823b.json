@@ -1,0 +1,1 @@
+{"id":"c3d1f268c44c958e8c350cbfc003823b","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService submitAuthorization falls back when AI throws during submitAuthorization","name":"falls back when AI throws during submitAuthorization","status":"passed","testResultsByEnv":{"default":"dca8208157c9f71ebd278e35ffdccbec"}}

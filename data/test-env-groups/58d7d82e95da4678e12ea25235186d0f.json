@@ -1,0 +1,1 @@
+{"id":"58d7d82e95da4678e12ea25235186d0f","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processProviderRow should throw for invalid NPI format","name":"should throw for invalid NPI format","status":"passed","testResultsByEnv":{"default":"e29fb30a0d1d6ca22e7decd4a113ab38"}}

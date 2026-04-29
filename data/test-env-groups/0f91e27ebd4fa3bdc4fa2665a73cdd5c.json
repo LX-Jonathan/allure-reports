@@ -1,0 +1,1 @@
+{"id":"0f91e27ebd4fa3bdc4fa2665a73cdd5c","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode returns 'before' when gallery is the first visible section","name":"returns 'before' when gallery is the first visible section","status":"passed","testResultsByEnv":{"default":"8c16afbe14af83ce7f0e78e9f5513c94"}}

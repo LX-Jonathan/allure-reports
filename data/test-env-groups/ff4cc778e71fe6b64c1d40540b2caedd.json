@@ -1,0 +1,1 @@
+{"id":"ff4cc778e71fe6b64c1d40540b2caedd","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should handle invalid JSON response","name":"should handle invalid JSON response","status":"passed","testResultsByEnv":{"default":"d3dc9a492fdc7aef60e65422608ed19f"}}

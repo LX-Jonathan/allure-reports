@@ -1,0 +1,1 @@
+{"id":"2f0a7eb6eb2cecaf13e60721b4127e32","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/shipments (Staff Portal - List Shipments) returns 200 with shipments and pagination","name":"returns 200 with shipments and pagination","status":"passed","testResultsByEnv":{"default":"77971596eea81e43e704f7dd54dfc538"}}

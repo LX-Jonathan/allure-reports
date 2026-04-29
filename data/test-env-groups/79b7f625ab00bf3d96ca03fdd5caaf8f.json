@@ -1,0 +1,1 @@
+{"id":"79b7f625ab00bf3d96ca03fdd5caaf8f","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query returns 400 when question exceeds 1000 characters","name":"returns 400 when question exceeds 1000 characters","status":"passed","testResultsByEnv":{"default":"b201ab4361380edb441950795441f0b1"}}

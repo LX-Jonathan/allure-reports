@@ -1,0 +1,1 @@
+{"id":"51951269f343d8bdddc2eca578ac27f4","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes GET /api/v1/patients/:patientId/medication-suggestions returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"a322293c4c3f688100581320bd8ffe00"}}

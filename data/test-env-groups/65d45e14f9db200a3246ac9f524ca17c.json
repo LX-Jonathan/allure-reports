@@ -1,0 +1,1 @@
+{"id":"65d45e14f9db200a3246ac9f524ca17c","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/stats/summary should return 200 with org-scoped stats for org admin","name":"should return 200 with org-scoped stats for org admin","status":"passed","testResultsByEnv":{"default":"a1bcda1965b3d3f6fe681e8964061bf1"}}

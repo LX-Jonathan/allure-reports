@@ -1,0 +1,1 @@
+{"id":"9b358515f805a798d977a67b284be934","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) logs request with full user context","name":"logs request with full user context","status":"passed","testResultsByEnv":{"default":"5b562fec9d18fdf807136ad8c70e20e1"}}

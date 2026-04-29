@@ -1,0 +1,1 @@
+{"id":"74dd3e2471e7fff4377677e976a9dccf","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware response interception should wrap res.end to log audit entry","name":"should wrap res.end to log audit entry","status":"passed","testResultsByEnv":{"default":"ff0ab5aea340f7af20044450339f8081"}}

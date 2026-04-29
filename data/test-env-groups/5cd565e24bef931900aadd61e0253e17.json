@@ -1,0 +1,1 @@
+{"id":"5cd565e24bef931900aadd61e0253e17","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id returns 400 when parent is not a parent lab","name":"returns 400 when parent is not a parent lab","status":"passed","testResultsByEnv":{"default":"9ee3d77789ab5be75f562b80cb0f9a66"}}

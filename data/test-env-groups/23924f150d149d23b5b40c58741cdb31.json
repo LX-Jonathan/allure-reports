@@ -1,0 +1,1 @@
+{"id":"23924f150d149d23b5b40c58741cdb31","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes GET /stats returns aggregated stats for full-access user","name":"returns aggregated stats for full-access user","status":"passed","testResultsByEnv":{"default":"395b6728ce73a0d210fef71722762c7e"}}

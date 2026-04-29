@@ -1,0 +1,1 @@
+{"id":"a67c3f292a1a8fe08da53df0839df2b9","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations should default title to 'New Chat' when title is undefined","name":"should default title to 'New Chat' when title is undefined","status":"passed","testResultsByEnv":{"default":"fea3d7c23e80a50178bc67d8da1cdbf7"}}

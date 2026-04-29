@@ -1,0 +1,1 @@
+{"id":"3190be7553086e5ce6e227c906101990","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET /:id returns 404 when partner not found","name":"returns 404 when partner not found","status":"passed","testResultsByEnv":{"default":"872cd5d501583fbaa207204ab87d4b75"}}

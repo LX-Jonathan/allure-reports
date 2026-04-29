@@ -1,0 +1,1 @@
+{"id":"faca76d334a63abf737503b2498573a3","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/recent-items returns 400 for invalid type query parameter","name":"returns 400 for invalid type query parameter","status":"passed","testResultsByEnv":{"default":"9baff71124354d03697ab3d8f01eeb85"}}

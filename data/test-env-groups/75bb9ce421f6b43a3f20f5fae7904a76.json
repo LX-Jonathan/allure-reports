@@ -1,0 +1,1 @@
+{"id":"75bb9ce421f6b43a3f20f5fae7904a76","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /appeal-templates/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"6e6947c5ef9ef82c85282d6b154b1384"}}

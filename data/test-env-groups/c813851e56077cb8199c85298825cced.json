@@ -1,0 +1,1 @@
+{"id":"c813851e56077cb8199c85298825cced","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"faeac769f576fe1e31a15e69120b00a3"}}

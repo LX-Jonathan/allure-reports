@@ -1,0 +1,1 @@
+{"id":"c1daf9e6251c97a96cdabb029b7ba560","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment acquires a row-level lock on the original payment (FOR UPDATE)","name":"acquires a row-level lock on the original payment (FOR UPDATE)","status":"passed","testResultsByEnv":{"default":"0c3f94264574a32a138323992d4df45f"}}

@@ -1,0 +1,1 @@
+{"id":"5c97cb665e6df00dea54ff488afcb42f","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/pdf should return 400 for empty patientName","name":"should return 400 for empty patientName","status":"passed","testResultsByEnv":{"default":"4d2ffa877b2fa7c31396b11a8e80b71b"}}

@@ -1,0 +1,1 @@
+{"id":"2915728b4293911456591c7d153f6ddb","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service terminateTesseractWorker should allow re-initialization after termination","name":"should allow re-initialization after termination","status":"passed","testResultsByEnv":{"default":"5493ec3a68a17aec6d3b70e896669ba6"}}

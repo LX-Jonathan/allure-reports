@@ -1,0 +1,1 @@
+{"id":"e15389a9c1a538a94d74bca5259dd321","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/contextual-help returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"f41ff97e20bd03c5bb71795a1fb46bf6"}}

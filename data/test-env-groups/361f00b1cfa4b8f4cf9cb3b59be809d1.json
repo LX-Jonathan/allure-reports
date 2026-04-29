@@ -1,0 +1,1 @@
+{"id":"361f00b1cfa4b8f4cf9cb3b59be809d1","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /simulate-reader returns 400 for StripeInvalidRequestError","name":"returns 400 for StripeInvalidRequestError","status":"passed","testResultsByEnv":{"default":"e7f2754247ac2e4d38e938c342ef0330"}}

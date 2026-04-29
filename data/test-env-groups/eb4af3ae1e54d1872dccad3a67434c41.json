@@ -1,0 +1,1 @@
+{"id":"eb4af3ae1e54d1872dccad3a67434c41","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore destroy should work without callback","name":"should work without callback","status":"passed","testResultsByEnv":{"default":"357b7fe5a740268d7127cdf7f626401b"}}

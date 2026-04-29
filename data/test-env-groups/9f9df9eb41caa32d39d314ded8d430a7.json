@@ -1,0 +1,1 @@
+{"id":"9f9df9eb41caa32d39d314ded8d430a7","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should return 0 when location user has no locations","name":"should return 0 when location user has no locations","status":"passed","testResultsByEnv":{"default":"944d149c49f5640602f80d82cd1673a9"}}

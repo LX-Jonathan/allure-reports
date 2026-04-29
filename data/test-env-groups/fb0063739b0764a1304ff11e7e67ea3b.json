@@ -1,0 +1,1 @@
+{"id":"fb0063739b0764a1304ff11e7e67ea3b","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes DELETE /api/v1/favorites/:id returns 404 when favorite belongs to different user","name":"returns 404 when favorite belongs to different user","status":"passed","testResultsByEnv":{"default":"4a454bff63fb7c74f494ce5cc6a63656"}}

@@ -1,0 +1,1 @@
+{"id":"ec9360742a769b1e496ea6c0a7cf0842","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes PATCH /users/:userId/status returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"5180c6cbfe66fe4fc528888dd3b1152d"}}

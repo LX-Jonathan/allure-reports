@@ -1,0 +1,1 @@
+{"id":"0d7c793d6f9c575723bac68bd25223b4","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/reset-stuck should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"bf4dd9cb84098277367a7d68986c2209"}}

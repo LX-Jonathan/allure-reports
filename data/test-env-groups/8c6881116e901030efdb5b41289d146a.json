@@ -1,0 +1,1 @@
+{"id":"8c6881116e901030efdb5b41289d146a","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules deleteScheduleEvent returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"6f4387081fa7a3519938ffa93bcf8eef"}}

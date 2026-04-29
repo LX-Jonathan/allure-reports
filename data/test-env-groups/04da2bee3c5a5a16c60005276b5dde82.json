@@ -1,0 +1,1 @@
+{"id":"04da2bee3c5a5a16c60005276b5dde82","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is configured getEligibilityQueue should return a Queue instance","name":"getEligibilityQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"ce687d228549a5303684eef9690adea3"}}

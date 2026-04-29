@@ -1,0 +1,1 @@
+{"id":"df1f53ae625c1eb9a282ee32959d224b","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate should return 500 on unexpected server error","name":"should return 500 on unexpected server error","status":"passed","testResultsByEnv":{"default":"4bc995c42dbb38a8866669547f7943e7"}}

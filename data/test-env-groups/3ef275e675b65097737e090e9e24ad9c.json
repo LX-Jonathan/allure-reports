@@ -1,0 +1,1 @@
+{"id":"3ef275e675b65097737e090e9e24ad9c","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should format body with subject line when subject provided","name":"should format body with subject line when subject provided","status":"passed","testResultsByEnv":{"default":"31b09030370036ea9065a604de0167dd"}}

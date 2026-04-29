@@ -1,0 +1,1 @@
+{"id":"bf3cac666f4ecab94d7e5903da349664","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessForCheckboxDetection should return a valid PreprocessingResult","name":"should return a valid PreprocessingResult","status":"passed","testResultsByEnv":{"default":"622ba3070ccd9d4440ba5db6ede9b9fe"}}

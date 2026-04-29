@@ -1,0 +1,1 @@
+{"id":"981fc37157a8dbb231aa1bd58a01e208","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding/:flowId/terms returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"d18f9b7f2fdaca57e1592e6555a3a1f5"}}

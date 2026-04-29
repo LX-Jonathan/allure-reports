@@ -1,0 +1,1 @@
+{"id":"9c6d27eed63d112652a16a68d4cbf322","fullName":"client/src/pages/__tests__/book-redirect.test.tsx#BookRedirectPage redirects authenticated users straight to the booking page with scheduleId","name":"redirects authenticated users straight to the booking page with scheduleId","status":"passed","testResultsByEnv":{"default":"238ac1d48d23362c02c1e449f31095e3"}}

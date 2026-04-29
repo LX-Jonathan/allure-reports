@@ -1,0 +1,1 @@
+{"id":"7609b58afce3445a26bbea0be0b69cd8","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processDataImportJob job lifecycle should fail when no import data found and no legacy data","name":"should fail when no import data found and no legacy data","status":"passed","testResultsByEnv":{"default":"596c480ed5f68db1a75441bef262a115"}}

@@ -1,0 +1,1 @@
+{"id":"98de097a4112463187f9cb76a9a767e0","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 201 with per_test pricing and verifies quantity/amount","name":"returns 201 with per_test pricing and verifies quantity/amount","status":"passed","testResultsByEnv":{"default":"5d93bb7a4d20116b54a4a90e46528646"}}

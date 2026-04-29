@@ -1,0 +1,1 @@
+{"id":"7459a490f44e51fbac16047e748da786","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda submitOrderToAndromeda should throw error when auth request fails","name":"should throw error when auth request fails","status":"passed","testResultsByEnv":{"default":"4fb8604d471c66a22d642731bd9efa7d"}}

@@ -1,0 +1,1 @@
+{"id":"b242881dc9adc25638a4f62321f42556","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:scheduleId/events/:eventId returns 404 when event not found","name":"returns 404 when event not found","status":"passed","testResultsByEnv":{"default":"a6fb8fcc017b60c8e3f7fac89431ff14"}}

@@ -1,0 +1,1 @@
+{"id":"4c27136160e0338ed5ef5f96f3eaa3bf","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket disconnects socket on unmount","name":"disconnects socket on unmount","status":"passed","testResultsByEnv":{"default":"6ff601a99f4669db80a6378077c3581c"}}

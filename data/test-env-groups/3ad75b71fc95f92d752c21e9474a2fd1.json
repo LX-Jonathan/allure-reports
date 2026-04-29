@@ -1,0 +1,1 @@
+{"id":"3ad75b71fc95f92d752c21e9474a2fd1","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/clients returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"50f2800e5c4e422420aaf70d46ba566a"}}

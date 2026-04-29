@@ -1,0 +1,1 @@
+{"id":"ddbd5a11a9e72b190be256ce5f41c9a6","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker getMappedValue should return empty string for unmapped fields","name":"should return empty string for unmapped fields","status":"passed","testResultsByEnv":{"default":"06459f6ae32723884a14b528d8d9bded"}}

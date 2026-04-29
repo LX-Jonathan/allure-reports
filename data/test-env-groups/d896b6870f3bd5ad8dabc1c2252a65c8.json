@@ -1,0 +1,1 @@
+{"id":"d896b6870f3bd5ad8dabc1c2252a65c8","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService extractTextFromImage should throw error for image exceeding size limit","name":"should throw error for image exceeding size limit","status":"passed","testResultsByEnv":{"default":"b6cbf0703a7cb9bf7bffb48253638827"}}

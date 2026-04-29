@@ -1,0 +1,1 @@
+{"id":"51eaa2e2e3e48ff9675a4fdd1a045933","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Order Management getOrderCountsByStatus returns counts grouped by status","name":"returns counts grouped by status","status":"passed","testResultsByEnv":{"default":"2af974ee99b19ff1e569d7a494deff33"}}

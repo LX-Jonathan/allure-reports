@@ -1,0 +1,1 @@
+{"id":"731557585642b5d66b947eccfd9428a3","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules getOpenScheduleEventsByLocation returns empty when no schedules for location","name":"returns empty when no schedules for location","status":"passed","testResultsByEnv":{"default":"5f537035831b2a8ea3bd4607f7c2038a"}}

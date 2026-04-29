@@ -1,0 +1,1 @@
+{"id":"039fa1fce870e23d638ad385a3ccf5a8","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/search-patient returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"01104e91f1d96c873d6107bbe732b457"}}

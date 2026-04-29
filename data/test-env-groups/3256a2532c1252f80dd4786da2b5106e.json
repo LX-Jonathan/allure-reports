@@ -1,0 +1,1 @@
+{"id":"3256a2532c1252f80dd4786da2b5106e","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId returns profile for admin","name":"returns profile for admin","status":"passed","testResultsByEnv":{"default":"30fb9728208cbc866092b380e6b9cfeb"}}

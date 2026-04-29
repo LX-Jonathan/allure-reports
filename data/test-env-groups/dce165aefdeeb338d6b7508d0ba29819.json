@@ -1,0 +1,1 @@
+{"id":"dce165aefdeeb338d6b7508d0ba29819","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/find-patients returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"1c2aa39b3f6dba1d7b86ab1ee48f2b46"}}

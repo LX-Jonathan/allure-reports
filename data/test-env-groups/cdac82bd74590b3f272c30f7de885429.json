@@ -1,0 +1,1 @@
+{"id":"cdac82bd74590b3f272c30f7de885429","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo-from-url returns 400 when DNS resolves to private IP","name":"returns 400 when DNS resolves to private IP","status":"passed","testResultsByEnv":{"default":"665ea8c81625c29a88ab98700835c89c"}}

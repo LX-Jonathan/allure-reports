@@ -1,0 +1,1 @@
+{"id":"42fb7a08dccc7d0853f527dd0e95b2c8","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should use default rate limits when not specified on API key","name":"should use default rate limits when not specified on API key","status":"passed","testResultsByEnv":{"default":"e42487cd775b37e3da33d44b2b3ed45f"}}

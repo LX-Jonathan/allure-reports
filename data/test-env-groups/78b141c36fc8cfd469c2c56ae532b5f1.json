@@ -1,0 +1,1 @@
+{"id":"78b141c36fc8cfd469c2c56ae532b5f1","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite sets audit context with resend resource type on resend","name":"sets audit context with resend resource type on resend","status":"passed","testResultsByEnv":{"default":"a30ccc551f1cd167576a91ba2e6972eb"}}

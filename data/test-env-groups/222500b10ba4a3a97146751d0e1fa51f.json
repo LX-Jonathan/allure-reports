@@ -1,0 +1,1 @@
+{"id":"222500b10ba4a3a97146751d0e1fa51f","fullName":"client/src/hooks/__tests__/useNcdLcdAbnReadiness.test.tsx#useNcdLcdAbnReadiness starts in idle state when no patient/tests/dx are provided","name":"starts in idle state when no patient/tests/dx are provided","status":"passed","testResultsByEnv":{"default":"05756bcb9200f4c3f4547476fe7ca049"}}

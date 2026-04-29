@@ -1,0 +1,1 @@
+{"id":"c97a6a0f934306b1cd86078d96748d83","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes edge cases should handle zero charge amount gracefully","name":"should handle zero charge amount gracefully","status":"passed","testResultsByEnv":{"default":"3b619b3a4398af6362f25f1960fedd31"}}

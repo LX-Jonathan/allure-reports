@@ -1,0 +1,1 @@
+{"id":"1487047e2fb44a0344a20bf281d64ab5","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should format 9-digit SSN without dashes","name":"should format 9-digit SSN without dashes","status":"passed","testResultsByEnv":{"default":"5d2b711f29d73236b51a9e8c706b4a42"}}

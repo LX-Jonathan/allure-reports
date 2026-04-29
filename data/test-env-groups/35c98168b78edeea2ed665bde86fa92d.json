@@ -1,0 +1,1 @@
+{"id":"35c98168b78edeea2ed665bde86fa92d","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes GET /api/v1/auth/user returns 403 when lab is deactivated","name":"returns 403 when lab is deactivated","status":"passed","testResultsByEnv":{"default":"d8588bea3ce77a651caf069a3afbe38a"}}

@@ -1,0 +1,1 @@
+{"id":"7ff7b024e541d9c960613f9f3d2a988a","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info returns 400 when URL is missing","name":"returns 400 when URL is missing","status":"passed","testResultsByEnv":{"default":"6c6ed92a7d05fac14a82e7c31bab2dc3"}}

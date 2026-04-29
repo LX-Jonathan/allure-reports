@@ -1,0 +1,1 @@
+{"id":"22969abc4d92759addc6f965b08c112e","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id/plans/:planId returns 404 when plan not found","name":"returns 404 when plan not found","status":"passed","testResultsByEnv":{"default":"fab611abab386644b7aef04ab25fd20b"}}

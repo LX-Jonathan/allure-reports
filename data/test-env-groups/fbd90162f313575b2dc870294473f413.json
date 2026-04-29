@@ -1,0 +1,1 @@
+{"id":"fbd90162f313575b2dc870294473f413","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is not configured getBulkScanItemQueue should return null","name":"getBulkScanItemQueue should return null","status":"passed","testResultsByEnv":{"default":"641f74dc1bee364fc174ac4e1430fc32"}}

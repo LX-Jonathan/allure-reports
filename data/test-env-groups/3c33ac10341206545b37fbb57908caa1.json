@@ -1,0 +1,1 @@
+{"id":"3c33ac10341206545b37fbb57908caa1","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep does not write a ledger row when consent gates block every channel","name":"does not write a ledger row when consent gates block every channel","status":"passed","testResultsByEnv":{"default":"199fb23639b0678e2e978db9ac77a114"}}

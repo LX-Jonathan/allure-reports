@@ -1,0 +1,1 @@
+{"id":"34ec89696ce18ce5846cfae16ce41672","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar ignores inactive insurance scan confidence and prefers an active record","name":"ignores inactive insurance scan confidence and prefers an active record","status":"passed","testResultsByEnv":{"default":"3b5a6c6f3f50114665ebc2d4fee2035a"}}

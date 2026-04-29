@@ -1,0 +1,1 @@
+{"id":"0803a313e799640ed5fe0ecf5349574c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatientGuarantors returns empty array when none","name":"returns empty array when none","status":"passed","testResultsByEnv":{"default":"4f98d529266409945719346ff52b4d39"}}

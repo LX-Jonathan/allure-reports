@@ -1,0 +1,1 @@
+{"id":"d2e2e8e37a6b8827509a61c1aa1a5e6e","fullName":"server/middleware/__tests__/csrf.test.ts#getCSRFToken should prioritize csrfToken property over cookie","name":"should prioritize csrfToken property over cookie","status":"passed","testResultsByEnv":{"default":"c43f265f31c7475896128e1381d1e8ed"}}

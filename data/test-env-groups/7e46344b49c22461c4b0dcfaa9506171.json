@@ -1,0 +1,1 @@
+{"id":"7e46344b49c22461c4b0dcfaa9506171","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket refreshes typing timeout when same user types again","name":"refreshes typing timeout when same user types again","status":"passed","testResultsByEnv":{"default":"7612d91d4dbb34a43ec7e447e79a8e07"}}

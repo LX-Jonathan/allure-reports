@@ -1,0 +1,1 @@
+{"id":"c81e3580ef009ebdf1e9d3e8b869ac3f","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetch does not throw ReferenceError on a plain GET (regression: headers scoping)","name":"does not throw ReferenceError on a plain GET (regression: headers scoping)","status":"passed","testResultsByEnv":{"default":"fd7d9a06715013ba91b3a19a17877921"}}

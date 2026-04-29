@@ -1,0 +1,1 @@
+{"id":"1f37905e6a004aa0052f6bdabb329eb5","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items creates recent item without optional displayName and displayCode","name":"creates recent item without optional displayName and displayCode","status":"passed","testResultsByEnv":{"default":"4acf5000a0eab7c353d6923d47da9d48"}}

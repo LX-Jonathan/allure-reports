@@ -1,0 +1,1 @@
+{"id":"3d69ae3c03358abd1829655e84dc02b1","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob error handling should add to dead letter queue for non-retryable errors","name":"should add to dead letter queue for non-retryable errors","status":"passed","testResultsByEnv":{"default":"6d6367cfd35f5f46a9a242b20b818e09"}}

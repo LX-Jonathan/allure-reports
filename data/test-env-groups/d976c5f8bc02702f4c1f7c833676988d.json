@@ -1,0 +1,1 @@
+{"id":"d976c5f8bc02702f4c1f7c833676988d","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes GET /api/v1/lab-tests/categories returns 200 with categories list","name":"returns 200 with categories list","status":"passed","testResultsByEnv":{"default":"b46ba2de1f6b002809b5688c38b695e4"}}

@@ -1,0 +1,1 @@
+{"id":"c5b1e1c8b0d318bb032474bd2fbf1df1","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes DELETE /api/v1/users/:id returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"e43c9e0b8d3116924c2944858c398ceb"}}

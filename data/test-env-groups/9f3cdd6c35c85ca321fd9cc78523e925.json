@@ -1,0 +1,1 @@
+{"id":"9f3cdd6c35c85ca321fd9cc78523e925","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag missing MRN as error","name":"should flag missing MRN as error","status":"passed","testResultsByEnv":{"default":"2b6ccc3f69ce2680e3d3fd334d8e5452"}}

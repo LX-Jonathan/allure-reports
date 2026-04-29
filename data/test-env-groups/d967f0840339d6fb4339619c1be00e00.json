@@ -1,0 +1,1 @@
+{"id":"d967f0840339d6fb4339619c1be00e00","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter lab_client userType (location-level) should return empty locationIds if no location assigned","name":"should return empty locationIds if no location assigned","status":"passed","testResultsByEnv":{"default":"1ae8ac961b4f1e808f52402d03a974c3"}}

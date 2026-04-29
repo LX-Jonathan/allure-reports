@@ -1,0 +1,1 @@
+{"id":"70fe4ecfe9061727a9adb37db7e65171","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage calls URL.revokeObjectURL on unmount for image sources","name":"calls URL.revokeObjectURL on unmount for image sources","status":"passed","testResultsByEnv":{"default":"02cea5d898c1fd666a277feda4294a34"}}

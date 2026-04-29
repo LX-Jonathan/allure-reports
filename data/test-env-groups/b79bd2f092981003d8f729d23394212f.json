@@ -1,0 +1,1 @@
+{"id":"b79bd2f092981003d8f729d23394212f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 403 when importing into different org","name":"returns 403 when importing into different org","status":"passed","testResultsByEnv":{"default":"b30aa3e184210d763d0f6b333a76f6e3"}}

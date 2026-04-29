@@ -1,0 +1,1 @@
+{"id":"e9a23f703248fab1b961a15cecf2e5b4","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /appeals/:appealId/documents/:docId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"22d393b774e73ad8798eaa927ba83133"}}

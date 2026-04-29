@@ -1,0 +1,1 @@
+{"id":"41df99c772e51700805c2ab08cd6a6a3","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab truncates long user agent strings","name":"truncates long user agent strings","status":"passed","testResultsByEnv":{"default":"baa4f8adcc8dc29699d3a96b3cebdda0"}}

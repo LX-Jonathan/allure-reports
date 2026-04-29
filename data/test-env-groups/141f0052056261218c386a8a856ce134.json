@@ -1,0 +1,1 @@
+{"id":"141f0052056261218c386a8a856ce134","fullName":"client/src/components/payments/__tests__/refund-dialog.test.tsx#RefundDialog returns null when no payment provided","name":"returns null when no payment provided","status":"passed","testResultsByEnv":{"default":"47aca9ab63eb17b9ba0f5bd3009f42b6"}}

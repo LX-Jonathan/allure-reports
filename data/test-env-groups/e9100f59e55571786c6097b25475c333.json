@@ -1,0 +1,1 @@
+{"id":"e9100f59e55571786c6097b25475c333","fullName":"server/__tests__/users.routes.test.ts#users routes GET /api/v1/permissions/matrix returns permission matrix","name":"returns permission matrix","status":"passed","testResultsByEnv":{"default":"75ad215fec1355d2b04d6ca9bb706992"}}

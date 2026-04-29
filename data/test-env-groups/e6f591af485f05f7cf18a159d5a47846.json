@@ -1,0 +1,1 @@
+{"id":"e6f591af485f05f7cf18a159d5a47846","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records/:id returns 404 when record not found","name":"returns 404 when record not found","status":"passed","testResultsByEnv":{"default":"23a9b62265a0f878af808d49d90291f4"}}

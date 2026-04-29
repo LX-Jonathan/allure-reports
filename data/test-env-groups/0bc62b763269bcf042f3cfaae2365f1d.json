@@ -1,0 +1,1 @@
+{"id":"0bc62b763269bcf042f3cfaae2365f1d","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService confirmMappings should not update when no mapping suggestions exist","name":"should not update when no mapping suggestions exist","status":"passed","testResultsByEnv":{"default":"f20db199ad462a1e3b38afc67a569867"}}

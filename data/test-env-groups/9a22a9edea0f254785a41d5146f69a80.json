@@ -1,0 +1,1 @@
+{"id":"9a22a9edea0f254785a41d5146f69a80","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads filters by status and patientId","name":"filters by status and patientId","status":"passed","testResultsByEnv":{"default":"f36972a0c70b88807622c9ee8c60d4e6"}}

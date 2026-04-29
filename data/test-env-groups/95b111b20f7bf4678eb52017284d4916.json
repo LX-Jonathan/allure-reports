@@ -1,0 +1,1 @@
+{"id":"95b111b20f7bf4678eb52017284d4916","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: no_pending_verification","name":"es: no_pending_verification","status":"passed","testResultsByEnv":{"default":"5a808adbe140570269fc094bfa95f38d"}}

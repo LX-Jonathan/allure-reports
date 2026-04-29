@@ -1,0 +1,1 @@
+{"id":"51178cb8f6ec88e6cc63a7992bd0968e","fullName":"server/middleware/__tests__/patientAuth.test.ts#requireClinicalMfa returns 403 when MFA required and not persisted","name":"returns 403 when MFA required and not persisted","status":"passed","testResultsByEnv":{"default":"22b56e3f9cfc444d6a5c994d4e1b29a0"}}

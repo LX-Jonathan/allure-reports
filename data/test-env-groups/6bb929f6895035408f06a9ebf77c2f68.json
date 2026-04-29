@@ -1,0 +1,1 @@
+{"id":"6bb929f6895035408f06a9ebf77c2f68","fullName":"server/routes/__tests__/temporal.routes.test.ts#Temporal Routes GET /api/temporal/stats returns not configured when Temporal is not set up","name":"returns not configured when Temporal is not set up","status":"passed","testResultsByEnv":{"default":"9531f0d827c5f1dc8fc46d820ec5708e"}}

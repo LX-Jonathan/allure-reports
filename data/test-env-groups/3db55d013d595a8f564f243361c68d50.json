@@ -1,0 +1,1 @@
+{"id":"3db55d013d595a8f564f243361c68d50","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab sorts unpaid orders by days overdue descending when due header is clicked","name":"sorts unpaid orders by days overdue descending when due header is clicked","status":"passed","testResultsByEnv":{"default":"de42138f2ad80cb98b5170d2339948b1"}}

@@ -1,0 +1,1 @@
+{"id":"e20976ec1c32d06dce71c203cb595885","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler queue metrics hourly cron callback should call aggregateHourlyMetrics","name":"should call aggregateHourlyMetrics","status":"passed","testResultsByEnv":{"default":"4ca8e01dc684a832e9c06f08b1af68f0"}}

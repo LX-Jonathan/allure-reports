@@ -1,0 +1,1 @@
+{"id":"3735bbbef678c2110384a26a2cbfa392","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientResultsReadyEmail should not include organization name in content for privacy","name":"should not include organization name in content for privacy","status":"passed","testResultsByEnv":{"default":"55ac8b0768dcd838b83ca02b8c6c5900"}}

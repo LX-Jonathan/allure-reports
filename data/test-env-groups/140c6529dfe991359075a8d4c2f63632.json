@@ -1,0 +1,1 @@
+{"id":"140c6529dfe991359075a8d4c2f63632","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue checkEmailConsent should return false when no portal user found","name":"should return false when no portal user found","status":"passed","testResultsByEnv":{"default":"c4466da2d9d337c56b70fbe6126a866f"}}

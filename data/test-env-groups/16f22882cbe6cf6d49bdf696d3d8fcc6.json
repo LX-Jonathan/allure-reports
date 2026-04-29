@@ -1,0 +1,1 @@
+{"id":"16f22882cbe6cf6d49bdf696d3d8fcc6","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes GET /api/v1/locations returns 200 with filtered locations by parentLabId query","name":"returns 200 with filtered locations by parentLabId query","status":"passed","testResultsByEnv":{"default":"624435d7d6ada587e9858868a3a797d0"}}

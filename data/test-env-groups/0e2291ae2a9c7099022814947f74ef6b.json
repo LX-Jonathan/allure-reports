@@ -1,0 +1,1 @@
+{"id":"0e2291ae2a9c7099022814947f74ef6b","fullName":"client/src/hooks/__tests__/use-mobile.test.tsx#useIsMobileOrTablet creates matchMedia with correct breakpoint query","name":"creates matchMedia with correct breakpoint query","status":"passed","testResultsByEnv":{"default":"8b8634676db48616e210992bfa29d436"}}

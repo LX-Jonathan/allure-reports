@@ -1,0 +1,1 @@
+{"id":"4fb5b122caf240480df2c2f2c0399a62","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/logo returns 404 when no logo configured","name":"returns 404 when no logo configured","status":"passed","testResultsByEnv":{"default":"a3a3cea6f93f9cdb0374f278c871e47c"}}

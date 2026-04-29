@@ -1,0 +1,1 @@
+{"id":"982570500672652cb3de00855d44830a","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id/link-user returns 400 when user does not have provider role","name":"returns 400 when user does not have provider role","status":"passed","testResultsByEnv":{"default":"b42869f92896bf85900849d9b033f467"}}

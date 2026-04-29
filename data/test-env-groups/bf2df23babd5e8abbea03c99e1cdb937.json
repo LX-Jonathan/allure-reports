@@ -1,0 +1,1 @@
+{"id":"bf2df23babd5e8abbea03c99e1cdb937","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/validate (additional edge cases) returns 500 when DB insert fails","name":"returns 500 when DB insert fails","status":"passed","testResultsByEnv":{"default":"4f2f29f1350bb263a835e5be124d8c2c"}}

@@ -1,0 +1,1 @@
+{"id":"5408e18bd897597bf55bb84145a5e020","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management deletePatient returns true on successful soft-delete","name":"returns true on successful soft-delete","status":"passed","testResultsByEnv":{"default":"8365de9bf806c54a384f1a874fa1c879"}}

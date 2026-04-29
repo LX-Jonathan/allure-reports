@@ -1,0 +1,1 @@
+{"id":"18760fa6cb4d9d74d9a30138002bf6ed","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useStaffDtcOrderDetail extra coverage fetches order detail when orderId is provided","name":"fetches order detail when orderId is provided","status":"passed","testResultsByEnv":{"default":"1acb92d3f3e40f7ab919447571b548e1"}}

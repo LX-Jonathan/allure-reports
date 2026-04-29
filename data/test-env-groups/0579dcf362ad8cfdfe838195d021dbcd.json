@@ -1,0 +1,1 @@
+{"id":"0579dcf362ad8cfdfe838195d021dbcd","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getReportById should apply access filters for non-full-access users","name":"should apply access filters for non-full-access users","status":"passed","testResultsByEnv":{"default":"20c1ffdf144dc51e4c2d3a184eba7ce2"}}

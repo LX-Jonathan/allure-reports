@@ -1,0 +1,1 @@
+{"id":"984693f0a2b1a991022af33e2b42e12e","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckins composes tenant + location + status filters into a single AND","name":"composes tenant + location + status filters into a single AND","status":"passed","testResultsByEnv":{"default":"0585a5c05b46996225bfe55712418e15"}}

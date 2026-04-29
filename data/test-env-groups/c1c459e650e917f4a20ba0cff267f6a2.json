@@ -1,0 +1,1 @@
+{"id":"c1c459e650e917f4a20ba0cff267f6a2","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete calls onChange with a long address string","name":"calls onChange with a long address string","status":"passed","testResultsByEnv":{"default":"ce700840c84dc69d39ce057b903b5171"}}

@@ -1,0 +1,1 @@
+{"id":"51ae39c71a42176f5ce8a48120b60085","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return true for valid transition from draft to cancelled","name":"should return true for valid transition from draft to cancelled","status":"passed","testResultsByEnv":{"default":"9fcd9c838164fcefa5a78ae49b723bbb"}}

@@ -1,0 +1,1 @@
+{"id":"30ec184813ba711961441648d7263c81","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/import/:id/status returns 200 with import job status","name":"returns 200 with import job status","status":"passed","testResultsByEnv":{"default":"a63f01fd9a03bf61a73c44cc74a7c7c8"}}

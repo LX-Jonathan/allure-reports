@@ -1,0 +1,1 @@
+{"id":"05548c368bc334ed702b865130d01521","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq closeBullMQConnections should close all queue connections and redis when configured","name":"should close all queue connections and redis when configured","status":"passed","testResultsByEnv":{"default":"88ce89ef5e6e8dae2ccf8eedb5cbe4ab"}}

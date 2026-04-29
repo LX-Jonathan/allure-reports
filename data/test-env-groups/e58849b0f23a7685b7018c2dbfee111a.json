@@ -1,0 +1,1 @@
+{"id":"e58849b0f23a7685b7018c2dbfee111a","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"3744e3d1d15addfa93ccdb889220d0c6"}}

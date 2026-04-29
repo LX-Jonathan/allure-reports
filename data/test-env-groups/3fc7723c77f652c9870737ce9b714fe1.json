@@ -1,0 +1,1 @@
+{"id":"3fc7723c77f652c9870737ce9b714fe1","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit clamps consumption to the available balance (over-application is impossible)","name":"clamps consumption to the available balance (over-application is impossible)","status":"passed","testResultsByEnv":{"default":"f4755c2708a8194a937e1ea5713aba5d"}}

@@ -1,0 +1,1 @@
+{"id":"379973507373fdbf80e9d5dbb1ef6add","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should reject PATCH requests with missing token","name":"should reject PATCH requests with missing token","status":"passed","testResultsByEnv":{"default":"623dd32a9481cccbc9bb12bd6c724b5f"}}

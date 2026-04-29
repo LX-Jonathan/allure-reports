@@ -1,0 +1,1 @@
+{"id":"012d1a46286cc771437cc4544cb397be","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes signed fee estimates GET /signed-estimates/:id returns the row and writes a 'viewed' audit entry","name":"returns the row and writes a 'viewed' audit entry","status":"passed","testResultsByEnv":{"default":"d0c915594ac8948cb9d481de7463cbba"}}

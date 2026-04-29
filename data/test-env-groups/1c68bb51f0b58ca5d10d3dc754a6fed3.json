@@ -1,0 +1,1 @@
+{"id":"1c68bb51f0b58ca5d10d3dc754a6fed3","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab copay shortfalls renders the empty state when no copay shortfalls are returned","name":"renders the empty state when no copay shortfalls are returned","status":"passed","testResultsByEnv":{"default":"2f57f08cf90573f3d99e5f9666f2726f"}}

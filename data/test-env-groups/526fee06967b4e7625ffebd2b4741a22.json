@@ -1,0 +1,1 @@
+{"id":"526fee06967b4e7625ffebd2b4741a22","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware webhook paths should skip CSRF validation for /api/webhooks/* paths","name":"should skip CSRF validation for /api/webhooks/* paths","status":"passed","testResultsByEnv":{"default":"0136a4dcf926b8b1c733b683366aaa69"}}

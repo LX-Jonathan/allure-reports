@@ -1,0 +1,1 @@
+{"id":"8da988aeca7b29a951aed274d21f9310","fullName":"server/lib/__tests__/auth.test.ts#auth decodeToken should return null for malformed token","name":"should return null for malformed token","status":"passed","testResultsByEnv":{"default":"c8b1f9fde7d421cfbd682645db9c0c23"}}

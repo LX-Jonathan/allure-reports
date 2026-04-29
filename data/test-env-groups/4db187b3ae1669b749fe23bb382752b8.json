@@ -1,0 +1,1 @@
+{"id":"4db187b3ae1669b749fe23bb382752b8","fullName":"server/services/__tests__/readinessEvaluator.test.ts#calculateReadinessScore deducts 25 per error","name":"deducts 25 per error","status":"passed","testResultsByEnv":{"default":"3467ad78e18771b1428a05d0b191c9d4"}}

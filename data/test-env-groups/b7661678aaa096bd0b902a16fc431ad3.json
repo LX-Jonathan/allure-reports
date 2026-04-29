@@ -1,0 +1,1 @@
+{"id":"b7661678aaa096bd0b902a16fc431ad3","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireSuperOrg should return 403 when user has null parentLabId","name":"should return 403 when user has null parentLabId","status":"passed","testResultsByEnv":{"default":"c7044c1d4d4548c704806454b3fe0256"}}

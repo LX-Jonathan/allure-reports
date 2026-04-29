@@ -1,0 +1,1 @@
+{"id":"45363ad196b52b6c974a288f65e04532","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage calls pdfjs getDocument when content-type is application/pdf","name":"calls pdfjs getDocument when content-type is application/pdf","status":"passed","testResultsByEnv":{"default":"948fe50ab4919bdacc2c4284b24ee721"}}

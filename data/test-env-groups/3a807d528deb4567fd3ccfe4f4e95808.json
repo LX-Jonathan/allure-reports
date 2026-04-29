@@ -1,0 +1,1 @@
+{"id":"3a807d528deb4567fd3ccfe4f4e95808","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/import-national returns 404 when no national companies found","name":"returns 404 when no national companies found","status":"passed","testResultsByEnv":{"default":"f872258383e0f0b43ff25c4e612b743a"}}

@@ -1,0 +1,1 @@
+{"id":"62d435ea5f8de393fc2b6735576e913f","fullName":"client/src/stores/__tests__/dtcCartStore.test.ts#useDtcCartStore updateQuantity removes the item when quantity is set to 0","name":"removes the item when quantity is set to 0","status":"passed","testResultsByEnv":{"default":"a46ef85955404ee5435dc36899cacfd0"}}

@@ -1,0 +1,1 @@
+{"id":"d624f6e3d7d863ecf1a94a8ebeea01b9","fullName":"server/__tests__/billing-list-patient-paid-aggregation.test.ts#Billing list patient-paid aggregation sums multiple succeeded payments for the same order","name":"sums multiple succeeded payments for the same order","status":"passed","testResultsByEnv":{"default":"073b534bcb228704d58271719166f926"}}

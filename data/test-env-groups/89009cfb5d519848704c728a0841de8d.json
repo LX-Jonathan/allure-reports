@@ -1,0 +1,1 @@
+{"id":"89009cfb5d519848704c728a0841de8d","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints GET /api/v1/lab-tests/:id/image returns 404 when lab test not found","name":"returns 404 when lab test not found","status":"passed","testResultsByEnv":{"default":"99ea355379ec9ae6635cc29f71856a56"}}

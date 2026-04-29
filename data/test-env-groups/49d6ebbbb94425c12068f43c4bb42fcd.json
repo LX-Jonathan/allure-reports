@@ -1,0 +1,1 @@
+{"id":"49d6ebbbb94425c12068f43c4bb42fcd","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"0667fefa2c871f2c4deb6c9a8211b051"}}

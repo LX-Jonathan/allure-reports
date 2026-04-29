@@ -1,0 +1,1 @@
+{"id":"8d27d1c7fcc02e32e615bfa4409c2036","fullName":"server/__tests__/audit.test.ts#audit middleware auditMiddleware skips audit for OPTIONS method","name":"skips audit for OPTIONS method","status":"passed","testResultsByEnv":{"default":"a84e20b7c70294ae3babb96ad709518a"}}

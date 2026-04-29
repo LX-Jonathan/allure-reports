@@ -1,0 +1,1 @@
+{"id":"c8876c77e66b9c731db963558c157a5f","fullName":"client/src/pages/__tests__/order-new.test.tsx#OrderNewPage disables the validate & submit button when required fields are missing","name":"disables the validate & submit button when required fields are missing","status":"passed","testResultsByEnv":{"default":"e18982f761b847bc496d6a55083027cb"}}

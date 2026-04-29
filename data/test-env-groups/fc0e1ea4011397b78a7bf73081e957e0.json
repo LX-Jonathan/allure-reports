@@ -1,0 +1,1 @@
+{"id":"fc0e1ea4011397b78a7bf73081e957e0","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts returns 403 for location_admin","name":"returns 403 for location_admin","status":"passed","testResultsByEnv":{"default":"ce7526564a2bac8cfe212b6ef63198e9"}}

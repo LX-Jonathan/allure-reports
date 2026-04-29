@@ -1,0 +1,1 @@
+{"id":"f3fa759864354cd780b4b5dee499fee6","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /ai-map-form returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c61f2cb3eae3569f942b756566b09d41"}}

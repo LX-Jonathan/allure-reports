@@ -1,0 +1,1 @@
+{"id":"275e95aec3669cf0bd8f91524fadcda7","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - clone & delete flows DELETE /:id refuses to delete a starter view even for its owner","name":"DELETE /:id refuses to delete a starter view even for its owner","status":"passed","testResultsByEnv":{"default":"8f66470884db80b91ba9ededfae49c8f"}}

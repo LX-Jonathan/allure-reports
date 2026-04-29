@@ -1,0 +1,1 @@
+{"id":"f1c3be989fb1b3f6a64397c8c2057801","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserByEmailIncludingDeleted returns user including soft-deleted","name":"returns user including soft-deleted","status":"passed","testResultsByEnv":{"default":"391c6a349ced44c35f296a655f0da4c1"}}

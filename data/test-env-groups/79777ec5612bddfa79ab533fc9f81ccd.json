@@ -1,0 +1,1 @@
+{"id":"79777ec5612bddfa79ab533fc9f81ccd","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes GET /api/v1/locations returns only accessible locations for location-level users","name":"returns only accessible locations for location-level users","status":"passed","testResultsByEnv":{"default":"ba04edfa54bc4cf3e5933ffbd212c3b8"}}

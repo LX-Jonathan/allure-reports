@@ -1,0 +1,1 @@
+{"id":"efae00f1188771e345116b3a1d9c78d7","fullName":"server/lib/__tests__/logger.test.ts#logger development pretty-print mode routes warn to console.warn in dev mode","name":"routes warn to console.warn in dev mode","status":"passed","testResultsByEnv":{"default":"798d08d8a6a2c50b12715f05d4e68597"}}

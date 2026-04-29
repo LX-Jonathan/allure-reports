@@ -1,0 +1,1 @@
+{"id":"30d63052fcca86c0bd479167bbb1f341","fullName":"server/lib/__tests__/logger.test.ts#logger development pretty-print mode includes context fields as key=value pairs in the output","name":"includes context fields as key=value pairs in the output","status":"passed","testResultsByEnv":{"default":"8c4a2bfb69ced3a8fae17e2c7117d4fa"}}

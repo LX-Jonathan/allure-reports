@@ -1,0 +1,1 @@
+{"id":"0736f0f2c87c917a82db50f583fd564a","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts createPatientTokenPair should return both access and refresh tokens","name":"should return both access and refresh tokens","status":"passed","testResultsByEnv":{"default":"25af47d712a7286792e2f3c145ac45da"}}

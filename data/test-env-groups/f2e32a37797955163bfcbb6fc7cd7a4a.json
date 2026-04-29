@@ -1,0 +1,1 @@
+{"id":"f2e32a37797955163bfcbb6fc7cd7a4a","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#SidecarInsuranceFlipCard scan-confidence indicator renders the low-confidence warning badge below threshold","name":"renders the low-confidence warning badge below threshold","status":"passed","testResultsByEnv":{"default":"9f3d02ffbd0caeec76bab2db0c68336b"}}

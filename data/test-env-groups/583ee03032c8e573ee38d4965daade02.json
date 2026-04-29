@@ -1,0 +1,1 @@
+{"id":"583ee03032c8e573ee38d4965daade02","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes POST /api/v1/system/scheduled-jobs/:jobId/run returns 403 when user is not super_admin","name":"returns 403 when user is not super_admin","status":"passed","testResultsByEnv":{"default":"385c3c5c89ac4093b841ff108fb04791"}}

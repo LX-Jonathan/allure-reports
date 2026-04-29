@@ -1,0 +1,1 @@
+{"id":"a93930d0a5c7a20621e29f402428c6fd","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should skip tenant config when required fields are missing","name":"should skip tenant config when required fields are missing","status":"passed","testResultsByEnv":{"default":"4cce64a28b9a4297461bfc980d273e6d"}}

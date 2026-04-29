@@ -1,0 +1,1 @@
+{"id":"b328dbbafe54a8b242e40ed6cda25883","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /order/:orderId/detail returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"bf5935a8073ae06f77084067136abf9a"}}

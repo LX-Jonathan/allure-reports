@@ -1,0 +1,1 @@
+{"id":"693d74f4053f53ba4fc96caa5fb3d273","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 500 when anthropic API throws","name":"returns 500 when anthropic API throws","status":"passed","testResultsByEnv":{"default":"2b6ea83acbbfc112950ff2e94cb269dc"}}

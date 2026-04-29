@@ -1,0 +1,1 @@
+{"id":"625d1137c0e2835279384a817995fff2","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: account_deactivated","name":"es: account_deactivated","status":"passed","testResultsByEnv":{"default":"88a76ce126c40f888ee6292c9c474bb7"}}

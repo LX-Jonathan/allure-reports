@@ -1,0 +1,1 @@
+{"id":"08117ab11d173423ac0f017eef1ee871","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage attaches the bearer Authorization header for same-origin /api URLs","name":"attaches the bearer Authorization header for same-origin /api URLs","status":"passed","testResultsByEnv":{"default":"2373fb37a0ab90b7feac63fa578d1ed2"}}

@@ -1,0 +1,1 @@
+{"id":"5b382733d65c4ff303b38e1df78342fa","fullName":"client/src/lib/__tests__/queryClient.test.ts#getCSRFToken extracts csrf_token from cookies","name":"extracts csrf_token from cookies","status":"passed","testResultsByEnv":{"default":"80440448829ca4df565732ece0cfd0c2"}}

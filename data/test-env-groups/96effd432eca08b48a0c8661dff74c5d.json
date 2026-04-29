@@ -1,0 +1,1 @@
+{"id":"96effd432eca08b48a0c8661dff74c5d","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists/for-order returns 400 for invalid testIds format","name":"returns 400 for invalid testIds format","status":"passed","testResultsByEnv":{"default":"051827d1a0d7af8aabdd2a6268c467fa"}}

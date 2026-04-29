@@ -1,0 +1,1 @@
+{"id":"5f292d81248dc881da6f339e6dc558b5","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should log success message on completion","name":"should log success message on completion","status":"passed","testResultsByEnv":{"default":"ad07479bb5171a1c17044d5224d8b930"}}

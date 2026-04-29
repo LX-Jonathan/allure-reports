@@ -1,0 +1,1 @@
+{"id":"7e2c823dac6d36c6b3033ed25a4ae3c9","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service createCircuitBreaker should register event handlers that log with the correct name","name":"should register event handlers that log with the correct name","status":"passed","testResultsByEnv":{"default":"de332ede630f7b929903cd10254b0475"}}

@@ -1,0 +1,1 @@
+{"id":"a46465f46de0773054eb47d2d9bc7b29","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent creates payment intent with orderId and looks up order","name":"creates payment intent with orderId and looks up order","status":"passed","testResultsByEnv":{"default":"2484b8e183fa46cc1e219d703cb3ab64"}}

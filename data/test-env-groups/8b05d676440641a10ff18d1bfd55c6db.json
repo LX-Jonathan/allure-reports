@@ -1,0 +1,1 @@
+{"id":"8b05d676440641a10ff18d1bfd55c6db","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService invalidateTenant should call deletePattern with tenant wildcard","name":"should call deletePattern with tenant wildcard","status":"passed","testResultsByEnv":{"default":"901eb9d357b13a7fb1959320a605180e"}}

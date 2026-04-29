@@ -1,0 +1,1 @@
+{"id":"a78ec234860317ab30f0d3db2aefdad3","fullName":"server/lib/__tests__/result-queue-processor.test.ts#result-queue-processor processResultQueue - status normalization should normalize status 'corrected' to 'corrected'","name":"should normalize status 'corrected' to 'corrected'","status":"passed","testResultsByEnv":{"default":"c5c3d8af4592c4abcfb8cf5ca17138b4"}}

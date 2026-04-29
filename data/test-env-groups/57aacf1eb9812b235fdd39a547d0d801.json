@@ -1,0 +1,1 @@
+{"id":"57aacf1eb9812b235fdd39a547d0d801","fullName":"client/src/components/patient/__tests__/lab-summary-overview.test.tsx#LabSummaryOverview hides the learn-more button when no marketplace profile is published","name":"hides the learn-more button when no marketplace profile is published","status":"passed","testResultsByEnv":{"default":"63d70c79280852e5544a4f434b48c1c8"}}

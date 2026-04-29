@@ -1,0 +1,1 @@
+{"id":"f37d5ddd121e8f5428e3642d29ea1ccb","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import returns 400 for invalid labId format","name":"returns 400 for invalid labId format","status":"passed","testResultsByEnv":{"default":"ca845abbda8f609ebbead28e4a2acb22"}}

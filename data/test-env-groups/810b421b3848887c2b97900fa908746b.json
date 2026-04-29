@@ -1,0 +1,1 @@
+{"id":"810b421b3848887c2b97900fa908746b","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules emits STALE_ELIGIBILITY warning when completedAt is older than 30 days","name":"emits STALE_ELIGIBILITY warning when completedAt is older than 30 days","status":"passed","testResultsByEnv":{"default":"104c03d7812de3439d3b3df713ef89f6"}}

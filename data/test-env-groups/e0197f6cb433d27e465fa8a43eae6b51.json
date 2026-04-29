@@ -1,0 +1,1 @@
+{"id":"e0197f6cb433d27e465fa8a43eae6b51","fullName":"client/src/components/__tests__/insurance-card-scanner.test.tsx#InsuranceCardScanner calls onScanComplete with front image when confirm is clicked","name":"calls onScanComplete with front image when confirm is clicked","status":"passed","testResultsByEnv":{"default":"307d9b36c697fb9bab4ef0576af26fb8"}}

@@ -1,0 +1,1 @@
+{"id":"763e04d84aec5a5428697a6a7d25d3d6","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePriorAuthRules returns not_required when no CPT codes need PA","name":"returns not_required when no CPT codes need PA","status":"passed","testResultsByEnv":{"default":"ceea13ef50b4b3ed6bc33cd5a05c7859"}}

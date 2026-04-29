@@ -1,0 +1,1 @@
+{"id":"20938ac3e6a7bfd9a163b5ad1822b883","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/results returns 403 for unauthorized access","name":"returns 403 for unauthorized access","status":"passed","testResultsByEnv":{"default":"685bd0a87aef43ad527f0243bbf53dfb"}}

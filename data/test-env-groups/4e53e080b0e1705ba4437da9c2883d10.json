@@ -1,0 +1,1 @@
+{"id":"4e53e080b0e1705ba4437da9c2883d10","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 400 for missing name","name":"returns 400 for missing name","status":"passed","testResultsByEnv":{"default":"cb3800ee728cb6787425e76a1338a4bc"}}

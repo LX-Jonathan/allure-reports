@@ -1,0 +1,1 @@
+{"id":"9829ed50e3887ab28bd0b80da14a2a96","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes GET /counts/:parentLabId returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"39302b0cfe69ed818b1f2ced9b9ed411"}}

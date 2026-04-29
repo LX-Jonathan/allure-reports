@@ -1,0 +1,1 @@
+{"id":"1bd04abed6d2632fd410af8ecc1c45ba","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases GET /835 returns 403 for patient role","name":"GET /835 returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"f57cdaaeb78927a15f32abb01752e7ef"}}

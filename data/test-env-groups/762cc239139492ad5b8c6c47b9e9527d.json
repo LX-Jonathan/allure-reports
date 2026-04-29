@@ -1,0 +1,1 @@
+{"id":"762cc239139492ad5b8c6c47b9e9527d","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance POST /:id/insurances returns 404 when check-in is missing","name":"returns 404 when check-in is missing","status":"passed","testResultsByEnv":{"default":"5e176e3bb4f20c08ea7219a2a73f76d0"}}

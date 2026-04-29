@@ -1,0 +1,1 @@
+{"id":"6cd9fe99b3260f14ce50a1cc5314288d","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError falls back to the base invalid_code message when attemptsRemaining is missing","name":"falls back to the base invalid_code message when attemptsRemaining is missing","status":"passed","testResultsByEnv":{"default":"23dfd495558a5686e2c64fecf8cff868"}}

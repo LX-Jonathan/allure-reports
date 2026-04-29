@@ -1,0 +1,1 @@
+{"id":"73264138fdcb2d6c8a1936e40d3e4a40","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /labs filters by parentLabId for full access user","name":"filters by parentLabId for full access user","status":"passed","testResultsByEnv":{"default":"8e79461f89e879405f7a48efda4aca87"}}

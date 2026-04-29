@@ -1,0 +1,1 @@
+{"id":"8a64d8854b7a8801d2d41c3c4dc1a17f","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /communications-summary returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"b63896ed6345b84193e5cadb923eb7a0"}}

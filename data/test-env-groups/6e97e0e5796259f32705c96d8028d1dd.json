@@ -1,0 +1,1 @@
+{"id":"6e97e0e5796259f32705c96d8028d1dd","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes Routes GET /api/v1/diagnosis-codes/:id returns 200 with diagnosis code when found","name":"returns 200 with diagnosis code when found","status":"passed","testResultsByEnv":{"default":"14cdf812ffa1bcc867aee85601c1cbf5"}}

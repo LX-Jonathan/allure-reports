@@ -1,0 +1,1 @@
+{"id":"8bf79a92a206bf76fe26a645774d0cd9","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id returns 403 for location-level user without location assignment","name":"returns 403 for location-level user without location assignment","status":"passed","testResultsByEnv":{"default":"6a2e25e7e26ffb9e66e99c9077ce90c3"}}

@@ -1,0 +1,1 @@
+{"id":"b9ba743725d9ae919a18e443354c2f70","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth - logout without token does not call fetch when no token in localStorage","name":"does not call fetch when no token in localStorage","status":"passed","testResultsByEnv":{"default":"30556c98236f912430281b188e4003f2"}}

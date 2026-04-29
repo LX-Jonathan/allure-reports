@@ -1,0 +1,1 @@
+{"id":"7a256fbd5ec9b7a82c8fd05df1d6486e","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService extractTenants (via key registration) should extract superOrg tenant from parentLabId pattern","name":"should extract superOrg tenant from parentLabId pattern","status":"passed","testResultsByEnv":{"default":"5b31744cf1f05a5b55dc59c26e325f56"}}

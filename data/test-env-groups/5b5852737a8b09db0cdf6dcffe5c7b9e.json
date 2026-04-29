@@ -1,0 +1,1 @@
+{"id":"5b5852737a8b09db0cdf6dcffe5c7b9e","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should return 400 for missing subject","name":"should return 400 for missing subject","status":"passed","testResultsByEnv":{"default":"8cc76112e4b79ecc944744f0473540a4"}}

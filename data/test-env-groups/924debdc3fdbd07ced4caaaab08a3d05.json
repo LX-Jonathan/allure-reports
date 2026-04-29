@@ -1,0 +1,1 @@
+{"id":"924debdc3fdbd07ced4caaaab08a3d05","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes PATCH /templates/:id returns 404 when template not found","name":"returns 404 when template not found","status":"passed","testResultsByEnv":{"default":"534478fb151c6766c05a55b6ad27371b"}}

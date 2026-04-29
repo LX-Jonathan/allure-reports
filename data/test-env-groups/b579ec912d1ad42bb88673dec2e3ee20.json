@@ -1,0 +1,1 @@
+{"id":"b579ec912d1ad42bb88673dec2e3ee20","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcessWithSSE should send complete event with processed count and zero errors","name":"should send complete event with processed count and zero errors","status":"passed","testResultsByEnv":{"default":"61bc0f22eaf95258d73f64a4565c9199"}}

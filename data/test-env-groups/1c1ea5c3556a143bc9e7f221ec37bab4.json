@@ -1,0 +1,1 @@
+{"id":"1c1ea5c3556a143bc9e7f221ec37bab4","fullName":"server/__tests__/db.test.ts#db pool events should register error handler on pool","name":"should register error handler on pool","status":"passed","testResultsByEnv":{"default":"f646363fe96aeda6f26cd35ae35ce31a"}}

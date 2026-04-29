@@ -1,0 +1,1 @@
+{"id":"bccf19970f99abad67e62e9cb5d98f6a","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections returns empty array for null/undefined input","name":"returns empty array for null/undefined input","status":"passed","testResultsByEnv":{"default":"31ec3a771da39f4936347e6809a56d9a"}}

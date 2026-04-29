@@ -1,0 +1,1 @@
+{"id":"2839ee47c8438adf6c0babb976722e39","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueUserInviteEmail should include invite URL with code in content","name":"should include invite URL with code in content","status":"passed","testResultsByEnv":{"default":"f76d1ac1944402565425e8c16a09b75c"}}

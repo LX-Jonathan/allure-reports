@@ -1,0 +1,1 @@
+{"id":"37bb9f6bfcfbcc71fa2322a507ba7d1b","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts hashPassword should hash password with bcrypt cost factor 12","name":"should hash password with bcrypt cost factor 12","status":"passed","testResultsByEnv":{"default":"ee44aaa51810c9974f65b5c5900388e5"}}

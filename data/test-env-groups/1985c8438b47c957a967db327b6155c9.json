@@ -1,0 +1,1 @@
+{"id":"1985c8438b47c957a967db327b6155c9","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientPortalInvitationEmail should include registration URL in content","name":"should include registration URL in content","status":"passed","testResultsByEnv":{"default":"0cc4aaed3e049f2b254f3fba7f9a7b82"}}

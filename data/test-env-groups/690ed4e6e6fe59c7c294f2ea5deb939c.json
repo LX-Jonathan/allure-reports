@@ -1,0 +1,1 @@
+{"id":"690ed4e6e6fe59c7c294f2ea5deb939c","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware viewer chain should require viewer and all higher roles","name":"should require viewer and all higher roles","status":"passed","testResultsByEnv":{"default":"a4755fdf4ee890fd0d5b98f8a4f487e9"}}

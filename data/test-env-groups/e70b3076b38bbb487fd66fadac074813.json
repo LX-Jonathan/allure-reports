@@ -1,0 +1,1 @@
+{"id":"e70b3076b38bbb487fd66fadac074813","fullName":"server/lib/__tests__/responses.test.ts#badRequest should return 400 status with error message","name":"should return 400 status with error message","status":"passed","testResultsByEnv":{"default":"308730438f535d138436ef6d50ce143d"}}

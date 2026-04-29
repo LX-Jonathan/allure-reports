@@ -1,0 +1,1 @@
+{"id":"33b5abeea5a0efab62f54d40c059c0b3","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/:id/confirm returns 503 when BullMQ is not configured","name":"returns 503 when BullMQ is not configured","status":"passed","testResultsByEnv":{"default":"205462d08e3a21764f466f40fa7401b1"}}

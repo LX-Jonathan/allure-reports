@@ -1,0 +1,1 @@
+{"id":"09279b6773748fc61d3d952bbf9fdedc","fullName":"client/src/components/patient/__tests__/demographics-check-dialog.test.tsx#DemographicsCheckDialog calls onUpdateFields and closes when Update clicked","name":"calls onUpdateFields and closes when Update clicked","status":"passed","testResultsByEnv":{"default":"88333c57afcf447575a96eaf68ca75a1"}}

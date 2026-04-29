@@ -1,0 +1,1 @@
+{"id":"0c5c6a7d1a0f88ee55f9611eaa4c0dac","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getOrgCount returns count from DB","name":"returns count from DB","status":"passed","testResultsByEnv":{"default":"3537bf1003417cd40301898b5e2cd187"}}

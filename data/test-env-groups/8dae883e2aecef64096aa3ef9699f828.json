@@ -1,0 +1,1 @@
+{"id":"8dae883e2aecef64096aa3ef9699f828","fullName":"client/src/hooks/__tests__/useSmartBack.test.ts#useSmartBack calls history.back when no from param and in-app history exists","name":"calls history.back when no from param and in-app history exists","status":"passed","testResultsByEnv":{"default":"57b2e77a83f1c34d3b1a437468df3f10"}}

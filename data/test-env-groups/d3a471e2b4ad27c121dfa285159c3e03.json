@@ -1,0 +1,1 @@
+{"id":"d3a471e2b4ad27c121dfa285159c3e03","fullName":"client/src/lib/__tests__/return-to.test.ts#sanitizeReturnTo rejects login/register paths to prevent loops","name":"rejects login/register paths to prevent loops","status":"passed","testResultsByEnv":{"default":"edd6b95e49922bebb5e93e7226bdceac"}}

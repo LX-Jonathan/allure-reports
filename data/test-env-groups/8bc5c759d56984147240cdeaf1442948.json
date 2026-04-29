@@ -1,0 +1,1 @@
+{"id":"8bc5c759d56984147240cdeaf1442948","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/open returns validation error for negative startingFloat","name":"returns validation error for negative startingFloat","status":"passed","testResultsByEnv":{"default":"71d861fb166d6e48f5d5bf93e0d44a53"}}

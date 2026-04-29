@@ -1,0 +1,1 @@
+{"id":"d0ae2c6151fc60cb2ac5c4dd897a9304","fullName":"server/lib/__tests__/reportCache.test.ts#getCachedReport returns null when cache returns null","name":"returns null when cache returns null","status":"passed","testResultsByEnv":{"default":"db663b2accdb823983ba0f7285b726d2"}}

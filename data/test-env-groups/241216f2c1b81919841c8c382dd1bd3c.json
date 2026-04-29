@@ -1,0 +1,1 @@
+{"id":"241216f2c1b81919841c8c382dd1bd3c","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when filter value is too long","name":"should return 400 when filter value is too long","status":"passed","testResultsByEnv":{"default":"168427b73edbae074437e540c2be5b08"}}

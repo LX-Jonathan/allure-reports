@@ -1,0 +1,1 @@
+{"id":"afeb06d4aed4da5c2d591b54f895284a","fullName":"server/config/__tests__/env.test.ts#env schema validation fails when NODE_ENV is invalid","name":"fails when NODE_ENV is invalid","status":"passed","testResultsByEnv":{"default":"010ea372930841eab5782f97fef587ec"}}

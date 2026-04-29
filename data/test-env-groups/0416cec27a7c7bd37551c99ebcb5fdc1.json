@@ -1,0 +1,1 @@
+{"id":"0416cec27a7c7bd37551c99ebcb5fdc1","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"3b033d653c52c0624bc330c6b29299cd"}}

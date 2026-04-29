@@ -1,0 +1,1 @@
+{"id":"ffffb48354e9308f4e26b80b9caf07c0","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations setUserOrganizationAssignments throws when insert fails","name":"throws when insert fails","status":"passed","testResultsByEnv":{"default":"e2e6a5906f2dcc5e279efa7cd2cbe0ad"}}

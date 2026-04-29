@@ -1,0 +1,1 @@
+{"id":"0c57723cb6272ab135afe7553e3a29d3","fullName":"client/src/components/__tests__/lab-switcher.test.tsx#LabSwitcher renders nothing when query returns only one linked lab","name":"renders nothing when query returns only one linked lab","status":"passed","testResultsByEnv":{"default":"3a763387952398553b418ea20406b7f9"}}

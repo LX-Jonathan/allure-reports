@@ -1,0 +1,1 @@
+{"id":"21b9354b6179005cc31d3307b880153b","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /for-lab/:parentLabId returns links when user parentLabId matches","name":"returns links when user parentLabId matches","status":"passed","testResultsByEnv":{"default":"26b2d687c2df909550043d4e62578ca3"}}

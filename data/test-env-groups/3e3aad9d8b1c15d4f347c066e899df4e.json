@@ -1,0 +1,1 @@
+{"id":"3e3aad9d8b1c15d4f347c066e899df4e","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#LogoPreviewPanel ignores unsafe hero URLs to prevent XSS","name":"ignores unsafe hero URLs to prevent XSS","status":"passed","testResultsByEnv":{"default":"4dfc97fa697b3db929487b44fb9dd2cf"}}

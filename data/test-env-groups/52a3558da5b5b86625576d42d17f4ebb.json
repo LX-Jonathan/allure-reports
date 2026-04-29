@@ -1,0 +1,1 @@
+{"id":"52a3558da5b5b86625576d42d17f4ebb","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Form requests (intake) POST does not send email when sendEmail is false","name":"POST does not send email when sendEmail is false","status":"passed","testResultsByEnv":{"default":"a9636e092fa2248f11b1c0d8d87861ac"}}

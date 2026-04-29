@@ -1,0 +1,1 @@
+{"id":"14a616e4f8bb569508c494885f6de14d","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/:id/confirm returns 202 on successful import confirmation","name":"returns 202 on successful import confirmation","status":"passed","testResultsByEnv":{"default":"89f562acae381c88449eb69221969764"}}

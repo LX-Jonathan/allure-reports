@@ -1,0 +1,1 @@
+{"id":"87110986cef7a548ef329ce83e6f1172","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite resends invitation when a pending invitation already exists","name":"resends invitation when a pending invitation already exists","status":"passed","testResultsByEnv":{"default":"32f92331403b202a626852a4445ec94c"}}

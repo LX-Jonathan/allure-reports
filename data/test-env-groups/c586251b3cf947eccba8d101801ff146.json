@@ -1,0 +1,1 @@
+{"id":"c586251b3cf947eccba8d101801ff146","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/submit-to-andromeda returns 400 when Andromeda not configured","name":"returns 400 when Andromeda not configured","status":"passed","testResultsByEnv":{"default":"ac4d299814d32a0033cf8254059ab49b"}}

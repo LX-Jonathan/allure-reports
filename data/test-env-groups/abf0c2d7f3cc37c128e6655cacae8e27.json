@@ -1,0 +1,1 @@
+{"id":"abf0c2d7f3cc37c128e6655cacae8e27","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler should still schedule the proxy invitation expiry sweep when Athena is not configured","name":"should still schedule the proxy invitation expiry sweep when Athena is not configured","status":"passed","testResultsByEnv":{"default":"4e900ad494aa6aac147f84d92a3c9eb3"}}

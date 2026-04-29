@@ -1,0 +1,1 @@
+{"id":"8d038c1d58bc3423ac7237c48d080c72","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for invalid month","name":"should throw error for invalid month","status":"passed","testResultsByEnv":{"default":"b7321b2b0ad8387094eb1a4d08d31ddb"}}

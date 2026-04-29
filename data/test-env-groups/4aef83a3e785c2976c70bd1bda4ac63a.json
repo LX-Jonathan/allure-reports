@@ -1,0 +1,1 @@
+{"id":"4aef83a3e785c2976c70bd1bda4ac63a","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should handle undefined permissions on API key","name":"should handle undefined permissions on API key","status":"passed","testResultsByEnv":{"default":"523e81fad5d54b37fe6b62f0e2b50848"}}

@@ -1,0 +1,1 @@
+{"id":"933949c92eed3dd4c5ab39058c05d37f","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log error message on failure","name":"should log error message on failure","status":"passed","testResultsByEnv":{"default":"5526881436166e5579f7743d96ecac12"}}

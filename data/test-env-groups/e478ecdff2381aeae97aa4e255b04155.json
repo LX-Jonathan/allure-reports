@@ -1,0 +1,1 @@
+{"id":"e478ecdff2381aeae97aa4e255b04155","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab ignores $ and commas when searching by amount","name":"ignores $ and commas when searching by amount","status":"passed","testResultsByEnv":{"default":"1a226738d93bec1b4987641648920bef"}}

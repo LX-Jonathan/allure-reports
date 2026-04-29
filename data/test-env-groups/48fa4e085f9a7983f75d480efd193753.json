@@ -1,0 +1,1 @@
+{"id":"48fa4e085f9a7983f75d480efd193753","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient sends patient email when no super org is set (defaults to true)","name":"sends patient email when no super org is set (defaults to true)","status":"passed","testResultsByEnv":{"default":"67aed8d102b3e969f3397c34d86dad55"}}

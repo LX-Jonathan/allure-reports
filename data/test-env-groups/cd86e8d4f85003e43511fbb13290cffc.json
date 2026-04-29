@@ -1,0 +1,1 @@
+{"id":"cd86e8d4f85003e43511fbb13290cffc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /locations returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"c900563e2ac48f5b7746334d6750f9ac"}}

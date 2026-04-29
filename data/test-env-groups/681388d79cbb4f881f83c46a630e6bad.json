@@ -1,0 +1,1 @@
+{"id":"681388d79cbb4f881f83c46a630e6bad","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints DELETE /api/v1/lxu/admin/modules/:id returns 200 when module is soft deleted","name":"returns 200 when module is soft deleted","status":"passed","testResultsByEnv":{"default":"bb02514d2ef0cd6ec80106a24b563fb4"}}

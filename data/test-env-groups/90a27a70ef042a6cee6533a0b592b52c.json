@@ -1,0 +1,1 @@
+{"id":"90a27a70ef042a6cee6533a0b592b52c","fullName":"client/src/components/ui/__tests__/table.test.tsx#Table primitives does not set aria-sort on a non-sortable TableHead","name":"does not set aria-sort on a non-sortable TableHead","status":"passed","testResultsByEnv":{"default":"bbc04b14f559933b932e36d7720b1893"}}

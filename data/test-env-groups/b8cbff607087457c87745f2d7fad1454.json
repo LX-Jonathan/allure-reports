@@ -1,0 +1,1 @@
+{"id":"b8cbff607087457c87745f2d7fad1454","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/test-groups should return test groups","name":"should return test groups","status":"passed","testResultsByEnv":{"default":"6dbd60c45d6599c8a51863cad91cdeb9"}}

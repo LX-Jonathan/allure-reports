@@ -1,0 +1,1 @@
+{"id":"6daedb0b7759b5602877bfb687c8f99d","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/articles returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c4e8b74b1add87e8c1f4b65fba05bef7"}}

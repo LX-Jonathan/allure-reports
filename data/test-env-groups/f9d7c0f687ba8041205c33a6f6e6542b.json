@@ -1,0 +1,1 @@
+{"id":"f9d7c0f687ba8041205c33a6f6e6542b","fullName":"client/src/hooks/__tests__/useOrderFixDialogs.test.tsx#useOrderFixDialogs handleFixCoverage toasts an error and keeps the dialog open when no dx is selected","name":"toasts an error and keeps the dialog open when no dx is selected","status":"passed","testResultsByEnv":{"default":"1bf933163f99d7f82709153ac36a2922"}}

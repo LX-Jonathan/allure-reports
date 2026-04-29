@@ -1,0 +1,1 @@
+{"id":"3886e39f757c8daed63d10d80166e175","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /ai-schema returns 500 when service throws","name":"returns 500 when service throws","status":"passed","testResultsByEnv":{"default":"c19ad12427064faaf1f24152937f3f15"}}

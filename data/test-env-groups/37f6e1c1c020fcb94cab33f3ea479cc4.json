@@ -1,0 +1,1 @@
+{"id":"37f6e1c1c020fcb94cab33f3ea479cc4","fullName":"client/src/pages/__tests__/login.test.tsx#LoginPage email_send_failed toast shows the localized English toast when send-code fails (real-user flow)","name":"shows the localized English toast when send-code fails (real-user flow)","status":"passed","testResultsByEnv":{"default":"2dcc1f582e5ee0f02812f7a19057eadb"}}

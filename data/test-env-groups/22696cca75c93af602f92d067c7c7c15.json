@@ -1,0 +1,1 @@
+{"id":"22696cca75c93af602f92d067c7c7c15","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/close returns validation error for missing actualCash","name":"returns validation error for missing actualCash","status":"passed","testResultsByEnv":{"default":"2bc2054abbc0784edb476fd307ce0ec6"}}

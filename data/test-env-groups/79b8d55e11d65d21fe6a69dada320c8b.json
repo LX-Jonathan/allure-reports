@@ -1,0 +1,1 @@
+{"id":"79b8d55e11d65d21fe6a69dada320c8b","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /:id returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"9d4201a3edabbb267590b2a114c1b066"}}

@@ -1,0 +1,1 @@
+{"id":"3d2ccdc23787e232ea5aa29d947d2ce5","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should not write progress for non-recognizing statuses","name":"should not write progress for non-recognizing statuses","status":"passed","testResultsByEnv":{"default":"c7f67ae96adbf36cee50de64daaab634"}}

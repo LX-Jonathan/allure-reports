@@ -1,0 +1,1 @@
+{"id":"444d89f75934086a53d6018979f6491f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"dfa8bcaf2f21fe6b3e9f880c4f842eb6"}}

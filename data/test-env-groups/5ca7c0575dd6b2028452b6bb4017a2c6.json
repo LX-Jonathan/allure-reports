@@ -1,0 +1,1 @@
+{"id":"5ca7c0575dd6b2028452b6bb4017a2c6","fullName":"client/src/pages/__tests__/check-in.test.tsx#CheckInPage focuses the requested step when ?id=<id>&step=<key> is in the URL","name":"focuses the requested step when ?id=<id>&step=<key> is in the URL","status":"passed","testResultsByEnv":{"default":"28e7ca186794bffedb10cdbb12d1b7f7"}}

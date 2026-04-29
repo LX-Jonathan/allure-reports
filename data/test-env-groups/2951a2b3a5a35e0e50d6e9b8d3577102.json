@@ -1,0 +1,1 @@
+{"id":"2951a2b3a5a35e0e50d6e9b8d3577102","fullName":"client/src/components/portal/__tests__/acting-context-badge.test.tsx#RequiredScopeChip renders nothing when requiredScope is null","name":"renders nothing when requiredScope is null","status":"passed","testResultsByEnv":{"default":"fd336a1dfc12a025331d63cb0c1f116f"}}

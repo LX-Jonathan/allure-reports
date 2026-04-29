@@ -1,0 +1,1 @@
+{"id":"1d51743436bf658e710c6b3ec8a93b1a","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes DELETE /api/v1/fee-estimation/queue/:id should return 401 when not authenticated","name":"should return 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"1f81e8588c1b4d7aae0d7e1c1dba8cee"}}

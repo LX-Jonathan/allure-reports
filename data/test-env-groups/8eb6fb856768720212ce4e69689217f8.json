@@ -1,0 +1,1 @@
+{"id":"8eb6fb856768720212ce4e69689217f8","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getFilteredLocationCount should return 1 when locationId filter finds location","name":"should return 1 when locationId filter finds location","status":"passed","testResultsByEnv":{"default":"6756344509b8d91e1d4151dee04328e6"}}

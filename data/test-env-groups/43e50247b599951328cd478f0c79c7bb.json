@@ -1,0 +1,1 @@
+{"id":"43e50247b599951328cd478f0c79c7bb","fullName":"client/src/lib/__tests__/discipline-config.test.ts#resolveDiscipline returns the discipline itself when no alias exists","name":"returns the discipline itself when no alias exists","status":"passed","testResultsByEnv":{"default":"ddc75c2a40948708ab613358fa97e125"}}

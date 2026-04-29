@@ -1,0 +1,1 @@
+{"id":"0b46c7d89f3777d3f1b9b1755249462c","fullName":"server/workers/__tests__/report-generation.worker.test.ts#startReportGenerationWorker should register error event handler","name":"should register error event handler","status":"passed","testResultsByEnv":{"default":"08bdbf403d7001d8c172f548bbe87c47"}}

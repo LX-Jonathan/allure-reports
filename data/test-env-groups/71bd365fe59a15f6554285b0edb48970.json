@@ -1,0 +1,1 @@
+{"id":"71bd365fe59a15f6554285b0edb48970","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete forwards data-testid to the underlying input","name":"forwards data-testid to the underlying input","status":"passed","testResultsByEnv":{"default":"b3ead4e82126427ee0120f173a2af919"}}

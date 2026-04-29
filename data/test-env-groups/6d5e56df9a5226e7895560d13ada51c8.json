@@ -1,0 +1,1 @@
+{"id":"6d5e56df9a5226e7895560d13ada51c8","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog shows Unknown for signature date when signatureUpdatedAt is missing","name":"shows Unknown for signature date when signatureUpdatedAt is missing","status":"passed","testResultsByEnv":{"default":"0b1bc30dd7cde43f06295c1537e5898f"}}

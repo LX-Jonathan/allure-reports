@@ -1,0 +1,1 @@
+{"id":"b00369e097c515ccc4f9056c9d4d840f","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/frhc-api-configs/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"3dd79b2b3bdab6c199255e2a21a77fb7"}}

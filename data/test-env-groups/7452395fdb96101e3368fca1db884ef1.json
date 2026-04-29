@@ -1,0 +1,1 @@
+{"id":"7452395fdb96101e3368fca1db884ef1","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes edge cases should fallback to first insurance when insuranceId not found in list","name":"should fallback to first insurance when insuranceId not found in list","status":"passed","testResultsByEnv":{"default":"3ebf9500b1dd71da6b9e8ceff0185216"}}

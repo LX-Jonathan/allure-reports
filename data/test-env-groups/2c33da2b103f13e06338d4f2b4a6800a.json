@@ -1,0 +1,1 @@
+{"id":"2c33da2b103f13e06338d4f2b4a6800a","fullName":"server/config/__tests__/env.test.ts#env schema validation fails when DATABASE_URL is missing","name":"fails when DATABASE_URL is missing","status":"passed","testResultsByEnv":{"default":"e7b939a45d2fd831181f0c93b8d1cd74"}}

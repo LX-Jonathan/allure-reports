@@ -1,0 +1,1 @@
+{"id":"d94b84f9588fb4349999b2939945b5af","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#isRateLimitError should return true for Error with 429 in message","name":"should return true for Error with 429 in message","status":"passed","testResultsByEnv":{"default":"e3195ba4ebb643cefeb45d9d11dc46a2"}}

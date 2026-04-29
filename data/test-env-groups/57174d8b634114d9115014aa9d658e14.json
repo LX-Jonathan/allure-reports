@@ -1,0 +1,1 @@
+{"id":"57174d8b634114d9115014aa9d658e14","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext role detection detects org_admin role","name":"detects org_admin role","status":"passed","testResultsByEnv":{"default":"8cbf8bd66cee07b1a821fb77bcfb5189"}}

@@ -1,0 +1,1 @@
+{"id":"36a2dafc2e487f54f364da80af51cc8c","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns 500 on unexpected db error","name":"returns 500 on unexpected db error","status":"passed","testResultsByEnv":{"default":"7dfd8d8a30f02c8df580c611db6ef187"}}

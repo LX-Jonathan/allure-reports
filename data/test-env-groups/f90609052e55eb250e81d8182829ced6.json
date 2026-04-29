@@ -1,0 +1,1 @@
+{"id":"f90609052e55eb250e81d8182829ced6","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserAssignedOrganizations throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"dd541b8a1ca00c78128b5e3a5e155122"}}

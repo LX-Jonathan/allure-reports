@@ -1,0 +1,1 @@
+{"id":"d6884ecd174e6e8197dc4dec30fa4603","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes DELETE /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"86910e5740d9263dc9275d0513e16859"}}

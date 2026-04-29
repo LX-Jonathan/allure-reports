@@ -1,0 +1,1 @@
+{"id":"8f479dfd0af3f7c09906aa74f5fffe8d","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event returns 403 when session belongs to different org","name":"returns 403 when session belongs to different org","status":"passed","testResultsByEnv":{"default":"1ac33092f47f4ddbeb777f6adaffb0e5"}}

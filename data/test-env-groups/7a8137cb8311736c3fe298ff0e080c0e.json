@@ -1,0 +1,1 @@
+{"id":"7a8137cb8311736c3fe298ff0e080c0e","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit returns 0 when the patient row is missing","name":"returns 0 when the patient row is missing","status":"passed","testResultsByEnv":{"default":"2e707dcce3d72861a787eae4e0972205"}}

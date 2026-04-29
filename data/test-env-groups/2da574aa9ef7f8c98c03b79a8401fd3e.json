@@ -1,0 +1,1 @@
+{"id":"2da574aa9ef7f8c98c03b79a8401fd3e","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /appeals/bulk/create returns 400 for missing claim837Ids","name":"returns 400 for missing claim837Ids","status":"passed","testResultsByEnv":{"default":"acfebb505093f990e68fbc99739e2dd4"}}

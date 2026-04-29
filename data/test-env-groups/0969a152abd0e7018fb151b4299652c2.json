@@ -1,0 +1,1 @@
+{"id":"0969a152abd0e7018fb151b4299652c2","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/:kitId/results (Staff Portal - Submit Kit Results) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"e5a0cdb72cadd881e9385775fc52f1dc"}}

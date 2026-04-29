@@ -1,0 +1,1 @@
+{"id":"a2754e9589742a44d5178e255dc17e89","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes PATCH /api/v1/order-favorites/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"4ee28a529e4abc04b533f10da61a0daf"}}

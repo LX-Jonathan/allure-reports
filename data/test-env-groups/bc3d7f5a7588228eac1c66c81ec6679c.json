@@ -1,0 +1,1 @@
+{"id":"bc3d7f5a7588228eac1c66c81ec6679c","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Batch Lookup POST /api/v1/lab-tests/batch-lookup restricts org_admin to their organization","name":"restricts org_admin to their organization","status":"passed","testResultsByEnv":{"default":"1e4a4710b0774ac3913d0e94dce6cd58"}}

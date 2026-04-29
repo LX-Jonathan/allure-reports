@@ -1,0 +1,1 @@
+{"id":"7a53bb651838d33bf14dfb797a70ff9e","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes GET /counts/:parentLabId returns 403 for org_admin role","name":"returns 403 for org_admin role","status":"passed","testResultsByEnv":{"default":"984e8b859e14b374c26058a0696bbb6c"}}

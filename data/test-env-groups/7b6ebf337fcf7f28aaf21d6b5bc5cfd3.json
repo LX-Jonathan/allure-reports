@@ -1,0 +1,1 @@
+{"id":"7b6ebf337fcf7f28aaf21d6b5bc5cfd3","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients returns cached data when available","name":"returns cached data when available","status":"passed","testResultsByEnv":{"default":"0c409df40ceb78f77508f28b74a6144c"}}

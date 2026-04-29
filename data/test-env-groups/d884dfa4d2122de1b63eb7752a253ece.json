@@ -1,0 +1,1 @@
+{"id":"d884dfa4d2122de1b63eb7752a253ece","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries/:entryId returns 403 when entry belongs to different org","name":"returns 403 when entry belongs to different org","status":"passed","testResultsByEnv":{"default":"d1503212db8a2a3fbe1e1e588c7d63cd"}}

@@ -1,0 +1,1 @@
+{"id":"918daddab19238c452e9fd06437e9ba4","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins getVisitCheckinById returns the check-in with relations","name":"returns the check-in with relations","status":"passed","testResultsByEnv":{"default":"2eb311567647d3370a22d7241c885394"}}

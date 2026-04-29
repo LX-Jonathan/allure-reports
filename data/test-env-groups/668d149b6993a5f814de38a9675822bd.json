@@ -1,0 +1,1 @@
+{"id":"668d149b6993a5f814de38a9675822bd","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserAssignedOrganizations returns empty array when no assignments","name":"returns empty array when no assignments","status":"passed","testResultsByEnv":{"default":"4f803feb297993cd6198db4f62eb4e53"}}

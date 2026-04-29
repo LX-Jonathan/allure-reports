@@ -1,0 +1,1 @@
+{"id":"c55ca97b61ef0cf396bf22a012e254b8","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/available-users returns 400 when parentLabId is missing","name":"returns 400 when parentLabId is missing","status":"passed","testResultsByEnv":{"default":"27f378a3c66c868811d0c720127b1ba9"}}

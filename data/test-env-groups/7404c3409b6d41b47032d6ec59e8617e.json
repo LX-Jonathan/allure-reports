@@ -1,0 +1,1 @@
+{"id":"7404c3409b6d41b47032d6ec59e8617e","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 400 for invalid body (missing parentLabId)","name":"returns 400 for invalid body (missing parentLabId)","status":"passed","testResultsByEnv":{"default":"ba92149291003bdf90ff4305b5a86958"}}

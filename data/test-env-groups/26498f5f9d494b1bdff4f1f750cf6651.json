@@ -1,0 +1,1 @@
+{"id":"26498f5f9d494b1bdff4f1f750cf6651","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations addRolePermission throws when DB rejects (duplicate)","name":"throws when DB rejects (duplicate)","status":"passed","testResultsByEnv":{"default":"1b0eb71c2509dcd514b2d1253a49813b"}}

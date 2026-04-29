@@ -1,0 +1,1 @@
+{"id":"80cb4b605e22ae6eda953a2d34b810d7","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should fall back to global config when tenant send fails","name":"should fall back to global config when tenant send fails","status":"passed","testResultsByEnv":{"default":"00e1e8149cf0a83cf7eb74961f3cf931"}}

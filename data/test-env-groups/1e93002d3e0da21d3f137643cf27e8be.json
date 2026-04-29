@@ -1,0 +1,1 @@
+{"id":"1e93002d3e0da21d3f137643cf27e8be","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id returns 400 when parentId not found","name":"returns 400 when parentId not found","status":"passed","testResultsByEnv":{"default":"f3eb5352b9159de97e2c0635199e39db"}}

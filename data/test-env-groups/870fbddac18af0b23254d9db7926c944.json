@@ -1,0 +1,1 @@
+{"id":"870fbddac18af0b23254d9db7926c944","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers (additional edge cases) returns totalPages in response","name":"returns totalPages in response","status":"passed","testResultsByEnv":{"default":"f3ca7ce41ead7eef35b91aa8f6c38aa4"}}

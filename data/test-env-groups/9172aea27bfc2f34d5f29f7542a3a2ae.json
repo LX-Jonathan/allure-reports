@@ -1,0 +1,1 @@
+{"id":"9172aea27bfc2f34d5f29f7542a3a2ae","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / seeds nothing when all flags are false","name":"seeds nothing when all flags are false","status":"passed","testResultsByEnv":{"default":"e3c855b4a429060de5eba2fdc60bfd65"}}

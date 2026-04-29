@@ -1,0 +1,1 @@
+{"id":"f0b98366a5a90699d5c166008ac2ae41","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should call Anthropic with correct model and parameters","name":"should call Anthropic with correct model and parameters","status":"passed","testResultsByEnv":{"default":"d0e001a574aad8cc9f1fd0130434e82a"}}

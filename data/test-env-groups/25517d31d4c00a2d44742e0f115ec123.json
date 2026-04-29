@@ -1,0 +1,1 @@
+{"id":"25517d31d4c00a2d44742e0f115ec123","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"67fc408929297ac0467f0415c341a923"}}

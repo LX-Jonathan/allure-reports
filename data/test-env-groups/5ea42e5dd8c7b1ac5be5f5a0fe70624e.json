@@ -1,0 +1,1 @@
+{"id":"5ea42e5dd8c7b1ac5be5f5a0fe70624e","fullName":"server/routes/__tests__/lab-client-insurance-masters.routes.test.ts#lab-client-insurance-masters POST / returns 403 for non-admin on POST","name":"returns 403 for non-admin on POST","status":"passed","testResultsByEnv":{"default":"4b3e517adf703ac64a590e4c5e536abc"}}

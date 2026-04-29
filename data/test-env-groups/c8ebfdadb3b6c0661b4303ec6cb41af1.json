@@ -1,0 +1,1 @@
+{"id":"c8ebfdadb3b6c0661b4303ec6cb41af1","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/items/:testCode returns 200 on successful item deletion","name":"returns 200 on successful item deletion","status":"passed","testResultsByEnv":{"default":"c618c7d35722b6aa41ba77e1108b4d0f"}}

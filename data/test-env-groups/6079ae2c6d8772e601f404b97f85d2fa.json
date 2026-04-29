@@ -1,0 +1,1 @@
+{"id":"6079ae2c6d8772e601f404b97f85d2fa","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes GET /campaigns/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9cf208aae010cc4c4795c6961acc0e74"}}

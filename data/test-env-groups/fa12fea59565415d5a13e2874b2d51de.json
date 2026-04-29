@@ -1,0 +1,1 @@
+{"id":"fa12fea59565415d5a13e2874b2d51de","fullName":"client/src/hooks/__tests__/usePatientCart.test.tsx#usePatientCart - getTotalPrice returns 0 for an empty cart","name":"returns 0 for an empty cart","status":"passed","testResultsByEnv":{"default":"42545b811cc72eb508127913ae500bf2"}}

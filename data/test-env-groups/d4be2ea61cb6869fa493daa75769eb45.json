@@ -1,0 +1,1 @@
+{"id":"d4be2ea61cb6869fa493daa75769eb45","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /config/:parentLabId masks short secrets (<=4 chars) with just asterisks","name":"masks short secrets (<=4 chars) with just asterisks","status":"passed","testResultsByEnv":{"default":"147ed95ff420a8f1f7e069c11b247f0d"}}

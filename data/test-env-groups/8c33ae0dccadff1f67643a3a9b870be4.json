@@ -1,0 +1,1 @@
+{"id":"8c33ae0dccadff1f67643a3a9b870be4","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect sends staff routes to /login","name":"sends staff routes to /login","status":"passed","testResultsByEnv":{"default":"fb4d762183e62e98bdbf83520ecc189f"}}

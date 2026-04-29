@@ -1,0 +1,1 @@
+{"id":"cf1870bcfc7fd66f1edf7ed976b2f561","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab does not display a credit score when no profile data is loaded","name":"does not display a credit score when no profile data is loaded","status":"passed","testResultsByEnv":{"default":"382a431795a1eced1c5d77e36348e0f8"}}

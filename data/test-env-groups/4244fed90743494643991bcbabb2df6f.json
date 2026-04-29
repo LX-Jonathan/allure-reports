@@ -1,0 +1,1 @@
+{"id":"4244fed90743494643991bcbabb2df6f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"effb18ded1cd8690e0c23a4cd8936b01"}}

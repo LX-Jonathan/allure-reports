@@ -1,0 +1,1 @@
+{"id":"6af97fbcfb5b44747bea30c20aa43db9","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts PATCH /chart-of-accounts/:id returns 400 when trying to modify system account","name":"returns 400 when trying to modify system account","status":"passed","testResultsByEnv":{"default":"5685f677eb3377502879a2f63ff15d61"}}

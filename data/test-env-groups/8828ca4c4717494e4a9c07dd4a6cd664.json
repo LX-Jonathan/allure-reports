@@ -1,0 +1,1 @@
+{"id":"8828ca4c4717494e4a9c07dd4a6cd664","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserById queries with role, superOrg, organization, location relations","name":"queries with role, superOrg, organization, location relations","status":"passed","testResultsByEnv":{"default":"4e53d18e038cd5ab7915d6c8f95841ba"}}

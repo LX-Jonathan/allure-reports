@@ -1,0 +1,1 @@
+{"id":"bba0fec74cbbc88fc86949150e384646","fullName":"server/__tests__/aggregate-order-insurance-verdict.test.ts#aggregateOrderInsuranceVerdicts (task-1572) groups verdicts by orderId and applies precedence per order","name":"groups verdicts by orderId and applies precedence per order","status":"passed","testResultsByEnv":{"default":"6edf06928aafcdac7ba4ea9238005b13"}}

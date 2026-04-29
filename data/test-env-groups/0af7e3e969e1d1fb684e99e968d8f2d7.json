@@ -1,0 +1,1 @@
+{"id":"0af7e3e969e1d1fb684e99e968d8f2d7","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should map 'workers_comp' to 'I'","name":"should map 'workers_comp' to 'I'","status":"passed","testResultsByEnv":{"default":"2e178c7f87ef80de68ae71655cc060e5"}}

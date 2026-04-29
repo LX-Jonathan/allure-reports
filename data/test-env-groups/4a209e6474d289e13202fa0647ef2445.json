@@ -1,0 +1,1 @@
+{"id":"4a209e6474d289e13202fa0647ef2445","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Patient Documents softDeletePatientDocument returns true on soft-delete","name":"returns true on soft-delete","status":"passed","testResultsByEnv":{"default":"763a9e7348d45723e9ffd8aaacfddc89"}}

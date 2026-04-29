@@ -1,0 +1,1 @@
+{"id":"e0bfb22bec19dd2b99307ba88a185e0c","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getPatientCount should apply location filter for full access users","name":"should apply location filter for full access users","status":"passed","testResultsByEnv":{"default":"c20164d8bcffc2038993c557ca59b426"}}

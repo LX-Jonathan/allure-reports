@@ -1,0 +1,1 @@
+{"id":"04c543c12080f9778601026d7d52885f","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring internal model produces a higher score for high-FPL, high-income, fully paid patients","name":"produces a higher score for high-FPL, high-income, fully paid patients","status":"passed","testResultsByEnv":{"default":"05084f7a667d59d4655acf495e37b23f"}}

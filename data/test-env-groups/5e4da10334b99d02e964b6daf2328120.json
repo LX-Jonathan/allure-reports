@@ -1,0 +1,1 @@
+{"id":"5e4da10334b99d02e964b6daf2328120","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"3c3f2ec5853df57d4147bd82f6a4d773"}}

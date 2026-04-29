@@ -1,0 +1,1 @@
+{"id":"3592d56d103b3171c630c17eaeb378cc","fullName":"client/src/components/__tests__/suspicious-activity-alert-listener.test.tsx#SuspiciousActivityAlertListener does not subscribe when the user has no security role","name":"does not subscribe when the user has no security role","status":"passed","testResultsByEnv":{"default":"289902a564608578c8876bc4ee92d3bf"}}

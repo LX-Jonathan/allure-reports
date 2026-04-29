@@ -1,0 +1,1 @@
+{"id":"224cfce51466a0b5416d58fbfc3ed57b","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/notify-results should return 400 if order has no patient","name":"should return 400 if order has no patient","status":"passed","testResultsByEnv":{"default":"e3170e16babed38b263445f86e382076"}}

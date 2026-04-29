@@ -1,0 +1,1 @@
+{"id":"8636115166fd09634cff2b364cf1e52a","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /connection-token returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"a5c5dcff89a9dd6dd014d920aef3aa16"}}

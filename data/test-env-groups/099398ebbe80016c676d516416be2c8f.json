@@ -1,0 +1,1 @@
+{"id":"099398ebbe80016c676d516416be2c8f","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import returns 400 when CSV is missing required columns","name":"returns 400 when CSV is missing required columns","status":"passed","testResultsByEnv":{"default":"6cea15b950cd2c4763e7b648916e05db"}}

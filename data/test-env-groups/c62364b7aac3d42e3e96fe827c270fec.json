@@ -1,0 +1,1 @@
+{"id":"c62364b7aac3d42e3e96fe827c270fec","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes GET /api/v1/patients/:patientId/documents returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"290909d23c0960a75273c324923c900a"}}

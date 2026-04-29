@@ -1,0 +1,1 @@
+{"id":"1c0d648a91ec99839e0ec41d0941461b","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/available-users returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"5e6e4400ef977410b554c39c896469f6"}}

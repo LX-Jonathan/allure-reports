@@ -1,0 +1,1 @@
+{"id":"472bf60117de59d747d0485ff2a9a240","fullName":"client/src/pages/__tests__/patient-portal-hub.test.tsx#PatientPortalHubPage redirects non-admin users away from admin-only sections","name":"redirects non-admin users away from admin-only sections","status":"passed","testResultsByEnv":{"default":"412448a6ad1ba9bcd9f8c8ef2ac30ea1"}}

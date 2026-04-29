@@ -1,0 +1,1 @@
+{"id":"b3c4bbcddb4de2fd3b477abfba38b1cd","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate fee schedule resolution should prefer fee schedule rate over basePrice","name":"should prefer fee schedule rate over basePrice","status":"passed","testResultsByEnv":{"default":"a035a7ab06264ad289742045ac8c612c"}}

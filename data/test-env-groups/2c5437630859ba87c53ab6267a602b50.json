@@ -1,0 +1,1 @@
+{"id":"2c5437630859ba87c53ab6267a602b50","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: account_locked","name":"en: account_locked","status":"passed","testResultsByEnv":{"default":"d4851cf84e8a3b9dc0855534cc5362d0"}}

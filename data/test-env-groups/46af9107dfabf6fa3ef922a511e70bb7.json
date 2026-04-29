@@ -1,0 +1,1 @@
+{"id":"46af9107dfabf6fa3ef922a511e70bb7","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes GET /api/v1/system/scheduled-jobs returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"41682971e97951f21d4ded29266d2b40"}}

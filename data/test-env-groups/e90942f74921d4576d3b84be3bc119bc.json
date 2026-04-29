@@ -1,0 +1,1 @@
+{"id":"e90942f74921d4576d3b84be3bc119bc","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes DELETE /api/v1/flu-shots/:id returns 200 for org_admin","name":"returns 200 for org_admin","status":"passed","testResultsByEnv":{"default":"1b13ee0a228ff0bbd07528aee3743587"}}

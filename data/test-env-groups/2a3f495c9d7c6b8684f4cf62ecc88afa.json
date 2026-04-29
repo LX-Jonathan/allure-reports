@@ -1,0 +1,1 @@
+{"id":"2a3f495c9d7c6b8684f4cf62ecc88afa","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService queueScheduledReport queues job when BullMQ is configured","name":"queues job when BullMQ is configured","status":"passed","testResultsByEnv":{"default":"5e550ca0857f9375622545c40337817f"}}

@@ -1,0 +1,1 @@
+{"id":"5d0a5f19c52813dbba34aa494d791f66","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes POST / returns 400 for invalid body - missing name","name":"returns 400 for invalid body - missing name","status":"passed","testResultsByEnv":{"default":"c33cd4c0e0ff72b953577342a76cf721"}}

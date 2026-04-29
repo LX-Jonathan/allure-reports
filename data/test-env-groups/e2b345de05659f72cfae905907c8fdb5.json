@@ -1,0 +1,1 @@
+{"id":"e2b345de05659f72cfae905907c8fdb5","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanDriversLicense should extract all drivers license fields correctly","name":"should extract all drivers license fields correctly","status":"passed","testResultsByEnv":{"default":"e822a94c33ba8bacb0aa0d20ce7bea6b"}}

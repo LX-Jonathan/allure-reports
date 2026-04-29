@@ -1,0 +1,1 @@
+{"id":"0f7e4af3a299fe482533236c9ddbb5d1","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/admin/:parentLabId/generate returns 400 when websiteUrl missing","name":"returns 400 when websiteUrl missing","status":"passed","testResultsByEnv":{"default":"396cc33d49934aeeb871703952d0a2ce"}}

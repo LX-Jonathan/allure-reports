@@ -1,0 +1,1 @@
+{"id":"22e47dbdb5bbfd4bbfd8f4f01d336c6a","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search returns [] when no linked orgs and user has no parentLabId","name":"returns [] when no linked orgs and user has no parentLabId","status":"passed","testResultsByEnv":{"default":"1dac5f1216836da9022b7c258c58d1dd"}}

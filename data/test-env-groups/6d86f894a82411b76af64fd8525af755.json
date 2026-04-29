@@ -1,0 +1,1 @@
+{"id":"6d86f894a82411b76af64fd8525af755","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service isCircuitOpen should return false for non-existent breaker","name":"should return false for non-existent breaker","status":"passed","testResultsByEnv":{"default":"8a0e950b91422ca52e3cb5e52895656a"}}

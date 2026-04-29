@@ -1,0 +1,1 @@
+{"id":"a0cd08f7d14a5aec1041b4196155e88c","fullName":"client/src/lib/__tests__/queryClient.test.ts#fetchAsset does NOT attach Authorization for same-origin non-/api paths","name":"does NOT attach Authorization for same-origin non-/api paths","status":"passed","testResultsByEnv":{"default":"48a0560a71eb8f31b2fb04e88ed8b8f8"}}

@@ -1,0 +1,1 @@
+{"id":"29a848a0ad5af36eb0363bdf54c211a1","fullName":"client/src/components/lab-operations/__tests__/claim-denials.test.tsx#ClaimDenialsReport renders empty state when data is null","name":"renders empty state when data is null","status":"passed","testResultsByEnv":{"default":"2363a6c5a2e21a114e300da7402a6a70"}}

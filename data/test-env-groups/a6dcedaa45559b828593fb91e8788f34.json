@@ -1,0 +1,1 @@
+{"id":"a6dcedaa45559b828593fb91e8788f34","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should call next and attach apiKey when validation succeeds","name":"should call next and attach apiKey when validation succeeds","status":"passed","testResultsByEnv":{"default":"bd2417997799abcbb7d51ac167416b3c"}}

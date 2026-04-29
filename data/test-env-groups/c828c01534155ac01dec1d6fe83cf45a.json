@@ -1,0 +1,1 @@
+{"id":"c828c01534155ac01dec1d6fe83cf45a","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Public Pre-Registration Routes GET /api/v1/public/pre-registration/:linkCode returns 200 with link info when valid","name":"returns 200 with link info when valid","status":"passed","testResultsByEnv":{"default":"3fedb9de960cefb7296f0163d0595797"}}

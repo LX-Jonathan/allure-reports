@@ -1,0 +1,1 @@
+{"id":"249fd24b2078ac5c4dfc6c0a3f7abb5f","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service isCircuitOpen should return false when breaker is closed","name":"should return false when breaker is closed","status":"passed","testResultsByEnv":{"default":"8daa4e86dcc9f4ffed980a58e4ed8598"}}

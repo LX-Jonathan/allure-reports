@@ -1,0 +1,1 @@
+{"id":"a562d0564968e163d678b1fdb63b5c6f","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should use DB patientId for consent check even when payload omits it","name":"should use DB patientId for consent check even when payload omits it","status":"passed","testResultsByEnv":{"default":"f0d6512c10890a03d412a49f79215796"}}

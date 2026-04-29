@@ -1,0 +1,1 @@
+{"id":"c5cf1c7b9ec06a84cc4ce9b0e052017c","fullName":"server/services/__tests__/readinessEvaluator.test.ts#runAllEvaluations correctly propagates readinessScore from totalErrors and totalWarnings","name":"correctly propagates readinessScore from totalErrors and totalWarnings","status":"passed","testResultsByEnv":{"default":"c3d4d55e2a0706e334d0b651f43f4106"}}

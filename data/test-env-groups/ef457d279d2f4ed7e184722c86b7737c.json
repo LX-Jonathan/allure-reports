@@ -1,0 +1,1 @@
+{"id":"ef457d279d2f4ed7e184722c86b7737c","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should handle non-Error values thrown by the bulk insert","name":"should handle non-Error values thrown by the bulk insert","status":"passed","testResultsByEnv":{"default":"0793ccdebdb61551dd1043d0a79b2749"}}

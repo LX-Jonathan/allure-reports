@@ -1,0 +1,1 @@
+{"id":"80563d22629948e0a1f43dddd1ed2516","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan openCircuitBreaker should set manuallyOpened=true when userId provided","name":"should set manuallyOpened=true when userId provided","status":"passed","testResultsByEnv":{"default":"b9db70f38acc0c1ac3f71856b57a35ce"}}

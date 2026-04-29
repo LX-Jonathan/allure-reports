@@ -1,0 +1,1 @@
+{"id":"6d4fe0ea90a22aab5fe07e1f736439e9","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - create / save (PATCH) flows POST / rejects an invalid body with 400","name":"POST / rejects an invalid body with 400","status":"passed","testResultsByEnv":{"default":"d0975dc279d57c73ddfdafcf5e9a5f92"}}

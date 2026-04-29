@@ -1,0 +1,1 @@
+{"id":"03b702fa168acacb6d44aa4668836a3e","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/logo redirects when logoUrl is http URL","name":"redirects when logoUrl is http URL","status":"passed","testResultsByEnv":{"default":"ae3997fbbe37e4f361431a52c968e346"}}

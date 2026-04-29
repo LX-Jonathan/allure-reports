@@ -1,0 +1,1 @@
+{"id":"cebede18d7b11570d19c68757504b375","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /fix-guidance returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"c1bdf0a0bcb8163aef8d63fec95c0af0"}}

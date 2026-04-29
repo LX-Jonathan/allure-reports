@@ -1,0 +1,1 @@
+{"id":"40e8a96cedb90f868f629b1f8e2bc1c6","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /fee-schedules/:id returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"a9e0ddf2ab6dd7ee1927e6d80ee3b883"}}

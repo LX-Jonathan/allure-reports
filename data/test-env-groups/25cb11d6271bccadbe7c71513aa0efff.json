@@ -1,0 +1,1 @@
+{"id":"25cb11d6271bccadbe7c71513aa0efff","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextFromMultiplePages should reuse singleton worker for sequential page processing","name":"should reuse singleton worker for sequential page processing","status":"passed","testResultsByEnv":{"default":"b4d82f4e71b10c49f4560f4bd36ca8ef"}}

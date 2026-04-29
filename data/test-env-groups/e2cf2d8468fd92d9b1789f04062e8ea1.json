@@ -1,0 +1,1 @@
+{"id":"e2cf2d8468fd92d9b1789f04062e8ea1","fullName":"client/src/lib/__tests__/tokenRefresh.test.ts#tokenRefresh sets wasIdle when user is inactive and does not refresh until activity resumes","name":"sets wasIdle when user is inactive and does not refresh until activity resumes","status":"passed","testResultsByEnv":{"default":"d62915e86df019d7aa297917220a62dd"}}

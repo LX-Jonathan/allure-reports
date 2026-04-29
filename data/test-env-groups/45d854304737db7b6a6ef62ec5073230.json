@@ -1,0 +1,1 @@
+{"id":"45d854304737db7b6a6ef62ec5073230","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies returns 200 with search filter","name":"returns 200 with search filter","status":"passed","testResultsByEnv":{"default":"1cb4e1a61882d82d6bca4588af86c916"}}

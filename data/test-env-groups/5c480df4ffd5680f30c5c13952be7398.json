@@ -1,0 +1,1 @@
+{"id":"5c480df4ffd5680f30c5c13952be7398","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id allows partial update with isActive field","name":"allows partial update with isActive field","status":"passed","testResultsByEnv":{"default":"2d13366a05144c8d070c0cc700a09f5d"}}

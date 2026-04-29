@@ -1,0 +1,1 @@
+{"id":"c384acd488ddb654adc46ab70365d258","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canViewAuditLogs chain should require org_admin or super_admin roles","name":"should require org_admin or super_admin roles","status":"passed","testResultsByEnv":{"default":"6861f8eb4b3b7601ac02544e293c4be6"}}

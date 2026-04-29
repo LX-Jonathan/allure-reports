@@ -1,0 +1,1 @@
+{"id":"f002ed7adcdf03335d6367feab84a07b","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty state for available credit when storedCreditCents is not positive","name":"shows empty state for available credit when storedCreditCents is not positive","status":"passed","testResultsByEnv":{"default":"90e643a193d0f53f107e30b705e4f77f"}}

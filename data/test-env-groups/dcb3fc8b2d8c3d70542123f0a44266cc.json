@@ -1,0 +1,1 @@
+{"id":"dcb3fc8b2d8c3d70542123f0a44266cc","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /history returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"7d4d83b8208517f53ee04d3a5b78aaf4"}}

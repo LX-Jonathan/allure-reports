@@ -1,0 +1,1 @@
+{"id":"5072f6b1451f961c26f97ab2eb06fc79","fullName":"server/lib/__tests__/insurance-update-notifications.test.ts#notifyStaffOfPendingInsuranceUpdate accepts a bare array result shape from db.execute (no rows wrapper)","name":"accepts a bare array result shape from db.execute (no rows wrapper)","status":"passed","testResultsByEnv":{"default":"fbed0b363991d0bb846f99a527351a27"}}

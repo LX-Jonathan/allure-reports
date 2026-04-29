@@ -1,0 +1,1 @@
+{"id":"0ea8c58142820b93e30152047c4dbc58","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should return empty text when no annotations in batch response","name":"should return empty text when no annotations in batch response","status":"passed","testResultsByEnv":{"default":"9706d4478bc446024db7caf6784b9814"}}

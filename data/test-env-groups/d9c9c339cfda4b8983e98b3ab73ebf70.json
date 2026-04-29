@@ -1,0 +1,1 @@
+{"id":"d9c9c339cfda4b8983e98b3ab73ebf70","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id returns super org when found","name":"returns super org when found","status":"passed","testResultsByEnv":{"default":"832549e5a467c9a5c8da7863df93f38d"}}

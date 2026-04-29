@@ -1,0 +1,1 @@
+{"id":"03db6a24123d1273cdda60bcc4b7f81a","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should throw error when batch is not found","name":"should throw error when batch is not found","status":"passed","testResultsByEnv":{"default":"e61b0d51dfe4efd1769d6947afe9b9a3"}}

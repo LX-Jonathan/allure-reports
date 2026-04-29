@@ -1,0 +1,1 @@
+{"id":"6c4a290428683fe777028399358754cb","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerOpenJournal should return null when startingFloat is 0","name":"should return null when startingFloat is 0","status":"passed","testResultsByEnv":{"default":"d431296bbdbf42a002d9f6bbeeb02a7b"}}

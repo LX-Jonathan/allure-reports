@@ -1,0 +1,1 @@
+{"id":"cb2ad9aff74119928bc17d523dd0beeb","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/:id returns schedule with items","name":"returns schedule with items","status":"passed","testResultsByEnv":{"default":"17e45f1b6d7fd35b58c9766ec25cdf43"}}

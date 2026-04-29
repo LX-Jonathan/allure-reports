@@ -1,0 +1,1 @@
+{"id":"fb24b5122fb25d0e9bf4438d7562815f","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should extract token from valid Bearer header","name":"should extract token from valid Bearer header","status":"passed","testResultsByEnv":{"default":"d0062276d91f8b0c70a5f6c7c9e45fc3"}}

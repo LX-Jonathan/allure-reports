@@ -1,0 +1,1 @@
+{"id":"1f34f201a111ba794225df568d0dce2f","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/load-cms returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"33a891d49cad7c59973e9fd6cc4b3409"}}

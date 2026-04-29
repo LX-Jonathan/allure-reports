@@ -1,0 +1,1 @@
+{"id":"d9681bb933dd5ee92a21d93249a58572","fullName":"client/src/components/patient/__tests__/financial-scorecard-tab.test.tsx#UnifiedScorecardTab (financial section) calls onNavigate when a card is clicked","name":"calls onNavigate when a card is clicked","status":"passed","testResultsByEnv":{"default":"e6de051c3b547aa0e045a3e8ca9cfe0c"}}

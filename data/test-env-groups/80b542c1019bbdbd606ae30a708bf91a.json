@@ -1,0 +1,1 @@
+{"id":"80b542c1019bbdbd606ae30a708bf91a","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#checkCircuitBreaker should auto-close after cooldown expires","name":"should auto-close after cooldown expires","status":"passed","testResultsByEnv":{"default":"6121a8fa9a160a143dfcab0f52cdf708"}}

@@ -1,0 +1,1 @@
+{"id":"ba0e57d9af4c481d155a00d86c2a6dc0","fullName":"server/__tests__/staff-notifications.routes.test.ts#staff notifications routes rejects users whose role is not on the staff inbox allow-list","name":"rejects users whose role is not on the staff inbox allow-list","status":"passed","testResultsByEnv":{"default":"0b8cba5e2c21331a59667a3fa549db6d"}}

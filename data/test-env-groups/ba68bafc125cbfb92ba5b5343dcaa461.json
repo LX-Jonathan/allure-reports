@@ -1,0 +1,1 @@
+{"id":"ba68bafc125cbfb92ba5b5343dcaa461","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Orders getOrders should filter by locationIds array","name":"should filter by locationIds array","status":"passed","testResultsByEnv":{"default":"c9d7858ef24b8de3026bf92ffbfe2c0d"}}

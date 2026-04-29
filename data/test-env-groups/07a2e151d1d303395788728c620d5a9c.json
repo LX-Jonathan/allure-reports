@@ -1,0 +1,1 @@
+{"id":"07a2e151d1d303395788728c620d5a9c","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes POST /api/v1/check-ins (create) returns 403 when creating for a location outside the caller's lab","name":"returns 403 when creating for a location outside the caller's lab","status":"passed","testResultsByEnv":{"default":"470eb23e21637e11dffaa4ad419c916c"}}

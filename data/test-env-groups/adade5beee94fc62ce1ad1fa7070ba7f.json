@@ -1,0 +1,1 @@
+{"id":"adade5beee94fc62ce1ad1fa7070ba7f","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket resets state on disconnect","name":"resets state on disconnect","status":"passed","testResultsByEnv":{"default":"0700cf07235bba7df2dda92a2abb8c06"}}

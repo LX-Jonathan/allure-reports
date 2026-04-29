@@ -1,0 +1,1 @@
+{"id":"c993e5aff7e0b750330f9624b8b2bd7f","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for value exceeding max length","name":"should throw error for value exceeding max length","status":"passed","testResultsByEnv":{"default":"009b1d38526aa3d416abd58167eff087"}}

@@ -1,0 +1,1 @@
+{"id":"d8ba038cb8bfb9dd558b5b9e6249f107","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets/:ticketId/messages returns 400 for missing content","name":"returns 400 for missing content","status":"passed","testResultsByEnv":{"default":"d7cce8385d3df7f72686f502e49939a4"}}

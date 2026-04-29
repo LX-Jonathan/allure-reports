@@ -1,0 +1,1 @@
+{"id":"9c91338009730947c65cda5be7e2d7da","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include account info field labels","name":"should include account info field labels","status":"passed","testResultsByEnv":{"default":"dcfdb1fd7637309563c5f355a4d861b7"}}

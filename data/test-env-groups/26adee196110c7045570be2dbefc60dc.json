@@ -1,0 +1,1 @@
+{"id":"26adee196110c7045570be2dbefc60dc","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes CORS middleware sets CORS headers for allowed origins (localhost)","name":"sets CORS headers for allowed origins (localhost)","status":"passed","testResultsByEnv":{"default":"af25a141e42dee418a149010141c2e7b"}}

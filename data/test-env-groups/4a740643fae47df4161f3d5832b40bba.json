@@ -1,0 +1,1 @@
+{"id":"4a740643fae47df4161f3d5832b40bba","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/status returns 200 with configuration status","name":"returns 200 with configuration status","status":"passed","testResultsByEnv":{"default":"dfa93354d204200d25d1bbf1761c9551"}}

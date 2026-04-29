@@ -1,0 +1,1 @@
+{"id":"1078ed54f51d0363805df9c8ebeb227d","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromTemp should read and return buffer from file path","name":"should read and return buffer from file path","status":"passed","testResultsByEnv":{"default":"76789c5851e98f4d9a748f3f61c8b5b5"}}

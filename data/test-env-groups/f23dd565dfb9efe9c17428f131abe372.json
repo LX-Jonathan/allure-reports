@@ -1,0 +1,1 @@
+{"id":"f23dd565dfb9efe9c17428f131abe372","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms unconfigured fallback should log SMS and return false when Twilio not configured","name":"should log SMS and return false when Twilio not configured","status":"passed","testResultsByEnv":{"default":"a198076ef75e1ab9c4251e5f7c656ca2"}}

@@ -1,0 +1,1 @@
+{"id":"2ae2e102aae25cd925f3755caf48de3a","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/start redirects to Microsoft authorize URL when domain matches","name":"redirects to Microsoft authorize URL when domain matches","status":"passed","testResultsByEnv":{"default":"cc9108141a3e66f7681c9a25aea9d794"}}

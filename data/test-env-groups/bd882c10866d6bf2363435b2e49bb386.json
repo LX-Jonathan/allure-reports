@@ -1,0 +1,1 @@
+{"id":"bd882c10866d6bf2363435b2e49bb386","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:companyId/plans/:planId returns 500 when db update throws","name":"returns 500 when db update throws","status":"passed","testResultsByEnv":{"default":"28ef6f0c192a5349ffd5c9e8c9a6efa5"}}

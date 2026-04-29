@@ -1,0 +1,1 @@
+{"id":"bd6dabe812cab699f05a414af99d991e","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError prefers the localized fallback over the raw server message when errorCode is unknown","name":"prefers the localized fallback over the raw server message when errorCode is unknown","status":"passed","testResultsByEnv":{"default":"550f101b77406728e40213cdc47c3b58"}}

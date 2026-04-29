@@ -1,0 +1,1 @@
+{"id":"9d85e7a4b19c52e49d1da4eeddd7ed70","fullName":"server/__tests__/dtc.routes.test.ts#dtc routes GET /api/v1/dtc/products returns products with pagination","name":"returns products with pagination","status":"passed","testResultsByEnv":{"default":"55e85a5cd64dae22c2bcb24f6a9b9257"}}

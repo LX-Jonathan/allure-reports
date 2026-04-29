@@ -1,0 +1,1 @@
+{"id":"de17ce9a5116c694c5287bb34c9b747e","fullName":"client/src/pages/__tests__/login.test.tsx#LoginPage email_send_failed toast shows the localized toast and re-enables the Resend button when resend fails","name":"shows the localized toast and re-enables the Resend button when resend fails","status":"passed","testResultsByEnv":{"default":"c8394e02750970eb5899e9c550500c1e"}}

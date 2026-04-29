@@ -1,0 +1,1 @@
+{"id":"c355e55b3eb0a8698d839098e6197885","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes GET /public/pre-registration/:linkCode returns 400 when link is expired","name":"returns 400 when link is expired","status":"passed","testResultsByEnv":{"default":"9de5908f7d1f34d9ecde591dff927aa1"}}

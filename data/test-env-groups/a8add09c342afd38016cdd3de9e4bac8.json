@@ -1,0 +1,1 @@
+{"id":"a8add09c342afd38016cdd3de9e4bac8","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should return 'I' for undefined","name":"should return 'I' for undefined","status":"passed","testResultsByEnv":{"default":"16ba16d4ac8a52400ad9494fd767e944"}}

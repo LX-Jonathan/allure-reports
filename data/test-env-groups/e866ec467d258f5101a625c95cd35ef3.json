@@ -1,0 +1,1 @@
+{"id":"e866ec467d258f5101a625c95cd35ef3","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/:id/workflow/start returns 400 when PA is not in draft status","name":"returns 400 when PA is not in draft status","status":"passed","testResultsByEnv":{"default":"6b7cbc42e21ec3e59a2ca2b59d364b78"}}

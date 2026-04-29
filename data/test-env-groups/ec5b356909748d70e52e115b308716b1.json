@@ -1,0 +1,1 @@
+{"id":"ec5b356909748d70e52e115b308716b1","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id/status should deactivate an active super org","name":"should deactivate an active super org","status":"passed","testResultsByEnv":{"default":"3a4b48d97b135e72b0c7f85ce50467fb"}}

@@ -1,0 +1,1 @@
+{"id":"93b71e76685b3aaff0b075765f04d894","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent refunds renders the error state when the refunds query fails","name":"renders the error state when the refunds query fails","status":"passed","testResultsByEnv":{"default":"0f499df9f90e6d0bb9fbdecabd0967f9"}}

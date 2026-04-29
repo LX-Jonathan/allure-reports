@@ -1,0 +1,1 @@
+{"id":"f20ee3c56ca0eea586d5fc408bb0cd1e","fullName":"client/src/hooks/__tests__/useOrderRiskScore.test.ts#useOrderRiskScore caps the score at 100 and reports high tier when everything is bad","name":"caps the score at 100 and reports high tier when everything is bad","status":"passed","testResultsByEnv":{"default":"c29b1f7446428b342e28e687dd7c3410"}}

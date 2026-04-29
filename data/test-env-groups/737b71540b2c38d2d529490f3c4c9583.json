@@ -1,0 +1,1 @@
+{"id":"737b71540b2c38d2d529490f3c4c9583","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth missing token should not call next when no token","name":"should not call next when no token","status":"passed","testResultsByEnv":{"default":"943f23227f7aca167e052016e68b191a"}}

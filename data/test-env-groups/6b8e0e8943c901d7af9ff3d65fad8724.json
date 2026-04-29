@@ -1,0 +1,1 @@
+{"id":"6b8e0e8943c901d7af9ff3d65fad8724","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/modifiers should return 401 when not authenticated","name":"should return 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"773726af13d01c900cf80a5a5850cb16"}}

@@ -1,0 +1,1 @@
+{"id":"92e646ba99e4acecd6fd6a7c497d7322","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should send email without text content when not provided","name":"should send email without text content when not provided","status":"passed","testResultsByEnv":{"default":"231ca41e6aa0ed09f5b61d30ea470f33"}}

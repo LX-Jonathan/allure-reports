@@ -1,0 +1,1 @@
+{"id":"2372bff33fb418719fbe5d2835fab389","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject TRUNCATE SQL keyword in filter","name":"should reject TRUNCATE SQL keyword in filter","status":"passed","testResultsByEnv":{"default":"8d5a79d01473fd99dd4e43f78d3accdb"}}

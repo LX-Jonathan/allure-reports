@@ -1,0 +1,1 @@
+{"id":"c4b3d315aad2dbdc7208f10a8df598c2","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth error fallback strings uses 'Failed to send code' fallback when API returns no message or error","name":"uses 'Failed to send code' fallback when API returns no message or error","status":"passed","testResultsByEnv":{"default":"368132d284f9cee5c9a695c28a69473e"}}

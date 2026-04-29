@@ -1,0 +1,1 @@
+{"id":"4beaf1224068f82bb0a68243f6d98040","fullName":"server/lib/__tests__/email.test.ts#email sendUserInviteEmail sends invite email with correct parameters","name":"sends invite email with correct parameters","status":"passed","testResultsByEnv":{"default":"fb41da96a7fd54d95e9ad022428053ee"}}

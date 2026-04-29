@@ -1,0 +1,1 @@
+{"id":"4f3463f8b80d5c4a116dafb5ad2f7bc9","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management deleteUser should soft-delete user and return true","name":"should soft-delete user and return true","status":"passed","testResultsByEnv":{"default":"cf9115f64bd21196c1145c73e0ee2ba0"}}

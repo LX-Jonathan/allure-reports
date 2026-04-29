@@ -1,0 +1,1 @@
+{"id":"9b28b95b08dee8775fdfb2c1ac4a7c77","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes GET /api/v1/system/scheduled-jobs returns 200 with scheduled jobs list and server time","name":"returns 200 with scheduled jobs list and server time","status":"passed","testResultsByEnv":{"default":"26d11c078e6c808773960357e4647034"}}

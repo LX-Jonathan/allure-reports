@@ -1,0 +1,1 @@
+{"id":"348bf0d444b08b0b97890b1b683aa91d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients rejects non-uuid id values via validation","name":"rejects non-uuid id values via validation","status":"passed","testResultsByEnv":{"default":"247c22ac9efe9f894c2e21c7dcdf9d01"}}

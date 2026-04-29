@@ -1,0 +1,1 @@
+{"id":"83259d87f3dbcfb977bfc7b68710c662","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Email Verification Codes getEmailVerificationCode should lowercase email when querying","name":"should lowercase email when querying","status":"passed","testResultsByEnv":{"default":"61f28e2398e6fc1128e414c82388baa7"}}

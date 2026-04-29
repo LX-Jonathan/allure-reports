@@ -1,0 +1,1 @@
+{"id":"6706de8e5783b2ef834983edbf42f88e","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueProviderResultsReadyEmail should include organization name in text content sign-off","name":"should include organization name in text content sign-off","status":"passed","testResultsByEnv":{"default":"5348191cd023eb7298e1d4bcf2c6ad2e"}}

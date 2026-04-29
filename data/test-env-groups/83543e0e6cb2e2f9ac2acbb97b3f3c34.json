@@ -1,0 +1,1 @@
+{"id":"83543e0e6cb2e2f9ac2acbb97b3f3c34","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should re-throw Redis get errors","name":"should re-throw Redis get errors","status":"passed","testResultsByEnv":{"default":"33959764ffe31d1b33ac586b909d64bf"}}

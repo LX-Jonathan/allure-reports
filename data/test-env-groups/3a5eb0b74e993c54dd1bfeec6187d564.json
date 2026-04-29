@@ -1,0 +1,1 @@
+{"id":"3a5eb0b74e993c54dd1bfeec6187d564","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/data-issues/bulk returns 400 for invalid action","name":"returns 400 for invalid action","status":"passed","testResultsByEnv":{"default":"70846f23adf185e5ae4907231ee18a39"}}

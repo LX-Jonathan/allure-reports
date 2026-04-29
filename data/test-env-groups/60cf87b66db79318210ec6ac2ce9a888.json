@@ -1,0 +1,1 @@
+{"id":"60cf87b66db79318210ec6ac2ce9a888","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/diagnostic/test-vision returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"0b7b16bdeb05e80c561c1c1c5d6a23a3"}}

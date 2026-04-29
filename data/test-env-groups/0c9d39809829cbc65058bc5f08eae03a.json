@@ -1,0 +1,1 @@
+{"id":"0c9d39809829cbc65058bc5f08eae03a","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 400 on Zod validation error (empty reason)","name":"returns 400 on Zod validation error (empty reason)","status":"passed","testResultsByEnv":{"default":"e1eb10bd025ef84d35c8e9d0e506bd13"}}

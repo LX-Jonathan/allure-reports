@@ -1,0 +1,1 @@
+{"id":"92c2603ff6d6a67a63e821c602885192","fullName":"client/src/lib/__tests__/queryClient.test.ts#queryClient instance is a QueryClient with mutation retries disabled and query retries capped","name":"is a QueryClient with mutation retries disabled and query retries capped","status":"passed","testResultsByEnv":{"default":"ac61090f4d2c9a9bb38f23945c213ce2"}}

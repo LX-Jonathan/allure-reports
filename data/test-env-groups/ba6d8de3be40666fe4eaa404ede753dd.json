@@ -1,0 +1,1 @@
+{"id":"ba6d8de3be40666fe4eaa404ede753dd","fullName":"server/lib/__tests__/logUtils.test.ts#sanitizeForLog converts booleans to string","name":"converts booleans to string","status":"passed","testResultsByEnv":{"default":"e97c7a5431c57aa062b14aa1baf1bb9f"}}

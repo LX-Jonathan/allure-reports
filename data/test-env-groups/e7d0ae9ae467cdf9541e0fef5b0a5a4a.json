@@ -1,0 +1,1 @@
+{"id":"e7d0ae9ae467cdf9541e0fef5b0a5a4a","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePatientRules skips the address check for external source","name":"skips the address check for external source","status":"passed","testResultsByEnv":{"default":"3e01a483704f44aba0f5316c2e08a887"}}

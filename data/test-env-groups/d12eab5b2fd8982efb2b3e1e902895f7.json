@@ -1,0 +1,1 @@
+{"id":"d12eab5b2fd8982efb2b3e1e902895f7","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/available-slots returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"3aac3d9b37ee2747bc180a3a2ee0b67b"}}

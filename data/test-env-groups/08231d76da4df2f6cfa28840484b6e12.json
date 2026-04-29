@@ -1,0 +1,1 @@
+{"id":"08231d76da4df2f6cfa28840484b6e12","fullName":"client/src/hooks/__tests__/useOrderFixDialogs.test.tsx#useOrderFixDialogs handleFixCodingDone closes the dialog and reruns validation","name":"closes the dialog and reruns validation","status":"passed","testResultsByEnv":{"default":"71c01b5e36cbee20f562391afd12ae92"}}

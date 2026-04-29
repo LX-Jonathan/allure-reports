@@ -1,0 +1,1 @@
+{"id":"cc601a325736b3a030951a4843889bdc","fullName":"client/src/components/__tests__/insurance-card-capture.test.tsx#InsuranceCardCapture shows generic camera error for non-DOMException errors","name":"shows generic camera error for non-DOMException errors","status":"passed","testResultsByEnv":{"default":"66073def5c3ef6dac2d66dcc39b0f4d5"}}

@@ -1,0 +1,1 @@
+{"id":"afd3184991722a89df4da71df0ae2501","fullName":"client/src/lib/__tests__/return-to.test.ts#readReturnToFromSearch returns sanitized next param without touching session storage","name":"returns sanitized next param without touching session storage","status":"passed","testResultsByEnv":{"default":"e85888cad737856d9b2ee05c204bbd0b"}}

@@ -1,0 +1,1 @@
+{"id":"6f30fe0e7aa04d3414ba9c0c8fee3c68","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob job data validation should throw error when job data is missing","name":"should throw error when job data is missing","status":"passed","testResultsByEnv":{"default":"3096bdea9fa4aa2913d15cfdde395f4e"}}

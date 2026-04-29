@@ -1,0 +1,1 @@
+{"id":"87e817d4c3a1b30ccabc302c20a74cc4","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /:checkId/clear-edit returns 404 when the check does not exist","name":"returns 404 when the check does not exist","status":"passed","testResultsByEnv":{"default":"0a5d04e6fa4341a2419f5b9b982f78e9"}}

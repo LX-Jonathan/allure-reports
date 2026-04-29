@@ -1,0 +1,1 @@
+{"id":"0e25e2e54422baf15a8f983de59cdff4","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/patients/search returns matching patients","name":"returns matching patients","status":"passed","testResultsByEnv":{"default":"3a19b556015b1e5364e8c00b33d54261"}}

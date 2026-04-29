@@ -1,0 +1,1 @@
+{"id":"c6d090799676680fd805581d3476691e","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/status should return interface status for super_admin (200)","name":"should return interface status for super_admin (200)","status":"passed","testResultsByEnv":{"default":"f226f0785ca04dc819ee94edb1b8e975"}}

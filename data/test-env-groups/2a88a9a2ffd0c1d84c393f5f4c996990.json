@@ -1,0 +1,1 @@
+{"id":"2a88a9a2ffd0c1d84c393f5f4c996990","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should throw when imageBuffer is empty","name":"should throw when imageBuffer is empty","status":"passed","testResultsByEnv":{"default":"4b49b399654a968119db6546824aa72b"}}

@@ -1,0 +1,1 @@
+{"id":"043dbf80e0771d851aadbb9db2333520","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should throw error when FRHC API returns non-ok response","name":"should throw error when FRHC API returns non-ok response","status":"passed","testResultsByEnv":{"default":"d83fd28045abd5cee1c6c69319dbaaa1"}}

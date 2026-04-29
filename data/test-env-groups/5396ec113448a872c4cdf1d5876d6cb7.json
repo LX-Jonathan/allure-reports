@@ -1,0 +1,1 @@
+{"id":"5396ec113448a872c4cdf1d5876d6cb7","fullName":"server/services/__tests__/athenaSync.test.ts#helper function logic effectiveErrorType logic should use Unknown when all values are empty","name":"should use Unknown when all values are empty","status":"passed","testResultsByEnv":{"default":"56a8cfdee97784e7128082db1fa0d434"}}

@@ -1,0 +1,1 @@
+{"id":"03d587ff6e62a88d4edc00388bc59fac","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should update batch with total pages","name":"should update batch with total pages","status":"passed","testResultsByEnv":{"default":"41d9d283f3589017b3217d66e9468869"}}

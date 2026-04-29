@@ -1,0 +1,1 @@
+{"id":"dadf7e787b743a41b525a70021d908a3","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#processPriorAuthJob routing should call submitToPayer for submit_to_payer action","name":"should call submitToPayer for submit_to_payer action","status":"passed","testResultsByEnv":{"default":"47e4dc12493a0bb9728586d82d0e3004"}}

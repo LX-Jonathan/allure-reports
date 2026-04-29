@@ -1,0 +1,1 @@
+{"id":"4672f65bcb491cd828da3b6d71312c5a","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service getExtensionFromMimeType should return .pdf for application/pdf","name":"should return .pdf for application/pdf","status":"passed","testResultsByEnv":{"default":"50924ba01c596f2f313f86a57779d0f6"}}

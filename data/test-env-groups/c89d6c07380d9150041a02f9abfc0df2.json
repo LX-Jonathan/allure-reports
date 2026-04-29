@@ -1,0 +1,1 @@
+{"id":"c89d6c07380d9150041a02f9abfc0df2","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserCount should return 0 when no users exist","name":"should return 0 when no users exist","status":"passed","testResultsByEnv":{"default":"15cc89e714692026492aeb9112ae899d"}}

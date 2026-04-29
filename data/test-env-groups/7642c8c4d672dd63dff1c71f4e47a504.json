@@ -1,0 +1,1 @@
+{"id":"7642c8c4d672dd63dff1c71f4e47a504","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes PUT /api/v1/order-intake/:id/verify should verify a scanned order","name":"should verify a scanned order","status":"passed","testResultsByEnv":{"default":"5af1f8e26b0cf27b0d9fae7b0e434b27"}}

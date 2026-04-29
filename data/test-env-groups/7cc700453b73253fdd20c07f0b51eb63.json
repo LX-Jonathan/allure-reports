@@ -1,0 +1,1 @@
+{"id":"7cc700453b73253fdd20c07f0b51eb63","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToPrintSections returns empty array when no fields have positions","name":"returns empty array when no fields have positions","status":"passed","testResultsByEnv":{"default":"89a5cd0cf8b6caf76c9d9f19e9ab95c7"}}

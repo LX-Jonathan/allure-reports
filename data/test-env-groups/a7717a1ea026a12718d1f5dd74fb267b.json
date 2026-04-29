@@ -1,0 +1,1 @@
+{"id":"a7717a1ea026a12718d1f5dd74fb267b","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware identifier extraction should use req.ip when no x-forwarded-for","name":"should use req.ip when no x-forwarded-for","status":"passed","testResultsByEnv":{"default":"18bbd2e6184e02628df70018afabfc97"}}

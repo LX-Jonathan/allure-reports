@@ -1,0 +1,1 @@
+{"id":"03ca2b122a5c8127465d96ac91137056","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes GET /api/v1/order-intake/pending-jobs should return empty jobs when redis not configured","name":"should return empty jobs when redis not configured","status":"passed","testResultsByEnv":{"default":"ac0e18bce10fcc7891ebdc2518c80974"}}

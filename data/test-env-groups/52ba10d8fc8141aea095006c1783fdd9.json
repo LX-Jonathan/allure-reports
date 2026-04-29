@@ -1,0 +1,1 @@
+{"id":"52ba10d8fc8141aea095006c1783fdd9","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob - additional coverage should delete local temp file after final error (non-retryable)","name":"should delete local temp file after final error (non-retryable)","status":"passed","testResultsByEnv":{"default":"f10735fcba650f2036c82bd7e60eec19"}}

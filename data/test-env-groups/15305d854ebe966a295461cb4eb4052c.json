@@ -1,0 +1,1 @@
+{"id":"15305d854ebe966a295461cb4eb4052c","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getCategoryBySlug should return null when category slug not found","name":"should return null when category slug not found","status":"passed","testResultsByEnv":{"default":"ca813678cca4ae858a2c303e57aa78d9"}}

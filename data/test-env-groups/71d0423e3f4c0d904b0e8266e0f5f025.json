@@ -1,0 +1,1 @@
+{"id":"71d0423e3f4c0d904b0e8266e0f5f025","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#evaluateCircuitBreaker should handle zero total jobs","name":"should handle zero total jobs","status":"passed","testResultsByEnv":{"default":"4e282b049aa450726438991ce2df407a"}}

@@ -1,0 +1,1 @@
+{"id":"6b1dee34216aa4ea1ccced229bce1337","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToPrintSections - additional branches returns empty array when all sections are null/undefined","name":"returns empty array when all sections are null/undefined","status":"passed","testResultsByEnv":{"default":"be1efcba8500a34c3c36caf327000b0e"}}

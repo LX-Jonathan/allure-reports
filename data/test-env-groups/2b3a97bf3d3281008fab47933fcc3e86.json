@@ -1,0 +1,1 @@
+{"id":"2b3a97bf3d3281008fab47933fcc3e86","fullName":"client/src/lib/__tests__/authUtils.test.ts#getInitials returns ? when both names are missing","name":"returns ? when both names are missing","status":"passed","testResultsByEnv":{"default":"24da1c32c56676a6420e6c4a3b39b954"}}

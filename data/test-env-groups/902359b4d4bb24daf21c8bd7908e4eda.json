@@ -1,0 +1,1 @@
+{"id":"902359b4d4bb24daf21c8bd7908e4eda","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate POST /orders/:id/scrub returns 403 when order is out of scope","name":"returns 403 when order is out of scope","status":"passed","testResultsByEnv":{"default":"ecbaf6e0c2ac9f600c0edfccbc4a28e2"}}

@@ -1,0 +1,1 @@
+{"id":"f4d615d6f4ab3a69c2694819e2be4e8c","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should return 200 for assigned user","name":"should return 200 for assigned user","status":"passed","testResultsByEnv":{"default":"c7c8c7b04c508513570e4e28a700974f"}}

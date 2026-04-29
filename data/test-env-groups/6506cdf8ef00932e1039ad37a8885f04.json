@@ -1,0 +1,1 @@
+{"id":"6506cdf8ef00932e1039ad37a8885f04","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth no token provided should not send any response when no token","name":"should not send any response when no token","status":"passed","testResultsByEnv":{"default":"2ec623ffedee188bee148c05404a9d9f"}}

@@ -1,0 +1,1 @@
+{"id":"fae48ccd20dc7c72fdb60e436844af3b","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#formatConfidenceLabel does not surface a label when the score is missing","name":"does not surface a label when the score is missing","status":"passed","testResultsByEnv":{"default":"0cf77d81ce4d64429bed861624ae863a"}}

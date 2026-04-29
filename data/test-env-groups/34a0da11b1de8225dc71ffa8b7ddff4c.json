@@ -1,0 +1,1 @@
+{"id":"34a0da11b1de8225dc71ffa8b7ddff4c","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir includes address when provided","name":"includes address when provided","status":"passed","testResultsByEnv":{"default":"c55fbfb08e8b8e9c37abf6e1e7545908"}}

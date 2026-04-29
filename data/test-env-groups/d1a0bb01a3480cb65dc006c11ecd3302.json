@@ -1,0 +1,1 @@
+{"id":"d1a0bb01a3480cb65dc006c11ecd3302","fullName":"client/src/hooks/__tests__/useFeeEstimation.test.tsx#useFeeEstimation - runFeeEstimation success does nothing when the cart is empty","name":"does nothing when the cart is empty","status":"passed","testResultsByEnv":{"default":"5d560c3f5ea0d59262255b76fdf317ba"}}

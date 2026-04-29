@@ -1,0 +1,1 @@
+{"id":"dba060d22d1ad1916480eda91a72c043","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns 400 when neither templateId nor labId provided","name":"returns 400 when neither templateId nor labId provided","status":"passed","testResultsByEnv":{"default":"b223e33a8b1aa5a846c2e8115ab3b00c"}}

@@ -1,0 +1,1 @@
+{"id":"2a70ae7a65707ccfbd497bdbacba8d62","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs/:id/audit-history should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"9ab1c679d00403efec19803dde8bd7b9"}}

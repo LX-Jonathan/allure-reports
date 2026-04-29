@@ -1,0 +1,1 @@
+{"id":"ebec9c4a73841cd9ea3c8f675c5fb458","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromTemp should delete file and return true","name":"should delete file and return true","status":"passed","testResultsByEnv":{"default":"1065985636f417a92cbacef08e074914"}}

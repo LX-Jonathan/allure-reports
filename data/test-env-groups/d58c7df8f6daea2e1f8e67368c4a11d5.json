@@ -1,0 +1,1 @@
+{"id":"d58c7df8f6daea2e1f8e67368c4a11d5","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes GET /templates skips status filter when 'all'","name":"skips status filter when 'all'","status":"passed","testResultsByEnv":{"default":"04e76773699bf5880aa591e64b5f50da"}}

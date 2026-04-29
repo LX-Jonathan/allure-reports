@@ -1,0 +1,1 @@
+{"id":"a1e6e8aae0e5e8dc8c3f13bf028ad33b","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler billing resolution cron callback should persist job statuses after successful run","name":"should persist job statuses after successful run","status":"passed","testResultsByEnv":{"default":"1a82175c05637b98eadc495e12686a91"}}

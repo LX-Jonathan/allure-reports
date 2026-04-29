@@ -1,0 +1,1 @@
+{"id":"e9b3695c0e4f9c1c801aa92f221c2842","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should treat paid_in as cash_in","name":"should treat paid_in as cash_in","status":"passed","testResultsByEnv":{"default":"8e81bb64ac2d41b50404026956512d3e"}}

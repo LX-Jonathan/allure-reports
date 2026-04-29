@@ -1,0 +1,1 @@
+{"id":"b72bc749d01c470dfb06a348527d9e00","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit decrements stored credit by the requested amount when balance is sufficient","name":"decrements stored credit by the requested amount when balance is sufficient","status":"passed","testResultsByEnv":{"default":"73704a8ae8ae9169af75240433c86ccf"}}

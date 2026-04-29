@@ -1,0 +1,1 @@
+{"id":"2661025c903be86d087cd003a31197a3","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar CheckInEligibilityCoverageSection shows a 'Nearly met' OOP max badge when at or above 80% met","name":"shows a 'Nearly met' OOP max badge when at or above 80% met","status":"passed","testResultsByEnv":{"default":"c440fd93b1611ca69b742122461c9bf4"}}

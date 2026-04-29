@@ -1,0 +1,1 @@
+{"id":"a42755f54f4d5af69482b319f66063a4","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetch includes Authorization header from localStorage token","name":"includes Authorization header from localStorage token","status":"passed","testResultsByEnv":{"default":"741e894fd757a5258ddc17cbe24d4e0c"}}

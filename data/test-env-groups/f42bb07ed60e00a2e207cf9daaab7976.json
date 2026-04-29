@@ -1,0 +1,1 @@
+{"id":"f42bb07ed60e00a2e207cf9daaab7976","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: invalid_phone","name":"en: invalid_phone","status":"passed","testResultsByEnv":{"default":"10694606de3053a4b54b6deb58555d4b"}}

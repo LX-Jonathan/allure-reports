@@ -1,0 +1,1 @@
+{"id":"39609d01665e115c6504a84cfc2f8c50","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/bulk-retry should return 400 for empty ids array","name":"should return 400 for empty ids array","status":"passed","testResultsByEnv":{"default":"9467937aad3a442e3a861a1ece898d39"}}

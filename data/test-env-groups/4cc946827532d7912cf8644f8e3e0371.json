@@ -1,0 +1,1 @@
+{"id":"4cc946827532d7912cf8644f8e3e0371","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab hides revocable for already revoked consent","name":"hides revocable for already revoked consent","status":"passed","testResultsByEnv":{"default":"e1b8e4a162bf25aa63fc3f8a43ab9635"}}

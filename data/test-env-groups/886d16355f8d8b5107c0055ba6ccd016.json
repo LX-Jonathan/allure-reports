@@ -1,0 +1,1 @@
+{"id":"886d16355f8d8b5107c0055ba6ccd016","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextFromMultiplePagesWithGoogleVision should log summary on completion","name":"should log summary on completion","status":"passed","testResultsByEnv":{"default":"d9c00b194034fef40115f39a0fdcca50"}}

@@ -1,0 +1,1 @@
+{"id":"fed53a8efe16f14563cd14a71c7873a6","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies returns 200 with paginated insurance companies","name":"returns 200 with paginated insurance companies","status":"passed","testResultsByEnv":{"default":"d938382ba161daa68085d90ff6d94859"}}

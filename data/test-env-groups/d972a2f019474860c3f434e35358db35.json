@@ -1,0 +1,1 @@
+{"id":"d972a2f019474860c3f434e35358db35","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar renders Point of Sale as a top-level Daily Work nav item (not nested in a popover)","name":"renders Point of Sale as a top-level Daily Work nav item (not nested in a popover)","status":"passed","testResultsByEnv":{"default":"6afb85dfdd5eb5cbe43c8dc225757ac6"}}

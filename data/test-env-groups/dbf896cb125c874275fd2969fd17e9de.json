@@ -1,0 +1,1 @@
+{"id":"dbf896cb125c874275fd2969fd17e9de","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag whitespace-only first name as error","name":"should flag whitespace-only first name as error","status":"passed","testResultsByEnv":{"default":"a5c4cbe14e09d95d7e049baed3c93a24"}}

@@ -1,0 +1,1 @@
+{"id":"68733eaa337472edf1dcc72bbefba535","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes PATCH /api/v1/patient-documents/:id returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"62420b4d39f81e4e35769a6df72f442e"}}

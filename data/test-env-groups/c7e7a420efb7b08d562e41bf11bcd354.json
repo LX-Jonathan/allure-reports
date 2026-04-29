@@ -1,0 +1,1 @@
+{"id":"c7e7a420efb7b08d562e41bf11bcd354","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should create entry when actual matches expected (no variance)","name":"should create entry when actual matches expected (no variance)","status":"passed","testResultsByEnv":{"default":"f2b6d5f756d240b7dbda1390ea778786"}}

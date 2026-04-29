@@ -1,0 +1,1 @@
+{"id":"f5588f3952fe7271c2999cdf1f18cbad","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses UNKNOWN for policy_number when memberId is missing","name":"uses UNKNOWN for policy_number when memberId is missing","status":"passed","testResultsByEnv":{"default":"01547d83acb5b78efd0dacc6d1638917"}}

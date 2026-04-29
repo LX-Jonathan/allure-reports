@@ -1,0 +1,1 @@
+{"id":"7da5625d3dc70b9325dbc90ca2e4604e","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes GET /api/v1/prior-authorizations/:id/print and /pdf renders an HTML print summary that contains key details","name":"renders an HTML print summary that contains key details","status":"passed","testResultsByEnv":{"default":"c5c932902c4fe9bd1b7ecc3b148380ab"}}

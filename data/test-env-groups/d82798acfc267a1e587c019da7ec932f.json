@@ -1,0 +1,1 @@
+{"id":"d82798acfc267a1e587c019da7ec932f","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda getAndromedaOrganizations throws on non-ok response with plain text error (JSON parse fails)","name":"throws on non-ok response with plain text error (JSON parse fails)","status":"passed","testResultsByEnv":{"default":"6ff43a2d61ca618e32f65f2d08c1569d"}}

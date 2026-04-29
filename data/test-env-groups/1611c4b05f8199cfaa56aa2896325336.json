@@ -1,0 +1,1 @@
+{"id":"1611c4b05f8199cfaa56aa2896325336","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment runs entirely inside a single transaction (atomic with credit increment)","name":"runs entirely inside a single transaction (atomic with credit increment)","status":"passed","testResultsByEnv":{"default":"ab91a1c483fef3c45297cd16ea346a75"}}

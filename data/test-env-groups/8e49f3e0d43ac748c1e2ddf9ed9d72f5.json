@@ -1,0 +1,1 @@
+{"id":"8e49f3e0d43ac748c1e2ddf9ed9d72f5","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /validate returns 400 for missing required fields in pair","name":"returns 400 for missing required fields in pair","status":"passed","testResultsByEnv":{"default":"e7ad8b1fd5751f458557003fc608054d"}}

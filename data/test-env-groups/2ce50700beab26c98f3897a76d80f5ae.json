@@ -1,0 +1,1 @@
+{"id":"2ce50700beab26c98f3897a76d80f5ae","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth returned state flags exposes isLoggingIn from loginWithPassword mutation","name":"exposes isLoggingIn from loginWithPassword mutation","status":"passed","testResultsByEnv":{"default":"8dcb24134beb13e25f61f5ac4d3622a1"}}

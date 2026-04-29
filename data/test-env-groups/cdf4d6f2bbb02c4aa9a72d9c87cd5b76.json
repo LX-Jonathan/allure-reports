@@ -1,0 +1,1 @@
+{"id":"cdf4d6f2bbb02c4aa9a72d9c87cd5b76","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes POST /:id/send returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9190b53d944aa4114a78d39c51f2ee0b"}}

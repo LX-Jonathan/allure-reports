@@ -1,0 +1,1 @@
+{"id":"77e32f0806dec229762dc7c3db068359","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty state when no copay shortfalls are returned","name":"shows empty state when no copay shortfalls are returned","status":"passed","testResultsByEnv":{"default":"e295489860af2a3e591d842751f633c4"}}

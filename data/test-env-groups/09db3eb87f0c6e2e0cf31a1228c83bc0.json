@@ -1,0 +1,1 @@
+{"id":"09db3eb87f0c6e2e0cf31a1228c83bc0","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getBulkScanItemsByBatchId applies requiresReview filter","name":"applies requiresReview filter","status":"passed","testResultsByEnv":{"default":"f3bb0f3a70f545815e3fd61960af2e4a"}}

@@ -1,0 +1,1 @@
+{"id":"3bb66bbb234c473f9cf3255268a90b10","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:id returns 200 and updates existing events","name":"returns 200 and updates existing events","status":"passed","testResultsByEnv":{"default":"87134409b2546d87fff67d2c41fc1121"}}

@@ -1,0 +1,1 @@
+{"id":"b60e7aac28fcd7f82f3a5da4e2ab3c36","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes GET /api/v1/favorites returns 400 for invalid type","name":"returns 400 for invalid type","status":"passed","testResultsByEnv":{"default":"7ade4c202a4c04afbc1a0a75cf34808c"}}

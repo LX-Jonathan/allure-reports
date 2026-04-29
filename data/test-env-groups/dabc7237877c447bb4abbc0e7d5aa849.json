@@ -1,0 +1,1 @@
+{"id":"dabc7237877c447bb4abbc0e7d5aa849","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when patient is not found","name":"should return error when patient is not found","status":"passed","testResultsByEnv":{"default":"8691c328d654ff81e9c4d296de276678"}}

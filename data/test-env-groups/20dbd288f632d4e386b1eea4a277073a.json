@@ -1,0 +1,1 @@
+{"id":"20dbd288f632d4e386b1eea4a277073a","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes DELETE /api/v1/lab-tests/compendium-configs/:id should return 404 if not found","name":"should return 404 if not found","status":"passed","testResultsByEnv":{"default":"3250111489b587206350814a18c0c0b5"}}

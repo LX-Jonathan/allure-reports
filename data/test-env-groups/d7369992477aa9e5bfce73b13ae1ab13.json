@@ -1,0 +1,1 @@
+{"id":"d7369992477aa9e5bfce73b13ae1ab13","fullName":"client/src/stores/__tests__/workingPatientStore.test.ts#useWorkingPatientStore starts with no working patient when localStorage is empty","name":"starts with no working patient when localStorage is empty","status":"passed","testResultsByEnv":{"default":"0b10a2eb05aaae2a0b2754b3d8827950"}}

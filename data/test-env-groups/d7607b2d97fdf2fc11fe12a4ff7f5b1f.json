@@ -1,0 +1,1 @@
+{"id":"d7607b2d97fdf2fc11fe12a4ff7f5b1f","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /capture-payment returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"0ab9c583cc45a947d5346edf9c940de0"}}

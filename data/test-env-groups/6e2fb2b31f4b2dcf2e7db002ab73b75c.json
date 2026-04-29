@@ -1,0 +1,1 @@
+{"id":"6e2fb2b31f4b2dcf2e7db002ab73b75c","fullName":"client/src/hooks/__tests__/useOrderValidation.test.tsx#useOrderValidation rerunValidation always sees the freshest options (task-1607 invariant)","name":"rerunValidation always sees the freshest options (task-1607 invariant)","status":"passed","testResultsByEnv":{"default":"036d9c4e0be03636e8ee2a77d35dc7cd"}}

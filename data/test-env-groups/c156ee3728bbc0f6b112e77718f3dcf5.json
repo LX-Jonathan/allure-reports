@@ -1,0 +1,1 @@
+{"id":"c156ee3728bbc0f6b112e77718f3dcf5","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /:checkId/clear-edit returns 400 when the same issue is cleared twice","name":"returns 400 when the same issue is cleared twice","status":"passed","testResultsByEnv":{"default":"48f65aec09049432ffffc6c1b3aa1019"}}

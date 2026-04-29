@@ -1,0 +1,1 @@
+{"id":"a96177b0188e03fc9c549b429b4fbdad","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect returns null when already on a login page","name":"returns null when already on a login page","status":"passed","testResultsByEnv":{"default":"1675b97ce0ad78a6e0f1b34f753e90e5"}}

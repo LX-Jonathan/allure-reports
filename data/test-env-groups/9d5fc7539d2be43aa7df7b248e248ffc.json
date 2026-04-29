@@ -1,0 +1,1 @@
+{"id":"9d5fc7539d2be43aa7df7b248e248ffc","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply resize when specified","name":"should apply resize when specified","status":"passed","testResultsByEnv":{"default":"775b849fee2f5442b4b866cacbab2fa8"}}

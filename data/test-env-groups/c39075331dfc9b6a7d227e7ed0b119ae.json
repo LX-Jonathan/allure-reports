@@ -1,0 +1,1 @@
+{"id":"c39075331dfc9b6a7d227e7ed0b119ae","fullName":"client/src/components/requisitions/__tests__/print-requisition-dialog.test.tsx#PrintRequisitionDialog does not render view full details button when no callback","name":"does not render view full details button when no callback","status":"passed","testResultsByEnv":{"default":"c8df3f12ea39534b52272320d09186c7"}}

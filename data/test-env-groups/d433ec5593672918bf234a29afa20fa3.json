@@ -1,0 +1,1 @@
+{"id":"d433ec5593672918bf234a29afa20fa3","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes DELETE /api/interfaces/alert-rules/:id should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"b5e82fd45de664fb3d8e66ca868b529a"}}

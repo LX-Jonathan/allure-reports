@@ -1,0 +1,1 @@
+{"id":"b98b62188a2d5985be8c31e42f8d64fd","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes DELETE /api/v1/labs/:id should return 404 if not found","name":"should return 404 if not found","status":"passed","testResultsByEnv":{"default":"4a542719cf00ef78f705a8ea92d6ef1e"}}

@@ -1,0 +1,1 @@
+{"id":"a0abef50919384ba339b2d5a2f2d8e7c","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service isGoodQualityOCR should return false when confidence below aggressive threshold","name":"should return false when confidence below aggressive threshold","status":"passed","testResultsByEnv":{"default":"d5b91d885cbfb865e6ad235244af497a"}}

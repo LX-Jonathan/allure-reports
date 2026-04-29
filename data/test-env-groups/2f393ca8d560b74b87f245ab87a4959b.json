@@ -1,0 +1,1 @@
+{"id":"2f393ca8d560b74b87f245ab87a4959b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/reset-stuck should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"a316014845b93533ca8794229526ddc1"}}

@@ -1,0 +1,1 @@
+{"id":"3ee56722ab34b15d39aabcc047f0b431","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /available-orgs/:parentLabId returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"31a812a0b8b90d0ea93bb84fdcfaccdf"}}

@@ -1,0 +1,1 @@
+{"id":"3eab37244101fafd56aaef2be8b63377","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status returns 400 when jobIds exceeds 50","name":"returns 400 when jobIds exceeds 50","status":"passed","testResultsByEnv":{"default":"e86909a2993843e9978b73e4fdf8bde7"}}

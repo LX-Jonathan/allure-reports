@@ -1,0 +1,1 @@
+{"id":"3e4a94865e11e34aa3193618b3c0bd99","fullName":"client/src/pages/__tests__/rapid-test-results.test.tsx#RapidTestResultsPage shows loading state when fetch rejects rather than crash","name":"shows loading state when fetch rejects rather than crash","status":"passed","testResultsByEnv":{"default":"4e0814292785ede21ae097efe7c027e8"}}

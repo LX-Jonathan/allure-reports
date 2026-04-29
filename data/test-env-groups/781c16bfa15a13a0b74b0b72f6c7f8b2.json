@@ -1,0 +1,1 @@
+{"id":"781c16bfa15a13a0b74b0b72f6c7f8b2","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#ConsolidatedStatementPDF renders the lab logo image when an absolute URL is provided","name":"renders the lab logo image when an absolute URL is provided","status":"passed","testResultsByEnv":{"default":"62f12057aaf4392035b6f52c99404583"}}

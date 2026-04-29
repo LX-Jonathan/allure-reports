@@ -1,0 +1,1 @@
+{"id":"07fe9172170694429795c201d38f5375","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /validate accepts pairs without optional cptCode","name":"accepts pairs without optional cptCode","status":"passed","testResultsByEnv":{"default":"7ac9a8ff0cfd532cd582cc6c68d91dd5"}}

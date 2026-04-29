@@ -1,0 +1,1 @@
+{"id":"602b9e94903f2b848dc6c7204e7e6c70","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes POST /api/v1/portal-config/:parentLabId/forms/ai-refine returns 503 when Anthropic not configured","name":"returns 503 when Anthropic not configured","status":"passed","testResultsByEnv":{"default":"948cbda2841c2c3e4d499f05af242b7f"}}

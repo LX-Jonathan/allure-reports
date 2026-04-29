@@ -1,0 +1,1 @@
+{"id":"a5cda3dab441a9ca40d52ec86ba714aa","fullName":"server/lib/__tests__/auth.test.ts#auth generateAccessToken should handle missing role object","name":"should handle missing role object","status":"passed","testResultsByEnv":{"default":"e365d2abf3afc3aaf8c4097e5f3130e3"}}

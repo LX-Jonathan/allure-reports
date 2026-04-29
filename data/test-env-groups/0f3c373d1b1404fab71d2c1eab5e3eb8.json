@@ -1,0 +1,1 @@
+{"id":"0f3c373d1b1404fab71d2c1eab5e3eb8","fullName":"server/middleware/__tests__/patientAuth.test.ts#requireClinicalMfa returns 401 when patientUser is missing","name":"returns 401 when patientUser is missing","status":"passed","testResultsByEnv":{"default":"e79c70bf45a804e3eecf965e619b867c"}}

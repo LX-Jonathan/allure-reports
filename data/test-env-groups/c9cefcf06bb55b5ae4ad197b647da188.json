@@ -1,0 +1,1 @@
+{"id":"c9cefcf06bb55b5ae4ad197b647da188","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord procedures should map procedure entries","name":"should map procedure entries","status":"passed","testResultsByEnv":{"default":"550547f2855b6335cfc88e1f9971ab6d"}}

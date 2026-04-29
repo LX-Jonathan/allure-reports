@@ -1,0 +1,1 @@
+{"id":"d9582d6dd7f5ee8f5630b7b5838fade4","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore get should return null when redis client is not available","name":"should return null when redis client is not available","status":"passed","testResultsByEnv":{"default":"a7a3ec2d657027453fe9c97a97d08943"}}

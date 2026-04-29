@@ -1,0 +1,1 @@
+{"id":"5475342a5db2cf108961a02836bb1367","fullName":"server/middleware/__tests__/rateLimit.test.ts#authRateLimitMiddleware Redis rate limiting should use Redis auth rate limiter when configured","name":"should use Redis auth rate limiter when configured","status":"passed","testResultsByEnv":{"default":"3e8134cd1b9426da001ec81e97e262df"}}

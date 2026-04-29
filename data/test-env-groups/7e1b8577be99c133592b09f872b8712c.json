@@ -1,0 +1,1 @@
+{"id":"7e1b8577be99c133592b09f872b8712c","fullName":"server/services/__tests__/payment-application.test.ts#syncCreditRefundForStripeRefund returns null when payment has no creditAppliedCents (card-only)","name":"returns null when payment has no creditAppliedCents (card-only)","status":"passed","testResultsByEnv":{"default":"815979bf4fc548ba468566d48e4caf2d"}}

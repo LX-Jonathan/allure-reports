@@ -1,0 +1,1 @@
+{"id":"f907babc13ae4456c50b039970ceaceb","fullName":"client/src/components/__tests__/staff-notification-listener.test.tsx#StaffNotificationListener does not subscribe before the socket is authenticated","name":"does not subscribe before the socket is authenticated","status":"passed","testResultsByEnv":{"default":"f80171917384cd2b9f0c40bf83e40b18"}}

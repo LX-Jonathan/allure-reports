@@ -1,0 +1,1 @@
+{"id":"3e9edc9137d5f21b4b9aa3364c315e98","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: invalid_invitation","name":"es: invalid_invitation","status":"passed","testResultsByEnv":{"default":"e2589a5a2a372f753882198b30bc7f7f"}}

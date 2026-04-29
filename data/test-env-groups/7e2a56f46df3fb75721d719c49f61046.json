@@ -1,0 +1,1 @@
+{"id":"7e2a56f46df3fb75721d719c49f61046","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId successfully updates twilio config with new auth token","name":"successfully updates twilio config with new auth token","status":"passed","testResultsByEnv":{"default":"d3cc9ca3dc770c932432a1224348aad8"}}

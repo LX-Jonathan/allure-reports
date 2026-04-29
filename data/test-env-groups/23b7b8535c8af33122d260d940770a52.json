@@ -1,0 +1,1 @@
+{"id":"23b7b8535c8af33122d260d940770a52","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes PATCH /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"1b84b92018b10b1d07ddd99cbe12f76e"}}

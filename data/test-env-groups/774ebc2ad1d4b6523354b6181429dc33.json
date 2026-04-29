@@ -1,0 +1,1 @@
+{"id":"774ebc2ad1d4b6523354b6181429dc33","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should handle insurance with missing optional fields","name":"should handle insurance with missing optional fields","status":"passed","testResultsByEnv":{"default":"5ac5dc68d15f220ae4c8ee1e7eb668f1"}}

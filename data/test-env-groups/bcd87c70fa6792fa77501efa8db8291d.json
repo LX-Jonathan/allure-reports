@@ -1,0 +1,1 @@
+{"id":"bcd87c70fa6792fa77501efa8db8291d","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create returns 403 for non-labxchange user","name":"returns 403 for non-labxchange user","status":"passed","testResultsByEnv":{"default":"76fb4422c7e289b0fafdb741d1deb5e0"}}

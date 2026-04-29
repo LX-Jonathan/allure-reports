@@ -1,0 +1,1 @@
+{"id":"c1e6acc5e5a36727115443f8ee666b86","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should return 403 when tokens do not match","name":"should return 403 when tokens do not match","status":"passed","testResultsByEnv":{"default":"a3ece276cf879929ee50815b2ce89715"}}

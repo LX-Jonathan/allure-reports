@@ -1,0 +1,1 @@
+{"id":"9e257570e70a8b5e112c69ac9cc562af","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUsersByRole should return empty when role not found","name":"should return empty when role not found","status":"passed","testResultsByEnv":{"default":"915e4915d2ef6569fa98bee2b1ccb8d0"}}

@@ -1,0 +1,1 @@
+{"id":"d81d530b6a6cbcaa947722cd84e991e1","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/insurance/:insuranceId returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"5b47254eacaac949731157dd6ea0683c"}}

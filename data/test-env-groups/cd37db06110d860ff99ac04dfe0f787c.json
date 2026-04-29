@@ -1,0 +1,1 @@
+{"id":"cd37db06110d860ff99ac04dfe0f787c","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/products (Staff Portal - Product List) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"6dd2a712cc36cc32dc6cdabe305a9af0"}}

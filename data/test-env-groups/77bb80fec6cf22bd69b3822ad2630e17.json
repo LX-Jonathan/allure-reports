@@ -1,0 +1,1 @@
+{"id":"77bb80fec6cf22bd69b3822ad2630e17","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/medical-necessity returns 403 when forbidden by location level","name":"returns 403 when forbidden by location level","status":"passed","testResultsByEnv":{"default":"634ff1f36f532c084db0aa35640783f2"}}

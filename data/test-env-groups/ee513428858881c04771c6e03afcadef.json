@@ -1,0 +1,1 @@
+{"id":"ee513428858881c04771c6e03afcadef","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return profitability data with valid year","name":"should return profitability data with valid year","status":"passed","testResultsByEnv":{"default":"71a3ce8c01e85bbb7616edd525ae9626"}}

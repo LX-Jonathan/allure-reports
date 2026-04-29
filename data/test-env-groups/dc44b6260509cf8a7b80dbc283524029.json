@@ -1,0 +1,1 @@
+{"id":"dc44b6260509cf8a7b80dbc283524029","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware identifier extraction should use x-forwarded-for header when present","name":"should use x-forwarded-for header when present","status":"passed","testResultsByEnv":{"default":"45aae046cc78336488bae9d7c5478fbb"}}

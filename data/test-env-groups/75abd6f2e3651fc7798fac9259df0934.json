@@ -1,0 +1,1 @@
+{"id":"75abd6f2e3651fc7798fac9259df0934","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes POST /api/v1/lab-tests/import/:id/confirm returns 202 on successful import confirmation","name":"returns 202 on successful import confirmation","status":"passed","testResultsByEnv":{"default":"b1a36f574456ba618997d47b5b1ac84c"}}

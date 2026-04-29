@@ -1,0 +1,1 @@
+{"id":"754a76217f0ecece53268243b91cb7ea","fullName":"server/lib/__tests__/email.test.ts#email sendExportOtpCode sends export OTP email with code in subject","name":"sends export OTP email with code in subject","status":"passed","testResultsByEnv":{"default":"0cbf81f57ea179e8904d4a9f721113ab"}}

@@ -1,0 +1,1 @@
+{"id":"24e74f308ae2659a74f8085bf336f111","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id handles deletedAt field","name":"handles deletedAt field","status":"passed","testResultsByEnv":{"default":"6e2e2c1fef4df12192ff1990b5325778"}}

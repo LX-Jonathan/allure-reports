@@ -1,0 +1,1 @@
+{"id":"3b072d7b8d2ac24cf9e3c35776abf2c0","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should return 201 when creating message successfully","name":"should return 201 when creating message successfully","status":"passed","testResultsByEnv":{"default":"8b104e21a2315928d2d13ed994bdfe50"}}

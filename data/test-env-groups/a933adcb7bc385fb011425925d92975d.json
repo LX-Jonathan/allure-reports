@@ -1,0 +1,1 @@
+{"id":"a933adcb7bc385fb011425925d92975d","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for UNION injection attempt","name":"should throw error for UNION injection attempt","status":"passed","testResultsByEnv":{"default":"adf6d2858cef83ec534fc031b465f0a2"}}

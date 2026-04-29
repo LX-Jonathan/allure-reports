@@ -1,0 +1,1 @@
+{"id":"a19d9085b9e2c4d759f66f1f8602e6a4","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Lab Results createLabResult encrypts patientDob when provided","name":"encrypts patientDob when provided","status":"passed","testResultsByEnv":{"default":"f258520799e53ebe9023867c210813b2"}}

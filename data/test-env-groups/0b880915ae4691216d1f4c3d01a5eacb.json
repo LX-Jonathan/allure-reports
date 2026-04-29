@@ -1,0 +1,1 @@
+{"id":"0b880915ae4691216d1f4c3d01a5eacb","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/export/:queueType should export results queue as CSV (200)","name":"should export results queue as CSV (200)","status":"passed","testResultsByEnv":{"default":"c5c9471292381fca4cf291e6aadd444e"}}

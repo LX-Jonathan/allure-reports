@@ -1,0 +1,1 @@
+{"id":"46b2072785b99a455962a4c97f0ba103","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/confirm-upload returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"28631e99344c7ba8a91aee47355e44a6"}}

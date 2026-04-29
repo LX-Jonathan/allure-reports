@@ -1,0 +1,1 @@
+{"id":"4221c7cb828f38dac771e59d730cebc9","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab shows N/A for null user agent","name":"shows N/A for null user agent","status":"passed","testResultsByEnv":{"default":"417c021c8d2cd39866baf1b63e75720b"}}

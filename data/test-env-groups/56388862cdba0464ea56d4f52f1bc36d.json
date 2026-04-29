@@ -1,0 +1,1 @@
+{"id":"56388862cdba0464ea56d4f52f1bc36d","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"6a82c3c4ce25328e7ce003cf3b716cb8"}}

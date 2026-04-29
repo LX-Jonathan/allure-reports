@@ -1,0 +1,1 @@
+{"id":"4bfd212bd22556097ec2b574d05c1ed3","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should map 'medicare' to 'I'","name":"should map 'medicare' to 'I'","status":"passed","testResultsByEnv":{"default":"b4b19250c355c2d364bc2b71d78b11de"}}

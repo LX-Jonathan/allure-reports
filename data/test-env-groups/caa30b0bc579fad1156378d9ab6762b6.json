@@ -1,0 +1,1 @@
+{"id":"caa30b0bc579fad1156378d9ab6762b6","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviders should return providers and total count","name":"should return providers and total count","status":"passed","testResultsByEnv":{"default":"52e7bcddd29ae60a72369f6d8a91b1e2"}}

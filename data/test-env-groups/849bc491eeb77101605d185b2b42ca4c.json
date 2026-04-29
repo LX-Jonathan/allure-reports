@@ -1,0 +1,1 @@
+{"id":"849bc491eeb77101605d185b2b42ca4c","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireOrg should handle regular role without org admin privileges","name":"should handle regular role without org admin privileges","status":"passed","testResultsByEnv":{"default":"de8929e6aed30ce44128721f23b0f4d3"}}

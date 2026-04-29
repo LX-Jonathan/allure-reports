@@ -1,0 +1,1 @@
+{"id":"8bb7cf48f4d74134d9ddc5b492fda65c","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /locations/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"5c1c10bda5ac65ef37bb125f2549e63d"}}

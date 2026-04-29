@@ -1,0 +1,1 @@
+{"id":"7514419d4b301f26b116032d8f1f0aa1","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 400 when body is empty","name":"returns 400 when body is empty","status":"passed","testResultsByEnv":{"default":"1d568750f2a63b9f302e57d8ddafa9d4"}}

@@ -1,0 +1,1 @@
+{"id":"1617fa2f6f58572c4971c23bf615ff66","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService generateABNPdf branding produces a non-empty PDF with colors-only branding (no logo)","name":"produces a non-empty PDF with colors-only branding (no logo)","status":"passed","testResultsByEnv":{"default":"b45ae73ac3e1a7c82e88b8a94cc30bae"}}

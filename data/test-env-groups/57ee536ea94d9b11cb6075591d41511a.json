@@ -1,0 +1,1 @@
+{"id":"57ee536ea94d9b11cb6075591d41511a","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware skip paths should skip /static paths","name":"should skip /static paths","status":"passed","testResultsByEnv":{"default":"2bc968c42255bc015372cda868558d56"}}

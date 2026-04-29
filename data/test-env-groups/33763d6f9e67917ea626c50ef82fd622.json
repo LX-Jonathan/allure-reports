@@ -1,0 +1,1 @@
+{"id":"33763d6f9e67917ea626c50ef82fd622","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/schedules/:scheduleId returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"55c91154bc0c9e6e73582c28d924766b"}}

@@ -1,0 +1,1 @@
+{"id":"9c3764eff3fe1d711674a27109c52e6c","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link-usage returns 400 when body is invalid","name":"returns 400 when body is invalid","status":"passed","testResultsByEnv":{"default":"6f58d6a416e7038f616c173f6db0f764"}}

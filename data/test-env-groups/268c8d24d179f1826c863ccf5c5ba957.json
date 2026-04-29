@@ -1,0 +1,1 @@
+{"id":"268c8d24d179f1826c863ccf5c5ba957","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"c0630b8748e0fb6d20ed76478ccf4de3"}}

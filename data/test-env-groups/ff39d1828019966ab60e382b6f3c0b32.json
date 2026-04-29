@@ -1,0 +1,1 @@
+{"id":"ff39d1828019966ab60e382b6f3c0b32","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner retry-init button re-initializes on generic error","name":"retry-init button re-initializes on generic error","status":"passed","testResultsByEnv":{"default":"2a086d4821be78b18979a442d244fafc"}}

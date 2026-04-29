@@ -1,0 +1,1 @@
+{"id":"c5eb31d8f8a0eda2de1e7857214f241d","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes POST /invoices/generate returns 201 with tiered pricing and verifies tier calculation","name":"returns 201 with tiered pricing and verifies tier calculation","status":"passed","testResultsByEnv":{"default":"b59400da1e99082f3f9d8932d6931c9f"}}

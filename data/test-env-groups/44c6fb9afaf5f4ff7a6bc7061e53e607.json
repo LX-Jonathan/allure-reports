@@ -1,0 +1,1 @@
+{"id":"44c6fb9afaf5f4ff7a6bc7061e53e607","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/load-cms returns 400 when no tenant context","name":"returns 400 when no tenant context","status":"passed","testResultsByEnv":{"default":"8f4bd50e4340daa27f4346298d363cd9"}}

@@ -1,0 +1,1 @@
+{"id":"9aeff4dad42114efbdfd7dd0cda81f8a","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should throw error when JSON parsing fails","name":"should throw error when JSON parsing fails","status":"passed","testResultsByEnv":{"default":"9fc629828c7e1dc63b06a484ab706868"}}

@@ -1,0 +1,1 @@
+{"id":"672b95a11f75fac6c4db42e9151197ee","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync updateClaimResolution should return false when Redis is not configured","name":"should return false when Redis is not configured","status":"passed","testResultsByEnv":{"default":"420064fc84a232221ad360e5a219a0e8"}}

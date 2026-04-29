@@ -1,0 +1,1 @@
+{"id":"f364fea5bf70df7a37151f1f7b09b754","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog confirm button calls onComplete and closes dialog","name":"confirm button calls onComplete and closes dialog","status":"passed","testResultsByEnv":{"default":"32d2e340991367b5c4522c4fa46d61ed"}}

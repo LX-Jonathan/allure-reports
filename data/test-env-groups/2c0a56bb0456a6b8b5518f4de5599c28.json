@@ -1,0 +1,1 @@
+{"id":"2c0a56bb0456a6b8b5518f4de5599c28","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob successful processing should return success result with all extracted data","name":"should return success result with all extracted data","status":"passed","testResultsByEnv":{"default":"1eb7f6d448e7101fff28234a5b96a593"}}

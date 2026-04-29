@@ -1,0 +1,1 @@
+{"id":"c05f90319e9037bfb72ed66b18482e54","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"61ef2709f12d1bcc2231be09222f9f35"}}

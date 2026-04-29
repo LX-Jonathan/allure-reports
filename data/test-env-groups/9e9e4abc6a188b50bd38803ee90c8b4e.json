@@ -1,0 +1,1 @@
+{"id":"9e9e4abc6a188b50bd38803ee90c8b4e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite skips auto-invite when email belongs to existing staff account","name":"skips auto-invite when email belongs to existing staff account","status":"passed","testResultsByEnv":{"default":"a36bd786936b65a82f25d9927091c6ac"}}

@@ -1,0 +1,1 @@
+{"id":"7efcf6d4be660901727a1b1df0046748","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processLocationRow should default locationType to draw_station for invalid types","name":"should default locationType to draw_station for invalid types","status":"passed","testResultsByEnv":{"default":"ca007d8f5d4a62241dadb596fd708097"}}

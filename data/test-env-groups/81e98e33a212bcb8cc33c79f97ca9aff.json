@@ -1,0 +1,1 @@
+{"id":"81e98e33a212bcb8cc33c79f97ca9aff","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard empty / loading states renders the error state when the query fails","name":"renders the error state when the query fails","status":"passed","testResultsByEnv":{"default":"338fb9bda4e94fd86e28e954d2bce81f"}}

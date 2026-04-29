@@ -1,0 +1,1 @@
+{"id":"401fcfbd6dbf717238615ee8e4293fe6","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/insurance returns 403 when organization access denied","name":"returns 403 when organization access denied","status":"passed","testResultsByEnv":{"default":"bfeb2a66dae0dc3d94af46d6dc27fdfa"}}

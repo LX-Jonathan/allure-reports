@@ -1,0 +1,1 @@
+{"id":"6a3f02cdb6a1aaef75fbd39dba272aae","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions getPermissionsByRole should return empty array when role has no permissions","name":"should return empty array when role has no permissions","status":"passed","testResultsByEnv":{"default":"dfb375358deb7c0e4e7b5b43089558e5"}}

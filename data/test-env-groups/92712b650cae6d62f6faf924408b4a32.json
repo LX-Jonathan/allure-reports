@@ -1,0 +1,1 @@
+{"id":"92712b650cae6d62f6faf924408b4a32","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector clicking All org resets org selection to null","name":"clicking All org resets org selection to null","status":"passed","testResultsByEnv":{"default":"bd5d985be43058e60e7c946005bfa353"}}

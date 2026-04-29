@@ -1,0 +1,1 @@
+{"id":"9163e3774a0acf35218b1fb70ed48db2","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/import/:id/status returns 403 when non-super_admin accesses different lab import","name":"returns 403 when non-super_admin accesses different lab import","status":"passed","testResultsByEnv":{"default":"d33e1dae39c50b33b3c23d39ad678e82"}}

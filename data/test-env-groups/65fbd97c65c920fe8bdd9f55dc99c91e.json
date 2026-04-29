@@ -1,0 +1,1 @@
+{"id":"65fbd97c65c920fe8bdd9f55dc99c91e","fullName":"server/routes/__tests__/audit.routes.test.ts#Audit Routes GET /api/v1/audit-logs returns 403 for org_admin role","name":"returns 403 for org_admin role","status":"passed","testResultsByEnv":{"default":"adcb79a943ed911f5c2b9e287dc43d5c"}}

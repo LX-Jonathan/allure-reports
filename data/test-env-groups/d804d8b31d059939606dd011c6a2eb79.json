@@ -1,0 +1,1 @@
+{"id":"d804d8b31d059939606dd011c6a2eb79","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService analyzeMedicalNecessity should use testCode when cptCode is not provided","name":"should use testCode when cptCode is not provided","status":"passed","testResultsByEnv":{"default":"db72f3ed3075a5ae0ba11be3029d11d1"}}

@@ -1,0 +1,1 @@
+{"id":"66e9876d4efce89cf03429149d85b1e6","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner retry-connection button re-initializes on service_not_installed error","name":"retry-connection button re-initializes on service_not_installed error","status":"passed","testResultsByEnv":{"default":"1148f2d7441f04bcd43feec8169b44d5"}}

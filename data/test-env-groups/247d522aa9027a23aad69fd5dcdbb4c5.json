@@ -1,0 +1,1 @@
+{"id":"247d522aa9027a23aad69fd5dcdbb4c5","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/fee-schedule-prices returns empty prices when order has no insurance","name":"returns empty prices when order has no insurance","status":"passed","testResultsByEnv":{"default":"5968f2b2ae913db47d9a9cd20af23433"}}

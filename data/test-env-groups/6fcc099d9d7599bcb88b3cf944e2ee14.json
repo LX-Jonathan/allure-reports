@@ -1,0 +1,1 @@
+{"id":"6fcc099d9d7599bcb88b3cf944e2ee14","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/portal-summary edge cases scopes to locations for location_admin","name":"scopes to locations for location_admin","status":"passed","testResultsByEnv":{"default":"255994235ad65d2112b375daef56f8bd"}}

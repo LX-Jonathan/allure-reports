@@ -1,0 +1,1 @@
+{"id":"6db5916556a4e9d0e609b3c125b2b393","fullName":"client/src/lib/__tests__/authUtils.test.ts#formatTimeAgo returns 'Just now' for times less than 60 seconds ago","name":"returns 'Just now' for times less than 60 seconds ago","status":"passed","testResultsByEnv":{"default":"4031caef0236c94477b803db00e3670a"}}

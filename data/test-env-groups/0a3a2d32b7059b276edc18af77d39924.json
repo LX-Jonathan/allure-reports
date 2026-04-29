@@ -1,0 +1,1 @@
+{"id":"0a3a2d32b7059b276edc18af77d39924","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue checkEmailConsent should return false when channelEmail is false","name":"should return false when channelEmail is false","status":"passed","testResultsByEnv":{"default":"fe6ee766163fb2f8199af8452d0b9853"}}

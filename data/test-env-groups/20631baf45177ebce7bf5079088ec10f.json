@@ -1,0 +1,1 @@
+{"id":"20631baf45177ebce7bf5079088ec10f","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should add to dead letter queue for non-retryable errors","name":"should add to dead letter queue for non-retryable errors","status":"passed","testResultsByEnv":{"default":"83d85044e34cbbfbdeb29939604aa535"}}

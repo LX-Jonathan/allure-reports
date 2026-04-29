@@ -1,0 +1,1 @@
+{"id":"d64fe90792dc5b0297da22b8f007ff77","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules/:id/events returns 400 for invalid event data","name":"returns 400 for invalid event data","status":"passed","testResultsByEnv":{"default":"bb90312569d2a728567c3d4947f85380"}}

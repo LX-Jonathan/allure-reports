@@ -1,0 +1,1 @@
+{"id":"4edacae8371682e241d47129e3fb103e","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should validate parentId exists","name":"should validate parentId exists","status":"passed","testResultsByEnv":{"default":"86f8eaa075dfc79aa6a98bc2f342e4ff"}}

@@ -1,0 +1,1 @@
+{"id":"f91f1d47d290dfb576abd53cbdf04ca0","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders returns 400 on validation error when items missing","name":"returns 400 on validation error when items missing","status":"passed","testResultsByEnv":{"default":"8db6e524062663db9dbd2577007852d9"}}

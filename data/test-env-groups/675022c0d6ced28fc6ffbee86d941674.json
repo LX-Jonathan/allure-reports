@@ -1,0 +1,1 @@
+{"id":"675022c0d6ced28fc6ffbee86d941674","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"35eccdccbe3f9ff246f1f4627eef88bb"}}

@@ -1,0 +1,1 @@
+{"id":"1254640d21feb37169167abdc5f7335b","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should call next when tokens match","name":"should call next when tokens match","status":"passed","testResultsByEnv":{"default":"bdacf156e41ef18151fc0e4d694e6940"}}

@@ -1,0 +1,1 @@
+{"id":"3a0f462b0ff065ad261305403e8cdc87","fullName":"client/src/hooks/__tests__/use-recipient-email-suggestions.test.ts#useRecipientEmailSuggestions caps the persisted list at 5 entries","name":"caps the persisted list at 5 entries","status":"passed","testResultsByEnv":{"default":"df74d8cd42a9742999e9e056a52ebad3"}}

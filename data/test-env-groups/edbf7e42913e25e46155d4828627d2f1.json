@@ -1,0 +1,1 @@
+{"id":"edbf7e42913e25e46155d4828627d2f1","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should return 403 for non-staff non-owner","name":"should return 403 for non-staff non-owner","status":"passed","testResultsByEnv":{"default":"2f813ceaf5323d2de9b457ee3fef048c"}}

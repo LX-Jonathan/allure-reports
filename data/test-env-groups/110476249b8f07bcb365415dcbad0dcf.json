@@ -1,0 +1,1 @@
+{"id":"110476249b8f07bcb365415dcbad0dcf","fullName":"server/services/__tests__/index.test.ts#services/index barrel file integrity should re-export all expected services without errors","name":"should re-export all expected services without errors","status":"passed","testResultsByEnv":{"default":"624af2dc8e6e77c3ac8b2155a83efaed"}}

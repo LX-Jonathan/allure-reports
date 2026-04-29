@@ -1,0 +1,1 @@
+{"id":"8def5daf2c6009135747e1c3eb2d7338","fullName":"server/services/__tests__/readinessEvaluator.test.ts#calculateReadinessScore floors at 0 and never goes negative","name":"floors at 0 and never goes negative","status":"passed","testResultsByEnv":{"default":"02120090c1dcaf08142bfbbbc5a614b4"}}

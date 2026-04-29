@@ -1,0 +1,1 @@
+{"id":"6f20f4d122f3fc6e5bc8f8ef4e726df1","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes GET /api/v1/auth/invites/:code returns 200 with invite details","name":"returns 200 with invite details","status":"passed","testResultsByEnv":{"default":"7b48332afbf2db50ef7562703e5d0675"}}

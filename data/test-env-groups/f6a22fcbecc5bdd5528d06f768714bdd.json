@@ -1,0 +1,1 @@
+{"id":"f6a22fcbecc5bdd5528d06f768714bdd","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"ee4e506744bc6e16bf59dad39920b0f0"}}

@@ -1,0 +1,1 @@
+{"id":"048c4c7839b14159085d0584cdf158be","fullName":"server/__tests__/static.test.ts#serveStatic SPA fallback route should resolve index.html path correctly","name":"should resolve index.html path correctly","status":"passed","testResultsByEnv":{"default":"58e5ef2bc1603734878f66d551c05983"}}

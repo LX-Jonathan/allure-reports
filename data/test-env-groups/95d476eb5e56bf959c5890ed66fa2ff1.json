@@ -1,0 +1,1 @@
+{"id":"95d476eb5e56bf959c5890ed66fa2ff1","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest includes auth header when token is stored","name":"includes auth header when token is stored","status":"passed","testResultsByEnv":{"default":"a051dd2be57a302cb477cc4763d56d0b"}}

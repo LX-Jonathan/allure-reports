@@ -1,0 +1,1 @@
+{"id":"728785162bc0178876b6af147de6fc39","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker event handlers should handle null job in failed event handler","name":"should handle null job in failed event handler","status":"passed","testResultsByEnv":{"default":"4c6f7a59e46e502a817720f1bb6ed99f"}}

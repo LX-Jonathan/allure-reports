@@ -1,0 +1,1 @@
+{"id":"8e16f2933380a74ddbfa32c54628ff88","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserById should return user with role when found","name":"should return user with role when found","status":"passed","testResultsByEnv":{"default":"9748418e9a0705aa0c6b8f3a6d4eba63"}}

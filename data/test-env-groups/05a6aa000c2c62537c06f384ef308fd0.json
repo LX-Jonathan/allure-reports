@@ -1,0 +1,1 @@
+{"id":"05a6aa000c2c62537c06f384ef308fd0","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should use dev key when PHI_ENCRYPTION_KEY is not set","name":"should use dev key when PHI_ENCRYPTION_KEY is not set","status":"passed","testResultsByEnv":{"default":"9a9ebac439b8201e5533858e47974f86"}}

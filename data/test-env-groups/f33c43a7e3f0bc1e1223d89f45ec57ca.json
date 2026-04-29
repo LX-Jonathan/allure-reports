@@ -1,0 +1,1 @@
+{"id":"f33c43a7e3f0bc1e1223d89f45ec57ca","fullName":"client/src/lib/__tests__/proxy-audit.test.ts#getProxyInviteSendNumber returns null for unrelated actions even when sendCount is present","name":"returns null for unrelated actions even when sendCount is present","status":"passed","testResultsByEnv":{"default":"4b8d21fd067d015a649e62b05151f874"}}

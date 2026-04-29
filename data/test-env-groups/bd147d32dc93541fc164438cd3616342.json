@@ -1,0 +1,1 @@
+{"id":"bd147d32dc93541fc164438cd3616342","fullName":"server/lib/__tests__/auth.test.ts#auth hasPermission should return false for unknown role","name":"should return false for unknown role","status":"passed","testResultsByEnv":{"default":"9057cc1ccd77c3a2b9c01297636a579a"}}

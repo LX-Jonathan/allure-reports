@@ -1,0 +1,1 @@
+{"id":"6e156719864640211d3947bb73544fbf","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId/portal-link-destinations returns 500 when getEligibleDestinations throws","name":"returns 500 when getEligibleDestinations throws","status":"passed","testResultsByEnv":{"default":"881dd6deeb8f0cf174aabff46a9d5a36"}}

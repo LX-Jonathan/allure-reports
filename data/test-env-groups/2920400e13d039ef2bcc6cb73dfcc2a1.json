@@ -1,0 +1,1 @@
+{"id":"2920400e13d039ef2bcc6cb73dfcc2a1","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/draws-summary returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"bb2d0d62e7ad9f357c50b332dfa74161"}}

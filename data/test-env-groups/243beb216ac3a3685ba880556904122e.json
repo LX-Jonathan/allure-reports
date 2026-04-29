@@ -1,0 +1,1 @@
+{"id":"243beb216ac3a3685ba880556904122e","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#getBindingKeysFromScanTemplate excludes fields with useInDataEntry === false","name":"excludes fields with useInDataEntry === false","status":"passed","testResultsByEnv":{"default":"f479770577eb669d17a8ca298f9b691e"}}

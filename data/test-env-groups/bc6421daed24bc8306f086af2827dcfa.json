@@ -1,0 +1,1 @@
+{"id":"bc6421daed24bc8306f086af2827dcfa","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts PATCH /chart-of-accounts/:id returns 404 when account not found","name":"returns 404 when account not found","status":"passed","testResultsByEnv":{"default":"2a460b93a195cd16ca778babf614ca39"}}

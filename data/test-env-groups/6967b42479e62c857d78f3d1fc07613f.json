@@ -1,0 +1,1 @@
+{"id":"6967b42479e62c857d78f3d1fc07613f","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/generate-mappings returns 400 when no extracted data","name":"returns 400 when no extracted data","status":"passed","testResultsByEnv":{"default":"c24dcc13327c4f2dd3a6ffb5ed2c975e"}}

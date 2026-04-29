@@ -1,0 +1,1 @@
+{"id":"09eb371c3d615446e8cbf761c867063e","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findManyPaginated should return paginated result with default options","name":"should return paginated result with default options","status":"passed","testResultsByEnv":{"default":"590c46591e6c010851ea2185514c553b"}}

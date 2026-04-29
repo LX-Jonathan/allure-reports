@@ -1,0 +1,1 @@
+{"id":"5d00c0a358afb8afedd1011339c35af3","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/export returns file for sync export when forced","name":"returns file for sync export when forced","status":"passed","testResultsByEnv":{"default":"f758eb19831544f8d65b977c34db3e9f"}}

@@ -1,0 +1,1 @@
+{"id":"a6198ce5c21fe8e4be25656a1502d664","fullName":"client/src/hooks/__tests__/use-mobile.test.tsx#useIsMobileOrTablet returns true when window width is < 1024","name":"returns true when window width is < 1024","status":"passed","testResultsByEnv":{"default":"31afa31ee0d8c7189558f881bcfa4ad3"}}

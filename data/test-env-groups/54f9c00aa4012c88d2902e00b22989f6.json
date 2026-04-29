@@ -1,0 +1,1 @@
+{"id":"54f9c00aa4012c88d2902e00b22989f6","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord allergies should use manifestation text as fallback","name":"should use manifestation text as fallback","status":"passed","testResultsByEnv":{"default":"17dc087cfbc404405388423c7eaee08d"}}

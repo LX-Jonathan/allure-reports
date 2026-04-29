@@ -1,0 +1,1 @@
+{"id":"6a610fff23967d01c9fa1c9b403fe8bc","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) POST / returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"08b46728f2efbab03de014d4afb1abdf"}}

@@ -1,0 +1,1 @@
+{"id":"0906467ce59f6ab24cd406ac33e2d341","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended getPatientPortalInvitationsByPatient returns empty array when no invitations","name":"returns empty array when no invitations","status":"passed","testResultsByEnv":{"default":"978754e30eb4f3f878d92e7da753d656"}}

@@ -1,0 +1,1 @@
+{"id":"ce6cdec496dd8458d84de169a1946b35","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id/status returns 404 when user not found","name":"returns 404 when user not found","status":"passed","testResultsByEnv":{"default":"d6026c61edd4ab5a2325e15d6a24aa06"}}

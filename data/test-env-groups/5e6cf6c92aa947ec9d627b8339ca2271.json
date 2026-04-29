@@ -1,0 +1,1 @@
+{"id":"5e6cf6c92aa947ec9d627b8339ca2271","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings observationToResult parses valueCodeableConcept","name":"parses valueCodeableConcept","status":"passed","testResultsByEnv":{"default":"aae8c015e0fd9a82fa63e5787063efd2"}}

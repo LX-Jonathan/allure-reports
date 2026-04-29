@@ -1,0 +1,1 @@
+{"id":"e70e79c7679916eda917816a19300ce8","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes PATCH /api/v1/flu-shots/:id returns 200 and strips protected fields from update","name":"returns 200 and strips protected fields from update","status":"passed","testResultsByEnv":{"default":"81017761b25399464e0424f54cc3f37f"}}

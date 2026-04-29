@@ -1,0 +1,1 @@
+{"id":"1be22eb6a567a434499ddc3de167112b","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 200 when unarchiving conversation","name":"returns 200 when unarchiving conversation","status":"passed","testResultsByEnv":{"default":"a6d2c8a5fa4c5ff16bb66baf6f9398c3"}}

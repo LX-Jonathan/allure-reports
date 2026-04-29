@@ -1,0 +1,1 @@
+{"id":"c38dc3f15a3e9039f1aa2a811d185858","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireRole should allow any of multiple roles","name":"should allow any of multiple roles","status":"passed","testResultsByEnv":{"default":"438acb463e70d6bacba70e88fe48e3e3"}}

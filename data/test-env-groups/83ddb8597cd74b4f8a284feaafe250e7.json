@@ -1,0 +1,1 @@
+{"id":"83ddb8597cd74b4f8a284feaafe250e7","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should use default confidence of 0.5 when not provided","name":"should use default confidence of 0.5 when not provided","status":"passed","testResultsByEnv":{"default":"da3fcaf88e04b252e423d149e730d5d9"}}

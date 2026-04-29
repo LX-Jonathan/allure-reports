@@ -1,0 +1,1 @@
+{"id":"2188d949b71d626e6c5767f27407a703","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/activate (Patient Portal - Activate Kit) returns 400 when kit cannot be activated in current status","name":"returns 400 when kit cannot be activated in current status","status":"passed","testResultsByEnv":{"default":"a2b5a77c335b7b262a284048b0cda3b9"}}

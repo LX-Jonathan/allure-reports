@@ -1,0 +1,1 @@
+{"id":"a50fb1c2b24020ef243403cb9cf72b81","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes POST / returns 400 for empty name","name":"returns 400 for empty name","status":"passed","testResultsByEnv":{"default":"b91732557001d580d791f0891f091698"}}

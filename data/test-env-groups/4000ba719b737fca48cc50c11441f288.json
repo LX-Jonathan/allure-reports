@@ -1,0 +1,1 @@
+{"id":"4000ba719b737fca48cc50c11441f288","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts verifyPatientAccessToken should return payload for valid token","name":"should return payload for valid token","status":"passed","testResultsByEnv":{"default":"bc72bfc7a91be9e056f371c9af2cad23"}}

@@ -1,0 +1,1 @@
+{"id":"d771d95719887ccd01ac9d0d5f88e724","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items returns 400 for invalid itemType","name":"returns 400 for invalid itemType","status":"passed","testResultsByEnv":{"default":"aabcc95874d1830b2f24ea3f592c93a7"}}

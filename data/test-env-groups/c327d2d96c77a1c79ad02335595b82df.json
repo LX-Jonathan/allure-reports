@@ -1,0 +1,1 @@
+{"id":"c327d2d96c77a1c79ad02335595b82df","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes GET /:parentLabId returns sendgrid config with masked API key","name":"returns sendgrid config with masked API key","status":"passed","testResultsByEnv":{"default":"835d9aab794562dc47e5b579920b7845"}}

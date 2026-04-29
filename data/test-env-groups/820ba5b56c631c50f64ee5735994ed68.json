@@ -1,0 +1,1 @@
+{"id":"820ba5b56c631c50f64ee5735994ed68","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getAvailableYears should parse years as integers","name":"should parse years as integers","status":"passed","testResultsByEnv":{"default":"c3593874edf0ab88398db1360cc4154b"}}

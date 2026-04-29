@@ -1,0 +1,1 @@
+{"id":"8efb1c2cf8a208d8052f6758fa789f42","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id does not record audit changes when copayVarianceThresholds is unchanged","name":"does not record audit changes when copayVarianceThresholds is unchanged","status":"passed","testResultsByEnv":{"default":"424bf4d000c1955f34c483e8e617917d"}}

@@ -1,0 +1,1 @@
+{"id":"bf8e9f64017a5cb035ffe287911045f5","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth - scheduleRefresh schedules delayed refresh when token expires later","name":"schedules delayed refresh when token expires later","status":"passed","testResultsByEnv":{"default":"7065b50cf5a7bae72fcd9df1dd902954"}}

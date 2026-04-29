@@ -1,0 +1,1 @@
+{"id":"5d79835e0c0b0d7150a0fcbe42ca07a0","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir excludes address when not provided","name":"excludes address when not provided","status":"passed","testResultsByEnv":{"default":"60b1add4dfc89775d0c02c2e85677e69"}}

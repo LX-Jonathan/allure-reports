@@ -1,0 +1,1 @@
+{"id":"e002522d343b03cb083ca77defc0bd0a","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/portal-summary returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"28a83271e03ad143b49fd14ba9a4fe4e"}}

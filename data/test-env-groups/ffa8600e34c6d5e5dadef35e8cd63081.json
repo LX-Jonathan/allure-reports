@@ -1,0 +1,1 @@
+{"id":"ffa8600e34c6d5e5dadef35e8cd63081","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService buildTenantFilters should add parentLabId filter when present and table has column","name":"should add parentLabId filter when present and table has column","status":"passed","testResultsByEnv":{"default":"2caf07fc833c0c66ec892004d448ff88"}}

@@ -1,0 +1,1 @@
+{"id":"ef22970516238fc5c15a24ce9b1e5fba","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service createCircuitBreaker should create a circuit breaker with default options","name":"should create a circuit breaker with default options","status":"passed","testResultsByEnv":{"default":"692e92bd9001484915f4752bb6d6351e"}}

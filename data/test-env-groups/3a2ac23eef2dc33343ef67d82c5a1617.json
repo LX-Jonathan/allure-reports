@@ -1,0 +1,1 @@
+{"id":"3a2ac23eef2dc33343ef67d82c5a1617","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware viewer chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"8974f9c1f0798de5be0d974da44b4992"}}

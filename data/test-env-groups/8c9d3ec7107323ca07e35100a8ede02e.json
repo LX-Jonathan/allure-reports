@@ -1,0 +1,1 @@
+{"id":"8c9d3ec7107323ca07e35100a8ede02e","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints PUT /api/v1/lab-tests/:id/image-url returns 400 when imageUrl uses non-http protocol","name":"returns 400 when imageUrl uses non-http protocol","status":"passed","testResultsByEnv":{"default":"23e4b4bc507d8e2252c64ea930a7a6c8"}}

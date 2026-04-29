@@ -1,0 +1,1 @@
+{"id":"628bf721aed6a582aca8db8f7246c006","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt different templates should generate correct prompt for URO/DERM template","name":"should generate correct prompt for URO/DERM template","status":"passed","testResultsByEnv":{"default":"1ded80d58939858df4404c54c351de3f"}}

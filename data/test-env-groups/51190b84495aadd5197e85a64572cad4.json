@@ -1,0 +1,1 @@
+{"id":"51190b84495aadd5197e85a64572cad4","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should return token from valid Bearer header","name":"should return token from valid Bearer header","status":"passed","testResultsByEnv":{"default":"c4db2a405e86750266a62f65dfd93dd2"}}

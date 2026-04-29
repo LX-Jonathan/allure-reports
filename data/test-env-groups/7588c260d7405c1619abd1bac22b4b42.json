@@ -1,0 +1,1 @@
+{"id":"7588c260d7405c1619abd1bac22b4b42","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins getVisitCheckinById returns undefined when not found","name":"returns undefined when not found","status":"passed","testResultsByEnv":{"default":"7d680d70818a22e137b002efd2911290"}}

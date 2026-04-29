@@ -1,0 +1,1 @@
+{"id":"6c25c0f2e22abcd8122109c7c3bfd452","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Dashboard Stats & Order Counts generateOrderNumber uses default prefix when org has no slug","name":"uses default prefix when org has no slug","status":"passed","testResultsByEnv":{"default":"e581d1530dba4d6cd477506421065a62"}}

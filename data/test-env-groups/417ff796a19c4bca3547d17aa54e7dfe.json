@@ -1,0 +1,1 @@
+{"id":"417ff796a19c4bca3547d17aa54e7dfe","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcess should propagate AbortError from non-rate-limit without wrapping","name":"should propagate AbortError from non-rate-limit without wrapping","status":"passed","testResultsByEnv":{"default":"5a821702da5ec10379234566f08709e9"}}

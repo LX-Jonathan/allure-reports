@@ -1,0 +1,1 @@
+{"id":"779ebbb662037cf00fba81901e3a727c","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware skip paths should skip /favicon.ico","name":"should skip /favicon.ico","status":"passed","testResultsByEnv":{"default":"f547c7f912b34278f9b5f232ed6cf096"}}

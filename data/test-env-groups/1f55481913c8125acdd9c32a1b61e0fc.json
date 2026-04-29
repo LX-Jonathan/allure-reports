@@ -1,0 +1,1 @@
+{"id":"1f55481913c8125acdd9c32a1b61e0fc","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth valid token should not send response when token is valid","name":"should not send response when token is valid","status":"passed","testResultsByEnv":{"default":"dbb32ba84db11a6a52e0ba6cd4bad830"}}

@@ -1,0 +1,1 @@
+{"id":"f8891bb7b3e448b839c236e643c2f56c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations removeRolePermission returns false when no matching record (rowCount=0)","name":"returns false when no matching record (rowCount=0)","status":"passed","testResultsByEnv":{"default":"1442177745fa4ca4ebedbfa26988743e"}}

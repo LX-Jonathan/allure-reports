@@ -1,0 +1,1 @@
+{"id":"2c6cc1ca0f669b1cc06888e30c5bc0d2","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/pull-records returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"31e05a497666c1e3e7d8d3d5b4cfc475"}}

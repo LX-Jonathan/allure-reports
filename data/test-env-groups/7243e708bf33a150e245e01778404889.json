@@ -1,0 +1,1 @@
+{"id":"7243e708bf33a150e245e01778404889","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/notify-results returns 400 when no email on file","name":"returns 400 when no email on file","status":"passed","testResultsByEnv":{"default":"22f4425a00163a205c342e9a95249512"}}

@@ -1,0 +1,1 @@
+{"id":"f0c2e4f0fc0a44b1e0102532f510515f","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create-and-link returns 400 for invalid NPI (not 10 digits)","name":"returns 400 for invalid NPI (not 10 digits)","status":"passed","testResultsByEnv":{"default":"aee75bd016a766e80495bd9ab4a86f92"}}

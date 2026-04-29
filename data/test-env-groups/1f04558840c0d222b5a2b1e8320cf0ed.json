@@ -1,0 +1,1 @@
+{"id":"1f04558840c0d222b5a2b1e8320cf0ed","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar hides the AI confidence pill when no insurance scan confidence is available","name":"hides the AI confidence pill when no insurance scan confidence is available","status":"passed","testResultsByEnv":{"default":"a3a786bb8ff9118ba59c05a716de57cc"}}

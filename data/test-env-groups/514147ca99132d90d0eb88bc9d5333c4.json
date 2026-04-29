@@ -1,0 +1,1 @@
+{"id":"514147ca99132d90d0eb88bc9d5333c4","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#useAoeLogicEvaluation block_submission logic rules sets isBlocked when block_submission conditions are met","name":"sets isBlocked when block_submission conditions are met","status":"passed","testResultsByEnv":{"default":"33ecdbc2c89a9a3456ba6a2f0b0e731c"}}

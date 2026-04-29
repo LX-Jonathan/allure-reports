@@ -1,0 +1,1 @@
+{"id":"df43b92d03c715aff7ae953de4bb44a6","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext setter functions exposes setSelectedSuperOrgId","name":"exposes setSelectedSuperOrgId","status":"passed","testResultsByEnv":{"default":"c9784a097235c06280456528b9be901c"}}

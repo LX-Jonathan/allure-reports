@@ -1,0 +1,1 @@
+{"id":"7687bef431776609c0f3446993384d44","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"de87e1e82e221885822b0a7b1b1385e9"}}

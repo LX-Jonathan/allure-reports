@@ -1,0 +1,1 @@
+{"id":"020ce4f48a74fc3698a3275399607bd7","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/manual-result skips patient email when auto-release and notifyPatient is disabled","name":"skips patient email when auto-release and notifyPatient is disabled","status":"passed","testResultsByEnv":{"default":"c484cbf6b98dbe7ae2decba3365475ae"}}

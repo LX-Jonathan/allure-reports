@@ -1,0 +1,1 @@
+{"id":"28fe7cad9daad1bad463e669a7bd6258","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts isStrongPassword should accept password with special characters","name":"should accept password with special characters","status":"passed","testResultsByEnv":{"default":"f47f8865fc73adb0187f691e3c16f1b6"}}

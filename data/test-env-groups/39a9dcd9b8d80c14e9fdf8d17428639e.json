@@ -1,0 +1,1 @@
+{"id":"39a9dcd9b8d80c14e9fdf8d17428639e","fullName":"server/__tests__/bullmq.test.ts#bullmq lib queue getters getBulkScanItemQueue returns a Queue","name":"getBulkScanItemQueue returns a Queue","status":"passed","testResultsByEnv":{"default":"5228d44a4a23d1680c24d392c268b224"}}

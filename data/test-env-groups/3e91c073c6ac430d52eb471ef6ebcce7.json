@@ -1,0 +1,1 @@
+{"id":"3e91c073c6ac430d52eb471ef6ebcce7","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/import should detect missing required columns","name":"should detect missing required columns","status":"passed","testResultsByEnv":{"default":"67f801b9810c85ffe1dc6e11bfc87c53"}}

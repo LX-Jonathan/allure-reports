@@ -1,0 +1,1 @@
+{"id":"a7864b3a0a7f151fc49128fa78104e88","fullName":"server/routes/__tests__/manual-payments-payback.routes.test.ts#Manual Payments — payback endpoint returns 403 when the patient's org is outside the user's scope","name":"returns 403 when the patient's org is outside the user's scope","status":"passed","testResultsByEnv":{"default":"79025f2738db416205877066034b98e0"}}

@@ -1,0 +1,1 @@
+{"id":"6a3da013804f4e2625ef49aade46c9e0","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should skip events with empty text","name":"should skip events with empty text","status":"passed","testResultsByEnv":{"default":"50c1b3ed81549dd7e62d2193c546e52c"}}

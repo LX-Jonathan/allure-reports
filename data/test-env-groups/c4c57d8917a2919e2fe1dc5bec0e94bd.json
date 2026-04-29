@@ -1,0 +1,1 @@
+{"id":"c4c57d8917a2919e2fe1dc5bec0e94bd","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes GET /:parentLabId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"7c90628ce4d907ed81b00f8c4645138a"}}

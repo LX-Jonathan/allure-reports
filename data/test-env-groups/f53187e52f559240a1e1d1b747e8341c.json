@@ -1,0 +1,1 @@
+{"id":"f53187e52f559240a1e1d1b747e8341c","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations broadcasts to the patient's parent lab when a patient sent the invitation","name":"broadcasts to the patient's parent lab when a patient sent the invitation","status":"passed","testResultsByEnv":{"default":"f4576fb2f645dc6de90e405684d085f5"}}

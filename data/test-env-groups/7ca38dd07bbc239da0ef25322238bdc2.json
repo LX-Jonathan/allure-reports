@@ -1,0 +1,1 @@
+{"id":"7ca38dd07bbc239da0ef25322238bdc2","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service fastTemplateMatch cache behavior should update lastUsed on cache hit","name":"should update lastUsed on cache hit","status":"passed","testResultsByEnv":{"default":"583b1f1ad900c18d53056f4cef9ff273"}}

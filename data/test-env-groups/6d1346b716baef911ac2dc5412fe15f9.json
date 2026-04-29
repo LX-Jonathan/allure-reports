@@ -1,0 +1,1 @@
+{"id":"6d1346b716baef911ac2dc5412fe15f9","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient returns 400 when result has no matched patient","name":"returns 400 when result has no matched patient","status":"passed","testResultsByEnv":{"default":"3056389e39d222d782884728c8245e21"}}

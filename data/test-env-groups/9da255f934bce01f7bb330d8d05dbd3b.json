@@ -1,0 +1,1 @@
+{"id":"9da255f934bce01f7bb330d8d05dbd3b","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules is eligible when verifiedList contains EligibilityStatus '1'","name":"is eligible when verifiedList contains EligibilityStatus '1'","status":"passed","testResultsByEnv":{"default":"5c57b3418e589d6eec9cbf2cbdd98899"}}

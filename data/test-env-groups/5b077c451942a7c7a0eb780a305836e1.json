@@ -1,0 +1,1 @@
+{"id":"5b077c451942a7c7a0eb780a305836e1","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueProviderResultsReadyEmail should include provider name with Dr. prefix in content","name":"should include provider name with Dr. prefix in content","status":"passed","testResultsByEnv":{"default":"ff34e2a7fa44a299bc43215f2e2c94af"}}

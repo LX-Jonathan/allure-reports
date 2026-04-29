@@ -1,0 +1,1 @@
+{"id":"ae1f8f2691c950acc07d91fb53fa897e","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases POST /837/ingest returns 403 for location_admin role","name":"POST /837/ingest returns 403 for location_admin role","status":"passed","testResultsByEnv":{"default":"611f24c378ece6c8623392244b36a7e9"}}

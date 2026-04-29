@@ -1,0 +1,1 @@
+{"id":"c9d212e5847cefdbe9f4375133361265","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject UPDATE SQL keyword in filter","name":"should reject UPDATE SQL keyword in filter","status":"passed","testResultsByEnv":{"default":"7a8f5adc423f996dce3500d8a9323a38"}}

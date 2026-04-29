@@ -1,0 +1,1 @@
+{"id":"2fdfb82c2db48b2d8c9d688f2a6854f3","fullName":"server/lib/__tests__/patient-dashboard-summary.test.ts#patient-dashboard-summary getFinancialAssistanceExpirationsForPatientIds returns [] for empty input without querying","name":"returns [] for empty input without querying","status":"passed","testResultsByEnv":{"default":"8d71052818465d9feca192cdab9eaf6d"}}

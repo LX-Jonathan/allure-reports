@@ -1,0 +1,1 @@
+{"id":"77f180cd32f57ce3f39cdab672bc3d2c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Interface Data Issues getInterfaceDataIssue returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"93aa07f3bc8a161d3fba891d331544b6"}}

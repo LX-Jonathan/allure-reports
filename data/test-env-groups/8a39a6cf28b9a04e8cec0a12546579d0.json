@@ -1,0 +1,1 @@
+{"id":"8a39a6cf28b9a04e8cec0a12546579d0","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended POST /api/v1/diagnosis-codes returns 400 when org does not belong to same super org","name":"returns 400 when org does not belong to same super org","status":"passed","testResultsByEnv":{"default":"44fdda3897354ca69fa80911f8c96cec"}}

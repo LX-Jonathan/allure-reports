@@ -1,0 +1,1 @@
+{"id":"8cc7d37d3431819e7c66d2463e1d5428","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /patients/:patientId/hie-records returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"e339cf6d59dd1618890b13b80d75e504"}}

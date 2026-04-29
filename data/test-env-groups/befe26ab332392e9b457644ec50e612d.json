@@ -1,0 +1,1 @@
+{"id":"befe26ab332392e9b457644ec50e612d","fullName":"server/routes/__tests__/manual-payments-refund-credit.routes.test.ts#Manual Payments — refund-credit endpoint rejects refund of a reversal entry (service throws)","name":"rejects refund of a reversal entry (service throws)","status":"passed","testResultsByEnv":{"default":"707206ba250d0bcd73873b430dd91f7c"}}

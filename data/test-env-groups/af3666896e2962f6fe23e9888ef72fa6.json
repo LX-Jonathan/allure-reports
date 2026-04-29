@@ -1,0 +1,1 @@
+{"id":"af3666896e2962f6fe23e9888ef72fa6","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should handle null values in response","name":"should handle null values in response","status":"passed","testResultsByEnv":{"default":"723c40d50547d1a90c6a35b8b5ab7d27"}}

@@ -1,0 +1,1 @@
+{"id":"ac5894341742b1d98cb2f74ec61945e3","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/start redirects on invalid email format (no @)","name":"redirects on invalid email format (no @)","status":"passed","testResultsByEnv":{"default":"3c4db7fcd4f3aa9be5b44537ec0e8aaa"}}

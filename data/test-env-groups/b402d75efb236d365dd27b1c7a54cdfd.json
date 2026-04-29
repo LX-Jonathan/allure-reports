@@ -1,0 +1,1 @@
+{"id":"b402d75efb236d365dd27b1c7a54cdfd","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status (with BullMQ enabled) returns max 50 job IDs validation error","name":"returns max 50 job IDs validation error","status":"passed","testResultsByEnv":{"default":"3982a2bec47063693c1b9092cbada7fb"}}

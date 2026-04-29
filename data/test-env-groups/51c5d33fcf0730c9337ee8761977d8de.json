@@ -1,0 +1,1 @@
+{"id":"51c5d33fcf0730c9337ee8761977d8de","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items updates existing recent item and returns 200","name":"updates existing recent item and returns 200","status":"passed","testResultsByEnv":{"default":"7ac13a50a24347591374c894018f259e"}}

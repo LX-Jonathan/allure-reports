@@ -1,0 +1,1 @@
+{"id":"6c3cd428397e44fffd3416e27e261c7d","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should prefer cookie token over authorization header","name":"should prefer cookie token over authorization header","status":"passed","testResultsByEnv":{"default":"375f6f7dddd008903734752096822e3f"}}

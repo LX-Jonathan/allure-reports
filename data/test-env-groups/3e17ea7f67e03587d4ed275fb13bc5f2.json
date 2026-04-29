@@ -1,0 +1,1 @@
+{"id":"3e17ea7f67e03587d4ed275fb13bc5f2","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should default overallRisk to medium when only warnings exist","name":"should default overallRisk to medium when only warnings exist","status":"passed","testResultsByEnv":{"default":"c0c6dd3e29a51cdffaf967088eaf22b8"}}

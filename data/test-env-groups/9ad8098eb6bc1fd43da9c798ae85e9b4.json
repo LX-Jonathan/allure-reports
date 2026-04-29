@@ -1,0 +1,1 @@
+{"id":"9ad8098eb6bc1fd43da9c798ae85e9b4","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"c819c4ba277055d8f7624b1fbed1f28c"}}

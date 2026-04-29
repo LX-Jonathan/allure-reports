@@ -1,0 +1,1 @@
+{"id":"19206f48d30a2939e8fb4e3483332a20","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id returns 409 when company has lab assignments","name":"returns 409 when company has lab assignments","status":"passed","testResultsByEnv":{"default":"b15a5839d1609b03eb493c03f6669883"}}

@@ -1,0 +1,1 @@
+{"id":"2278fe735f18789026f57132d73218ab","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment handles null default printer data","name":"checkEnvironment handles null default printer data","status":"passed","testResultsByEnv":{"default":"78feffdb8ff236a0fd34309c33a4bc00"}}

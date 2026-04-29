@@ -1,0 +1,1 @@
+{"id":"9f0c429b96c0775184bafc6a1d4e9548","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent 404s when order not found (PAY-1)","name":"404s when order not found (PAY-1)","status":"passed","testResultsByEnv":{"default":"828659bf372184734ff1f5f9691ab261"}}

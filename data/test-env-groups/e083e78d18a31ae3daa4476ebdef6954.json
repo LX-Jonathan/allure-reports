@@ -1,0 +1,1 @@
+{"id":"e083e78d18a31ae3daa4476ebdef6954","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes PUT /api/order-intake/:id/mappings returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"03c056ef86ac3d7690e1881d38660d5d"}}

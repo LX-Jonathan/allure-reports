@@ -1,0 +1,1 @@
+{"id":"339c93ddab599417376fa9dfc2fa518e","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 198.18.0.1 (198.18.x.x benchmark) via IP literal","name":"blocks 198.18.0.1 (198.18.x.x benchmark) via IP literal","status":"passed","testResultsByEnv":{"default":"54b9df8bcfead6ce17ea59a5dd150f54"}}

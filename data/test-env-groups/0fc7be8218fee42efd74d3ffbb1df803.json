@@ -1,0 +1,1 @@
+{"id":"0fc7be8218fee42efd74d3ffbb1df803","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/fee-schedule-prices returns empty prices when no fee schedule matches","name":"returns empty prices when no fee schedule matches","status":"passed","testResultsByEnv":{"default":"bd4ca20661585a5f8fd2460fcc8859aa"}}

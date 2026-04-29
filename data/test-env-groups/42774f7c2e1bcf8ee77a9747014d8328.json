@@ -1,0 +1,1 @@
+{"id":"42774f7c2e1bcf8ee77a9747014d8328","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations returns 403 when non-full-access user cannot access org","name":"returns 403 when non-full-access user cannot access org","status":"passed","testResultsByEnv":{"default":"c2149854783a828cc69b22abe0ee0971"}}

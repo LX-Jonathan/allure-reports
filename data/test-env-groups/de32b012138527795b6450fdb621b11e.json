@@ -1,0 +1,1 @@
+{"id":"de32b012138527795b6450fdb621b11e","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Generic Reports via /reports/:reportName returns 200 for report \"claim-denials\"","name":"returns 200 for report \"claim-denials\"","status":"passed","testResultsByEnv":{"default":"c10bd492f0b2c5cb7812ecb800243c1c"}}

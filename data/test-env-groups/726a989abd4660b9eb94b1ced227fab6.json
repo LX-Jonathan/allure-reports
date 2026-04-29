@@ -1,0 +1,1 @@
+{"id":"726a989abd4660b9eb94b1ced227fab6","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderCount should return 0 when no results","name":"should return 0 when no results","status":"passed","testResultsByEnv":{"default":"d50bbe20b7415de90cd62e21e5d53ddb"}}

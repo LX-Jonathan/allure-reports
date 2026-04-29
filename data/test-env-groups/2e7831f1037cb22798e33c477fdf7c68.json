@@ -1,0 +1,1 @@
+{"id":"2e7831f1037cb22798e33c477fdf7c68","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 400 on validation error when required fields missing","name":"returns 400 on validation error when required fields missing","status":"passed","testResultsByEnv":{"default":"959c3b9b3083fe4db757959ae613ff8a"}}

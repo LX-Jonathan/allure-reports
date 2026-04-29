@@ -1,0 +1,1 @@
+{"id":"7f38ba1d8719c68a859242f34ae33801","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#MarketplaceFallbackPublishBanner invokes onOpenAiGenerator when the AI link is clicked","name":"invokes onOpenAiGenerator when the AI link is clicked","status":"passed","testResultsByEnv":{"default":"19fa4bc92163f88c921aba96b78bbf3b"}}

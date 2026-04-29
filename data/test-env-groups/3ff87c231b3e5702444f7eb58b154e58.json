@@ -1,0 +1,1 @@
+{"id":"3ff87c231b3e5702444f7eb58b154e58","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 400 when refund exceeds maximum refundable amount","name":"returns 400 when refund exceeds maximum refundable amount","status":"passed","testResultsByEnv":{"default":"070731300ae9a7f25346d9751124b690"}}

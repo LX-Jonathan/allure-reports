@@ -1,0 +1,1 @@
+{"id":"1505cfd62a729557b712c3745d447e8f","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getCategoryById should return category when found","name":"should return category when found","status":"passed","testResultsByEnv":{"default":"488e18d7edce9c177fbce65c20ca6ab5"}}

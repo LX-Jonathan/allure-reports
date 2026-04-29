@@ -1,0 +1,1 @@
+{"id":"e7d5cdc93c7ea8867fc98ce356007d44","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/lookup returns null match when tradingPartnerId is empty","name":"returns null match when tradingPartnerId is empty","status":"passed","testResultsByEnv":{"default":"ad500d6ded68a0a11bcfd164ad344f61"}}

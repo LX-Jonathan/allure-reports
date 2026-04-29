@@ -1,0 +1,1 @@
+{"id":"ef53d5e94795fdea3ce5e6e47ac2ce9f","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id allows org_admin to update","name":"allows org_admin to update","status":"passed","testResultsByEnv":{"default":"dcfd4af3319dad1138f2211ec6c7ef13"}}

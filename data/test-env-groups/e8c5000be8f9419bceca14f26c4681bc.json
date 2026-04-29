@@ -1,0 +1,1 @@
+{"id":"e8c5000be8f9419bceca14f26c4681bc","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService extractTextFromImage should throw error for unsupported mime type","name":"should throw error for unsupported mime type","status":"passed","testResultsByEnv":{"default":"418b149d28914a1351284df7e6e0f3f2"}}

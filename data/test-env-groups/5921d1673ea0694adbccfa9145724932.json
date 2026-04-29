@@ -1,0 +1,1 @@
+{"id":"5921d1673ea0694adbccfa9145724932","fullName":"client/src/pages/dedicated-portal/__tests__/portal-wrapper.test.tsx#DedicatedPortalAuthGuard redirects to login when not impersonating and no token","name":"redirects to login when not impersonating and no token","status":"passed","testResultsByEnv":{"default":"a3ed3248e3768bb2eb47fd44af4a76d6"}}

@@ -1,0 +1,1 @@
+{"id":"2d0ef3fdfdcfbe2eb7e7fe568b377437","fullName":"server/lib/__tests__/auth.test.ts#auth createTokenPair should create access and refresh tokens","name":"should create access and refresh tokens","status":"passed","testResultsByEnv":{"default":"b830c1431f98ade4689ba3d571331e94"}}

@@ -1,0 +1,1 @@
+{"id":"478fc4c6f9f9feb734d210054a813cf8","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should return 404 when ticket not found","name":"should return 404 when ticket not found","status":"passed","testResultsByEnv":{"default":"6052eb8fac9b060e6e6590d9fccc8d5e"}}

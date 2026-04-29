@@ -1,0 +1,1 @@
+{"id":"f5a8820988061733e777d9b6fc889808","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar CheckInEligibilityCoverageSection hides the plan year reset row when payer omits the dates","name":"hides the plan year reset row when payer omits the dates","status":"passed","testResultsByEnv":{"default":"89e2b8cdca25693f47cae926819af886"}}

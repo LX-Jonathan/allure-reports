@@ -1,0 +1,1 @@
+{"id":"ae6bea3468dd67b6840bfe23f6ef1e60","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should require parentId when isParentLab is false","name":"should require parentId when isParentLab is false","status":"passed","testResultsByEnv":{"default":"11d1c483bc472d73a168e217daf9e30e"}}

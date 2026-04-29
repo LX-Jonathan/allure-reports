@@ -1,0 +1,1 @@
+{"id":"64692a91c6dcc8818a6473b91140eac2","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-orders/:id (Patient Portal - Get Order Details) returns 200 with order details","name":"returns 200 with order details","status":"passed","testResultsByEnv":{"default":"c5e2cd37db3ed191d02751f59ce86926"}}

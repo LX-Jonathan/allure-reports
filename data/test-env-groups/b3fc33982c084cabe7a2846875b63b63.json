@@ -1,0 +1,1 @@
+{"id":"b3fc33982c084cabe7a2846875b63b63","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness test data evaluation should set testsOk=true when only warnings exist","name":"should set testsOk=true when only warnings exist","status":"passed","testResultsByEnv":{"default":"29726a801a23c928a588d57a755b8bce"}}

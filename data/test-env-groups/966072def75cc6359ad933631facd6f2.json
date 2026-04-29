@@ -1,0 +1,1 @@
+{"id":"966072def75cc6359ad933631facd6f2","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:id returns 500 when delete fails","name":"returns 500 when delete fails","status":"passed","testResultsByEnv":{"default":"14dcc7e72f744ac627f4ac604f03c7b9"}}

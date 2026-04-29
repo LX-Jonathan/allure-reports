@@ -1,0 +1,1 @@
+{"id":"83e7b1638af0337db77145296ffc5ad8","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/attach-patient returns 200 and attaches patient to result","name":"returns 200 and attaches patient to result","status":"passed","testResultsByEnv":{"default":"94ad1f2e2d914c03f0149a70e3db3850"}}

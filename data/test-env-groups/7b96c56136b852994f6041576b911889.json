@@ -1,0 +1,1 @@
+{"id":"7b96c56136b852994f6041576b911889","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService extractTenants (via key registration) should extract org tenant from organizationId pattern","name":"should extract org tenant from organizationId pattern","status":"passed","testResultsByEnv":{"default":"6ffb854e91066082a475a880238931ee"}}

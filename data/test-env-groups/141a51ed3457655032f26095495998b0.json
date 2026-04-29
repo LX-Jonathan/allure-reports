@@ -1,0 +1,1 @@
+{"id":"141a51ed3457655032f26095495998b0","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/pdf returns 403 when location-level user has no locations","name":"returns 403 when location-level user has no locations","status":"passed","testResultsByEnv":{"default":"78549e9296bf86b028ce4c4389b67efc"}}

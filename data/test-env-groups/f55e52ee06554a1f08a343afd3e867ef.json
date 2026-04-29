@@ -1,0 +1,1 @@
+{"id":"f55e52ee06554a1f08a343afd3e867ef","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/count returns 200 with order count","name":"returns 200 with order count","status":"passed","testResultsByEnv":{"default":"b3ddb84f0da9693a88bb58a60b3ab52e"}}

@@ -1,0 +1,1 @@
+{"id":"0670158cd962e8dff97b78c76ea162e3","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Interface Data Issues createInterfaceDataIssues returns empty array for empty input","name":"returns empty array for empty input","status":"passed","testResultsByEnv":{"default":"d87b75e3c4062663f4409063fafb3593"}}

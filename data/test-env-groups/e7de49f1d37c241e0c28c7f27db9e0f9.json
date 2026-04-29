@@ -1,0 +1,1 @@
+{"id":"e7de49f1d37c241e0c28c7f27db9e0f9","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should handle empty permissions array on API key","name":"should handle empty permissions array on API key","status":"passed","testResultsByEnv":{"default":"761e9f5a432fd27655b15dd35f4aabe7"}}

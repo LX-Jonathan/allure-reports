@@ -1,0 +1,1 @@
+{"id":"22a9632705272c46455919089a1aac8d","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 200 on successful batch ABN save","name":"returns 200 on successful batch ABN save","status":"passed","testResultsByEnv":{"default":"1486aac25681009e18a2a28c58032279"}}

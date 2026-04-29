@@ -1,0 +1,1 @@
+{"id":"fbc1237c26b423e6706664565d361eaf","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/fee-schedule-prices returns 403 when location-level user has no location IDs","name":"returns 403 when location-level user has no location IDs","status":"passed","testResultsByEnv":{"default":"363919a60d5f972795acf4153070f2d8"}}

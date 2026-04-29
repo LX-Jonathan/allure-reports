@@ -1,0 +1,1 @@
+{"id":"2fe3b5718388f6fb99b422423a0c83d5","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when account name contains SQL keywords","name":"should return 400 when account name contains SQL keywords","status":"passed","testResultsByEnv":{"default":"0ee0f348b6c154f2ab7374823a92a0a7"}}

@@ -1,0 +1,1 @@
+{"id":"001a73e276fd53e93b0ad1c96e7a081b","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs should handle isActive=false","name":"should handle isActive=false","status":"passed","testResultsByEnv":{"default":"a54b4d9a37447e4950fba731359167d2"}}

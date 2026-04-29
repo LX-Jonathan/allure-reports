@@ -1,0 +1,1 @@
+{"id":"6c127852a9e37b1094090c3d6e46d6ce","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/queue-pending returns 201 when creating new pending company","name":"returns 201 when creating new pending company","status":"passed","testResultsByEnv":{"default":"9dc5ff63ec39c7c3fd00d63f0144b6d5"}}

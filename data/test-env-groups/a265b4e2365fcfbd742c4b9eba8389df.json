@@ -1,0 +1,1 @@
+{"id":"a265b4e2365fcfbd742c4b9eba8389df","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware header name should read token from x-csrf-token header","name":"should read token from x-csrf-token header","status":"passed","testResultsByEnv":{"default":"3ab505675edd8573ac66811613d83003"}}

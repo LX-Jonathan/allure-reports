@@ -1,0 +1,1 @@
+{"id":"c36a6b9f6f3f653b92bcc6930df4fee1","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints PUT /api/v1/lab-tests/:id/image-url returns 403 when org_admin accesses different org's test","name":"returns 403 when org_admin accesses different org's test","status":"passed","testResultsByEnv":{"default":"975bbda45cba7bff39696e1728aa85b0"}}

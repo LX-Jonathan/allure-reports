@@ -1,0 +1,1 @@
+{"id":"9ddf0cb0686f1f1f257f44767eb3f1f9","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should return undefined for 'cash'","name":"should return undefined for 'cash'","status":"passed","testResultsByEnv":{"default":"9ed71b68349e765a04e1baef6a5754f7"}}

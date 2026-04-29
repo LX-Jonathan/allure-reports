@@ -1,0 +1,1 @@
+{"id":"97469b5a3b3105399103a27b776a6ca4","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/modules/:slug returns 200 with module details","name":"returns 200 with module details","status":"passed","testResultsByEnv":{"default":"457a0cdb7a80a72d3a89800c8ed4672a"}}

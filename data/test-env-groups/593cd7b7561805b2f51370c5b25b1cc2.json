@@ -1,0 +1,1 @@
+{"id":"593cd7b7561805b2f51370c5b25b1cc2","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:scheduleId/events/:eventId returns 404 when event belongs to different schedule","name":"returns 404 when event belongs to different schedule","status":"passed","testResultsByEnv":{"default":"e4c670b9dc16f166ed0b68d4b4f72c2e"}}

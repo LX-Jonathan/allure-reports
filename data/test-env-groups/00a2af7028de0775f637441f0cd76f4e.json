@@ -1,0 +1,1 @@
+{"id":"00a2af7028de0775f637441f0cd76f4e","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/apply-mappings counts failed when wrong parentLabId","name":"counts failed when wrong parentLabId","status":"passed","testResultsByEnv":{"default":"138efcd71bce8be608e0a90dac57ad39"}}

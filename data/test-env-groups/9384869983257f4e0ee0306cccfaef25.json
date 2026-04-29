@@ -1,0 +1,1 @@
+{"id":"9384869983257f4e0ee0306cccfaef25","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes PATCH /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f24b1755259952b6aaeb169fc4d523eb"}}

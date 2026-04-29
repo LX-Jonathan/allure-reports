@@ -1,0 +1,1 @@
+{"id":"42a3ce29ddf6c0d368bb815dd2922cbd","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueEmail should return error when email record creation fails","name":"should return error when email record creation fails","status":"passed","testResultsByEnv":{"default":"7f672d2a0171dbe60d4402f6c6c8a0e8"}}

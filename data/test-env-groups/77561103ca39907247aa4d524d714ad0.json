@@ -1,0 +1,1 @@
+{"id":"77561103ca39907247aa4d524d714ad0","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/batch returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"23bdb9443085b431e28d17e802f18e2e"}}

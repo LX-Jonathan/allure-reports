@@ -1,0 +1,1 @@
+{"id":"bc12449d0ad4b21345ea10e2d6b65c28","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService set with Redis configured should serialize and store value in Redis","name":"should serialize and store value in Redis","status":"passed","testResultsByEnv":{"default":"aa8de6b0201420f295ed788d26c90f16"}}

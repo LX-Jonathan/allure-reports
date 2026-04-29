@@ -1,0 +1,1 @@
+{"id":"cfa80639feb1051fd723b71f257ccbc9","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 201 with created form config for super admin","name":"returns 201 with created form config for super admin","status":"passed","testResultsByEnv":{"default":"58e7ad8bf2a0c096f725c00388cffc9a"}}

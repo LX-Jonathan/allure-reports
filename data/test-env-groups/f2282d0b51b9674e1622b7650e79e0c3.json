@@ -1,0 +1,1 @@
+{"id":"f2282d0b51b9674e1622b7650e79e0c3","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/job/:jobId/status returns 200 with job status when BullMQ configured","name":"returns 200 with job status when BullMQ configured","status":"passed","testResultsByEnv":{"default":"85ea5a20d4ee798be886f8e881678324"}}

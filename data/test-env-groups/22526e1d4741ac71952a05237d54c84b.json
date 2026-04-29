@@ -1,0 +1,1 @@
+{"id":"22526e1d4741ac71952a05237d54c84b","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations returns 404 when patient record missing","name":"returns 404 when patient record missing","status":"passed","testResultsByEnv":{"default":"8155c110334e5546915f85760c1c2e9e"}}

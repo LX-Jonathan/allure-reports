@@ -1,0 +1,1 @@
+{"id":"2b6e2625bb9953c049f7d989e5db3846","fullName":"server/lib/__tests__/logger.test.ts#logger serializeError — non-Error value serialises an object { error } that is not an Error instance","name":"serialises an object { error } that is not an Error instance","status":"passed","testResultsByEnv":{"default":"55dd3babd982bea49f33899f9522dc77"}}

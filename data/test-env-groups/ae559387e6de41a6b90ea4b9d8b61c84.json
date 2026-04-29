@@ -1,0 +1,1 @@
+{"id":"ae559387e6de41a6b90ea4b9d8b61c84","fullName":"client/src/components/__tests__/insurance-payer-logo.test.tsx#InsurancePayerLogo renders initials fallback when no logo URL and name given","name":"renders initials fallback when no logo URL and name given","status":"passed","testResultsByEnv":{"default":"eb0ad16cc150e5ccd48afd42fe810c5b"}}

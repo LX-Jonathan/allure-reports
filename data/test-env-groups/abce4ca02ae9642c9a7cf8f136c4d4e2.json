@@ -1,0 +1,1 @@
+{"id":"abce4ca02ae9642c9a7cf8f136c4d4e2","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management Error handling - DB rejections propagate getRoleById throws when db.query rejects","name":"getRoleById throws when db.query rejects","status":"passed","testResultsByEnv":{"default":"4028e57d604a81267d6622b605c75c84"}}

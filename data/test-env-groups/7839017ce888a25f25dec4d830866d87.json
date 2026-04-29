@@ -1,0 +1,1 @@
+{"id":"7839017ce888a25f25dec4d830866d87","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/insurance returns 200 with decrypted subscriberDob","name":"returns 200 with decrypted subscriberDob","status":"passed","testResultsByEnv":{"default":"5b63b8b3baaa4a34d4ec0e392d7c9dda"}}

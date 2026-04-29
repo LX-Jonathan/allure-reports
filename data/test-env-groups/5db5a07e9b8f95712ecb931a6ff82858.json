@@ -1,0 +1,1 @@
+{"id":"5db5a07e9b8f95712ecb931a6ff82858","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/:id returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"e9a9666e7816767fb831fb2d717e8289"}}

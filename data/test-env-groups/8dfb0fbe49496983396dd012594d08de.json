@@ -1,0 +1,1 @@
+{"id":"8dfb0fbe49496983396dd012594d08de","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Test Groups Routes GET /api/v1/test-groups/:id returns 403 when org_admin accesses different org's group","name":"returns 403 when org_admin accesses different org's group","status":"passed","testResultsByEnv":{"default":"a8f3f05c0a5e580f8f3ba3b10313a91a"}}

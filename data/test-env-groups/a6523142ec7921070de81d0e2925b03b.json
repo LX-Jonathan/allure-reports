@@ -1,0 +1,1 @@
+{"id":"a6523142ec7921070de81d0e2925b03b","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/approve returns 404 when user not in org","name":"returns 404 when user not in org","status":"passed","testResultsByEnv":{"default":"fb99234002f22d382e4c73f4cfe3a96a"}}

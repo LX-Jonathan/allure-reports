@@ -1,0 +1,1 @@
+{"id":"ab374dcfb0054522e0b1a9a930f34b59","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useSetup calls apiRequest and invalidates queries on successful setup","name":"calls apiRequest and invalidates queries on successful setup","status":"passed","testResultsByEnv":{"default":"0ea22d3978c6b64d54728f1a03fc5988"}}

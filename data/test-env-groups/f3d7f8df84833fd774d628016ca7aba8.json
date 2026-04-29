@@ -1,0 +1,1 @@
+{"id":"f3d7f8df84833fd774d628016ca7aba8","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Download Compendium POST /api/v1/lab-tests/download-compendium returns 400 when URL is not a valid public URL","name":"returns 400 when URL is not a valid public URL","status":"passed","testResultsByEnv":{"default":"f66b782435aaf55946ed459c9a86dfad"}}

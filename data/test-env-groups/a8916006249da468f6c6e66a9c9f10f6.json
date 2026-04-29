@@ -1,0 +1,1 @@
+{"id":"a8916006249da468f6c6e66a9c9f10f6","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToTemp should use empty string as default extension","name":"should use empty string as default extension","status":"passed","testResultsByEnv":{"default":"9cff5a469f2c3de55e796632406f0936"}}

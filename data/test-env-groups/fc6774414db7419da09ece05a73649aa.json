@@ -1,0 +1,1 @@
+{"id":"fc6774414db7419da09ece05a73649aa","fullName":"server/middleware/__tests__/rateLimit.test.ts#authRateLimitMiddleware Redis rate limiting should fall back on Redis permission error","name":"should fall back on Redis permission error","status":"passed","testResultsByEnv":{"default":"71b35f851af28d787d304de9768321f1"}}

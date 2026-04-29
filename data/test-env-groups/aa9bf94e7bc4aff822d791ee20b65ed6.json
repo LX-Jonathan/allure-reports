@@ -1,0 +1,1 @@
+{"id":"aa9bf94e7bc4aff822d791ee20b65ed6","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern with Redis configured should delete list-prefixed keys via the list tag registry","name":"should delete list-prefixed keys via the list tag registry","status":"passed","testResultsByEnv":{"default":"fbcf0be71a6e4a4e23ea46fecb6e3785"}}

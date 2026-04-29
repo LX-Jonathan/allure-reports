@@ -1,0 +1,1 @@
+{"id":"277d39260643c0ad864bfffb5b6c65fd","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return correct transitions for pending","name":"should return correct transitions for pending","status":"passed","testResultsByEnv":{"default":"291778129891caa732f6c72e2a4bf251"}}

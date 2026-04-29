@@ -1,0 +1,1 @@
+{"id":"24a68514c826980cc712e08a6bca89b9","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient fhirRequest (via testConnection) should send Bearer token in Authorization header","name":"should send Bearer token in Authorization header","status":"passed","testResultsByEnv":{"default":"8151b663383718361115480a01bed641"}}

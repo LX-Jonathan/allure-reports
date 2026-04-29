@@ -1,0 +1,1 @@
+{"id":"5510303149e95a6e29b1365d0a0f2101","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Pending Insurance Updates approvePendingInsuranceUpdate deletes the existing insurance when proposedData.remove is true","name":"deletes the existing insurance when proposedData.remove is true","status":"passed","testResultsByEnv":{"default":"5994144b4cdc46a0fd8d86dbfd73bda4"}}

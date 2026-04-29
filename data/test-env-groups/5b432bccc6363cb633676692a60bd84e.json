@@ -1,0 +1,1 @@
+{"id":"5b432bccc6363cb633676692a60bd84e","fullName":"client/src/lib/__tests__/proxy-audit.test.ts#getProxyInviteSendNumber ignores non-finite sendCount values","name":"ignores non-finite sendCount values","status":"passed","testResultsByEnv":{"default":"f6f9f59d71a9193b033dc9b10fbf746a"}}

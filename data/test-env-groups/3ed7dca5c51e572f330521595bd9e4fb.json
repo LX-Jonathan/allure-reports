@@ -1,0 +1,1 @@
+{"id":"3ed7dca5c51e572f330521595bd9e4fb","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations creates Stripe terminal location and saves to DB","name":"creates Stripe terminal location and saves to DB","status":"passed","testResultsByEnv":{"default":"7447d977a93f355c265ea941724219dc"}}

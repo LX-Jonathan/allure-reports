@@ -1,0 +1,1 @@
+{"id":"6368606a0ea39326bde8ddf0e6dbd073","fullName":"client/src/lib/__tests__/form-pdf-generator.test.ts#form-pdf-generator printFormPdf falls back to download when window.open returns null","name":"falls back to download when window.open returns null","status":"passed","testResultsByEnv":{"default":"a7e101d6bf7f51e338f0362c85b3ba70"}}

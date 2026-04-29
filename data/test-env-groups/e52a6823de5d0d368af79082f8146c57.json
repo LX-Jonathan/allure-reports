@@ -1,0 +1,1 @@
+{"id":"e52a6823de5d0d368af79082f8146c57","fullName":"server/config/__tests__/env.test.ts#env schema validation fails when DATABASE_URL is empty","name":"fails when DATABASE_URL is empty","status":"passed","testResultsByEnv":{"default":"eba475392cabbd24e5a05341b9b48a96"}}

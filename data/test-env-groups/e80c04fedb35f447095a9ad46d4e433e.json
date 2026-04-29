@@ -1,0 +1,1 @@
+{"id":"e80c04fedb35f447095a9ad46d4e433e","fullName":"server/__tests__/storage-late-sections.test.ts#DatabaseStorage - AOE Lists deleteAoeList should soft-delete and return true","name":"should soft-delete and return true","status":"passed","testResultsByEnv":{"default":"d2713626b69ad1b3407b23069548c0e3"}}

@@ -1,0 +1,1 @@
+{"id":"ffdf63f2ef2f9a138cc1285546a54416","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should return 401 when API key does not start with lxc_","name":"should return 401 when API key does not start with lxc_","status":"passed","testResultsByEnv":{"default":"73425abea821e02086fbfff5b6725f97"}}

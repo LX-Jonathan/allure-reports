@@ -1,0 +1,1 @@
+{"id":"595d5b611bd3287ee48c8732d5f1f058","fullName":"server/replit_integrations/chat/__tests__/storage.test.ts#chatStorage getMessagesByConversation should filter by conversationId and order by createdAt","name":"should filter by conversationId and order by createdAt","status":"passed","testResultsByEnv":{"default":"d9c6df83f094f9975273e050620a8c79"}}

@@ -1,0 +1,1 @@
+{"id":"5dcdb04b4c4360ffb1b719c717824e79","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:companyId/plans/:planId returns 200 on successful plan update","name":"returns 200 on successful plan update","status":"passed","testResultsByEnv":{"default":"00c7b332bcfcd1c3989ca78da122afdc"}}

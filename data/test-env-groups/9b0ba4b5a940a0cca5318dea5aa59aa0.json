@@ -1,0 +1,1 @@
+{"id":"9b0ba4b5a940a0cca5318dea5aa59aa0","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker event handlers should log failed job id in failed event handler","name":"should log failed job id in failed event handler","status":"passed","testResultsByEnv":{"default":"0fef40af664528974904365e08b3538a"}}

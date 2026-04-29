@@ -1,0 +1,1 @@
+{"id":"8f79c3da5ca4d3832cef6950724a26b9","fullName":"server/lib/__tests__/abnAboPdfEmail.test.ts#abnAboPdfEmail renderBrandedAbnPdfBufferForEmail returns null when generator returns null","name":"returns null when generator returns null","status":"passed","testResultsByEnv":{"default":"4e1bbe07de5a76417eee32072ec3b8f5"}}

@@ -1,0 +1,1 @@
+{"id":"fb7d5cc4ee02e6fee9651eaea1d3d15d","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/frhc-api-configs returns 400 when org already has config","name":"returns 400 when org already has config","status":"passed","testResultsByEnv":{"default":"2098408f466b01f1d42a829bfcf04bfd"}}

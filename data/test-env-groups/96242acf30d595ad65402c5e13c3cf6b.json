@@ -1,0 +1,1 @@
+{"id":"96242acf30d595ad65402c5e13c3cf6b","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications createMedication should insert medication and return it","name":"should insert medication and return it","status":"passed","testResultsByEnv":{"default":"11c4904bca1d9c8c3b19305fb4edf33c"}}

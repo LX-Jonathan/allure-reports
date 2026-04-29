@@ -1,0 +1,1 @@
+{"id":"fdaf12f68f721d04939e3e3e41b7b115","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest returns 400 when claims array item missing claimControlNumber","name":"returns 400 when claims array item missing claimControlNumber","status":"passed","testResultsByEnv":{"default":"31463ea6154055a0913a1a9e5e6aae9e"}}

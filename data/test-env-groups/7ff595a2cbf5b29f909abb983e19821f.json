@@ -1,0 +1,1 @@
+{"id":"7ff595a2cbf5b29f909abb983e19821f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should debit cash drawer and credit operating checking for cash_in","name":"should debit cash drawer and credit operating checking for cash_in","status":"passed","testResultsByEnv":{"default":"aa46810109a131fe1260320881875d4b"}}

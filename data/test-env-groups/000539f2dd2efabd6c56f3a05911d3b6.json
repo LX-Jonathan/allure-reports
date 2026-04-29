@@ -1,0 +1,1 @@
+{"id":"000539f2dd2efabd6c56f3a05911d3b6","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages validates payload","name":"validates payload","status":"passed","testResultsByEnv":{"default":"9eb04fcc9ee26a51719d1334317ce091"}}

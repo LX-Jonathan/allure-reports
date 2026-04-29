@@ -1,0 +1,1 @@
+{"id":"1d61b0f3765ec0a739704530465d0e12","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Providers getProviderByLinkedUserId returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"c6d49b67f389c711248c131cd12ff49e"}}

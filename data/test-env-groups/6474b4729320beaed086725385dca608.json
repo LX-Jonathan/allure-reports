@@ -1,0 +1,1 @@
+{"id":"6474b4729320beaed086725385dca608","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Do not see until paid reason picker (task-1780) opens the picker and POSTs the chosen preset reason","name":"opens the picker and POSTs the chosen preset reason","status":"passed","testResultsByEnv":{"default":"1ae44bbddc623ec0c417345bc1c18b76"}}

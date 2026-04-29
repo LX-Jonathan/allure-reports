@@ -1,0 +1,1 @@
+{"id":"d03cca72b639e269ca0e5679ef6c73a9","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with stats for org_admin scoped to their organization","name":"returns 200 with stats for org_admin scoped to their organization","status":"passed","testResultsByEnv":{"default":"841fae96311044a0a2ad35dadd5bdcfc"}}

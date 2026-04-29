@@ -1,0 +1,1 @@
+{"id":"8f093df90e2f3a59f339a6fcbbfccf4c","fullName":"server/__tests__/worker-process.test.ts#worker-process shutdown function should close all workers during shutdown","name":"should close all workers during shutdown","status":"passed","testResultsByEnv":{"default":"37675b68f789a4bd1cdb01d7edf561f3"}}

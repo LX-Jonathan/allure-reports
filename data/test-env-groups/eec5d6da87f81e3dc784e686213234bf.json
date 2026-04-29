@@ -1,0 +1,1 @@
+{"id":"eec5d6da87f81e3dc784e686213234bf","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/test-groups/:id should return 404 if not found","name":"should return 404 if not found","status":"passed","testResultsByEnv":{"default":"374bfa58665d66bc11add4fce781126b"}}

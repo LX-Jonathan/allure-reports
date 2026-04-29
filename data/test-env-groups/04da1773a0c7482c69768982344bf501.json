@@ -1,0 +1,1 @@
+{"id":"04da1773a0c7482c69768982344bf501","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate POST /orders/:id/release blocks release when no readiness scrub has been run","name":"blocks release when no readiness scrub has been run","status":"passed","testResultsByEnv":{"default":"0dc49700d6d1ee29fd276019cbac433a"}}

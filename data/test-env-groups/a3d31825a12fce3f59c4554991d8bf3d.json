@@ -1,0 +1,1 @@
+{"id":"a3d31825a12fce3f59c4554991d8bf3d","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan updateBulkScanBatchProgress updates progress without terminal status","name":"updates progress without terminal status","status":"passed","testResultsByEnv":{"default":"9d70c862dce9ff9b8c4bf94de7b34de5"}}

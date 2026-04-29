@@ -1,0 +1,1 @@
+{"id":"c4a88e98154fe3aa2233a910d9f6a42d","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#processMedicalNecessityJob successful processing should cache result in Redis","name":"should cache result in Redis","status":"passed","testResultsByEnv":{"default":"f50a519f6a30a7eed1647d98e051a80f"}}

@@ -1,0 +1,1 @@
+{"id":"9064299bc4e1d50c8ca47cc16bfc62d9","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord observations (labs and vitals) should use valueCodeableConcept.text when others missing","name":"should use valueCodeableConcept.text when others missing","status":"passed","testResultsByEnv":{"default":"97d643444daab7070450b0300ebecad6"}}

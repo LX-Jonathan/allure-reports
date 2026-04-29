@@ -1,0 +1,1 @@
+{"id":"8ec4277739f0f9ca0c06da125af6e2db","fullName":"server/routes/__tests__/patient-auth-report-suspicious.routes.test.ts#POST /security-activity/report-suspicious returns 401 when the request has no patient auth","name":"returns 401 when the request has no patient auth","status":"passed","testResultsByEnv":{"default":"9eb5d127432a9df3d6191435cd8ba72f"}}

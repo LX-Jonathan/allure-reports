@@ -1,0 +1,1 @@
+{"id":"f740a964a86c8c9a6343d41b8e5697d9","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler session cleanup cron callback should execute db cleanup query","name":"should execute db cleanup query","status":"passed","testResultsByEnv":{"default":"f0db22c6b9f7f84a6954ab81a200afce"}}

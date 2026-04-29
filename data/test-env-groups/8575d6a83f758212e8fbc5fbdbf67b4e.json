@@ -1,0 +1,1 @@
+{"id":"8575d6a83f758212e8fbc5fbdbf67b4e","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/:id/sync-to-labs returns 404 when master not found","name":"returns 404 when master not found","status":"passed","testResultsByEnv":{"default":"c19f465d48922b372a4d9edef74fae5a"}}

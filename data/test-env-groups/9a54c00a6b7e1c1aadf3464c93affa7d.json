@@ -1,0 +1,1 @@
+{"id":"9a54c00a6b7e1c1aadf3464c93affa7d","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) GET / returns 401 without auth header","name":"GET / returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"9dab732bd64a09cd53fc8a01a8a29a5d"}}

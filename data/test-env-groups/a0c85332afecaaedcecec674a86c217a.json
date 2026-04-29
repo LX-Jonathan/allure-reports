@@ -1,0 +1,1 @@
+{"id":"a0c85332afecaaedcecec674a86c217a","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes GET /stats returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"34de6e034bd539d7e62b2ad804dfb11a"}}

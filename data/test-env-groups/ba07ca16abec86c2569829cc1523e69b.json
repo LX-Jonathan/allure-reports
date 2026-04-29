@@ -1,0 +1,1 @@
+{"id":"ba07ca16abec86c2569829cc1523e69b","fullName":"client/src/hooks/__tests__/useChatSocket.test.ts#useChatSocket onConversationUpdated registers and returns cleanup function","name":"onConversationUpdated registers and returns cleanup function","status":"passed","testResultsByEnv":{"default":"cf2cc0d24452125ed39457ca4bcec044"}}

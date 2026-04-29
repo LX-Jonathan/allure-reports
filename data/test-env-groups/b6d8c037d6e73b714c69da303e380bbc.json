@@ -1,0 +1,1 @@
+{"id":"b6d8c037d6e73b714c69da303e380bbc","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes POST /api/v1/portal-config/:parentLabId/forms/ai-refine returns generated form on success","name":"returns generated form on success","status":"passed","testResultsByEnv":{"default":"4ecbb8f4165df8a713a36d677257b466"}}

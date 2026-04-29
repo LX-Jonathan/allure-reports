@@ -1,0 +1,1 @@
+{"id":"54fce9cf395e94fa59db795824ea5672","fullName":"server/__tests__/worker-process.test.ts#worker-process module initialization should register all process event handlers","name":"should register all process event handlers","status":"passed","testResultsByEnv":{"default":"cc3b9fbb882cdc13f980dbcb906b5317"}}

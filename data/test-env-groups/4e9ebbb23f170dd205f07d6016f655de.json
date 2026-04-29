@@ -1,0 +1,1 @@
+{"id":"4e9ebbb23f170dd205f07d6016f655de","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management Error handling - DB rejections propagate updateUser throws when db.update rejects","name":"updateUser throws when db.update rejects","status":"passed","testResultsByEnv":{"default":"eafde5023f9ccc43152ff3bdd474c946"}}

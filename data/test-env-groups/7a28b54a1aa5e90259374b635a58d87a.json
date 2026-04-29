@@ -1,0 +1,1 @@
+{"id":"7a28b54a1aa5e90259374b635a58d87a","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useSavedAddressOptions falls back to org name only when no address parts present","name":"falls back to org name only when no address parts present","status":"passed","testResultsByEnv":{"default":"f14b108dcba4a22cf373b2d60bbb46d5"}}

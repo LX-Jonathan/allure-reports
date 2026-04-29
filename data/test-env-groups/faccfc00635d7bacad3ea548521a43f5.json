@@ -1,0 +1,1 @@
+{"id":"faccfc00635d7bacad3ea548521a43f5","fullName":"client/src/lib/__tests__/discipline-config.test.ts#getDisciplineSections returns empty array for unknown discipline","name":"returns empty array for unknown discipline","status":"passed","testResultsByEnv":{"default":"83f201eb18536a4a312662791820ad64"}}

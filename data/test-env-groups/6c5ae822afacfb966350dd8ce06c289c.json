@@ -1,0 +1,1 @@
+{"id":"6c5ae822afacfb966350dd8ce06c289c","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService createScannedOrder should set status to extracted when extractedData is provided","name":"should set status to extracted when extractedData is provided","status":"passed","testResultsByEnv":{"default":"48c8135b65395b85da0114df442164b7"}}

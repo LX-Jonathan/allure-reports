@@ -1,0 +1,1 @@
+{"id":"a4e95c0485151192faf1706d390f6460","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id/status updates status without cancellation reason","name":"updates status without cancellation reason","status":"passed","testResultsByEnv":{"default":"cc74ea74ab35e16aaa09d1b9cf318bd8"}}

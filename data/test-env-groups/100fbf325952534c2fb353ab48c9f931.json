@@ -1,0 +1,1 @@
+{"id":"100fbf325952534c2fb353ab48c9f931","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should return 400 for CPT code longer than 10 chars","name":"should return 400 for CPT code longer than 10 chars","status":"passed","testResultsByEnv":{"default":"12b17446094afc14d77a9f39ccbb1b6e"}}

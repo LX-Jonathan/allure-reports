@@ -1,0 +1,1 @@
+{"id":"2680d42d2dca83def1981355106e0409","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy deleteOrg should soft-delete org","name":"should soft-delete org","status":"passed","testResultsByEnv":{"default":"e10bf4deb37cea6ee078d3cf66e895fc"}}

@@ -1,0 +1,1 @@
+{"id":"7091a8ea63654aee4d2e4cac892d5357","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard breakdown formatting formats outstanding cents as a USD string with two decimals","name":"formats outstanding cents as a USD string with two decimals","status":"passed","testResultsByEnv":{"default":"60959cf308ae867e16aad05fb8d06efa"}}

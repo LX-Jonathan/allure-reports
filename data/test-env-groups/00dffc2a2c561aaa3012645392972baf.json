@@ -1,0 +1,1 @@
+{"id":"00dffc2a2c561aaa3012645392972baf","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should return 404 when labId matches no lab client at all","name":"should return 404 when labId matches no lab client at all","status":"passed","testResultsByEnv":{"default":"8715be2cbb9efb4134e6ccef3440774f"}}

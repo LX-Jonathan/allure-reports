@@ -1,0 +1,1 @@
+{"id":"e60d70d477de654f81caf65f6e24bbcb","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/quickstarts/:id returns 404 when quickstart not found","name":"returns 404 when quickstart not found","status":"passed","testResultsByEnv":{"default":"cac3cb47d787d5441b1fec947e8c67f0"}}

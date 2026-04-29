@@ -1,0 +1,1 @@
+{"id":"42297202cb9d61cef579bdaaceb1b48a","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules emits MISSING_DOS warning when dateOfService is absent","name":"emits MISSING_DOS warning when dateOfService is absent","status":"passed","testResultsByEnv":{"default":"4c5f90bb1229110511b3f7ab2f5f495b"}}

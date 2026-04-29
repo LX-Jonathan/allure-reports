@@ -1,0 +1,1 @@
+{"id":"ff5305e932ba233c9e238f3ae8340b55","fullName":"client/src/components/orders/__tests__/PatientStoredCreditIndicator.test.tsx#PatientStoredCreditIndicator renders nothing when stored credit is negative (defensive)","name":"renders nothing when stored credit is negative (defensive)","status":"passed","testResultsByEnv":{"default":"1e8597eb5f8b6d3546a3d855eb245b8d"}}

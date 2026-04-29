@@ -1,0 +1,1 @@
+{"id":"84d38dfcb1c53304bff796222e72f397","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes GET /counts/:parentLabId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"ef4d164065474511681899ff5ff3c83d"}}

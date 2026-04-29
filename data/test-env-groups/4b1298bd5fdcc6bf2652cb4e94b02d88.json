@@ -1,0 +1,1 @@
+{"id":"4b1298bd5fdcc6bf2652cb4e94b02d88","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#checkPaStatus should call clearinghouse with referenceNumber if available","name":"should call clearinghouse with referenceNumber if available","status":"passed","testResultsByEnv":{"default":"68e654b78cdb08b3fe82ea6619b8f4db"}}

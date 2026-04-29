@@ -1,0 +1,1 @@
+{"id":"618cbde2aa9f7eb0f448e9b27e9b8afe","fullName":"client/src/pages/__tests__/lab-test-form.test.tsx#LabTestFormPage Super admin features does not render organization select for non-super-admin","name":"does not render organization select for non-super-admin","status":"passed","testResultsByEnv":{"default":"c1d88997939af9b8316de7d34c8530a9"}}

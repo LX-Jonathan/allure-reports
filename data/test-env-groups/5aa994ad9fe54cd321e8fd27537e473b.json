@@ -1,0 +1,1 @@
+{"id":"5aa994ad9fe54cd321e8fd27537e473b","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes POST /verify returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"4463ed3f3914ac4fa81582b7f1c43bf2"}}

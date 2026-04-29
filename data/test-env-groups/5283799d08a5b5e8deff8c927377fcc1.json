@@ -1,0 +1,1 @@
+{"id":"5283799d08a5b5e8deff8c927377fcc1","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest ingests 837 claim with order matching by orderNumber when no accessionId","name":"ingests 837 claim with order matching by orderNumber when no accessionId","status":"passed","testResultsByEnv":{"default":"43ac722fa316e593727bb0876ea25221"}}

@@ -1,0 +1,1 @@
+{"id":"a02cf8b5f340a1ae3818f8328b94ac92","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should handle template without main.tsx reference gracefully","name":"should handle template without main.tsx reference gracefully","status":"passed","testResultsByEnv":{"default":"bae7c8496d9658d5b493a51c76c3b1fa"}}

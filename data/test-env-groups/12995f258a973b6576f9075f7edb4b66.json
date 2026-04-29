@@ -1,0 +1,1 @@
+{"id":"12995f258a973b6576f9075f7edb4b66","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#DELETE /api/patient/proxy-for/:id (proxy resigns) returns 404 when caller is not the proxy on the record","name":"returns 404 when caller is not the proxy on the record","status":"passed","testResultsByEnv":{"default":"2251719c075ed838d633db67ac4ccb77"}}

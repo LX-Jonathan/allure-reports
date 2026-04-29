@@ -1,0 +1,1 @@
+{"id":"6d302b735a961be124422e56af9cb544","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/rejections-by-payer returns 200 with report data","name":"returns 200 with report data","status":"passed","testResultsByEnv":{"default":"4f066a84126b4c73dbcc211684f7e840"}}

@@ -1,0 +1,1 @@
+{"id":"fb33f879885594096f3e464e41a341d8","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket resets state on disconnect","name":"resets state on disconnect","status":"passed","testResultsByEnv":{"default":"95e594090540316c1a2b6d364433caaa"}}

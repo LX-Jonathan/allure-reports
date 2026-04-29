@@ -1,0 +1,1 @@
+{"id":"8f5dacc5b7c7f8b916712e2a33436a05","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Pending Insurance Updates approvePendingInsuranceUpdate propagates approved coverage to selected unbilled orders","name":"propagates approved coverage to selected unbilled orders","status":"passed","testResultsByEnv":{"default":"a389a2b7ccd5c5c29d74eb587ee584cf"}}

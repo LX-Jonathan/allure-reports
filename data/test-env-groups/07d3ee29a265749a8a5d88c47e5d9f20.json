@@ -1,0 +1,1 @@
+{"id":"07d3ee29a265749a8a5d88c47e5d9f20","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/:id/plans returns 500 when db insert throws","name":"returns 500 when db insert throws","status":"passed","testResultsByEnv":{"default":"c3c0182ad08e35e3b3055c5cd09ec04e"}}

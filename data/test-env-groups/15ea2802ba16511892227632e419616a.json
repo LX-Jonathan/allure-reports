@@ -1,0 +1,1 @@
+{"id":"15ea2802ba16511892227632e419616a","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord immunizations should map immunization entries","name":"should map immunization entries","status":"passed","testResultsByEnv":{"default":"0f571e3a610b8c0e3c9335ac2118a707"}}

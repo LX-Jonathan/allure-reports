@@ -1,0 +1,1 @@
+{"id":"75ebdb7bc29f063c57ce097ed88ed555","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService boundary conditions should handle special characters in test names","name":"should handle special characters in test names","status":"passed","testResultsByEnv":{"default":"1e4a5dc783495de91ff5e05939cca5d6"}}

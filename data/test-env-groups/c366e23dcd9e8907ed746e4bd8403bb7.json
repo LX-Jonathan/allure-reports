@@ -1,0 +1,1 @@
+{"id":"c366e23dcd9e8907ed746e4bd8403bb7","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/approved-for-diagnosis should handle AI returning no text content","name":"should handle AI returning no text content","status":"passed","testResultsByEnv":{"default":"893f64b1064b4813c936d23373262e01"}}

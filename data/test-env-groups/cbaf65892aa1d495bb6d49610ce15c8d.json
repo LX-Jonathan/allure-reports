@@ -1,0 +1,1 @@
+{"id":"cbaf65892aa1d495bb6d49610ce15c8d","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks fe80:: (link-local IPv6) via IP literal","name":"blocks fe80:: (link-local IPv6) via IP literal","status":"passed","testResultsByEnv":{"default":"3d0c8a5a534d9216fa06ca5ccbf98aff"}}

@@ -1,0 +1,1 @@
+{"id":"dde2b1aef300be7da8536fb6df7f1975","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should cap retry delay at 60 seconds","name":"should cap retry delay at 60 seconds","status":"passed","testResultsByEnv":{"default":"98cbf90ac25f8cc7e2367ac891d17d70"}}

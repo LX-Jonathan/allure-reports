@@ -1,0 +1,1 @@
+{"id":"216468e2828a6f0be03425cbeb7fbb59","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when employeeId contains invalid characters","name":"should return 400 when employeeId contains invalid characters","status":"passed","testResultsByEnv":{"default":"8130ea8858e7fb004f4b5dd897e4a99b"}}

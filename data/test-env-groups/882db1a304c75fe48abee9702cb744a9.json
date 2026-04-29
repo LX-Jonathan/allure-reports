@@ -1,0 +1,1 @@
+{"id":"882db1a304c75fe48abee9702cb744a9","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import handles case-insensitive and spaced column headers","name":"handles case-insensitive and spaced column headers","status":"passed","testResultsByEnv":{"default":"0d787f6e21685d2b6b108f0dc14cd6c1"}}

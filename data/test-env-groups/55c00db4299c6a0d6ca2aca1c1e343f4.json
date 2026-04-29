@@ -1,0 +1,1 @@
+{"id":"55c00db4299c6a0d6ca2aca1c1e343f4","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/:id returns 200 with appointment data","name":"returns 200 with appointment data","status":"passed","testResultsByEnv":{"default":"25e731f3cab6433e831ab996cb8ab1f2"}}

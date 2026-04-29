@@ -1,0 +1,1 @@
+{"id":"5d6946bf70a1aa20479c6a33a8972d22","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended POST /api/v1/diagnosis-codes/suggest returns empty suggestions for unknown test codes","name":"returns empty suggestions for unknown test codes","status":"passed","testResultsByEnv":{"default":"f6667b7c9f8cec89f7f72a65e3c478d8"}}

@@ -1,0 +1,1 @@
+{"id":"336f20607b8b198d3456e46c69879f11","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap returns 200 with heatmap data for super_admin","name":"returns 200 with heatmap data for super_admin","status":"passed","testResultsByEnv":{"default":"8fed24659f38a626b3d5dba6cd955a71"}}

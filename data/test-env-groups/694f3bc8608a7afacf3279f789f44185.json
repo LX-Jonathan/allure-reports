@@ -1,0 +1,1 @@
+{"id":"694f3bc8608a7afacf3279f789f44185","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Validation edge cases POST /fhir-connections/:connectionId/pull-records rejects empty fhirPatientId","name":"POST /fhir-connections/:connectionId/pull-records rejects empty fhirPatientId","status":"passed","testResultsByEnv":{"default":"cdfd7ab872282d1249bd005d46baa1c2"}}

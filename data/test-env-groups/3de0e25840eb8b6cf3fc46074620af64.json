@@ -1,0 +1,1 @@
+{"id":"3de0e25840eb8b6cf3fc46074620af64","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logError should default stage to 'error'","name":"should default stage to 'error'","status":"passed","testResultsByEnv":{"default":"1620a00fd77209608249989487858199"}}

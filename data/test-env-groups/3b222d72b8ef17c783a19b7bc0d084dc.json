@@ -1,0 +1,1 @@
+{"id":"3b222d72b8ef17c783a19b7bc0d084dc","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog closes dialog after successful save when not forceRequired","name":"closes dialog after successful save when not forceRequired","status":"passed","testResultsByEnv":{"default":"ff0f79fe12bc7e59513b57e4af1efede"}}

@@ -1,0 +1,1 @@
+{"id":"92d3b5440c30ee92927e4be664d3c593","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"1a6fc51f52a7fda64c91cdd4a3c65c7c"}}

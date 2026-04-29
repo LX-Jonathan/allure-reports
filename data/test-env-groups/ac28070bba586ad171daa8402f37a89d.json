@@ -1,0 +1,1 @@
+{"id":"ac28070bba586ad171daa8402f37a89d","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment rejects refunding a reversal entry","name":"rejects refunding a reversal entry","status":"passed","testResultsByEnv":{"default":"080b9c482eb36281bf197dd73c4ecb88"}}

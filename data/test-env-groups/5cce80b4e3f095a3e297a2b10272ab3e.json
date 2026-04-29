@@ -1,0 +1,1 @@
+{"id":"5cce80b4e3f095a3e297a2b10272ab3e","fullName":"server/__tests__/system.routes.test.ts#system routes PATCH /api/v1/system/configs/:key returns 400 for empty value","name":"returns 400 for empty value","status":"passed","testResultsByEnv":{"default":"ef66b7c21eed16f1192ccb8c2f527d7e"}}

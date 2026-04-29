@@ -1,0 +1,1 @@
+{"id":"f5310abdc4a84405d9eafda7ecc9f763","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postRefundJournal should use operating checking (1010) for non-cash refunds","name":"should use operating checking (1010) for non-cash refunds","status":"passed","testResultsByEnv":{"default":"5f907d78dbf88a9f5a7ad697c1f8a98a"}}

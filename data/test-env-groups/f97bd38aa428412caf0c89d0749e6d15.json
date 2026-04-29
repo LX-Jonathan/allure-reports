@@ -1,0 +1,1 @@
+{"id":"f97bd38aa428412caf0c89d0749e6d15","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes DELETE /api/v1/patient-medications/:id returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"15ac70940ce290d8358f52b64cdf0cc8"}}

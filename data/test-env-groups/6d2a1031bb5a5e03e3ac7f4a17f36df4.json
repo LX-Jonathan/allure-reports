@@ -1,0 +1,1 @@
+{"id":"6d2a1031bb5a5e03e3ac7f4a17f36df4","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect does not confuse staff routes that start with /patient-something-else","name":"does not confuse staff routes that start with /patient-something-else","status":"passed","testResultsByEnv":{"default":"f8704cc020b4c2ea4c26469dd1072f29"}}

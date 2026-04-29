@@ -1,0 +1,1 @@
+{"id":"02677533931e9b38e67504b7b613ec5e","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore touch should work without callback","name":"should work without callback","status":"passed","testResultsByEnv":{"default":"fa0dfecdfc30b905b9eeb27e42f6d224"}}

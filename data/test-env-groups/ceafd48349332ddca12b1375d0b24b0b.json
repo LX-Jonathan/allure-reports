@@ -1,0 +1,1 @@
+{"id":"ceafd48349332ddca12b1375d0b24b0b","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports/:id/shares returns 200 with shares","name":"returns 200 with shares","status":"passed","testResultsByEnv":{"default":"f523ba9697cdb96644b5877396845520"}}

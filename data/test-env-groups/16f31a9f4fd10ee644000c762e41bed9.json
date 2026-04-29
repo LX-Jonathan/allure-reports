@@ -1,0 +1,1 @@
+{"id":"16f31a9f4fd10ee644000c762e41bed9","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs returns 200 with paginated form configs for super admin","name":"returns 200 with paginated form configs for super admin","status":"passed","testResultsByEnv":{"default":"0108af1e2277b47c7fa678987904b023"}}

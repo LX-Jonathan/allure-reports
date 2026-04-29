@@ -1,0 +1,1 @@
+{"id":"e53d406e9922a2fe99ae2021d1a42ee5","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments with applyCreditCents rejects applyCreditCents greater than amount","name":"rejects applyCreditCents greater than amount","status":"passed","testResultsByEnv":{"default":"ec7ccf42ffcdbb78960cbe187cbbb37b"}}

@@ -1,0 +1,1 @@
+{"id":"ef211486cf134da92734e8bf0b49af5f","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management updateUser should set updatedAt to current date","name":"should set updatedAt to current date","status":"passed","testResultsByEnv":{"default":"125a229bea0e5e4f1bd2b9a2c806f9cf"}}

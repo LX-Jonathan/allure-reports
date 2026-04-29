@@ -1,0 +1,1 @@
+{"id":"6b28a84e78dfdfa3ca071dcbde00212f","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) determineAction — returns LOGOUT for logout endpoint","name":"determineAction — returns LOGOUT for logout endpoint","status":"passed","testResultsByEnv":{"default":"84053f54dc742655c0dc3aa1b8605967"}}

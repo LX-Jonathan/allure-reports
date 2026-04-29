@@ -1,0 +1,1 @@
+{"id":"79c2d2ace40ed0fe59d2a84ab8df392d","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage does not create blob URL for PDF content types","name":"does not create blob URL for PDF content types","status":"passed","testResultsByEnv":{"default":"b3e8a5fb47e9a99527b6473e571e5622"}}

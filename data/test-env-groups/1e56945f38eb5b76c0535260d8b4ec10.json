@@ -1,0 +1,1 @@
+{"id":"1e56945f38eb5b76c0535260d8b4ec10","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service console output levels should not log debug to console (default min level is warn)","name":"should not log debug to console (default min level is warn)","status":"passed","testResultsByEnv":{"default":"c9e5dd48ffc60a907ee17e56760fcc28"}}

@@ -1,0 +1,1 @@
+{"id":"70c7574aba3b82718e49b80791770701","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should return undefined for 'self_pay'","name":"should return undefined for 'self_pay'","status":"passed","testResultsByEnv":{"default":"6241a496bccf0d18de7b764a2e84abee"}}

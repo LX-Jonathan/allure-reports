@@ -1,0 +1,1 @@
+{"id":"be7a970c47b89edfe9afe497712f1a44","fullName":"client/src/components/patient/__tests__/signed-fee-estimates-section.test.tsx#SignedFeeEstimatesSection renders empty state when there are no signed estimates","name":"renders empty state when there are no signed estimates","status":"passed","testResultsByEnv":{"default":"9ead25a24b7d9609fab0511e873d7c02"}}

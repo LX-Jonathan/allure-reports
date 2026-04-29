@@ -1,0 +1,1 @@
+{"id":"9c38c5b2d387f7c2687a45ee0c270634","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes PATCH /api/v1/aoe-lists/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"a5c8128dfe091cecd7c8f681e4a2a9c6"}}

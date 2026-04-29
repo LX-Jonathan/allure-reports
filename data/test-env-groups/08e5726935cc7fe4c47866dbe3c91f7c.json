@@ -1,0 +1,1 @@
+{"id":"08e5726935cc7fe4c47866dbe3c91f7c","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getById should return null when patient not found","name":"should return null when patient not found","status":"passed","testResultsByEnv":{"default":"ec04f39e58cc01ef55cd45ffc68093af"}}

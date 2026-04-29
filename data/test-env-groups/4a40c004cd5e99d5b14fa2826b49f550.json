@@ -1,0 +1,1 @@
+{"id":"4a40c004cd5e99d5b14fa2826b49f550","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireSuperOrg should allow user with matching parentLabId","name":"should allow user with matching parentLabId","status":"passed","testResultsByEnv":{"default":"3746c06cf96dabecd118367eb919230c"}}

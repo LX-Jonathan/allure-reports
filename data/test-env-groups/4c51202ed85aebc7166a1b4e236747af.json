@@ -1,0 +1,1 @@
+{"id":"4c51202ed85aebc7166a1b4e236747af","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service getTemplateCacheStats should return N/A hit rate when no lookups","name":"should return N/A hit rate when no lookups","status":"passed","testResultsByEnv":{"default":"2fcd69542be7070876df55f32e241652"}}

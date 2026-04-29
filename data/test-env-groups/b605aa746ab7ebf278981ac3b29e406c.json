@@ -1,0 +1,1 @@
+{"id":"b605aa746ab7ebf278981ac3b29e406c","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should fall back to in-memory cache on Redis error","name":"should fall back to in-memory cache on Redis error","status":"passed","testResultsByEnv":{"default":"c797b0475a0a03f6b15a2e5759e6ac07"}}

@@ -1,0 +1,1 @@
+{"id":"81dd27202f6485770aaf50de936aec84","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: too_many_requests","name":"es: too_many_requests","status":"passed","testResultsByEnv":{"default":"3756f082c5be07686432fe7b0b635dc6"}}

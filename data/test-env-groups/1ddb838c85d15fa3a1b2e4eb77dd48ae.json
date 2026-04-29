@@ -1,0 +1,1 @@
+{"id":"1ddb838c85d15fa3a1b2e4eb77dd48ae","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 403 when non-admin tries to update","name":"returns 403 when non-admin tries to update","status":"passed","testResultsByEnv":{"default":"652c8050293192ed9da0c43deb35ef1f"}}

@@ -1,0 +1,1 @@
+{"id":"2a4271ecde1b9072b1461de09a46fb62","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/documents returns 403 when labId mismatch (non-full-access user)","name":"returns 403 when labId mismatch (non-full-access user)","status":"passed","testResultsByEnv":{"default":"27ec4c4f57e5b6d0c787b974085ad0db"}}

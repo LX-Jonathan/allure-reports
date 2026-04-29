@@ -1,0 +1,1 @@
+{"id":"25c5e2091a801c2daa5df21678626341","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET / returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"ad1ee6792b190da8aeb40f5d101356f8"}}

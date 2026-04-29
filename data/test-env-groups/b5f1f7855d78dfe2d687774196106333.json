@@ -1,0 +1,1 @@
+{"id":"b5f1f7855d78dfe2d687774196106333","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan bulkUpdateScanItemStatus should skip update when itemIds is empty","name":"should skip update when itemIds is empty","status":"passed","testResultsByEnv":{"default":"401dec85a576e831079d09b11d9d0f2f"}}

@@ -1,0 +1,1 @@
+{"id":"cb61d359b5e208b9189a290415f315b4","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#useAoeLogicEvaluation parseNumeric edge cases returns null for NaN typed number","name":"returns null for NaN typed number","status":"passed","testResultsByEnv":{"default":"47050f5d7d273b4f3a76389b94695161"}}

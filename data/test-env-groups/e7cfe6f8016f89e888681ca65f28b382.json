@@ -1,0 +1,1 @@
+{"id":"e7cfe6f8016f89e888681ca65f28b382","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Biometrics Extended getBiometrics returns empty when patientSearch finds no patients","name":"returns empty when patientSearch finds no patients","status":"passed","testResultsByEnv":{"default":"540e5c7ce52d5433a940fd43df8bd950"}}

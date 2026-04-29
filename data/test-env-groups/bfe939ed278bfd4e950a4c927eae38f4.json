@@ -1,0 +1,1 @@
+{"id":"bfe939ed278bfd4e950a4c927eae38f4","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/threads/:threadId/resolve returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3ab414c9b7e9c563dbb9c07776a85c54"}}

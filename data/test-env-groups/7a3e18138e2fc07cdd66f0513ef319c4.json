@@ -1,0 +1,1 @@
+{"id":"7a3e18138e2fc07cdd66f0513ef319c4","fullName":"client/src/pages/patient/__tests__/patient-messages.test.tsx#renderMessageContent portal links ignores verify URLs that don't carry a token","name":"ignores verify URLs that don't carry a token","status":"passed","testResultsByEnv":{"default":"9e96d29cbbbfd4883848bf9d21850175"}}

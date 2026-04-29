@@ -1,0 +1,1 @@
+{"id":"652d54dc4ba8c3d7916c3f0ea2814566","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog prepends https to website without http prefix","name":"prepends https to website without http prefix","status":"passed","testResultsByEnv":{"default":"0d548cee23fb4395b8360f7994df8d5c"}}

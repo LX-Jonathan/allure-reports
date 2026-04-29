@@ -1,0 +1,1 @@
+{"id":"3175080fcf2aa337f816a97768fe7a17","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/upload-url returns 400 when contentType is missing","name":"returns 400 when contentType is missing","status":"passed","testResultsByEnv":{"default":"993e33e397982175cb051069ebc06002"}}

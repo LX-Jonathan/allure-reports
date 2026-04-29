@@ -1,0 +1,1 @@
+{"id":"8dcf244bf1a642475105d33e835a0393","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/:id/plans returns 500 when storage throws on company lookup","name":"returns 500 when storage throws on company lookup","status":"passed","testResultsByEnv":{"default":"19976432c8a771f373ad2fbfe9e71a05"}}

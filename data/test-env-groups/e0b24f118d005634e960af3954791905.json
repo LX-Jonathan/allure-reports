@@ -1,0 +1,1 @@
+{"id":"e0b24f118d005634e960af3954791905","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors getPatientGuarantors should return guarantors","name":"getPatientGuarantors should return guarantors","status":"passed","testResultsByEnv":{"default":"6402a4420a048cea8e09f1f403642c14"}}

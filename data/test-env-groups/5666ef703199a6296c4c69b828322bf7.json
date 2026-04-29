@@ -1,0 +1,1 @@
+{"id":"5666ef703199a6296c4c69b828322bf7","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/shares/:shareId returns 404 when share not found or access denied","name":"returns 404 when share not found or access denied","status":"passed","testResultsByEnv":{"default":"124e030e7631d03e2e4f6e5af4efc830"}}

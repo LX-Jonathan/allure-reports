@@ -1,0 +1,1 @@
+{"id":"26e96814c391006b3e2c6f40ee6b779a","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /ai-map-form returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"9371ac54873beb4f68b74ac708cdc1b4"}}

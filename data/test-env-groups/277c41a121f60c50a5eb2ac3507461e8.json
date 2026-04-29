@@ -1,0 +1,1 @@
+{"id":"277c41a121f60c50a5eb2ac3507461e8","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should return 500 on server error","name":"should return 500 on server error","status":"passed","testResultsByEnv":{"default":"75a7bb40a4fce5b70845d65d39cce30e"}}

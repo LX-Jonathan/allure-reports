@@ -1,0 +1,1 @@
+{"id":"0f81d2b1cc97f1a8353a2fe8dbe25fb4","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob successful processing should cache successful result to Redis","name":"should cache successful result to Redis","status":"passed","testResultsByEnv":{"default":"fd70c6ad19f5eb43197359fc80a0eba7"}}

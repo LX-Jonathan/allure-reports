@@ -1,0 +1,1 @@
+{"id":"9bc8552ebdab6cfc7c5b60612ace0b78","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batches/:batchId/retry-failed returns 200 when no failed items to retry","name":"returns 200 when no failed items to retry","status":"passed","testResultsByEnv":{"default":"0c70e6a9bafe79f8f2c0776b4575ccb4"}}

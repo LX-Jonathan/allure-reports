@@ -1,0 +1,1 @@
+{"id":"068be29864a8e0a254e663389b60ba18","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/:slug/inquiries returns 404 when superOrg not found","name":"returns 404 when superOrg not found","status":"passed","testResultsByEnv":{"default":"a0b2e3e6be48e1cf8336535ce74477e7"}}

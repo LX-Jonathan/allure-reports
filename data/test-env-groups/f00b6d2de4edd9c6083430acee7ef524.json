@@ -1,0 +1,1 @@
+{"id":"f00b6d2de4edd9c6083430acee7ef524","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns 400 when name too short","name":"returns 400 when name too short","status":"passed","testResultsByEnv":{"default":"e652f383c536f98b5c03a70576ddb161"}}

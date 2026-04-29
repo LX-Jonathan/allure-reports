@@ -1,0 +1,1 @@
+{"id":"94da326674b2a04a33d3a7b73c8f3588","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return false for any transition from completed","name":"should return false for any transition from completed","status":"passed","testResultsByEnv":{"default":"42d1d20e96ee23d7ad2c533bac54461d"}}

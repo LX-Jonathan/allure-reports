@@ -1,0 +1,1 @@
+{"id":"75ee94ce94f088a4d46ea98feb6df669","fullName":"server/__tests__/temporal.test.ts#temporal lib getTemporalNamespaceInfo throws when namespace is not set","name":"throws when namespace is not set","status":"passed","testResultsByEnv":{"default":"64d04e2216621cfca3fc0a745a174ee3"}}

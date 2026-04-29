@@ -1,0 +1,1 @@
+{"id":"97719a80dfb011671d0c1aece4d27237","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"4789edff97fe303bdc74cedd83e6f44f"}}

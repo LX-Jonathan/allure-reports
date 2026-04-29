@@ -1,0 +1,1 @@
+{"id":"145fc6146bafa44ba41d019ce0f687b4","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addScanOrderJob should return null when queue is not available","name":"should return null when queue is not available","status":"passed","testResultsByEnv":{"default":"4fd5e786451ed2e1ff27f5e5431441fd"}}

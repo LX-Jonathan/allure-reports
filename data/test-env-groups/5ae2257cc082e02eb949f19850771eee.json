@@ -1,0 +1,1 @@
+{"id":"5ae2257cc082e02eb949f19850771eee","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-lookup returns 400 for invalid NPI format","name":"returns 400 for invalid NPI format","status":"passed","testResultsByEnv":{"default":"91072612035bd513e428635488747cdb"}}

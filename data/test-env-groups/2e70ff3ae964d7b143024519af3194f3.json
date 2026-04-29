@@ -1,0 +1,1 @@
+{"id":"2e70ff3ae964d7b143024519af3194f3","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/view returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"22f3d578cb07f2787bd4324fee51a819"}}

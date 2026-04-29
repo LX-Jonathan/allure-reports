@@ -1,0 +1,1 @@
+{"id":"43760bc61fe1bbaeda9d655c044c38e7","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended deleteBulkScanBatch returns false when batch not found","name":"returns false when batch not found","status":"passed","testResultsByEnv":{"default":"ee581225deea64cf893d024588a86f7b"}}

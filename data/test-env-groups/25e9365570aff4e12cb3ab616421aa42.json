@@ -1,0 +1,1 @@
+{"id":"25e9365570aff4e12cb3ab616421aa42","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should handle patient with missing optional fields","name":"should handle patient with missing optional fields","status":"passed","testResultsByEnv":{"default":"346eaba1d76819e8fd190fdbf2cbcecf"}}

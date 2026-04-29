@@ -1,0 +1,1 @@
+{"id":"b1e65043c64bb7d1a72f4782ec857356","fullName":"server/routes/__tests__/lab-client-insurance-masters.routes.test.ts#lab-client-insurance-masters PATCH /:id returns 403 for non-admin on PATCH","name":"returns 403 for non-admin on PATCH","status":"passed","testResultsByEnv":{"default":"66202d3bb0950cf23e44a82908e42b20"}}

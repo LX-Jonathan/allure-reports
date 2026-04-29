@@ -1,0 +1,1 @@
+{"id":"38eb9a1dce2ec85047ff3e5093b79b4b","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatientCount returns 0 when no result","name":"returns 0 when no result","status":"passed","testResultsByEnv":{"default":"94e3dbc25b1825a938cac6556c384449"}}

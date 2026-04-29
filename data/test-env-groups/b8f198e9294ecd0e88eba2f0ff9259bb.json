@@ -1,0 +1,1 @@
+{"id":"b8f198e9294ecd0e88eba2f0ff9259bb","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /campaigns returns 400 for missing required fields","name":"returns 400 for missing required fields","status":"passed","testResultsByEnv":{"default":"615d4e1a5267843a3ac033a4a1f73e49"}}

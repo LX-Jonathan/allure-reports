@@ -1,0 +1,1 @@
+{"id":"6ba16a4d34608b592dd69036ff37b985","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePatientRules emits MISSING_NAME error when firstName, lastName and name are all absent","name":"emits MISSING_NAME error when firstName, lastName and name are all absent","status":"passed","testResultsByEnv":{"default":"a7d7f80b3603fc28e0f7336f5718d5ef"}}

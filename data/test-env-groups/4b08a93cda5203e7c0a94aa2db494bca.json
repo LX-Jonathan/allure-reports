@@ -1,0 +1,1 @@
+{"id":"4b08a93cda5203e7c0a94aa2db494bca","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware permission-based chains admin-only chains should not include viewer role","name":"admin-only chains should not include viewer role","status":"passed","testResultsByEnv":{"default":"3aea0406a8e41f3483b52427f70f6c73"}}

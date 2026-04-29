@@ -1,0 +1,1 @@
+{"id":"c1ad34dbef4ee4a70636a5eecfcfac1b","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended getPatientPortalInvitationByEmail returns invitation when found","name":"returns invitation when found","status":"passed","testResultsByEnv":{"default":"0f510ca91fb45e7f4d83f64779f3caa9"}}

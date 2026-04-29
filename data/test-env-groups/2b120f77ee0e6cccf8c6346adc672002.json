@@ -1,0 +1,1 @@
+{"id":"2b120f77ee0e6cccf8c6346adc672002","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromRedis should fall back to local delete for non-redis paths","name":"should fall back to local delete for non-redis paths","status":"passed","testResultsByEnv":{"default":"5cca3f8e4dcaaa9647103d545a39214a"}}

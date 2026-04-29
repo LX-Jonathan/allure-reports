@@ -1,0 +1,1 @@
+{"id":"982ebf174a41b791b7973c5a528c2af6","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxy-invitations/:code/accept returns 410 when invitation is already accepted","name":"returns 410 when invitation is already accepted","status":"passed","testResultsByEnv":{"default":"8da5ad2693f7b7b817d62b84bc4f830c"}}

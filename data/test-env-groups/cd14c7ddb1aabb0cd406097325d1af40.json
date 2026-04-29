@@ -1,0 +1,1 @@
+{"id":"cd14c7ddb1aabb0cd406097325d1af40","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) PATCH /:id super-org user gets 403 when re-parenting to a lab they don't control","name":"super-org user gets 403 when re-parenting to a lab they don't control","status":"passed","testResultsByEnv":{"default":"90391e6dbbd7742d8cb5826dd7265f4c"}}

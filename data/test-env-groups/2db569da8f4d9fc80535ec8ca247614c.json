@@ -1,0 +1,1 @@
+{"id":"2db569da8f4d9fc80535ec8ca247614c","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueLoginCodeEmail should queue without userId","name":"should queue without userId","status":"passed","testResultsByEnv":{"default":"27ad656dd1b805fffbf17a8e6e7af054"}}

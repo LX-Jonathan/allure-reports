@@ -1,0 +1,1 @@
+{"id":"b77ec62c036d6f291f67082f70d8907d","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should return null for empty string","name":"should return null for empty string","status":"passed","testResultsByEnv":{"default":"ca782955bb22c6e195248d6c8699d2b4"}}

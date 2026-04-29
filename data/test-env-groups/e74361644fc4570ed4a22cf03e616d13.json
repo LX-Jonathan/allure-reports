@@ -1,0 +1,1 @@
+{"id":"e74361644fc4570ed4a22cf03e616d13","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/orders/queue should filter by status","name":"should filter by status","status":"passed","testResultsByEnv":{"default":"8fa26fbb1a9f87575f2255dcfb45be3c"}}

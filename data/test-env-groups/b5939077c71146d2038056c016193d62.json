@@ -1,0 +1,1 @@
+{"id":"b5939077c71146d2038056c016193d62","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePreprocessedImage should include contentHash in metadata","name":"should include contentHash in metadata","status":"passed","testResultsByEnv":{"default":"4d41789a370487d100b394ff2f4c09fd"}}

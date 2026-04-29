@@ -1,0 +1,1 @@
+{"id":"fda851e5130e6a41039a887d3692d02f","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id returns 400 when copayVarianceThresholds fails Zod validation","name":"returns 400 when copayVarianceThresholds fails Zod validation","status":"passed","testResultsByEnv":{"default":"7186d9f3487d1951aa53e769379af629"}}

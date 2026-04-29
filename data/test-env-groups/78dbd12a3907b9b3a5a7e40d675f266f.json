@@ -1,0 +1,1 @@
+{"id":"78dbd12a3907b9b3a5a7e40d675f266f","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService delete with Redis configured should handle Redis delete error gracefully","name":"should handle Redis delete error gracefully","status":"passed","testResultsByEnv":{"default":"3c85e089445bb2543e08ca6c62b53775"}}

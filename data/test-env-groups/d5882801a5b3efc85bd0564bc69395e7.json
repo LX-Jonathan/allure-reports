@@ -1,0 +1,1 @@
+{"id":"d5882801a5b3efc85bd0564bc69395e7","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service computeContentHash should handle empty buffer","name":"should handle empty buffer","status":"passed","testResultsByEnv":{"default":"b13710875992832c234bb30ac7dfe194"}}

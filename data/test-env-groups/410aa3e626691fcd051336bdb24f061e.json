@@ -1,0 +1,1 @@
+{"id":"410aa3e626691fcd051336bdb24f061e","fullName":"client/src/hooks/__tests__/use-local-storage-pref.test.ts#useLocalStoragePref returns the default value when nothing is stored","name":"returns the default value when nothing is stored","status":"passed","testResultsByEnv":{"default":"9aec4d9189a262024dcfee10e16e1535"}}

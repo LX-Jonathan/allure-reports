@@ -1,0 +1,1 @@
+{"id":"3f3640564a7bffe8b7350dddf6311cfc","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcess should throw after exhausting retries on rate limit errors","name":"should throw after exhausting retries on rate limit errors","status":"passed","testResultsByEnv":{"default":"9b2ef37e8eacc7c4a3d3450dd5c0b13f"}}

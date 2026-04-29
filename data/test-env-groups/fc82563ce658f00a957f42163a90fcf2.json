@@ -1,0 +1,1 @@
+{"id":"fc82563ce658f00a957f42163a90fcf2","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/:id/items returns 400 for empty cptCode","name":"returns 400 for empty cptCode","status":"passed","testResultsByEnv":{"default":"9a866c3a08f6f9a48cec6c362f55b984"}}

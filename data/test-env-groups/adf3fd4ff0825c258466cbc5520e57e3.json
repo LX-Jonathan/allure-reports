@@ -1,0 +1,1 @@
+{"id":"adf3fd4ff0825c258466cbc5520e57e3","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /:id returns 200 without lineItems in payload","name":"returns 200 without lineItems in payload","status":"passed","testResultsByEnv":{"default":"e8d2d2999d5224b8ad73761519f68ac6"}}

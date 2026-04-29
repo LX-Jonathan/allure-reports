@@ -1,0 +1,1 @@
+{"id":"b4fb35f0185eff51bc5b0986a0861761","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getRolePermissions returns empty array when none assigned","name":"returns empty array when none assigned","status":"passed","testResultsByEnv":{"default":"a2f57feeae86b4659e672dbff8b169ac"}}

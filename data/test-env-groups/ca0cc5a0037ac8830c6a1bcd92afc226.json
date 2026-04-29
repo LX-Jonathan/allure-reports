@@ -1,0 +1,1 @@
+{"id":"ca0cc5a0037ac8830c6a1bcd92afc226","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes GET /stats makes 7 parallel queries","name":"makes 7 parallel queries","status":"passed","testResultsByEnv":{"default":"a928574ff9f16e10f718ac9b232973b5"}}

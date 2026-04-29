@@ -1,0 +1,1 @@
+{"id":"e539f8103b6e6a0da290686221febdc4","fullName":"client/src/lib/__tests__/authUtils.test.ts#getAvatarColor - distribution returns different colors for different first characters","name":"returns different colors for different first characters","status":"passed","testResultsByEnv":{"default":"db98b040044ccfca83c38c40732b8f98"}}

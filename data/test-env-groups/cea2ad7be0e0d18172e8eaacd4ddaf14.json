@@ -1,0 +1,1 @@
+{"id":"cea2ad7be0e0d18172e8eaacd4ddaf14","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/discovery returns 400 when API password not configured (no org context)","name":"returns 400 when API password not configured (no org context)","status":"passed","testResultsByEnv":{"default":"18cba5b3e7a33f143610eb3fc6637264"}}

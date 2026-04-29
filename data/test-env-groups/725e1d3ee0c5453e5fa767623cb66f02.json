@@ -1,0 +1,1 @@
+{"id":"725e1d3ee0c5453e5fa767623cb66f02","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should return parsed JSON data from Redis","name":"should return parsed JSON data from Redis","status":"passed","testResultsByEnv":{"default":"9a1236ea30c636d3c760ee5ca9937a76"}}

@@ -1,0 +1,1 @@
+{"id":"86e2bcf132559a68f86b4b718b1860c0","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject DROP SQL keyword in filter","name":"should reject DROP SQL keyword in filter","status":"passed","testResultsByEnv":{"default":"fca5eab4dcc851c7250e3f1df8efedb5"}}

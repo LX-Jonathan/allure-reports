@@ -1,0 +1,1 @@
+{"id":"3a002c1a22823ce10bad441a0d3404e8","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getErrorLogs should return only error-level logs","name":"should return only error-level logs","status":"passed","testResultsByEnv":{"default":"b45391ff0aeab86cf4551edbef9f739b"}}

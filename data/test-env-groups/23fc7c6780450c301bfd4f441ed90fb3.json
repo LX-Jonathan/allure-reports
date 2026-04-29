@@ -1,0 +1,1 @@
+{"id":"23fc7c6780450c301bfd4f441ed90fb3","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes POST /api/prompt-pay rejects invalid discountPercent exceeding 100","name":"rejects invalid discountPercent exceeding 100","status":"passed","testResultsByEnv":{"default":"d3e679c861cd9d5e3713705914554cc6"}}

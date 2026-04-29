@@ -1,0 +1,1 @@
+{"id":"5c82accc4416376b06d7a703800ecaea","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service debug/info/warn/error shortcuts should set level to info","name":"should set level to info","status":"passed","testResultsByEnv":{"default":"9d0b5b3fc75e66146f7a4f67d10aa54f"}}

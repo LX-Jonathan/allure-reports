@@ -1,0 +1,1 @@
+{"id":"f5f2c4f30ad666591df477818db2a9eb","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log SendGrid error status code","name":"should log SendGrid error status code","status":"passed","testResultsByEnv":{"default":"33176c487c288e6a7d38dc49b4f00335"}}

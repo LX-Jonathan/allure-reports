@@ -1,0 +1,1 @@
+{"id":"4debf1f26a3ada869b79de8e9e0f93a2","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records/:id returns record with full access","name":"returns record with full access","status":"passed","testResultsByEnv":{"default":"cd06e0e152efece5fad1ab37bdc8aa8c"}}

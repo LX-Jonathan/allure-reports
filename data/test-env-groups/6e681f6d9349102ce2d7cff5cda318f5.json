@@ -1,0 +1,1 @@
+{"id":"6e681f6d9349102ce2d7cff5cda318f5","fullName":"server/__tests__/audit.test.ts#audit middleware auditMiddleware wraps res.end and calls next for non-skipped paths","name":"wraps res.end and calls next for non-skipped paths","status":"passed","testResultsByEnv":{"default":"a554100fd594498d4633191b4cbc45d7"}}

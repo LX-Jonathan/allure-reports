@@ -1,0 +1,1 @@
+{"id":"36929ee872bb180264a42b9cfe960bd5","fullName":"server/__tests__/storage-results.test.ts#DatabaseStorage - Lab Results findPatientByDemographics should normalize names to uppercase for comparison","name":"should normalize names to uppercase for comparison","status":"passed","testResultsByEnv":{"default":"05c8dd78be011d92ccdfca1084f2e6a2"}}

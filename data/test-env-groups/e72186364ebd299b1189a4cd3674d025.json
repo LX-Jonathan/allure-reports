@@ -1,0 +1,1 @@
+{"id":"e72186364ebd299b1189a4cd3674d025","fullName":"server/__tests__/dtc.routes.test.ts#dtc routes POST /api/v1/dtc/products returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"cb6e1fb5034a1eb95fdfad4cf2579038"}}

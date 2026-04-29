@@ -1,0 +1,1 @@
+{"id":"40e19db9b9bff22fb4ebf8445ae022de","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /ai-generate returns 400 for empty prompt","name":"returns 400 for empty prompt","status":"passed","testResultsByEnv":{"default":"490b363bdc5c0c2d260dd0daf938e82c"}}

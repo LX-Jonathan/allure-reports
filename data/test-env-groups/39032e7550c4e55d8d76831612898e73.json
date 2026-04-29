@@ -1,0 +1,1 @@
+{"id":"39032e7550c4e55d8d76831612898e73","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckins computes pagination metadata for multi-page results","name":"computes pagination metadata for multi-page results","status":"passed","testResultsByEnv":{"default":"becc028b178118b28f9fed28f6e9ef74"}}

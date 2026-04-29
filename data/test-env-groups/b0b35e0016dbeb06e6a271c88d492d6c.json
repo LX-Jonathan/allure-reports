@@ -1,0 +1,1 @@
+{"id":"b0b35e0016dbeb06e6a271c88d492d6c","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should skip totalPaid line when totalPaid is 0","name":"should skip totalPaid line when totalPaid is 0","status":"passed","testResultsByEnv":{"default":"90fd0cafb07e821855c0ec9f296c77d1"}}

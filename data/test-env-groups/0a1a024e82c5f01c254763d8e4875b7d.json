@@ -1,0 +1,1 @@
+{"id":"0a1a024e82c5f01c254763d8e4875b7d","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/labs/:id should update an organization","name":"should update an organization","status":"passed","testResultsByEnv":{"default":"a37cbff62109e88489eeeb4cc7833be6"}}

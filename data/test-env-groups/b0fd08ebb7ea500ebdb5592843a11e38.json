@@ -1,0 +1,1 @@
+{"id":"b0fd08ebb7ea500ebdb5592843a11e38","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings observationToResult parses valueBoolean","name":"parses valueBoolean","status":"passed","testResultsByEnv":{"default":"318d154714764337c1d20242c6996fb0"}}

@@ -1,0 +1,1 @@
+{"id":"53f37f1f7593003e92032e90744be18e","fullName":"shared/__tests__/import-normalizers.test.ts#normalizeLanguageCode preserves BCP-47 style tags that match the primary pattern","name":"preserves BCP-47 style tags that match the primary pattern","status":"passed","testResultsByEnv":{"default":"fb8c08dc3935507c8cdb20b82a68ed41"}}

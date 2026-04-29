@@ -1,0 +1,1 @@
+{"id":"6ee1c707788d95da074210ae3c97d6dc","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should reject self-parent","name":"should reject self-parent","status":"passed","testResultsByEnv":{"default":"6ae16131263adb79c3eaf1739a269ff1"}}

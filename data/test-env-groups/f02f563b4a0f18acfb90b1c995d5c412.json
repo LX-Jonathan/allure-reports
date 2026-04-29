@@ -1,0 +1,1 @@
+{"id":"f02f563b4a0f18acfb90b1c995d5c412","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/shipments/:id (Staff Portal - Update Shipment) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"25b1323782154d207601e598df08f47e"}}

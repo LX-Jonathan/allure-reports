@@ -1,0 +1,1 @@
+{"id":"c0a59568039b5d041ddf6a6c0f9e3503","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /recent-threads applies status filter for open threads","name":"applies status filter for open threads","status":"passed","testResultsByEnv":{"default":"99d0ba37c6ec6e0cc95edcea711a1a4b"}}

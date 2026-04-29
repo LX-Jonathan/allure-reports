@@ -1,0 +1,1 @@
+{"id":"7ad920b6808f6c3474d5ce870ee3aff5","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab financial summary renders an account credit row when stored credit is positive","name":"renders an account credit row when stored credit is positive","status":"passed","testResultsByEnv":{"default":"a620d4e8fea321dd1be6249d7d8072f5"}}

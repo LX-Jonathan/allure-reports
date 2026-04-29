@@ -1,0 +1,1 @@
+{"id":"a6f9cea85b9caa11f4ebf8bfe341ec0f","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob execute-report type should execute report with correct context","name":"should execute report with correct context","status":"passed","testResultsByEnv":{"default":"621c49a875a1d60fdfd0b59ba3793585"}}

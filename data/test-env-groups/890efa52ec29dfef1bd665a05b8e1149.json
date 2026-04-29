@@ -1,0 +1,1 @@
+{"id":"890efa52ec29dfef1bd665a05b8e1149","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/generate-abn returns 500 when service throws error","name":"returns 500 when service throws error","status":"passed","testResultsByEnv":{"default":"d378f472c05901cf854c0a8a5ee7b7b9"}}

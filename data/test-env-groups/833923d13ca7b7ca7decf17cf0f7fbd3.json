@@ -1,0 +1,1 @@
+{"id":"833923d13ca7b7ca7decf17cf0f7fbd3","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes DELETE /locations/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9998b2847d42b1cd4378aecae6eec0cc"}}

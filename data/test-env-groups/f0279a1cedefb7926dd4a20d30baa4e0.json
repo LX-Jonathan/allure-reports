@@ -1,0 +1,1 @@
+{"id":"f0279a1cedefb7926dd4a20d30baa4e0","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes DELETE /api/interfaces/alert-rules/:id should return 404 when rule not found","name":"should return 404 when rule not found","status":"passed","testResultsByEnv":{"default":"5fe603aa9262aa84e21d30750986d769"}}

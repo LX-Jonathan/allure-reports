@@ -1,0 +1,1 @@
+{"id":"2d8243a46fe501784c5525f687410957","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canCreateOrders chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"57a315fff39e170b6e9dbf668c879c47"}}

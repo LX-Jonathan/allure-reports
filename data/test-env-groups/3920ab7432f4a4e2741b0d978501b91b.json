@@ -1,0 +1,1 @@
+{"id":"3920ab7432f4a4e2741b0d978501b91b","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 for month below 1","name":"should return 400 for month below 1","status":"passed","testResultsByEnv":{"default":"39a9a43659619d142a201f412a104f86"}}

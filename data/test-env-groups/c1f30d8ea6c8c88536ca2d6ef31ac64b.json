@@ -1,0 +1,1 @@
+{"id":"c1f30d8ea6c8c88536ca2d6ef31ac64b","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/quickstarts/:id/publish returns 403 for non-admin users","name":"returns 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"ba5e35373d67f5d3a3e9727b6831716f"}}

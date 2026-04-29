@@ -1,0 +1,1 @@
+{"id":"af5a7058d677c05b9e9bfbe0be4f32df","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Container Image Endpoints DELETE /api/v1/lab-tests/:id/container-image returns 404 when lab test not found","name":"returns 404 when lab test not found","status":"passed","testResultsByEnv":{"default":"855926ded52b7d9b9b3e3c088750be34"}}

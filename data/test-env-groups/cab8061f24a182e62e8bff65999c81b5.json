@@ -1,0 +1,1 @@
+{"id":"cab8061f24a182e62e8bff65999c81b5","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireRole should handle empty role name","name":"should handle empty role name","status":"passed","testResultsByEnv":{"default":"4afdcd6cb05b41405fbec51edb9b4276"}}

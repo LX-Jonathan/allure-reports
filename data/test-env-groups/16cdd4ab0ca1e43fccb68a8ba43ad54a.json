@@ -1,0 +1,1 @@
+{"id":"16cdd4ab0ca1e43fccb68a8ba43ad54a","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/ai-map-from-source returns 400 when no source PDF key","name":"returns 400 when no source PDF key","status":"passed","testResultsByEnv":{"default":"c71ac52a1893e60526adcbecded3e89d"}}

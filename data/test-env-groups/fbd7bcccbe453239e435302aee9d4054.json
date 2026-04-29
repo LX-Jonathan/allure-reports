@@ -1,0 +1,1 @@
+{"id":"fbd7bcccbe453239e435302aee9d4054","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob scheduled-report type should not send emails when delivery method is download","name":"should not send emails when delivery method is download","status":"passed","testResultsByEnv":{"default":"8d02640a08a117bee3056cd1aaf3ce02"}}

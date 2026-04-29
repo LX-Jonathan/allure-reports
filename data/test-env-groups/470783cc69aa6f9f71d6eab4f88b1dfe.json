@@ -1,0 +1,1 @@
+{"id":"470783cc69aa6f9f71d6eab4f88b1dfe","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should return 401 when X-API-Key header is missing","name":"should return 401 when X-API-Key header is missing","status":"passed","testResultsByEnv":{"default":"a2fb353e7dc0936c084804c3ee29d079"}}

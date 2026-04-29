@@ -1,0 +1,1 @@
+{"id":"a5ba81549e7642165caee983dd86c476","fullName":"client/src/pages/__tests__/order-new.test.tsx#OrderNewPage does not show the failure badge on the trigger when there are no failures","name":"does not show the failure badge on the trigger when there are no failures","status":"passed","testResultsByEnv":{"default":"8096b3112e770c2db36cbb4e4a32a1d5"}}

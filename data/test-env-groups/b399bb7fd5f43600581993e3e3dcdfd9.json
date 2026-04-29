@@ -1,0 +1,1 @@
+{"id":"b399bb7fd5f43600581993e3e3dcdfd9","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 400 for invalid type enum","name":"returns 400 for invalid type enum","status":"passed","testResultsByEnv":{"default":"f069dc32b49e13c9a894ad3f3a9d9d9e"}}

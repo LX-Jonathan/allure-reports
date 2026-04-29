@@ -1,0 +1,1 @@
+{"id":"8a35c7a5d27849120c8f099135b379b8","fullName":"client/src/components/patient/__tests__/eligibility-check-dialog.test.tsx#EligibilityCheckDialog renders nothing when result is null","name":"renders nothing when result is null","status":"passed","testResultsByEnv":{"default":"9654df242de52afcfe6a6e2ef2f79df7"}}

@@ -1,0 +1,1 @@
+{"id":"8f43eb67975e1ab1ac932d3fcffa55fc","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter labxchange userType (full access) should ignore org/location fields for labxchange","name":"should ignore org/location fields for labxchange","status":"passed","testResultsByEnv":{"default":"54c4fc419618f70450c43f0dc936f891"}}

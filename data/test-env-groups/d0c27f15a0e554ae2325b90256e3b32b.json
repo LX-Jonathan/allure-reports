@@ -1,0 +1,1 @@
+{"id":"d0c27f15a0e554ae2325b90256e3b32b","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker should register failed event handler","name":"should register failed event handler","status":"passed","testResultsByEnv":{"default":"ab771a7be8c781dcba8f81ff9717b22d"}}

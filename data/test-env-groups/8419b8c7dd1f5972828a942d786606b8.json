@@ -1,0 +1,1 @@
+{"id":"8419b8c7dd1f5972828a942d786606b8","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations createRole throws when DB rejects (duplicate)","name":"throws when DB rejects (duplicate)","status":"passed","testResultsByEnv":{"default":"97b91718afb4a1e7cdd283b05eeac649"}}

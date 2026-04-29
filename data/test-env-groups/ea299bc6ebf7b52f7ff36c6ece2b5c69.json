@@ -1,0 +1,1 @@
+{"id":"ea299bc6ebf7b52f7ff36c6ece2b5c69","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should return empty string for null/undefined","name":"should return empty string for null/undefined","status":"passed","testResultsByEnv":{"default":"9ca5fe8975b1f3832de2627ebc42f87f"}}

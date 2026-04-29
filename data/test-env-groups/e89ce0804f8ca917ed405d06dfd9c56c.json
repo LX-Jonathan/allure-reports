@@ -1,0 +1,1 @@
+{"id":"e89ce0804f8ca917ed405d06dfd9c56c","fullName":"client/src/lib/__tests__/queryClient.test.ts#getCSRFToken returns null when no csrf cookie exists","name":"returns null when no csrf cookie exists","status":"passed","testResultsByEnv":{"default":"d9a2aba103ef3bd22ffc8bd941ceb7b0"}}

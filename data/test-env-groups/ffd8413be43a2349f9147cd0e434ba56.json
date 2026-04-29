@@ -1,0 +1,1 @@
+{"id":"ffd8413be43a2349f9147cd0e434ba56","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService exportReport should return error for pdf export (not implemented)","name":"should return error for pdf export (not implemented)","status":"passed","testResultsByEnv":{"default":"485de9bae5b564433ffdd585746148df"}}

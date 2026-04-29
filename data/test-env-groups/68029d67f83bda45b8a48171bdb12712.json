@@ -1,0 +1,1 @@
+{"id":"68029d67f83bda45b8a48171bdb12712","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes GET /api/v1/order-intake/job/:jobId/status should return 503 when bullmq not configured","name":"should return 503 when bullmq not configured","status":"passed","testResultsByEnv":{"default":"23708f28ecda0e50d1e35b88cbba6f00"}}

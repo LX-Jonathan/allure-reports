@@ -1,0 +1,1 @@
+{"id":"23112e8357b74cb3a4d7aaaf4406cf9f","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id/pdf returns 403 for mismatched parentLabId","name":"returns 403 for mismatched parentLabId","status":"passed","testResultsByEnv":{"default":"21c29de1e83f5f51092a1be4a38a6022"}}

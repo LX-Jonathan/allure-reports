@@ -1,0 +1,1 @@
+{"id":"85982307d6c00a6bae51a0c3989bf025","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments with applyCreditCents rejects when patient belongs to a different organization","name":"rejects when patient belongs to a different organization","status":"passed","testResultsByEnv":{"default":"ea59b5a4f06ca0fd4699fb34679e3ec4"}}

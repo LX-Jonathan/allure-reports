@@ -1,0 +1,1 @@
+{"id":"77ca43893cb61635d2b4824f0d4b178e","fullName":"client/src/pages/patient/__tests__/patient-profile.test.tsx#summarizeUserAgent returns 'Unknown device' for null input","name":"returns 'Unknown device' for null input","status":"passed","testResultsByEnv":{"default":"e9f88319ed5f3141a789bae23a7ba11d"}}

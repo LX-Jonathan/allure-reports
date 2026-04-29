@@ -1,0 +1,1 @@
+{"id":"350318c5e99153a51295d7dcb4d747c3","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics returns 400 for invalid UUID in patientId","name":"returns 400 for invalid UUID in patientId","status":"passed","testResultsByEnv":{"default":"8b7573033ee3f44b31c83334a5e4a1fa"}}

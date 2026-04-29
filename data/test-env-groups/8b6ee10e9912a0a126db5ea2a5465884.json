@@ -1,0 +1,1 @@
+{"id":"8b6ee10e9912a0a126db5ea2a5465884","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment records payment without orderId","name":"records payment without orderId","status":"passed","testResultsByEnv":{"default":"dc77604c40cc29bfed5ea60fb660d6af"}}

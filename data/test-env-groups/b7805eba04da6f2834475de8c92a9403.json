@@ -1,0 +1,1 @@
+{"id":"b7805eba04da6f2834475de8c92a9403","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes CORS middleware does not set CORS header for disallowed origin","name":"does not set CORS header for disallowed origin","status":"passed","testResultsByEnv":{"default":"0f6a1d7c99818e9c7c562bf5ddf8efb2"}}

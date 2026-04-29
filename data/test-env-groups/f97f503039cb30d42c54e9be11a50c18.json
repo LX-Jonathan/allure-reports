@@ -1,0 +1,1 @@
+{"id":"f97f503039cb30d42c54e9be11a50c18","fullName":"client/src/lib/__tests__/import-configs.test.ts#autoMatchColumns returns empty mapping when no headers match","name":"returns empty mapping when no headers match","status":"passed","testResultsByEnv":{"default":"80843d09ee98d8306eb8750cf8b67b2a"}}

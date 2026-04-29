@@ -1,0 +1,1 @@
+{"id":"4d40ce9ec82a4972471dc8b9f8b4072b","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/articles returns 201 when article is created","name":"returns 201 when article is created","status":"passed","testResultsByEnv":{"default":"9964ba7651b62ffa6cb24e27afe03989"}}

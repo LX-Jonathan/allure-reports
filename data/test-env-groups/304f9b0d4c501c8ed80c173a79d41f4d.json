@@ -1,0 +1,1 @@
+{"id":"304f9b0d4c501c8ed80c173a79d41f4d","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useSavedAddressOptions returns empty list when no data is cached","name":"returns empty list when no data is cached","status":"passed","testResultsByEnv":{"default":"a9801b16af3c08ec46161554756150a5"}}

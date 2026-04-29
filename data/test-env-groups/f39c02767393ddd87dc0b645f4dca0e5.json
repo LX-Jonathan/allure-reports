@@ -1,0 +1,1 @@
+{"id":"f39c02767393ddd87dc0b645f4dca0e5","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes PATCH /api/v1/form-configs/:id returns 403 when non-admin tries to update super-org level config","name":"returns 403 when non-admin tries to update super-org level config","status":"passed","testResultsByEnv":{"default":"633d477d3534f428795839809b0ba373"}}

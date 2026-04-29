@@ -1,0 +1,1 @@
+{"id":"72b20388c67a983a81f1b31a7ba481ae","fullName":"server/lib/__tests__/reportCache.test.ts#getCachedReport returns null when envelope data is null","name":"returns null when envelope data is null","status":"passed","testResultsByEnv":{"default":"3d22bb130cc0c34c6862ffc386f2005e"}}

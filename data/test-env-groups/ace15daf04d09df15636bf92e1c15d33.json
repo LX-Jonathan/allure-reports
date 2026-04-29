@@ -1,0 +1,1 @@
+{"id":"ace15daf04d09df15636bf92e1c15d33","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap applies locationId filter for super_admin","name":"applies locationId filter for super_admin","status":"passed","testResultsByEnv":{"default":"974d15f124593627a248e8ab1b2202ad"}}

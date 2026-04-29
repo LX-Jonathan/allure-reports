@@ -1,0 +1,1 @@
+{"id":"5766fbcb3d8aac367862aab2a26ea1fe","fullName":"server/services/__tests__/readinessEvaluator.test.ts#calculateReadinessScore deducts 5 per warning","name":"deducts 5 per warning","status":"passed","testResultsByEnv":{"default":"0b4676af7b12393cb48e96989aa1be70"}}

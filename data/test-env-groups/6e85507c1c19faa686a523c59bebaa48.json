@@ -1,0 +1,1 @@
+{"id":"6e85507c1c19faa686a523c59bebaa48","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 403 for org_admin trying to create config for another org","name":"returns 403 for org_admin trying to create config for another org","status":"passed","testResultsByEnv":{"default":"84fc55715c8204bf6fc6e587ca0415d5"}}

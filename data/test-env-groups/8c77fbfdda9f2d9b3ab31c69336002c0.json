@@ -1,0 +1,1 @@
+{"id":"8c77fbfdda9f2d9b3ab31c69336002c0","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should validate DELETE requests","name":"should validate DELETE requests","status":"passed","testResultsByEnv":{"default":"05265442865ff23e07529f2104c092a3"}}

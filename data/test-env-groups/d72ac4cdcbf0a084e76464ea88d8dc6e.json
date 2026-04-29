@@ -1,0 +1,1 @@
+{"id":"d72ac4cdcbf0a084e76464ea88d8dc6e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients additional branches returns masked SSN in response","name":"returns masked SSN in response","status":"passed","testResultsByEnv":{"default":"3ee429804b0174e35545bfd68bfea624"}}

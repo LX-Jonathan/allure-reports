@@ -1,0 +1,1 @@
+{"id":"1c209cd26abbd2da64e792aa29741268","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/frhc-api-configs/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"955c57d51ea9d0a3d4faee815cdbb2fa"}}

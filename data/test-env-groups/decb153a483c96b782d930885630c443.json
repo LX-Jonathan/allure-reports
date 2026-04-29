@@ -1,0 +1,1 @@
+{"id":"decb153a483c96b782d930885630c443","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes POST /api/v1/lab-tests/compendium-configs returns 403 when org_admin creates for different org","name":"returns 403 when org_admin creates for different org","status":"passed","testResultsByEnv":{"default":"f689ea592876dc07d0e260409781866f"}}

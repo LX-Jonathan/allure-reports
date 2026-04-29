@@ -1,0 +1,1 @@
+{"id":"600ebece3919aaaf309bd016c0f484c8","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments sets bookedByUserId from request user","name":"sets bookedByUserId from request user","status":"passed","testResultsByEnv":{"default":"b0d0fc7cd4f6b66fb962f8db9514de08"}}

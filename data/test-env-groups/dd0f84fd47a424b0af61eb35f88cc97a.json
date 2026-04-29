@@ -1,0 +1,1 @@
+{"id":"dd0f84fd47a424b0af61eb35f88cc97a","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should map 'medicaid' to 'Medicaid'","name":"should map 'medicaid' to 'Medicaid'","status":"passed","testResultsByEnv":{"default":"047a7966c2f7007b570a06e0b3ae1ac3"}}

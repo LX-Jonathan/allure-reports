@@ -1,0 +1,1 @@
+{"id":"f17da3943bf24bb27feeeb41cbb8b966","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes Auth middleware allows requests when auth is disabled in non-production","name":"allows requests when auth is disabled in non-production","status":"passed","testResultsByEnv":{"default":"9d934767d4fd5e5380d251cfdd446e4c"}}

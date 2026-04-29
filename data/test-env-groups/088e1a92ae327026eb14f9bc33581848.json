@@ -1,0 +1,1 @@
+{"id":"088e1a92ae327026eb14f9bc33581848","fullName":"server/__tests__/orders.routes.test.ts#orders.routes PATCH /api/v1/orders/:id/status should return 400 without status","name":"should return 400 without status","status":"passed","testResultsByEnv":{"default":"7c6967c3743bb4ad6a215de26d65c3f0"}}

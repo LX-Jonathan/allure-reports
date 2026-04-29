@@ -1,0 +1,1 @@
+{"id":"635cf2147a71e7d0a8656857d1dc1d47","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#isMarketplaceProfileFallbackOnly returns true when isFallback flag is set even with id","name":"returns true when isFallback flag is set even with id","status":"passed","testResultsByEnv":{"default":"b51c5b9dd0c6e722693de8d42ecbf217"}}

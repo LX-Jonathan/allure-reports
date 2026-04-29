@@ -1,0 +1,1 @@
+{"id":"555a06ff1917a8db7eb5c77ee6d69c12","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should apply threshold (128) when option is true","name":"should apply threshold (128) when option is true","status":"passed","testResultsByEnv":{"default":"76e417960985927ba520bee44beff5d6"}}

@@ -1,0 +1,1 @@
+{"id":"a460bcd439323646e60796bc4dd00c19","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes GET /order/:orderId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"7c282f219e84090ed5e908a467fc8f84"}}

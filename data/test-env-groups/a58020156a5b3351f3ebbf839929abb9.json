@@ -1,0 +1,1 @@
+{"id":"a58020156a5b3351f3ebbf839929abb9","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /fee-schedules/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9eec1ca1a3641bf8fe593834f150cef3"}}

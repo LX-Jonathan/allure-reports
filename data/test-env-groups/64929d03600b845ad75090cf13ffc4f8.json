@@ -1,0 +1,1 @@
+{"id":"64929d03600b845ad75090cf13ffc4f8","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient fhirRequest (via testConnection) should handle base URL with trailing slash","name":"should handle base URL with trailing slash","status":"passed","testResultsByEnv":{"default":"b0bd9b9b99e78123a078b7e5bcc8bcd0"}}

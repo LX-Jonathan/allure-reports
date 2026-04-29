@@ -1,0 +1,1 @@
+{"id":"9a1e13dd937ec798c5a43c3da67152cb","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules returns 200 with paginated schedules for super_admin","name":"returns 200 with paginated schedules for super_admin","status":"passed","testResultsByEnv":{"default":"7168ee5d44aa9737d34f0a0a63185c43"}}

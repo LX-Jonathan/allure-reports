@@ -1,0 +1,1 @@
+{"id":"cc0b48f48be47e4c7b7951e29e8672e6","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient testConnection should return failure on connection error","name":"should return failure on connection error","status":"passed","testResultsByEnv":{"default":"db8ee0f55b60f057fd9a6b57be18a266"}}

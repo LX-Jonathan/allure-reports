@@ -1,0 +1,1 @@
+{"id":"342e5515cc00976fd5c3ff0c7f14055b","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service retrieveOCRText should return null when artifact not found","name":"should return null when artifact not found","status":"passed","testResultsByEnv":{"default":"a13ca63f68354b2920ba27b558da7c80"}}

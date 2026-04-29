@@ -1,0 +1,1 @@
+{"id":"d885718e59b15504a5f27979510a423b","fullName":"server/replit_integrations/chat/__tests__/storage.test.ts#chatStorage createMessage should propagate database errors","name":"should propagate database errors","status":"passed","testResultsByEnv":{"default":"ccbc10c1fbaffd08e9b26138ebc5ed3e"}}

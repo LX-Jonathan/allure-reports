@@ -1,0 +1,1 @@
+{"id":"0e9ab9b643b579cc9fba09d5ba3e00c0","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should handle sadd error gracefully","name":"should handle sadd error gracefully","status":"passed","testResultsByEnv":{"default":"22495b7c8a7ede77441b787868baba02"}}

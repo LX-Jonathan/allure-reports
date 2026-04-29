@@ -1,0 +1,1 @@
+{"id":"c5b1f329547d8f35394541dfa21c4e4e","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient pullPatientRecords should set correct resourceType for each category","name":"should set correct resourceType for each category","status":"passed","testResultsByEnv":{"default":"e5e206629fcfd99b48db92c64593883a"}}

@@ -1,0 +1,1 @@
+{"id":"f4be46212b26ba2967616850cfd614ed","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService invalidatePattern should delete all matching keys","name":"should delete all matching keys","status":"passed","testResultsByEnv":{"default":"bda7bc9084a2995d8282a84daadf4abe"}}

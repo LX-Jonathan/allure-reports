@@ -1,0 +1,1 @@
+{"id":"c571a61894c0b5c0c388b86cc6d47ae4","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should include trading partner list in prompt","name":"should include trading partner list in prompt","status":"passed","testResultsByEnv":{"default":"720433685d06ebab0e4c63b7a95bf6ef"}}

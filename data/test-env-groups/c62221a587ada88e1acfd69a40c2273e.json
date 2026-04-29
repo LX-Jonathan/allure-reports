@@ -1,0 +1,1 @@
+{"id":"c62221a587ada88e1acfd69a40c2273e","fullName":"server/lib/__tests__/result-queue-processor.test.ts#result-queue-processor processResultQueue - status normalization should normalize status 'cancelled' to 'cancelled'","name":"should normalize status 'cancelled' to 'cancelled'","status":"passed","testResultsByEnv":{"default":"db30334c4156814a63a99a1de3987674"}}

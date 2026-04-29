@@ -1,0 +1,1 @@
+{"id":"35b272f815ee44a86c5dea54b91a68c3","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules updateAppointmentStatus updates status without cancellation reason","name":"updates status without cancellation reason","status":"passed","testResultsByEnv":{"default":"c6bd3fd1762042deb663c16e2893a86a"}}

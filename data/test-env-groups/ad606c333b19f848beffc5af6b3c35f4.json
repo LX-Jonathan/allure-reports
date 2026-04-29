@@ -1,0 +1,1 @@
+{"id":"ad606c333b19f848beffc5af6b3c35f4","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes DELETE /:id returns 404 when partner not found","name":"returns 404 when partner not found","status":"passed","testResultsByEnv":{"default":"d53c1e34524992052998806bc03d6fde"}}

@@ -1,0 +1,1 @@
+{"id":"97e8340953127d4c60a03873b5b7e902","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth redirects to login on invalid JSON in stored user","name":"redirects to login on invalid JSON in stored user","status":"passed","testResultsByEnv":{"default":"a3561006c569fa8cca8e3ced9c1ee654"}}

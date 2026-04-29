@@ -1,0 +1,1 @@
+{"id":"3adb10fa561fbc801cad04cd7c3328f8","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromRedis should strip redis: prefix for deletion key","name":"should strip redis: prefix for deletion key","status":"passed","testResultsByEnv":{"default":"e38a527ddf6b3923836f60e09a52c74d"}}

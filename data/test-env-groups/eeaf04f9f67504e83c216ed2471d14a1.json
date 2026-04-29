@@ -1,0 +1,1 @@
+{"id":"eeaf04f9f67504e83c216ed2471d14a1","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Delete DELETE /api/v1/diagnosis-codes/:id returns 403 when org_admin deletes different super org's code","name":"returns 403 when org_admin deletes different super org's code","status":"passed","testResultsByEnv":{"default":"c486e9aa996e180453497f8365f3586a"}}

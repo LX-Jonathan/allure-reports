@@ -1,0 +1,1 @@
+{"id":"fbda8e8ff1b1f00069c708445ba76fc8","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/lab-info should include footerText from portal branding settings","name":"should include footerText from portal branding settings","status":"passed","testResultsByEnv":{"default":"1f1e15944672c45faf6f453dc11b7daf"}}

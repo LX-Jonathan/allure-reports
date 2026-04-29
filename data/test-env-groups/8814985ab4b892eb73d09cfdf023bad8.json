@@ -1,0 +1,1 @@
+{"id":"8814985ab4b892eb73d09cfdf023bad8","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations deleteUser returns true on successful soft-delete","name":"returns true on successful soft-delete","status":"passed","testResultsByEnv":{"default":"d7b073b39747f2613a8cde2c04ef0826"}}

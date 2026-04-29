@@ -1,0 +1,1 @@
+{"id":"05b2bee0266ca413aaa578449ad979cb","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes PATCH /:id returns 400 for invalid discountValue","name":"returns 400 for invalid discountValue","status":"passed","testResultsByEnv":{"default":"b77b57ad83881f2ee6a988ebbf6fadb8"}}

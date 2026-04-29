@@ -1,0 +1,1 @@
+{"id":"7a6942e88a5aa17d82e69a6e6a3e1bd8","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"6d5b45a08b2bdf0a49dae4351cd32419"}}

@@ -1,0 +1,1 @@
+{"id":"f5122356d75a7735fa084ca3b476a2fb","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware Redis rate limiting should set rate limit headers from Redis","name":"should set rate limit headers from Redis","status":"passed","testResultsByEnv":{"default":"941f30b826908c6dabf08723576967b4"}}

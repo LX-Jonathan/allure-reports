@@ -1,0 +1,1 @@
+{"id":"f496960eb034a47a33e689a30b34bda6","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should return null when amount is negative","name":"should return null when amount is negative","status":"passed","testResultsByEnv":{"default":"fc405156f1e89077988e2d8428fe57f7"}}

@@ -1,0 +1,1 @@
+{"id":"eec69da4a9c6ac03bde385631a8a02f0","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results/:id returns 403 when result is from different organization","name":"returns 403 when result is from different organization","status":"passed","testResultsByEnv":{"default":"06e37af242f19f12f4676deaeed45f45"}}

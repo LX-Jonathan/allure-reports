@@ -1,0 +1,1 @@
+{"id":"30094c5e8652105535224864697c97d1","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusLabel returns the label for a known status","name":"returns the label for a known status","status":"passed","testResultsByEnv":{"default":"ba7e733ce0a4864c1fe6f031ae3ed743"}}

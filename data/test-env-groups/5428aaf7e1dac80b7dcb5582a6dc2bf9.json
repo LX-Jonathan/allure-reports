@@ -1,0 +1,1 @@
+{"id":"5428aaf7e1dac80b7dcb5582a6dc2bf9","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcessWithSSE should abort immediately on non-rate-limit errors (no retry)","name":"should abort immediately on non-rate-limit errors (no retry)","status":"passed","testResultsByEnv":{"default":"509d3576c5c325d519ad846f0b2054e4"}}

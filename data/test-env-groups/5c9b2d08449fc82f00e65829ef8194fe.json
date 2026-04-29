@@ -1,0 +1,1 @@
+{"id":"5c9b2d08449fc82f00e65829ef8194fe","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/fee-schedule-prices returns 404 when order not found","name":"returns 404 when order not found","status":"passed","testResultsByEnv":{"default":"872a0ee7f0a5e1d8e71bba8518d0ea4a"}}

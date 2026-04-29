@@ -1,0 +1,1 @@
+{"id":"2b9bd5bf2d39c0196f14107d9b339540","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers (additional edge cases) scopes to user parentLabId for non-super_admin","name":"scopes to user parentLabId for non-super_admin","status":"passed","testResultsByEnv":{"default":"8434b3d348da096b6b1d53946862c294"}}

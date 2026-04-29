@@ -1,0 +1,1 @@
+{"id":"6d8e8f8220f902838ef60f87f88a96c6","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /locations/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"a3bfca2c5c72e01926cb558c875a3767"}}

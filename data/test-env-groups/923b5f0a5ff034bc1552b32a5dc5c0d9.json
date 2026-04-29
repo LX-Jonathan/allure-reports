@@ -1,0 +1,1 @@
+{"id":"923b5f0a5ff034bc1552b32a5dc5c0d9","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode ignores invisible preceding sections when determining the anchor","name":"ignores invisible preceding sections when determining the anchor","status":"passed","testResultsByEnv":{"default":"141963db1e4e14a224a1c255f444994d"}}

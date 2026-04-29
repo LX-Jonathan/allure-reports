@@ -1,0 +1,1 @@
+{"id":"0be4190e40b93e12c8a01a11f9a1a90b","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/:id returns 404 when provider not found","name":"returns 404 when provider not found","status":"passed","testResultsByEnv":{"default":"f0a9194d72a60c096812d3cfa04c84c2"}}

@@ -1,0 +1,1 @@
+{"id":"1f59ad5e2a4f412fde62cd75783a7723","fullName":"server/services/__tests__/readinessEvaluator.test.ts#calculateReadinessScore combines errors and warnings correctly","name":"combines errors and warnings correctly","status":"passed","testResultsByEnv":{"default":"db0d77ec75af21fea9419336945b1d76"}}

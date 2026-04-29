@@ -1,0 +1,1 @@
+{"id":"5407238a7c30ce003cf4e4c33ea841f1","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/:id/confirm returns 400 when job status is not validated","name":"returns 400 when job status is not validated","status":"passed","testResultsByEnv":{"default":"9438d9ab37124f1586bd42b73d442a47"}}

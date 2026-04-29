@@ -1,0 +1,1 @@
+{"id":"3de136bcd554fad8207ff68852468fa3","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /:checkId/clear-edit returns 400 when the issue is not on the check","name":"returns 400 when the issue is not on the check","status":"passed","testResultsByEnv":{"default":"5a829d09850585b82ecd9642300268f5"}}

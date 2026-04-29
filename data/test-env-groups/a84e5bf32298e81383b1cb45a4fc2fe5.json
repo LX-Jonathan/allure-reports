@@ -1,0 +1,1 @@
+{"id":"a84e5bf32298e81383b1cb45a4fc2fe5","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should skip BullMQ workers when Redis is not configured","name":"should skip BullMQ workers when Redis is not configured","status":"passed","testResultsByEnv":{"default":"8909c78ce01a5c209fc0e40ef5b6d6f5"}}

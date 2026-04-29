@@ -1,0 +1,1 @@
+{"id":"8d86c13dbc0eb33e3cdea48c70d8aaed","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalUserForPatientRecord returns user from primary patient_portal_users.patient_id match","name":"returns user from primary patient_portal_users.patient_id match","status":"passed","testResultsByEnv":{"default":"c1e9b89af0dde35013556321ca761c6e"}}

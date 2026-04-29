@@ -1,0 +1,1 @@
+{"id":"61ef67888e00384b46f64f20012e98fb","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: account_suspended","name":"es: account_suspended","status":"passed","testResultsByEnv":{"default":"64f3952d4472dbaa9328805a8c9c8c86"}}

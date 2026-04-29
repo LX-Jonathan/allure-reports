@@ -1,0 +1,1 @@
+{"id":"3064769c46020cf3fa54aefa082719cd","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes POST /api/v1/lxu/articles/:id/feedback returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"1e4b02f3991387225fdf8bd3ae089504"}}

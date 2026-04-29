@@ -1,0 +1,1 @@
+{"id":"9fa3b7fec1818b29a8f218e11b8755e2","fullName":"shared/__tests__/financial-variance.test.ts#resolveCopayVarianceConfig ignores percent values outside the [0, 1] range","name":"ignores percent values outside the [0, 1] range","status":"passed","testResultsByEnv":{"default":"e575e7a9b51741bf0643a3b38c6910c0"}}

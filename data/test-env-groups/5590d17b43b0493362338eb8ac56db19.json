@@ -1,0 +1,1 @@
+{"id":"5590d17b43b0493362338eb8ac56db19","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Rule Templates (system-level library) POST /rules/from-template (toggle) returns 404 when template does not exist","name":"returns 404 when template does not exist","status":"passed","testResultsByEnv":{"default":"15031ac0f9884e5f014ea02ccbbf8af0"}}

@@ -1,0 +1,1 @@
+{"id":"a80bec371cfc78dff82792a65bc2d1d9","fullName":"client/src/lib/__tests__/import-configs.test.ts#INSURANCE_CONFIG.buildPayload (CSV generation) returns empty string for unmapped fields","name":"returns empty string for unmapped fields","status":"passed","testResultsByEnv":{"default":"27da5d734a727ec9d1a0256b68c0dbce"}}

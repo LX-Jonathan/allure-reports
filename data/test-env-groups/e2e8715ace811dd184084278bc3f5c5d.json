@@ -1,0 +1,1 @@
+{"id":"e2e8715ace811dd184084278bc3f5c5d","fullName":"server/replit_integrations/chat/__tests__/storage.test.ts#chatStorage getAllConversations should order by createdAt descending","name":"should order by createdAt descending","status":"passed","testResultsByEnv":{"default":"de9bfcfeae53ff523cfb509d48d50da5"}}

@@ -1,0 +1,1 @@
+{"id":"a768c779472c9ccfff880b22f245676c","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService createScannedOrder should throw when rawOcrText is missing","name":"should throw when rawOcrText is missing","status":"passed","testResultsByEnv":{"default":"184c445e854c69273510fee3f8d670ef"}}

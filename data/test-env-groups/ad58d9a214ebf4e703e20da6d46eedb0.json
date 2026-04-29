@@ -1,0 +1,1 @@
+{"id":"ad58d9a214ebf4e703e20da6d46eedb0","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /labs returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"93cdfb3977bcf391948984a6072d25e5"}}

@@ -1,0 +1,1 @@
+{"id":"fdd407abf2c293ac553eea6725f699b4","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes DELETE /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"aa6286922c0ae2b95ac6bf08b4d33517"}}

@@ -1,0 +1,1 @@
+{"id":"da72f66123b2743259763d976f994305","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/email should return 500 when email send fails","name":"should return 500 when email send fails","status":"passed","testResultsByEnv":{"default":"07a7768a022796768265c2648ae1d706"}}

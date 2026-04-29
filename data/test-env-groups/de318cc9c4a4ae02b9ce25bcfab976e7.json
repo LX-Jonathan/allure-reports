@@ -1,0 +1,1 @@
+{"id":"de318cc9c4a4ae02b9ce25bcfab976e7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import/:id/confirm returns 400 when job status is not validated","name":"returns 400 when job status is not validated","status":"passed","testResultsByEnv":{"default":"8e41d045cb50f10109e60c9d5f46155e"}}

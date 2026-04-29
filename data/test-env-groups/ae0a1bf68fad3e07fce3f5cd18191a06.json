@@ -1,0 +1,1 @@
+{"id":"ae0a1bf68fad3e07fce3f5cd18191a06","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should send non-transactional email when consent is granted","name":"should send non-transactional email when consent is granted","status":"passed","testResultsByEnv":{"default":"8272dc85714197c500f53e133d1871c1"}}

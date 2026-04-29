@@ -1,0 +1,1 @@
+{"id":"dfc5a149d5a71d9bd8bae793384447f7","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients returns 400 when guarantor addressZip is invalid for US","name":"returns 400 when guarantor addressZip is invalid for US","status":"passed","testResultsByEnv":{"default":"ddd07605d3f5bf05e5c1c5e10752650e"}}

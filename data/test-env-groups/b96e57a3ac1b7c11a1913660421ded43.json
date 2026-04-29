@@ -1,0 +1,1 @@
+{"id":"b96e57a3ac1b7c11a1913660421ded43","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should exit with code 1 when scheduler initialization fails","name":"should exit with code 1 when scheduler initialization fails","status":"passed","testResultsByEnv":{"default":"069e0acb8846a07e6b268159571abda9"}}

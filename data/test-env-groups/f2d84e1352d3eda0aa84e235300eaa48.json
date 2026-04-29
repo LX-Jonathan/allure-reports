@@ -1,0 +1,1 @@
+{"id":"f2d84e1352d3eda0aa84e235300eaa48","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 201 when creating a new conversation","name":"returns 201 when creating a new conversation","status":"passed","testResultsByEnv":{"default":"1afaa75641b904f4910bc8d66f284033"}}

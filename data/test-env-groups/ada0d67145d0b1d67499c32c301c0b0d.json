@@ -1,0 +1,1 @@
+{"id":"ada0d67145d0b1d67499c32c301c0b0d","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/portal-summary returns 200 with portal summary for super_admin","name":"returns 200 with portal summary for super_admin","status":"passed","testResultsByEnv":{"default":"691669f6bfc4885512d3dd91eb027381"}}

@@ -1,0 +1,1 @@
+{"id":"0898130e31f92ecd44ce575bcd6303c3","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog does not render channel select for super_admin","name":"does not render channel select for super_admin","status":"passed","testResultsByEnv":{"default":"c47e1fb63c1f8f05faa90e7b12548f8a"}}

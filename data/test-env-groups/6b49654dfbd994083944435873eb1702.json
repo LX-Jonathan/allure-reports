@@ -1,0 +1,1 @@
+{"id":"6b49654dfbd994083944435873eb1702","fullName":"client/src/components/__tests__/legacy-tab-redirect.test.tsx#LegacyTabRedirect silently redirects when there is exactly one active link","name":"silently redirects when there is exactly one active link","status":"passed","testResultsByEnv":{"default":"d7948df25ac54e9ef729dc6e089b4320"}}

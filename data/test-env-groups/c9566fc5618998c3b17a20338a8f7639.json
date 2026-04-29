@@ -1,0 +1,1 @@
+{"id":"c9566fc5618998c3b17a20338a8f7639","fullName":"client/src/pages/__tests__/prior-auth-config.test.tsx#PriorAuthConfigPage - template picker toggle keeps a retired template visible when the lab still has it enabled","name":"keeps a retired template visible when the lab still has it enabled","status":"passed","testResultsByEnv":{"default":"6837a380cb706d6e0b50346091f3e6ff"}}

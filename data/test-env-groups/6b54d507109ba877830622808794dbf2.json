@@ -1,0 +1,1 @@
+{"id":"6b54d507109ba877830622808794dbf2","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/ai-map-from-source clamps columns to valid range and defaults invalid width","name":"clamps columns to valid range and defaults invalid width","status":"passed","testResultsByEnv":{"default":"052e82baea1b48734f3b4559f053f5f1"}}

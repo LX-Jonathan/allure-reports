@@ -1,0 +1,1 @@
+{"id":"b59e5d68de0277079cb58a2a4afd7d5e","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /fee-schedules/:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"3ba568391efcefb837368d32d5e3268b"}}

@@ -1,0 +1,1 @@
+{"id":"4cac970cbac664f46f033faaa6ae851b","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware allRoles chain should export an array with only requireAuth","name":"should export an array with only requireAuth","status":"passed","testResultsByEnv":{"default":"67179c67ad0d62c09bd97258ed6508a9"}}

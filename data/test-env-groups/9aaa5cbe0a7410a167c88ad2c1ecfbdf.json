@@ -1,0 +1,1 @@
+{"id":"9aaa5cbe0a7410a167c88ad2c1ecfbdf","fullName":"client/src/hooks/__tests__/useOrderSignatures.test.tsx#useOrderSignatures resetSignaturesOnOpen clears stored data and re-primes the canvas styles","name":"resetSignaturesOnOpen clears stored data and re-primes the canvas styles","status":"passed","testResultsByEnv":{"default":"d885e82128dd8764ae820c85023b5754"}}

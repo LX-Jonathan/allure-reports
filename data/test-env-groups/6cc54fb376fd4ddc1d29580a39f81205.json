@@ -1,0 +1,1 @@
+{"id":"6cc54fb376fd4ddc1d29580a39f81205","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware authenticated chain should not include any role requirements","name":"should not include any role requirements","status":"passed","testResultsByEnv":{"default":"eb10adf768a063d0de54ca1d39f12500"}}

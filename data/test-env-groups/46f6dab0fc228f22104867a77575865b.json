@@ -1,0 +1,1 @@
+{"id":"46f6dab0fc228f22104867a77575865b","fullName":"server/lib/__tests__/reportCache.test.ts#startProactiveRefresh / stopProactiveRefresh does nothing when redis is not configured","name":"does nothing when redis is not configured","status":"passed","testResultsByEnv":{"default":"9a9d9443a62b49181e0f90e6645c0788"}}

@@ -1,0 +1,1 @@
+{"id":"8c485898d82fd89b7a5d358af1e23c29","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes GET /api/v1/aoe-lists restricts org_admin to their organization","name":"restricts org_admin to their organization","status":"passed","testResultsByEnv":{"default":"147fde8f17ccda677234d793a98597a8"}}

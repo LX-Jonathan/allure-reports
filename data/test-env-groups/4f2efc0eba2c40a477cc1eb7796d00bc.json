@@ -1,0 +1,1 @@
+{"id":"4f2efc0eba2c40a477cc1eb7796d00bc","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch redirects to login on 401 from the auth bootstrap endpoint when refresh fails","name":"redirects to login on 401 from the auth bootstrap endpoint when refresh fails","status":"passed","testResultsByEnv":{"default":"eda22caa0e824099c40b2c6a032be4ef"}}

@@ -1,0 +1,1 @@
+{"id":"73fb1119404650ee385935e0341155ef","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processInsuranceRow should throw when code is missing","name":"should throw when code is missing","status":"passed","testResultsByEnv":{"default":"de50f577db83f207f2edca21b3ccb2a2"}}

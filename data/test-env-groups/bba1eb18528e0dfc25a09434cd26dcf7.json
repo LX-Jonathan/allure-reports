@@ -1,0 +1,1 @@
+{"id":"bba1eb18528e0dfc25a09434cd26dcf7","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should omit subtotal line when subtotal is 0","name":"should omit subtotal line when subtotal is 0","status":"passed","testResultsByEnv":{"default":"22429ba4c0f9f54a0b9b822fb09c5878"}}

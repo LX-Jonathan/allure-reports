@@ -1,0 +1,1 @@
+{"id":"553f10557dd05caed246c6c85cfa629f","fullName":"shared/__tests__/financial-assistance-expiration.test.ts#financial-assistance-expiration helpers isFinancialAssistanceExpiringSoon returns false when expiration is past","name":"returns false when expiration is past","status":"passed","testResultsByEnv":{"default":"eae396b76e9ef7617dcc1186d5469844"}}

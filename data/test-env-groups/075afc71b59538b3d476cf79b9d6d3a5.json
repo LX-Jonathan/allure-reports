@@ -1,0 +1,1 @@
+{"id":"075afc71b59538b3d476cf79b9d6d3a5","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses default address values when address is missing","name":"uses default address values when address is missing","status":"passed","testResultsByEnv":{"default":"00589058830e5931a911d2dc26128904"}}

@@ -1,0 +1,1 @@
+{"id":"99fc5765dcfca31449615783f541c94b","fullName":"server/services/__tests__/payment-application.test.ts#creditPatientAccount / debitPatientAccount debitPatientAccount subtracts from stored credit","name":"debitPatientAccount subtracts from stored credit","status":"passed","testResultsByEnv":{"default":"609278742fcb21c48eae88456bbd3a60"}}

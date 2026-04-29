@@ -1,0 +1,1 @@
+{"id":"1dbaf9079cf3569a6b6e34480068a55b","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 400 when parentLabId is not a UUID","name":"returns 400 when parentLabId is not a UUID","status":"passed","testResultsByEnv":{"default":"f33fdcd23b3931ff585a174b004c888c"}}

@@ -1,0 +1,1 @@
+{"id":"3e1292dccae32ced06ccb1acb17433d5","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should handle batch not found during progress update","name":"should handle batch not found during progress update","status":"passed","testResultsByEnv":{"default":"8168caa7a4ad91a01c20889668c9bf36"}}

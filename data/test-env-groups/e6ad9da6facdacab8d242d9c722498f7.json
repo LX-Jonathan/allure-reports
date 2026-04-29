@@ -1,0 +1,1 @@
+{"id":"e6ad9da6facdacab8d242d9c722498f7","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 for invalid level value","name":"should return 400 for invalid level value","status":"passed","testResultsByEnv":{"default":"50a43b80dc4380554f0cec49d90eb391"}}

@@ -1,0 +1,1 @@
+{"id":"e1bca7606421c24a2d401658a46a61b5","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service getCircuitBreakerMetrics should return OPEN state when breaker.opened is true","name":"should return OPEN state when breaker.opened is true","status":"passed","testResultsByEnv":{"default":"01b3ff8d8d82b33e1318fdc31e278dd7"}}

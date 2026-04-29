@@ -1,0 +1,1 @@
+{"id":"d48bd216ef8fa0c470488d25c650a496","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return stale from stale cache with timestamp mismatch","name":"should return stale from stale cache with timestamp mismatch","status":"passed","testResultsByEnv":{"default":"3aad11e3a5fc9b9a010aa4c3839cf7ea"}}

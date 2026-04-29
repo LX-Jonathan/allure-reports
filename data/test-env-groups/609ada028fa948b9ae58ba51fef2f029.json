@@ -1,0 +1,1 @@
+{"id":"609ada028fa948b9ae58ba51fef2f029","fullName":"server/lib/__tests__/redisSessionStore.test.ts#createSessionStore should handle zero ttl","name":"should handle zero ttl","status":"passed","testResultsByEnv":{"default":"94a12a97040d73fb598b8c22b12ce331"}}

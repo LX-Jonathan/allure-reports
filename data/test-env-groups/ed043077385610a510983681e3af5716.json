@@ -1,0 +1,1 @@
+{"id":"ed043077385610a510983681e3af5716","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"7c20b4f8eb14acfac4ce15e3dafee6f0"}}

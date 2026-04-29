@@ -1,0 +1,1 @@
+{"id":"278a8f3858f2351f6bac15fb28868ce4","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update PATCH /api/v1/medications/:id returns 403 when org_admin updates different org medication","name":"returns 403 when org_admin updates different org medication","status":"passed","testResultsByEnv":{"default":"a7e6128d2598bed12288274ae016c5fd"}}

@@ -1,0 +1,1 @@
+{"id":"1437a5f0c7db184336e3226e4ca91d17","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - FRHC API Configs getAllFrhcApiConfigs should return empty array when no configs","name":"should return empty array when no configs","status":"passed","testResultsByEnv":{"default":"39d2cd1f693ba0418c0a1ccd471ca9d7"}}

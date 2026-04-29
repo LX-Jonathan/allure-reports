@@ -1,0 +1,1 @@
+{"id":"5d39e3bb3aa01f60dfe8cf27522ed8a5","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/bulk/items/:itemId returns 200 with item details","name":"returns 200 with item details","status":"passed","testResultsByEnv":{"default":"2efbcff393ee2bcf9810002f672afb1f"}}

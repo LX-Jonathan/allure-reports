@@ -1,0 +1,1 @@
+{"id":"97615fe8184c250d20268fdb78e8f91a","fullName":"server/__tests__/orders.routes.test.ts#orders.routes PATCH /api/v1/orders/:id/status should reject invalid status transition","name":"should reject invalid status transition","status":"passed","testResultsByEnv":{"default":"ad69832a9146a110a9246309f07cf021"}}

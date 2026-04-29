@@ -1,0 +1,1 @@
+{"id":"6c3714b86d2afbefc95440e756625685","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates detectRequisitionTemplate happy path - matching templates should detect GI template from \"GI Requisition\"","name":"should detect GI template from \"GI Requisition\"","status":"passed","testResultsByEnv":{"default":"f3af2778841ab6a1e065557050891b45"}}

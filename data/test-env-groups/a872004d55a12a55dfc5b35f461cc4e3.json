@@ -1,0 +1,1 @@
+{"id":"a872004d55a12a55dfc5b35f461cc4e3","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should return undefined for null","name":"should return undefined for null","status":"passed","testResultsByEnv":{"default":"91a24de278f8e4b38d25a5fd7d9de43a"}}

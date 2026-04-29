@@ -1,0 +1,1 @@
+{"id":"816977fccc1c369eea21a39f6804f482","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#runFinancialAssistanceExpirationWeeklyDigest does not email when no patients match","name":"does not email when no patients match","status":"passed","testResultsByEnv":{"default":"429bfd660b5ce5dff38f4c38dc900861"}}

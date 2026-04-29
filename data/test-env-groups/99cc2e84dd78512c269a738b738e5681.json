@@ -1,0 +1,1 @@
+{"id":"99cc2e84dd78512c269a738b738e5681","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToTemp should use uuid as filename when no extension","name":"should use uuid as filename when no extension","status":"passed","testResultsByEnv":{"default":"c9c42babd07333915206b9e626124d65"}}

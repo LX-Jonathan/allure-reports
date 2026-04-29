@@ -1,0 +1,1 @@
+{"id":"7a72f986869a9a7badaaadaff1e204b7","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients still scopes id filter to the user's lab for non-full-access users","name":"still scopes id filter to the user's lab for non-full-access users","status":"passed","testResultsByEnv":{"default":"65515ce45e9d5ed38cfef72f7e4b5db4"}}

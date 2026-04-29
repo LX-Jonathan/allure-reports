@@ -1,0 +1,1 @@
+{"id":"8d0c4e363ca2a62501a5e7fea6c998bf","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders returns 400 when signature required but provider not found","name":"returns 400 when signature required but provider not found","status":"passed","testResultsByEnv":{"default":"57a6c3e5299ff399a301498d0a179707"}}

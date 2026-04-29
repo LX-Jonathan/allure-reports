@@ -1,0 +1,1 @@
+{"id":"c5c0031c4da7c081b9643084cb1af19e","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes PATCH /api/v1/locations/:id returns 404 when location not found","name":"returns 404 when location not found","status":"passed","testResultsByEnv":{"default":"e1fb74e9970416e68b2f4173a643821e"}}

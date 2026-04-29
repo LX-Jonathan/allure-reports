@@ -1,0 +1,1 @@
+{"id":"6105468fa600fdb0f662e2e5bf480bd1","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create data mapping should set createdBy to current user","name":"should set createdBy to current user","status":"passed","testResultsByEnv":{"default":"158dda429afd19efedb847d4f76cbb7a"}}

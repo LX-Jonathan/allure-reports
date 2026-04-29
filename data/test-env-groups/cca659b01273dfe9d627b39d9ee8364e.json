@@ -1,0 +1,1 @@
+{"id":"cca659b01273dfe9d627b39d9ee8364e","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/:kitId/results (Staff Portal - Submit Kit Results) returns 400 when kit is in invalid status","name":"returns 400 when kit is in invalid status","status":"passed","testResultsByEnv":{"default":"4add087021cb2c645f60f621c869400a"}}

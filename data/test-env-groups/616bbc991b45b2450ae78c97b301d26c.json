@@ -1,0 +1,1 @@
+{"id":"616bbc991b45b2450ae78c97b301d26c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatients throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"68a4aadd7422deb3aa801e614e123b5d"}}

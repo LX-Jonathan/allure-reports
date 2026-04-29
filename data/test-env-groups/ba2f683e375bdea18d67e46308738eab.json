@@ -1,0 +1,1 @@
+{"id":"ba2f683e375bdea18d67e46308738eab","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: invalid_or_expired_reset_token","name":"en: invalid_or_expired_reset_token","status":"passed","testResultsByEnv":{"default":"b398cebb29968a9b017fc6c681fe01b1"}}

@@ -1,0 +1,1 @@
+{"id":"5575a3982e46642b88f8d0efec116ae4","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should return null for missing token","name":"should return null for missing token","status":"passed","testResultsByEnv":{"default":"27f3f7a163d54e6300231a69e1e7cbc2"}}

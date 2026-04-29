@@ -1,0 +1,1 @@
+{"id":"494022011dc7b2cdaff8fe1575f30352","fullName":"client/src/pages/__tests__/point-of-sale-deeplink.test.tsx#PointOfSalePage deep-link contract leaves the apply-stored-credit toggle unchecked on a manual POS visit","name":"leaves the apply-stored-credit toggle unchecked on a manual POS visit","status":"passed","testResultsByEnv":{"default":"15c9bc7611b8aa793079e11ff9811809"}}

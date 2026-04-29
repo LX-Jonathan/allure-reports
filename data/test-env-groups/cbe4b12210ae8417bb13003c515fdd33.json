@@ -1,0 +1,1 @@
+{"id":"cbe4b12210ae8417bb13003c515fdd33","fullName":"client/src/pages/__tests__/login.test.tsx#LoginPage email_send_failed toast shows the same localized toast for an admin-impersonation account","name":"shows the same localized toast for an admin-impersonation account","status":"passed","testResultsByEnv":{"default":"4779e6cd7808230f4184b420cce4b333"}}

@@ -1,0 +1,1 @@
+{"id":"e6b53898992322e101394f76b068bba7","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service prewarmTemplateCache should not add labcorp since createCacheEntry returns null for it","name":"should not add labcorp since createCacheEntry returns null for it","status":"passed","testResultsByEnv":{"default":"4484a5e04df0747ffda3ab4a68ea5fa8"}}

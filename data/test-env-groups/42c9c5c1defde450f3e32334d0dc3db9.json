@@ -1,0 +1,1 @@
+{"id":"42c9c5c1defde450f3e32334d0dc3db9","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies/:id/logo returns 500 on upload error","name":"returns 500 on upload error","status":"passed","testResultsByEnv":{"default":"8cb4fc16290cf293933def9d9b89ba13"}}

@@ -1,0 +1,1 @@
+{"id":"46710a3a3ac00007c854cc05d5099f2f","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Lab client cross-client access guard treats user.organizationIds as additional allowed clients","name":"treats user.organizationIds as additional allowed clients","status":"passed","testResultsByEnv":{"default":"f33b07b4e9b449cf711ec8a781ef1ab1"}}

@@ -1,0 +1,1 @@
+{"id":"ef1d5066e8150db0e67d0d3d45c38e15","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage calls render on the PDF page with canvas context","name":"calls render on the PDF page with canvas context","status":"passed","testResultsByEnv":{"default":"ffa61546c1bd4ba855fee7dd78c6b58b"}}

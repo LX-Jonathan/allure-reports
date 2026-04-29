@@ -1,0 +1,1 @@
+{"id":"218fdf2272d5f1214f82e37bc35abd7b","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /drivers-license rejects non-allowed file types (PDF)","name":"rejects non-allowed file types (PDF)","status":"passed","testResultsByEnv":{"default":"819ed5b5d483e11e9a3524ebf7543c7e"}}

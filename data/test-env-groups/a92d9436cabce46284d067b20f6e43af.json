@@ -1,0 +1,1 @@
+{"id":"a92d9436cabce46284d067b20f6e43af","fullName":"client/src/components/__tests__/diagnosis-code-picker.test.tsx#DiagnosisCodePicker does NOT fire onClosedAfterChange when there is no callback configured","name":"does NOT fire onClosedAfterChange when there is no callback configured","status":"passed","testResultsByEnv":{"default":"a78949ca32802f22f403c26969439ec1"}}

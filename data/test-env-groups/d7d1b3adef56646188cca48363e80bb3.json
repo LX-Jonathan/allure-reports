@@ -1,0 +1,1 @@
+{"id":"d7d1b3adef56646188cca48363e80bb3","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapPayerClassForAndromeda should map 'Medicare' to 'Medicare' (case insensitive)","name":"should map 'Medicare' to 'Medicare' (case insensitive)","status":"passed","testResultsByEnv":{"default":"5147294a7fe9ed03548bc010991dbbc4"}}

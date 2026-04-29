@@ -1,0 +1,1 @@
+{"id":"344506f3a89b747537792d4751c5b924","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections - additional branches infers select type from fhirPath containing gender","name":"infers select type from fhirPath containing gender","status":"passed","testResultsByEnv":{"default":"d8dd01af6218bb8371bb63275aab75c1"}}

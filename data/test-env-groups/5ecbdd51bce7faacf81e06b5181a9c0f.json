@@ -1,0 +1,1 @@
+{"id":"5ecbdd51bce7faacf81e06b5181a9c0f","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/admin/:parentLabId/inquiries returns inquiries list","name":"returns inquiries list","status":"passed","testResultsByEnv":{"default":"028015c8ff7b9609726691b60c78e7d7"}}

@@ -1,0 +1,1 @@
+{"id":"aa350575ac17a7106dca2a4083266c18","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/source-pdf returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f54b20191aef72af1e53651174e17c4c"}}

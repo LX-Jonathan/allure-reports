@@ -1,0 +1,1 @@
+{"id":"e04d3b48862130ae472e59f2a81b93ed","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments filters by user locationIds for location-level access","name":"filters by user locationIds for location-level access","status":"passed","testResultsByEnv":{"default":"b4ef8f4dbec2d8c4b3aa5ffcc8e5deac"}}

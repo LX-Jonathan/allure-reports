@@ -1,0 +1,1 @@
+{"id":"ae4255821d25fa37d5ba99f2b5d16144","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService invalidatePattern should return true when no keys match pattern","name":"should return true when no keys match pattern","status":"passed","testResultsByEnv":{"default":"2e254fae543d778b7edfb18b5e94e34c"}}

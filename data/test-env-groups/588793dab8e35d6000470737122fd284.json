@@ -1,0 +1,1 @@
+{"id":"588793dab8e35d6000470737122fd284","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should return empty text when no annotations found","name":"should return empty text when no annotations found","status":"passed","testResultsByEnv":{"default":"5cb33d3912dbe4612a1809e79b5d406e"}}

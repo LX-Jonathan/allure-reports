@@ -1,0 +1,1 @@
+{"id":"324c0ca536152fa4776dfb88fb62e0be","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#evaluateCircuitBreaker should open circuit when error threshold is exceeded for orders","name":"should open circuit when error threshold is exceeded for orders","status":"passed","testResultsByEnv":{"default":"129a43662aba84349f588d24f63510c7"}}

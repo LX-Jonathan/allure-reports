@@ -1,0 +1,1 @@
+{"id":"179006d05de2c0fbfc4048379eee03c0","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Orders getOrderCountsByStatus should filter by locationId","name":"should filter by locationId","status":"passed","testResultsByEnv":{"default":"6bbe37b49688801b12887a0e01e8ebad"}}

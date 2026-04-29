@@ -1,0 +1,1 @@
+{"id":"d9f175d161994edcd443ae6965566d1c","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"8ef253cf0d97757b66cbf7edb6c21c15"}}

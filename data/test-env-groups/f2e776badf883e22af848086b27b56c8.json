@@ -1,0 +1,1 @@
+{"id":"f2e776badf883e22af848086b27b56c8","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs/:id returns 403 when access denied for org-level config","name":"returns 403 when access denied for org-level config","status":"passed","testResultsByEnv":{"default":"0d00e1471bec690b08ae96dac16120e4"}}

@@ -1,0 +1,1 @@
+{"id":"842da7b2b5733bab1233827674704c0e","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return failed with cached result when job state is failed","name":"should return failed with cached result when job state is failed","status":"passed","testResultsByEnv":{"default":"3714b469cf63155342c2a5e889257900"}}

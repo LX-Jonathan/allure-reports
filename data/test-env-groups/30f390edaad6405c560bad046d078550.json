@@ -1,0 +1,1 @@
+{"id":"30f390edaad6405c560bad046d078550","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Scanner Config & Batch Progress updateBulkScanBatchProgress updates progress without completion status","name":"updates progress without completion status","status":"passed","testResultsByEnv":{"default":"5f5aa41d43c9f79b438a54a82cd24888"}}

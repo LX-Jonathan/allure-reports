@@ -1,0 +1,1 @@
+{"id":"38fe2ab942c47ea3a5a6bbf0f1804307","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getAllBulkScanItems returns empty when no matching batches","name":"returns empty when no matching batches","status":"passed","testResultsByEnv":{"default":"ae224bfbdd481b45803ebd21fd6bbe56"}}

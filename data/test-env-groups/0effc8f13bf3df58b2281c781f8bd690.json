@@ -1,0 +1,1 @@
+{"id":"0effc8f13bf3df58b2281c781f8bd690","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptCookieValue / decryptCookieValue returns empty string when plaintext is empty","name":"returns empty string when plaintext is empty","status":"passed","testResultsByEnv":{"default":"a0a4e33e37223fae3b87e450d21d5ec5"}}

@@ -1,0 +1,1 @@
+{"id":"2000208ba8fa110de4c314b62baa05c8","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id updates patient insurance","name":"updates patient insurance","status":"passed","testResultsByEnv":{"default":"fa470d3ab6ae9c8ec600b5cbf8536dba"}}

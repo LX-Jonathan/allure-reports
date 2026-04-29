@@ -1,0 +1,1 @@
+{"id":"d22e6653a90d5230b5579cfb5b02d297","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts getEmailVerificationExpiry should return date 24 hours in the future","name":"should return date 24 hours in the future","status":"passed","testResultsByEnv":{"default":"eb9ee6d78a667f0f60534e707756f340"}}

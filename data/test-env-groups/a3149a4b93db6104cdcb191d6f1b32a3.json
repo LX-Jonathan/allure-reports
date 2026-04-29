@@ -1,0 +1,1 @@
+{"id":"a3149a4b93db6104cdcb191d6f1b32a3","fullName":"server/routes/__tests__/index.routes.test.ts#Routes Index registerRoutes initialization applies middleware in correct order","name":"applies middleware in correct order","status":"passed","testResultsByEnv":{"default":"45c460ad7483202e2af10dc63d12e902"}}

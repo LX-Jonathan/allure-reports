@@ -1,0 +1,1 @@
+{"id":"f59fa0c84740b110aff310db1a214eed","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes POST /run returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"09b397a5db1f53ee94d2f2b2efcac904"}}

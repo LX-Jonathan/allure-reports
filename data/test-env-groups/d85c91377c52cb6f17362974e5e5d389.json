@@ -1,0 +1,1 @@
+{"id":"d85c91377c52cb6f17362974e5e5d389","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxy-invitations/:code expires the invitation when past expiry and returns 410","name":"expires the invitation when past expiry and returns 410","status":"passed","testResultsByEnv":{"default":"c2c42ffc4f596dead46d4ef2228631e9"}}

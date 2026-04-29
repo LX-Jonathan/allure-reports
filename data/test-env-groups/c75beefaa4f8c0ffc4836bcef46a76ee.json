@@ -1,0 +1,1 @@
+{"id":"c75beefaa4f8c0ffc4836bcef46a76ee","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/check returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"2361d7134e87f80fb6e34e04b7b9da4d"}}

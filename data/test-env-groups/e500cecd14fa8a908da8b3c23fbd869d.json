@@ -1,0 +1,1 @@
+{"id":"e500cecd14fa8a908da8b3c23fbd869d","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results/:id returns 200 with result for full-access user","name":"returns 200 with result for full-access user","status":"passed","testResultsByEnv":{"default":"ccfebabbd222192fc71f7112ca384c57"}}

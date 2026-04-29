@@ -1,0 +1,1 @@
+{"id":"a4bd829d1f00ce032ecf17bb7692b415","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes GET /api/v1/order-intake/:id/mappings should return 404 if not found","name":"should return 404 if not found","status":"passed","testResultsByEnv":{"default":"8146ad964c6a9a8737697ab61618e25e"}}

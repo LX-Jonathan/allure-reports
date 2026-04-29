@@ -1,0 +1,1 @@
+{"id":"01a2b7e200c74619363de30aa38661ca","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies/:id/plans returns 400 for invalid plan data (missing name)","name":"returns 400 for invalid plan data (missing name)","status":"passed","testResultsByEnv":{"default":"c8d3647a14e83eabaf30c5bcec4fc69a"}}

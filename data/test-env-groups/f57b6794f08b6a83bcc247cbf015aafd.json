@@ -1,0 +1,1 @@
+{"id":"f57b6794f08b6a83bcc247cbf015aafd","fullName":"client/src/contexts/__tests__/dedicated-portal-context.test.tsx#DedicatedPortalContext returns default context values when used outside provider","name":"returns default context values when used outside provider","status":"passed","testResultsByEnv":{"default":"6454bc33d770f274f6f4e31ce45873b8"}}

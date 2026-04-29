@@ -1,0 +1,1 @@
+{"id":"cecbc696e696365f5977812883afcee8","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries/by-source/:source/:sourceId returns empty array when no entries found","name":"returns empty array when no entries found","status":"passed","testResultsByEnv":{"default":"dcb79e8895ed1064f04e065056bd0ed1"}}

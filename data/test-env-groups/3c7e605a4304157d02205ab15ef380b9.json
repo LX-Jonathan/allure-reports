@@ -1,0 +1,1 @@
+{"id":"3c7e605a4304157d02205ab15ef380b9","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/demographic-history returns an empty array when there are no demographic events","name":"returns an empty array when there are no demographic events","status":"passed","testResultsByEnv":{"default":"bcc222e1cfd00b9f38a8138c92c85eda"}}

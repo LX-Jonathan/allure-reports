@@ -1,0 +1,1 @@
+{"id":"bcd443a43a3b1fcde6e349dba2202c00","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"3d64684c1143a86da3572b53a3e7059d"}}

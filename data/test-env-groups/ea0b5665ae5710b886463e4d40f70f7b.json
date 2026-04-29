@@ -1,0 +1,1 @@
+{"id":"ea0b5665ae5710b886463e4d40f70f7b","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService queueForAndromeda should return error when Andromeda is not configured","name":"should return error when Andromeda is not configured","status":"passed","testResultsByEnv":{"default":"c2869912bb21f4e39322e5d9282d696a"}}

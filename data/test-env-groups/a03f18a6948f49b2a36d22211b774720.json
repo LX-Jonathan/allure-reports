@@ -1,0 +1,1 @@
+{"id":"a03f18a6948f49b2a36d22211b774720","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab renders fallback for unmapped consent type","name":"renders fallback for unmapped consent type","status":"passed","testResultsByEnv":{"default":"ece1fa55b93741dc3a0139bf4dc00369"}}

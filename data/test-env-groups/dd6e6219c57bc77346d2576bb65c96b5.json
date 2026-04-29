@@ -1,0 +1,1 @@
+{"id":"dd6e6219c57bc77346d2576bb65c96b5","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware skip paths should skip OPTIONS method","name":"should skip OPTIONS method","status":"passed","testResultsByEnv":{"default":"7c5d2e5e39ce5d936bd4dc95d5d16e26"}}

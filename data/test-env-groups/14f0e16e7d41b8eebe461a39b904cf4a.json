@@ -1,0 +1,1 @@
+{"id":"14f0e16e7d41b8eebe461a39b904cf4a","fullName":"client/src/components/__tests__/appointment-qr-scanner.test.tsx#AppointmentQrScanner calls onReset and onOpenChange when Close is clicked","name":"calls onReset and onOpenChange when Close is clicked","status":"passed","testResultsByEnv":{"default":"8e6b4c46743a5de9d7d376dd1aca35ab"}}

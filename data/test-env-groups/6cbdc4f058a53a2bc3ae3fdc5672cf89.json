@@ -1,0 +1,1 @@
+{"id":"6cbdc4f058a53a2bc3ae3fdc5672cf89","fullName":"client/src/components/patient/__tests__/eligibility-verification-detail-dialog.test.tsx#EligibilityVerificationDetailDialog renders not eligible badge when isEligible is false","name":"renders not eligible badge when isEligible is false","status":"passed","testResultsByEnv":{"default":"817f2c0a1adf36e0a082a3978b9b3f4b"}}

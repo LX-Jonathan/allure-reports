@@ -1,0 +1,1 @@
+{"id":"a3ae9c9d85439c83ca0a15555457521d","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances userCache should be configured with prefix 'user' and TTL 300","name":"userCache should be configured with prefix 'user' and TTL 300","status":"passed","testResultsByEnv":{"default":"5dad2c9066552bdb53a1ae6e4cdb8107"}}

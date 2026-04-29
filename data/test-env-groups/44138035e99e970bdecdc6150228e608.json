@@ -1,0 +1,1 @@
+{"id":"44138035e99e970bdecdc6150228e608","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations creates a thread and the initial patient message","name":"creates a thread and the initial patient message","status":"passed","testResultsByEnv":{"default":"fe571aebf23f7b24a72d8e95ed23a943"}}

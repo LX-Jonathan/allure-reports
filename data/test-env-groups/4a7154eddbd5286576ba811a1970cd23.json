@@ -1,0 +1,1 @@
+{"id":"4a7154eddbd5286576ba811a1970cd23","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService search should return empty array when user has no organization","name":"should return empty array when user has no organization","status":"passed","testResultsByEnv":{"default":"468354b1b735d8aff88822ca75793695"}}

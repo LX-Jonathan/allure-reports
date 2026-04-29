@@ -1,0 +1,1 @@
+{"id":"8306ab7628fa19a7e67dc6b18e06187e","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes GET /api/onboarding/:flowId/sections returns 200 with sections list","name":"returns 200 with sections list","status":"passed","testResultsByEnv":{"default":"af9626d395de172831fa86560c20e339"}}

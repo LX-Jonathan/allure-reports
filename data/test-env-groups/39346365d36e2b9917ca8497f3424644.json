@@ -1,0 +1,1 @@
+{"id":"39346365d36e2b9917ca8497f3424644","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob user role resolution should default to viewer role when user has no role","name":"should default to viewer role when user has no role","status":"passed","testResultsByEnv":{"default":"96b14a97bebd49777ee28a5de8c9b84c"}}

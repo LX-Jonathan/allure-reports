@@ -1,0 +1,1 @@
+{"id":"d83b1176866be31bef164d5a6c849d1b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 200 with partial results when some fail","name":"returns 200 with partial results when some fail","status":"passed","testResultsByEnv":{"default":"8658f9fda1d3bde555d9ed2b37b1f62a"}}

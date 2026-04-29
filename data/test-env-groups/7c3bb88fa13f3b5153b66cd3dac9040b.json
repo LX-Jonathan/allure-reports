@@ -1,0 +1,1 @@
+{"id":"7c3bb88fa13f3b5153b66cd3dac9040b","fullName":"server/routes/__tests__/stripe-config.routes.test.ts#Stripe Config — GET /status returns configured=true and the publishable key when Stripe is connected","name":"returns configured=true and the publishable key when Stripe is connected","status":"passed","testResultsByEnv":{"default":"a78d715899050ec7266fe2455a8e8f24"}}

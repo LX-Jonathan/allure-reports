@@ -1,0 +1,1 @@
+{"id":"f0732c92db9d61be7867e84944f8bfc0","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob Redis file storage should cleanup Redis file after successful processing","name":"should cleanup Redis file after successful processing","status":"passed","testResultsByEnv":{"default":"8571b626be5e4be28a02e2fe35400782"}}

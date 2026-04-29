@@ -1,0 +1,1 @@
+{"id":"ab69e2d14bba404768328a1649ae71ef","fullName":"server/middleware/__tests__/patientAuth.test.ts#requireClinicalMfa calls next when persisted MFA is valid in storage","name":"calls next when persisted MFA is valid in storage","status":"passed","testResultsByEnv":{"default":"5c5638a29bb1fe893083d48a676761f3"}}

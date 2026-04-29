@@ -1,0 +1,1 @@
+{"id":"e89d45d47bb5944df41740d97f619806","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar falls back to the patient page when the flagged check-in id is missing","name":"falls back to the patient page when the flagged check-in id is missing","status":"passed","testResultsByEnv":{"default":"9cbc0ee32371a69c20cd12515a1cfa70"}}

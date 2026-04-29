@@ -1,0 +1,1 @@
+{"id":"fe231a96e8d68dc698269f49c3f62e2b","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /payments/:paymentId returns 404 for non-existent payment","name":"returns 404 for non-existent payment","status":"passed","testResultsByEnv":{"default":"f3f91d15367396015d2cd1d047e7c194"}}

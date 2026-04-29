@@ -1,0 +1,1 @@
+{"id":"3254a3a895d48f621e6d3a94af1b215c","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes PUT / returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"cf07be95f112b2dd96c9b81251ea70eb"}}

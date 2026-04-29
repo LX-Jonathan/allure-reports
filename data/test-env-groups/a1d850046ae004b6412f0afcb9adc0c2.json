@@ -1,0 +1,1 @@
+{"id":"a1d850046ae004b6412f0afcb9adc0c2","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware skipAudit should set skipAudit to true","name":"should set skipAudit to true","status":"passed","testResultsByEnv":{"default":"dbce18fadc3e27c8d22e5f7a44008f3b"}}

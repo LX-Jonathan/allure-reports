@@ -1,0 +1,1 @@
+{"id":"41dfe0eab967ad437890873696924203","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes PATCH /api/v1/locations/:id returns 403 for location-level user without access","name":"returns 403 for location-level user without access","status":"passed","testResultsByEnv":{"default":"b1786ee4700f91a2f1aced32e625e507"}}

@@ -1,0 +1,1 @@
+{"id":"69eb817c2ded4cc5d279951ee2c1ad91","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) returns 400 for invalid URL that cannot be parsed","name":"returns 400 for invalid URL that cannot be parsed","status":"passed","testResultsByEnv":{"default":"ae9feee0d3e139bcd09fb6033028ec24"}}

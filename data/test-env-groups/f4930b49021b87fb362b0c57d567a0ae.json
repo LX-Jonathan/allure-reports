@@ -1,0 +1,1 @@
+{"id":"f4930b49021b87fb362b0c57d567a0ae","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import returns 400 when CSV has no data rows","name":"returns 400 when CSV has no data rows","status":"passed","testResultsByEnv":{"default":"45b68022cb7795d8e86ca4beac638299"}}

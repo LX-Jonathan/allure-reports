@@ -1,0 +1,1 @@
+{"id":"2970fb507e9ec58d88b5d61251113990","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should store file in Redis and return redis: prefixed key","name":"should store file in Redis and return redis: prefixed key","status":"passed","testResultsByEnv":{"default":"0f926468ce3fe5cb6c91b080bcc68d26"}}

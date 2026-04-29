@@ -1,0 +1,1 @@
+{"id":"d352b4a9af5f7b28cd3e41d2f4e754ee","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/companies/:id returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"a15e717c34aa323db85db2a18ae024e0"}}

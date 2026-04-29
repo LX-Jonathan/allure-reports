@@ -1,0 +1,1 @@
+{"id":"c65ddd5aeeefcb4e5a2e78c2ce4ff553","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes GET /api/v1/users returns empty array when user has no labId and no full access","name":"returns empty array when user has no labId and no full access","status":"passed","testResultsByEnv":{"default":"ec7026b2c7739c510bc20293675be0be"}}

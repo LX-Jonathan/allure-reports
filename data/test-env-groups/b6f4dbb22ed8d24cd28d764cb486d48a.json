@@ -1,0 +1,1 @@
+{"id":"b6f4dbb22ed8d24cd28d764cb486d48a","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /connection-token returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"fb139eae6824acf4195b9d053e7ee99f"}}

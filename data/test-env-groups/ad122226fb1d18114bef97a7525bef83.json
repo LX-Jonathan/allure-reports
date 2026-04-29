@@ -1,0 +1,1 @@
+{"id":"ad122226fb1d18114bef97a7525bef83","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/available-slots filters slots by purpose when provided","name":"filters slots by purpose when provided","status":"passed","testResultsByEnv":{"default":"fbde91ec26b28f0341ad97005367999d"}}

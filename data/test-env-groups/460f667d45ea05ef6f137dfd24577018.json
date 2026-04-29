@@ -1,0 +1,1 @@
+{"id":"460f667d45ea05ef6f137dfd24577018","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /invite returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"1e806feb9cd5d440ec18b8efb732e3c4"}}

@@ -1,0 +1,1 @@
+{"id":"1c42afd29fd9f82e74170f91c49bd60c","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions initializePermissions should skip role-permission if already exists","name":"should skip role-permission if already exists","status":"passed","testResultsByEnv":{"default":"40322340069be94566be3b2a16346b01"}}

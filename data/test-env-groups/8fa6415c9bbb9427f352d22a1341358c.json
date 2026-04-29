@@ -1,0 +1,1 @@
+{"id":"8fa6415c9bbb9427f352d22a1341358c","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: user_not_found","name":"en: user_not_found","status":"passed","testResultsByEnv":{"default":"23e1a375ff4019bc00292f76be616b1c"}}

@@ -1,0 +1,1 @@
+{"id":"f317c10f92545f3e5c3e4c590d3232f1","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions getPermissionsByRole should return permissions for a role","name":"should return permissions for a role","status":"passed","testResultsByEnv":{"default":"0ec1ccb4ba9349d9efc80f20313ddb15"}}

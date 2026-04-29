@@ -1,0 +1,1 @@
+{"id":"3c41b82b4bc8d3c0ef15892857d8282e","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation location-level users should allow access when location matches one of multiple locationIds","name":"should allow access when location matches one of multiple locationIds","status":"passed","testResultsByEnv":{"default":"cc2d581d3e591b2dbb380adb5cfc214f"}}

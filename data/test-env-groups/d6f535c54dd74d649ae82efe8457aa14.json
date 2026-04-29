@@ -1,0 +1,1 @@
+{"id":"d6f535c54dd74d649ae82efe8457aa14","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn returns 403 when forbidden by access filter","name":"returns 403 when forbidden by access filter","status":"passed","testResultsByEnv":{"default":"5c10a311b733be9b46015ca09ba77cf5"}}

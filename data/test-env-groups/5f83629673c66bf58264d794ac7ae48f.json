@@ -1,0 +1,1 @@
+{"id":"5f83629673c66bf58264d794ac7ae48f","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes POST /api/payment-plans validation edge cases rejects downPaymentPercent above 100","name":"rejects downPaymentPercent above 100","status":"passed","testResultsByEnv":{"default":"e3a44ae66d981858da8e2a8d763ace94"}}

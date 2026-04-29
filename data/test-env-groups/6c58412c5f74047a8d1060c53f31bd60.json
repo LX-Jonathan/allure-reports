@@ -1,0 +1,1 @@
+{"id":"6c58412c5f74047a8d1060c53f31bd60","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations createLocation throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"c10e99821608761c4f8211e3c233e7e6"}}

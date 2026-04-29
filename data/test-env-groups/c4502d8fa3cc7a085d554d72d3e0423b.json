@@ -1,0 +1,1 @@
+{"id":"c4502d8fa3cc7a085d554d72d3e0423b","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/auto-link returns 409 when patient already linked","name":"returns 409 when patient already linked","status":"passed","testResultsByEnv":{"default":"bb5ae3a6343b811a779b6d61ebba38c2"}}

@@ -1,0 +1,1 @@
+{"id":"e31ad9dbc7e9579ccbddd2b5d4e91b34","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes POST /api/v1/lxu/quickstarts/:id/download returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3eef4df98ffb16a52e2975562e31cb7c"}}

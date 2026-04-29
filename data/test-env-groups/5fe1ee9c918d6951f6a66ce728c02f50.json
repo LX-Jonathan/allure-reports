@@ -1,0 +1,1 @@
+{"id":"5fe1ee9c918d6951f6a66ce728c02f50","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - inline-edit / drag-and-drop via /update-record rejects updates to a non-updatable field","name":"rejects updates to a non-updatable field","status":"passed","testResultsByEnv":{"default":"d278199d5ac63bdf5aadcb9b56b51736"}}

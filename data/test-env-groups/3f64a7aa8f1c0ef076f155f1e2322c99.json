@@ -1,0 +1,1 @@
+{"id":"3f64a7aa8f1c0ef076f155f1e2322c99","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker startBulkScanSplitWorker should handle failed event with null job","name":"should handle failed event with null job","status":"passed","testResultsByEnv":{"default":"b140cbe8a54dcbe9baa40c94cf5a2ed7"}}

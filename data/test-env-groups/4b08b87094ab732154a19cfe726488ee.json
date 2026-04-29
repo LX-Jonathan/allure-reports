@@ -1,0 +1,1 @@
+{"id":"4b08b87094ab732154a19cfe726488ee","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms unconfigured fallback should return false when tenant config fails and global not configured","name":"should return false when tenant config fails and global not configured","status":"passed","testResultsByEnv":{"default":"8750dde3209dd7d4054dd04101e33751"}}

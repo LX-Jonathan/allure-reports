@@ -1,0 +1,1 @@
+{"id":"fa2a358c5abfe129d6a5c8b5ffc144da","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware safe methods (GET, HEAD, OPTIONS) should set Secure + SameSite=None cookie when request is HTTPS","name":"should set Secure + SameSite=None cookie when request is HTTPS","status":"passed","testResultsByEnv":{"default":"5aa4911e4c9518753fbd5d7c5e146919"}}

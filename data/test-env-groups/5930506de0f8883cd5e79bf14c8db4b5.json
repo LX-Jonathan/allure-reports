@@ -1,0 +1,1 @@
+{"id":"5930506de0f8883cd5e79bf14c8db4b5","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty state for unpaid orders when there is no billing data at all","name":"shows empty state for unpaid orders when there is no billing data at all","status":"passed","testResultsByEnv":{"default":"35209729ab050d54bcec0ea25f324974"}}

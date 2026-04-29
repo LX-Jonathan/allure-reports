@@ -1,0 +1,1 @@
+{"id":"1a56121f01ddeb2893ed9b38d19b6b72","fullName":"client/src/pages/__tests__/prior-auth.test.tsx#PriorAuthPage does not forward selectedLocationId to list/stats queries automatically","name":"does not forward selectedLocationId to list/stats queries automatically","status":"passed","testResultsByEnv":{"default":"078f7fef5d127c44b55db6978e95982c"}}

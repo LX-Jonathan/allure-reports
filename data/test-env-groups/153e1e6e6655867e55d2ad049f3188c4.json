@@ -1,0 +1,1 @@
+{"id":"153e1e6e6655867e55d2ad049f3188c4","fullName":"server/lib/__tests__/encryption.test.ts#encryption isEncryptionConfigured should return false when PHI_ENCRYPTION_KEY is empty string","name":"should return false when PHI_ENCRYPTION_KEY is empty string","status":"passed","testResultsByEnv":{"default":"0ef7381efa7699c09c4e448019d5c8a3"}}

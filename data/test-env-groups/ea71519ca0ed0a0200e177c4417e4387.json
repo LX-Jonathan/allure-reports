@@ -1,0 +1,1 @@
+{"id":"ea71519ca0ed0a0200e177c4417e4387","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements only matches payer-specific rules when payerId is in the list","name":"only matches payer-specific rules when payerId is in the list","status":"passed","testResultsByEnv":{"default":"2aa47c74e5cec1953544ddc1baca5b7e"}}

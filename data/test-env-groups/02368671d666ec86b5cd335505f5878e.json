@@ -1,0 +1,1 @@
+{"id":"02368671d666ec86b5cd335505f5878e","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/manual-result returns 400 when order status does not allow results","name":"returns 400 when order status does not allow results","status":"passed","testResultsByEnv":{"default":"cbb592fb55fadffedee669fb1d4ed1b2"}}

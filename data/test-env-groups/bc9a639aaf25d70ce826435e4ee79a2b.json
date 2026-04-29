@@ -1,0 +1,1 @@
+{"id":"bc9a639aaf25d70ce826435e4ee79a2b","fullName":"server/__tests__/vite.test.ts#setupVite should call app.use exactly twice","name":"should call app.use exactly twice","status":"passed","testResultsByEnv":{"default":"60607a37f3d842ec8d3adfecbb820175"}}

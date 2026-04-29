@@ -1,0 +1,1 @@
+{"id":"45f385ef9cf447c99dafd51c858ffe13","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab filters unpaid orders by order number search (case-insensitive substring)","name":"filters unpaid orders by order number search (case-insensitive substring)","status":"passed","testResultsByEnv":{"default":"8f430a90857287e931c5644290eb5c76"}}

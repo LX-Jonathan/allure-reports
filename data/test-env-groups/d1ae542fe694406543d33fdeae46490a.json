@@ -1,0 +1,1 @@
+{"id":"d1ae542fe694406543d33fdeae46490a","fullName":"server/__tests__/storage-comm-consent-skips-cleanup.test.ts#storage.deleteCommunicationConsentSkipsOlderThan returns 0 when nothing was deleted (no rows older than cutoff)","name":"returns 0 when nothing was deleted (no rows older than cutoff)","status":"passed","testResultsByEnv":{"default":"84e83fddf250ceca59be9343ed1b70fc"}}

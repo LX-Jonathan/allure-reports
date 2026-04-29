@@ -1,0 +1,1 @@
+{"id":"a4fc5145168f3306950ceedea33dd4b0","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob job data validation should throw error when neither filePath nor fileBuffer present","name":"should throw error when neither filePath nor fileBuffer present","status":"passed","testResultsByEnv":{"default":"d81e8c878d74f13e77eeb5d1489be214"}}

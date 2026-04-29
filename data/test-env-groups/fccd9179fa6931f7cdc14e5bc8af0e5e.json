@@ -1,0 +1,1 @@
+{"id":"fccd9179fa6931f7cdc14e5bc8af0e5e","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService deleteShare should return false when report not found","name":"should return false when report not found","status":"passed","testResultsByEnv":{"default":"2dde3bb6504552ef1063987db02edf20"}}

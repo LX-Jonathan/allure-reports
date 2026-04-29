@@ -1,0 +1,1 @@
+{"id":"3f66081f56ddd7bc6e705ffcd8d690bd","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/lookup/rate returns rate with payer match priority","name":"returns rate with payer match priority","status":"passed","testResultsByEnv":{"default":"06a3f157a878dbe19745d80f57277504"}}

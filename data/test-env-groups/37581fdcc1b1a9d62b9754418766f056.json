@@ -1,0 +1,1 @@
+{"id":"37581fdcc1b1a9d62b9754418766f056","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins/permissions/me reports waiver permission as false for unprivileged staff","name":"reports waiver permission as false for unprivileged staff","status":"passed","testResultsByEnv":{"default":"a7e3817f83cc030e81478e0971ff66fb"}}

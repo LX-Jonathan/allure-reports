@@ -1,0 +1,1 @@
+{"id":"f221feeb8f45209a879b27fee7058c27","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId returns thread with relations","name":"returns thread with relations","status":"passed","testResultsByEnv":{"default":"2f5f2cbe8c180ec120cac99fa3697937"}}

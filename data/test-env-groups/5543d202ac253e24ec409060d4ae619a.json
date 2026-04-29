@@ -1,0 +1,1 @@
+{"id":"5543d202ac253e24ec409060d4ae619a","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"26b0dc677c5169e189f0361097f375c3"}}

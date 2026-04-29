@@ -1,0 +1,1 @@
+{"id":"051ade45958aa5be940aaf17ee8ef2f8","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients DOB search patterns searches patients by DOB pattern MM/DD/YYYY","name":"searches patients by DOB pattern MM/DD/YYYY","status":"passed","testResultsByEnv":{"default":"9fb2bc2fc74f4dd8300e33dcc6742afc"}}

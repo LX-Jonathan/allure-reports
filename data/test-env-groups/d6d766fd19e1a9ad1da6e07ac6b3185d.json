@@ -1,0 +1,1 @@
+{"id":"d6d766fd19e1a9ad1da6e07ac6b3185d","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/items/:testCode returns 403 when access filter parentLabId mismatch","name":"returns 403 when access filter parentLabId mismatch","status":"passed","testResultsByEnv":{"default":"6f14582ed5376259817e8108f84b7bf4"}}

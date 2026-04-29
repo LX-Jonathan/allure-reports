@@ -1,0 +1,1 @@
+{"id":"88997443506f2fb1c4e201cf2aeec28c","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/circuit-breaker/:queueType/open should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"3a21c491a5beaacf4b60191e818c9242"}}

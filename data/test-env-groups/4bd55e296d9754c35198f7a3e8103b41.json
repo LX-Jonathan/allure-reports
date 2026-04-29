@@ -1,0 +1,1 @@
+{"id":"4bd55e296d9754c35198f7a3e8103b41","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processLocationRow should uppercase and truncate state to 2 chars","name":"should uppercase and truncate state to 2 chars","status":"passed","testResultsByEnv":{"default":"8aa0f6cab2f1fad550bdf9c8bdcf698d"}}

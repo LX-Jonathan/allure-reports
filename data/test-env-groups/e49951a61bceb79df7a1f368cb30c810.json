@@ -1,0 +1,1 @@
+{"id":"e49951a61bceb79df7a1f368cb30c810","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService checkStatus falls back when AI throws during checkStatus","name":"falls back when AI throws during checkStatus","status":"passed","testResultsByEnv":{"default":"70c2340d7eb04c8106f8f0ba90ef863e"}}

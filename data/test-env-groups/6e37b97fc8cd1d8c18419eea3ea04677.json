@@ -1,0 +1,1 @@
+{"id":"6e37b97fc8cd1d8c18419eea3ea04677","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PATCH /locations/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"8144a433b5bf0c0c731e357e98aa2875"}}

@@ -1,0 +1,1 @@
+{"id":"3cf87db269680918955262992dbe69e9","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service isGoogleVisionConfigured should return true when GOOGLE_CLOUD_VISION_API_KEY env is set","name":"should return true when GOOGLE_CLOUD_VISION_API_KEY env is set","status":"passed","testResultsByEnv":{"default":"e7573c8b4c1f8f6ebc02e7522c7be64a"}}

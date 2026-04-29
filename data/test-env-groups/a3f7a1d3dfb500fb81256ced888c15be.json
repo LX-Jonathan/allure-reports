@@ -1,0 +1,1 @@
+{"id":"a3f7a1d3dfb500fb81256ced888c15be","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders returns 201 on successful creation","name":"returns 201 on successful creation","status":"passed","testResultsByEnv":{"default":"728c41f07361c24c61dad374b3cf06e2"}}

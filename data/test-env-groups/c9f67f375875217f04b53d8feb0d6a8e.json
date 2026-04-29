@@ -1,0 +1,1 @@
+{"id":"c9f67f375875217f04b53d8feb0d6a8e","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - tenant scope on /query free-text search on 'ticket' matches a partial phone (last-4 digits)","name":"free-text search on 'ticket' matches a partial phone (last-4 digits)","status":"passed","testResultsByEnv":{"default":"c4168e41123387cf7247af3752f949ae"}}

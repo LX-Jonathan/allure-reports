@@ -1,0 +1,1 @@
+{"id":"ca13d501fb5c96f522956f79000f4f9c","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes PATCH /api/v1/appointments/:id returns 403 for limited user without organization","name":"returns 403 for limited user without organization","status":"passed","testResultsByEnv":{"default":"4d3e16867e6db3e73cb90196d791faee"}}

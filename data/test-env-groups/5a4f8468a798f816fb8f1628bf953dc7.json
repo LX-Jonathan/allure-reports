@@ -1,0 +1,1 @@
+{"id":"5a4f8468a798f816fb8f1628bf953dc7","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan Extended getAllBulkScanItems returns enriched items with batch info","name":"returns enriched items with batch info","status":"passed","testResultsByEnv":{"default":"d12ee49e47605371dd7df94c4d7bb99b"}}

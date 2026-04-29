@@ -1,0 +1,1 @@
+{"id":"1f32b065d8d89d19612fc7c912fbc41e","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id (additional edge cases) returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"3147ab9fbe0dd0b10ce07c4455c52b48"}}

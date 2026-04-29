@@ -1,0 +1,1 @@
+{"id":"04d39da9b2d8304c3a7b17c89d2b2a99","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#buildPosHref URL-encodes identifiers with special characters","name":"URL-encodes identifiers with special characters","status":"passed","testResultsByEnv":{"default":"52b62c7b30f35c5ba5a12dbc100ce287"}}

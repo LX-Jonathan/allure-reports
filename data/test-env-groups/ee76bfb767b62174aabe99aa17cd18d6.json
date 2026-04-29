@@ -1,0 +1,1 @@
+{"id":"ee76bfb767b62174aabe99aa17cd18d6","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth visibility change revalidation invalidates user query when tab becomes visible after long hidden period","name":"invalidates user query when tab becomes visible after long hidden period","status":"passed","testResultsByEnv":{"default":"d45a7726b5f80b4ac62d080f273f1bcf"}}

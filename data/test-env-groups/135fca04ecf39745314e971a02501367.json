@@ -1,0 +1,1 @@
+{"id":"135fca04ecf39745314e971a02501367","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service getTemplateCacheStats should compute hit rate percentage","name":"should compute hit rate percentage","status":"passed","testResultsByEnv":{"default":"b2d7adfc9300df7e82059c0137b7cff8"}}

@@ -1,0 +1,1 @@
+{"id":"16e290796e880af1dede519bf58bfbda","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service sanitizeIdentifier throws on invalid characters","name":"throws on invalid characters","status":"passed","testResultsByEnv":{"default":"04840e9aaaefab4a8688288b1cc8e5fe"}}

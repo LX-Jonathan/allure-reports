@@ -1,0 +1,1 @@
+{"id":"7c85a4d1a8e021a7c30eb6129f7d83c8","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - inline-edit / drag-and-drop via /update-record updates an allowed field, scoped to the caller's tenant","name":"updates an allowed field, scoped to the caller's tenant","status":"passed","testResultsByEnv":{"default":"47bf078c98b9a37bf51d2ee61645ef7a"}}

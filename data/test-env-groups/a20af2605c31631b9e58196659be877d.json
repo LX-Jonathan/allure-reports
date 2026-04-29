@@ -1,0 +1,1 @@
+{"id":"a20af2605c31631b9e58196659be877d","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService invalidatePattern should return false and log error on Redis keys failure","name":"should return false and log error on Redis keys failure","status":"passed","testResultsByEnv":{"default":"58acddf3668f9aa4cd2023ff290fd26c"}}

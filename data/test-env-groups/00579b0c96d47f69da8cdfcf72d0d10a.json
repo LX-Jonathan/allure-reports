@@ -1,0 +1,1 @@
+{"id":"00579b0c96d47f69da8cdfcf72d0d10a","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner startScan toasts when dwObject is null","name":"startScan toasts when dwObject is null","status":"passed","testResultsByEnv":{"default":"a3d6a6c097690e3c2a795a6f44c1c56b"}}

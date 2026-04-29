@@ -1,0 +1,1 @@
+{"id":"c0e428cae5676349f325c96e42a17a68","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /orders/:orderId/payments returns 404 when order does not exist","name":"returns 404 when order does not exist","status":"passed","testResultsByEnv":{"default":"1fd117661870a23039c6637315c29c3c"}}

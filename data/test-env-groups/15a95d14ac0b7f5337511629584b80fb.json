@@ -1,0 +1,1 @@
+{"id":"15a95d14ac0b7f5337511629584b80fb","fullName":"client/src/hooks/__tests__/useDymoLabel.test.ts#useDymoLabel checkEnvironment returns failure when framework not loaded","name":"checkEnvironment returns failure when framework not loaded","status":"passed","testResultsByEnv":{"default":"c8e2f02257573a446fbb397f8f16003c"}}

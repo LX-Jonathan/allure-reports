@@ -1,0 +1,1 @@
+{"id":"a93522155e1ca9d095eb3f98d0483132","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service shouldSkipClaude should not skip for unknown template below aggressive threshold","name":"should not skip for unknown template below aggressive threshold","status":"passed","testResultsByEnv":{"default":"0cb6376b5930be5e2d459a42ef7f2b8d"}}

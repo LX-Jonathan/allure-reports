@@ -1,0 +1,1 @@
+{"id":"1e85de8167e7354eef14abbb2bf1bbfe","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service shutdownAllCircuitBreakers should call shutdown() on all registered breakers","name":"should call shutdown() on all registered breakers","status":"passed","testResultsByEnv":{"default":"b78fe378e3b915f7f315878bb643c10c"}}

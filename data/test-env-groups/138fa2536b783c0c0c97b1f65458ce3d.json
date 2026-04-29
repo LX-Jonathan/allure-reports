@@ -1,0 +1,1 @@
+{"id":"138fa2536b783c0c0c97b1f65458ce3d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"aef4fa834d166d11c8514064c13af9c8"}}

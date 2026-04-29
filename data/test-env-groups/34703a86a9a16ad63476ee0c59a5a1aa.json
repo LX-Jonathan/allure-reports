@@ -1,0 +1,1 @@
+{"id":"34703a86a9a16ad63476ee0c59a5a1aa","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes POST /api/v1/appointments returns 403 for limited user without organization","name":"returns 403 for limited user without organization","status":"passed","testResultsByEnv":{"default":"960a54a013420c2983a3df62e51b76ca"}}

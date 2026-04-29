@@ -1,0 +1,1 @@
+{"id":"1d0b76c2471451e8e2e09bf896032723","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker startBulkScanSplitWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"2c17d02cd8c8405f47321667a2b50a9a"}}

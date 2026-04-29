@@ -1,0 +1,1 @@
+{"id":"14bb12ab07bf6dc3a61e6dfb2510d98b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/analytics/realtime should return realtime analytics (200)","name":"should return realtime analytics (200)","status":"passed","testResultsByEnv":{"default":"85c26e0eed51abe2b2e94efd11264962"}}

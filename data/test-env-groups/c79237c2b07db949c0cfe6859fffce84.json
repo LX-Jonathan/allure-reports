@@ -1,0 +1,1 @@
+{"id":"c79237c2b07db949c0cfe6859fffce84","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/login returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"e86408896d4c9149aedd484e1e7d9840"}}

@@ -1,0 +1,1 @@
+{"id":"acc626365dc2c570c7f7b501b66a5987","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Lab Results getLabResultByLabId throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"bba39036ce752b5388be09eaf44ab4c2"}}

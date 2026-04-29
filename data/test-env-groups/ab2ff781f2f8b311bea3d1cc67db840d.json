@@ -1,0 +1,1 @@
+{"id":"ab2ff781f2f8b311bea3d1cc67db840d","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeExtractedData should use 'all' in the key path (no page number)","name":"should use 'all' in the key path (no page number)","status":"passed","testResultsByEnv":{"default":"ba79bdce72be162896593398559548b4"}}

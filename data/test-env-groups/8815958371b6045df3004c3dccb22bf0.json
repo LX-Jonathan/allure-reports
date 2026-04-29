@@ -1,0 +1,1 @@
+{"id":"8815958371b6045df3004c3dccb22bf0","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes PATCH /api/interfaces/alert-rules/:id should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"5a2c9d502f201e19e691d4cffa632ff9"}}

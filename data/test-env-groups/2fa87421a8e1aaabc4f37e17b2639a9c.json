@@ -1,0 +1,1 @@
+{"id":"2fa87421a8e1aaabc4f37e17b2639a9c","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/analytics/realtime should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"7168e679f5ddde5cb983b21cf3ab6960"}}

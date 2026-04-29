@@ -1,0 +1,1 @@
+{"id":"08192c4dadad4ec18c4262b211ea17a5","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#evaluateCondition equals returns true for matching strings (case-insensitive)","name":"returns true for matching strings (case-insensitive)","status":"passed","testResultsByEnv":{"default":"049120226642ee93e19287ae9b070e66"}}

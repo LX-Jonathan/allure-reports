@@ -1,0 +1,1 @@
+{"id":"a90ef6194a7b810d4c3298d844ba6be2","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 500 on API error","name":"returns 500 on API error","status":"passed","testResultsByEnv":{"default":"9d6cff3f1b191739df70f39259d77794"}}

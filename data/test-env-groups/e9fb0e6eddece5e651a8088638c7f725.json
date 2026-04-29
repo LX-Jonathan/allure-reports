@@ -1,0 +1,1 @@
+{"id":"e9fb0e6eddece5e651a8088638c7f725","fullName":"client/src/lib/__tests__/queryClient.test.ts#fetchAsset attaches Authorization for absolute same-origin /api URLs","name":"attaches Authorization for absolute same-origin /api URLs","status":"passed","testResultsByEnv":{"default":"6393ebfde0683338950b452687a3c6d9"}}

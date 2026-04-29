@@ -1,0 +1,1 @@
+{"id":"6cca077db8066d710ae58a71d33b32dd","fullName":"server/lib/__tests__/cache.service.test.ts#invalidateProviderCaches should clear all provider cache entries","name":"should clear all provider cache entries","status":"passed","testResultsByEnv":{"default":"7803ccb50fe73460c2b9b14b81d7c8e0"}}

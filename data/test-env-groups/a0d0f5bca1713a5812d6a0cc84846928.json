@@ -1,0 +1,1 @@
+{"id":"a0d0f5bca1713a5812d6a0cc84846928","fullName":"server/services/__tests__/insuranceMapping.service.test.ts#insuranceMapping.service generateMappingSuggestions should handle exactly 30 companies in one batch","name":"should handle exactly 30 companies in one batch","status":"passed","testResultsByEnv":{"default":"15314789395f87407e3b6dfa98f9c884"}}

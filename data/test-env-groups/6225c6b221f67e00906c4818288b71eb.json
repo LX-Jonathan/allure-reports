@@ -1,0 +1,1 @@
+{"id":"6225c6b221f67e00906c4818288b71eb","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment parses SGD command response with quoted dimensions","name":"checkEnvironment parses SGD command response with quoted dimensions","status":"passed","testResultsByEnv":{"default":"040c63dde7b16ed57d536b917e6b02f2"}}

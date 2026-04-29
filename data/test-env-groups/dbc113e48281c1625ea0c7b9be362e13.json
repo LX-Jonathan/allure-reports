@@ -1,0 +1,1 @@
+{"id":"dbc113e48281c1625ea0c7b9be362e13","fullName":"client/src/pages/__tests__/order-new.test.tsx#OrderNewPage survives failed network request and still shows patient search","name":"survives failed network request and still shows patient search","status":"passed","testResultsByEnv":{"default":"9670bf0100ec14b2c99b309a26951db2"}}

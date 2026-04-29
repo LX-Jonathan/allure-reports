@@ -1,0 +1,1 @@
+{"id":"b272421c3c5724cf79479dd5413cc947","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages appends the message and flips unreadByStaff","name":"appends the message and flips unreadByStaff","status":"passed","testResultsByEnv":{"default":"606042c6d17053dcafd257ee7d46c20f"}}

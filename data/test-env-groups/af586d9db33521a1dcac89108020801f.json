@@ -1,0 +1,1 @@
+{"id":"af586d9db33521a1dcac89108020801f","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should read metadata from the output buffer","name":"should read metadata from the output buffer","status":"passed","testResultsByEnv":{"default":"f9fd611806aa8e9975bd9f816a48d06e"}}

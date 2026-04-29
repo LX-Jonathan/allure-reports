@@ -1,0 +1,1 @@
+{"id":"633501f7935d079c227956386074f8d2","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Lab client cross-client access guard returns 200 for own client GET threads (representative happy path)","name":"returns 200 for own client GET threads (representative happy path)","status":"passed","testResultsByEnv":{"default":"6859ff91360e2eefc67df633933e06ed"}}

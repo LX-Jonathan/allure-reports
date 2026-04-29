@@ -1,0 +1,1 @@
+{"id":"59fc1c436c2638dcbed26325334570ff","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker edge cases should handle AI analysis failure by falling back to per-page split","name":"should handle AI analysis failure by falling back to per-page split","status":"passed","testResultsByEnv":{"default":"d8565e0c641668963a6c3e890d59dfb0"}}

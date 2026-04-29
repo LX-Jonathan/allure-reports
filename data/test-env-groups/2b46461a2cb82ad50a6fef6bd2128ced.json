@@ -1,0 +1,1 @@
+{"id":"2b46461a2cb82ad50a6fef6bd2128ced","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob job initialization should throw error if parsedData is not an array","name":"should throw error if parsedData is not an array","status":"passed","testResultsByEnv":{"default":"80d61d4f8b91ab07221e083d34442890"}}

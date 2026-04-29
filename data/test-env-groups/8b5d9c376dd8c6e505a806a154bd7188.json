@@ -1,0 +1,1 @@
+{"id":"8b5d9c376dd8c6e505a806a154bd7188","fullName":"server/lib/__tests__/redisSessionStore.test.ts#createSessionStore should convert ttl from milliseconds to seconds for redis store","name":"should convert ttl from milliseconds to seconds for redis store","status":"passed","testResultsByEnv":{"default":"fee4ccd2e2c47b9a44cd698465691196"}}

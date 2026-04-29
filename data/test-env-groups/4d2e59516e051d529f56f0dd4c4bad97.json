@@ -1,0 +1,1 @@
+{"id":"4d2e59516e051d529f56f0dd4c4bad97","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit uses a row-level lock (SELECT … FOR UPDATE) to ensure atomic decrement","name":"uses a row-level lock (SELECT … FOR UPDATE) to ensure atomic decrement","status":"passed","testResultsByEnv":{"default":"e5c16a114e46b0d14f953d54c526d8ab"}}

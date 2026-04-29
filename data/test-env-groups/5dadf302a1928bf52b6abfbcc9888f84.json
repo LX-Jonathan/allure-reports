@@ -1,0 +1,1 @@
+{"id":"5dadf302a1928bf52b6abfbcc9888f84","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should log success message on completion","name":"should log success message on completion","status":"passed","testResultsByEnv":{"default":"687b2450ec9536f3a20d2f67f5a86591"}}

@@ -1,0 +1,1 @@
+{"id":"673c127160a61420809f84d4752575a0","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useStaffDtcOrderDetail extra coverage does not fetch when orderId is null","name":"does not fetch when orderId is null","status":"passed","testResultsByEnv":{"default":"3bea9db9d8afaf387b3ea5d7595ce020"}}

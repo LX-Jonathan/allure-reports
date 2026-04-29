@@ -1,0 +1,1 @@
+{"id":"d24118695b6755c494dc3043e938c97d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/aoe-responses additional branches returns 500 on storage error fetching AOE responses","name":"returns 500 on storage error fetching AOE responses","status":"passed","testResultsByEnv":{"default":"89048cd102d3aa4a6be87c1f7f977c71"}}

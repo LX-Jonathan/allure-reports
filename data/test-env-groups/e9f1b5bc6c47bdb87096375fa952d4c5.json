@@ -1,0 +1,1 @@
+{"id":"e9f1b5bc6c47bdb87096375fa952d4c5","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should throw error for invalid characters","name":"should throw error for invalid characters","status":"passed","testResultsByEnv":{"default":"6656557416afae5cd29c5a2838ee6d29"}}

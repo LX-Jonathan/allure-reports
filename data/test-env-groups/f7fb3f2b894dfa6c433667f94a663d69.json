@@ -1,0 +1,1 @@
+{"id":"f7fb3f2b894dfa6c433667f94a663d69","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes DELETE /api/v1/labs/:id should delete an organization","name":"should delete an organization","status":"passed","testResultsByEnv":{"default":"7567a4c9a61e0cf7830d0e26d4091786"}}

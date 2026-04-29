@@ -1,0 +1,1 @@
+{"id":"ed42f92c519e672df7d1720604401e1b","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) DELETE /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f3f9933c207476b8363340c796798556"}}

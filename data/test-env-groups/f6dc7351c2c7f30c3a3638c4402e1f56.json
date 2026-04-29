@@ -1,0 +1,1 @@
+{"id":"f6dc7351c2c7f30c3a3638c4402e1f56","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update POST /api/v1/medications returns 403 when org_admin has no organization","name":"returns 403 when org_admin has no organization","status":"passed","testResultsByEnv":{"default":"b4e72b40071d3b1a563a198e1f8eebf7"}}

@@ -1,0 +1,1 @@
+{"id":"3528e5a8c7858d4d07f546321911bc94","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/add-manual-claim returns 403 when not super_admin","name":"returns 403 when not super_admin","status":"passed","testResultsByEnv":{"default":"26d68cddf59cdf8e6ada5672b5ea8db2"}}

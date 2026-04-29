@@ -1,0 +1,1 @@
+{"id":"a90260a70a8948621b64d6ea461a8f60","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/check-requirement returns 200 with clearinghouse result for valid body","name":"returns 200 with clearinghouse result for valid body","status":"passed","testResultsByEnv":{"default":"cfe402914b9fa8604c7f859473f9796d"}}

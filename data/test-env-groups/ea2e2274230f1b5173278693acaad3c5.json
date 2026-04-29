@@ -1,0 +1,1 @@
+{"id":"ea2e2274230f1b5173278693acaad3c5","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /tables/:tableName/sample returns 200 with sample data","name":"returns 200 with sample data","status":"passed","testResultsByEnv":{"default":"9e3bfe9f17a08b48cdf2c4245f67587c"}}

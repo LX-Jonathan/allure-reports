@@ -1,0 +1,1 @@
+{"id":"d0608e7bbb7edfb29a1b2327bfab6161","fullName":"client/src/components/patient/__tests__/eligibility-check-dialog.test.tsx#EligibilityCheckDialog invokes onRunDiscovery when discovery button clicked","name":"invokes onRunDiscovery when discovery button clicked","status":"passed","testResultsByEnv":{"default":"025b65818c0500905fa65de763315fbf"}}

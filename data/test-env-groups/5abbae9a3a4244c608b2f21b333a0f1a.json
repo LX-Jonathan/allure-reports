@@ -1,0 +1,1 @@
+{"id":"5abbae9a3a4244c608b2f21b333a0f1a","fullName":"client/src/stores/__tests__/tenantStore.test.ts#useTenantStore setSelectedSuperOrgId clears org and location selections","name":"setSelectedSuperOrgId clears org and location selections","status":"passed","testResultsByEnv":{"default":"6610f114706260fbff393f6c9fa612e3"}}

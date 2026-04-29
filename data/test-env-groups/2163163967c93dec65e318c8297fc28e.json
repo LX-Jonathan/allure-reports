@@ -1,0 +1,1 @@
+{"id":"2163163967c93dec65e318c8297fc28e","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) determineAction — returns SETUP for setup endpoint","name":"determineAction — returns SETUP for setup endpoint","status":"passed","testResultsByEnv":{"default":"c9a36f8f3cc49a1501acc563bf22d810"}}

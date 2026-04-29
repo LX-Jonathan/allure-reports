@@ -1,0 +1,1 @@
+{"id":"5571f0ced643fb1dbc237d7a7ccc5935","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications returns 500 on error","name":"returns 500 on error","status":"passed","testResultsByEnv":{"default":"0b42f098c98ecd4f9d4478e6844a839d"}}

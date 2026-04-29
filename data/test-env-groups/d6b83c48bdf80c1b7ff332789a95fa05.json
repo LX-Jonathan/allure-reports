@@ -1,0 +1,1 @@
+{"id":"d6b83c48bdf80c1b7ff332789a95fa05","fullName":"server/lib/__tests__/email.test.ts#email sendEmail uses empty string for text when not provided","name":"uses empty string for text when not provided","status":"passed","testResultsByEnv":{"default":"1d600a61dc642f3674b33649c8596109"}}

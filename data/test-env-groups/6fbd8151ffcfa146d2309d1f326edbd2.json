@@ -1,0 +1,1 @@
+{"id":"6fbd8151ffcfa146d2309d1f326edbd2","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth sendCode mutation sends code to the provided email","name":"sends code to the provided email","status":"passed","testResultsByEnv":{"default":"a892ab61b6532bf5f8c8021d0a293aca"}}

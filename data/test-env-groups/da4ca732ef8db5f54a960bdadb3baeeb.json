@@ -1,0 +1,1 @@
+{"id":"da4ca732ef8db5f54a960bdadb3baeeb","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings diagnosticReportToResults handles empty/minimal report","name":"handles empty/minimal report","status":"passed","testResultsByEnv":{"default":"fc36304489e387f792a86bd0f7d2872c"}}

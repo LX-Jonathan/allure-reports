@@ -1,0 +1,1 @@
+{"id":"c2894c83d52f2079e489fbf699820758","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries returns paginated journal entries","name":"returns paginated journal entries","status":"passed","testResultsByEnv":{"default":"3d2c7ce28b54be1e64c1175b7cf7818c"}}

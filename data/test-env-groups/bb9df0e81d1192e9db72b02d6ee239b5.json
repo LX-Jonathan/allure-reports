@@ -1,0 +1,1 @@
+{"id":"bb9df0e81d1192e9db72b02d6ee239b5","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should rethrow errors from worker.recognize","name":"should rethrow errors from worker.recognize","status":"passed","testResultsByEnv":{"default":"9a51efb7061fa03a4f29f9f5a91277e0"}}

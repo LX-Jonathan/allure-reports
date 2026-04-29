@@ -1,0 +1,1 @@
+{"id":"d71ac53aabcd89b2acd14d939e1772c5","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should return original if already formatted","name":"should return original if already formatted","status":"passed","testResultsByEnv":{"default":"20d726cea0636d259e087844f8df63dd"}}

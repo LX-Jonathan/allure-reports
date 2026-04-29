@@ -1,0 +1,1 @@
+{"id":"efed2eb45069b6c25f552688839b5817","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /summary returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"a8624cd226fdd8a804480a106ba3773f"}}

@@ -1,0 +1,1 @@
+{"id":"b64df84b4b480b5f94823852e5831cb1","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postRefundJournal should return null when amount is negative","name":"should return null when amount is negative","status":"passed","testResultsByEnv":{"default":"45b4cfe4a644a1532c267ea936b9d523"}}

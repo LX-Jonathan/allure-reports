@@ -1,0 +1,1 @@
+{"id":"f38c198f2b9f679b571203f8b6e64833","fullName":"client/src/components/patient/__tests__/financial-assistance-badge.test.tsx#FinancialAssistanceBadge returns null when financialAssistanceEligible is false","name":"returns null when financialAssistanceEligible is false","status":"passed","testResultsByEnv":{"default":"4f06619e7b02890ec17c80f4fe787342"}}

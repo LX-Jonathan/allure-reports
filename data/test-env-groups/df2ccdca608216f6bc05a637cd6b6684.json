@@ -1,0 +1,1 @@
+{"id":"df2ccdca608216f6bc05a637cd6b6684","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update PATCH /api/v1/medications/:id returns 200 on successful update","name":"returns 200 on successful update","status":"passed","testResultsByEnv":{"default":"39efcc1374005aaca5927d6fc9536952"}}

@@ -1,0 +1,1 @@
+{"id":"e09edd82973c55cc1183097eee8790cd","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#checkCircuitBreaker should stay open if cooldown has not expired","name":"should stay open if cooldown has not expired","status":"passed","testResultsByEnv":{"default":"5673089f7b3afc196e0396763f9a2bdc"}}

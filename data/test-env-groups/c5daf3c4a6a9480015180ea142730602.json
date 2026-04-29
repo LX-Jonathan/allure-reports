@@ -1,0 +1,1 @@
+{"id":"c5daf3c4a6a9480015180ea142730602","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with stats for org_admin with locationId filter","name":"returns 200 with stats for org_admin with locationId filter","status":"passed","testResultsByEnv":{"default":"db48a6bd358c5df8a4a00f3a19bff9e4"}}

@@ -1,0 +1,1 @@
+{"id":"1c7de90cfb5b3beaad93186aa728d9f0","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /ai-generate returns 500 when AI returns no content","name":"returns 500 when AI returns no content","status":"passed","testResultsByEnv":{"default":"643df7f91f6df8a0fbf2b22cd899007f"}}

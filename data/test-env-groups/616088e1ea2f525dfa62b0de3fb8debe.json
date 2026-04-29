@@ -1,0 +1,1 @@
+{"id":"616088e1ea2f525dfa62b0de3fb8debe","fullName":"server/lib/__tests__/reportCache.test.ts#startProactiveRefresh / stopProactiveRefresh stopProactiveRefresh is safe to call when no timer is running","name":"stopProactiveRefresh is safe to call when no timer is running","status":"passed","testResultsByEnv":{"default":"13c222824e3b20d5b916118cc32a8446"}}

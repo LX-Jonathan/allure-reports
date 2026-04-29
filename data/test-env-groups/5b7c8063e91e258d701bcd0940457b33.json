@@ -1,0 +1,1 @@
+{"id":"5b7c8063e91e258d701bcd0940457b33","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes GET /api/conversations/:id should handle non-numeric id param","name":"should handle non-numeric id param","status":"passed","testResultsByEnv":{"default":"a05e0b294b53f5218a072bab48ddb305"}}

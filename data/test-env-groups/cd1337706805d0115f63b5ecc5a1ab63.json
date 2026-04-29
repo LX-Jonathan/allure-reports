@@ -1,0 +1,1 @@
+{"id":"cd1337706805d0115f63b5ecc5a1ab63","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes PATCH /api/interfaces/alert-rules/:id should update alert rule (200)","name":"should update alert rule (200)","status":"passed","testResultsByEnv":{"default":"1e72d64094aa701299fc7bca12e7210e"}}

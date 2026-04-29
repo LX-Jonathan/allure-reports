@@ -1,0 +1,1 @@
+{"id":"43bf4ad749316b09303d17a64696e780","fullName":"client/src/lib/__tests__/order-selection-adapters.test.ts#medicationToSelectItem falls back to genericName when name and brandName are empty","name":"falls back to genericName when name and brandName are empty","status":"passed","testResultsByEnv":{"default":"bf9aec88b2b04abd80dd47546f08a98d"}}

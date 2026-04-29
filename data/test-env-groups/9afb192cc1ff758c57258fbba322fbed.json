@@ -1,0 +1,1 @@
+{"id":"9afb192cc1ff758c57258fbba322fbed","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /templates returns 400 for invalid block type","name":"returns 400 for invalid block type","status":"passed","testResultsByEnv":{"default":"4a1a6e7441c730157d0821f65a629258"}}

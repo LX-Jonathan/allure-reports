@@ -1,0 +1,1 @@
+{"id":"18d404de57d50baf1c6689c696bb87d5","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processPatientRow should generate MRN with IMP- prefix","name":"should generate MRN with IMP- prefix","status":"passed","testResultsByEnv":{"default":"b1b23b2ebb944b1ca04c09da25809996"}}

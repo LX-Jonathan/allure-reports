@@ -1,0 +1,1 @@
+{"id":"6d1532e13a20ba01d903111cecd340eb","fullName":"server/__tests__/system.routes.test.ts#system routes POST /api/v1/system/configs/reload-cms reloads CMS data successfully","name":"reloads CMS data successfully","status":"passed","testResultsByEnv":{"default":"c53b142a08fc83dfef2021fb19b5d58c"}}

@@ -1,0 +1,1 @@
+{"id":"27d422842dbe792d385c7b8945d5aa13","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue checkEmailConsent should return false on error (fail-safe)","name":"should return false on error (fail-safe)","status":"passed","testResultsByEnv":{"default":"197c703823a708530bad8479fddeb9b5"}}

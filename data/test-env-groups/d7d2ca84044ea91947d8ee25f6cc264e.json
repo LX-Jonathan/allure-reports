@@ -1,0 +1,1 @@
+{"id":"d7d2ca84044ea91947d8ee25f6cc264e","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes GET /counts/:parentLabId returns zero counts when no orgs exist","name":"returns zero counts when no orgs exist","status":"passed","testResultsByEnv":{"default":"de29d6a0b6ae7b0ad2d68084ffc242df"}}

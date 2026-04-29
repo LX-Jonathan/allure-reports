@@ -1,0 +1,1 @@
+{"id":"b153b0033eb500a6cf34698daf5301d1","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/count returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"9a05a4bad026572cc147f08992bfd53b"}}

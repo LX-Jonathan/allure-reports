@@ -1,0 +1,1 @@
+{"id":"4f4a5f2a85ca31bece09b79947252a36","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware role hierarchy superAdmin should have the most restrictive access","name":"superAdmin should have the most restrictive access","status":"passed","testResultsByEnv":{"default":"dcceaa968f97bbcdbe67c8b162290100"}}

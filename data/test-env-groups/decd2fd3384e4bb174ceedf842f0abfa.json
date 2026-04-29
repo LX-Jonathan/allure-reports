@@ -1,0 +1,1 @@
+{"id":"decd2fd3384e4bb174ceedf842f0abfa","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/import should detect invalid rows","name":"should detect invalid rows","status":"passed","testResultsByEnv":{"default":"0c19a1e29a8ee544e41aaafaa94b3568"}}

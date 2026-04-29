@@ -1,0 +1,1 @@
+{"id":"4aaaf9d3c001a3b6929cee45e86e86f6","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts GET /chart-of-accounts returns 400 when no org context","name":"returns 400 when no org context","status":"passed","testResultsByEnv":{"default":"ba55c796f91456f8a9002203c015783b"}}

@@ -1,0 +1,1 @@
+{"id":"9249b5480d92e31b7c5a99f8d3650ee8","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent payments renders the error state when the payments query fails","name":"renders the error state when the payments query fails","status":"passed","testResultsByEnv":{"default":"861a41a0ed50c3da601c43c465fecf5b"}}

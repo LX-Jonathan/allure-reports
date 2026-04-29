@@ -1,0 +1,1 @@
+{"id":"66fb6cda4bca9b23516e20a21bb274d6","fullName":"server/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getClaimDenials should aggregate claim denial data by service date and detail rows","name":"should aggregate claim denial data by service date and detail rows","status":"passed","testResultsByEnv":{"default":"5c83c54ad992baeb11987d2bff60d620"}}

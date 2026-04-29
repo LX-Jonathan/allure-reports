@@ -1,0 +1,1 @@
+{"id":"9ca938797288e506d72923a5d91e4503","fullName":"server/lib/__tests__/result-queue-processor.test.ts#result-queue-processor stopResultQueueProcessor should stop the processor interval","name":"should stop the processor interval","status":"passed","testResultsByEnv":{"default":"a81470ce653dc06f832c1105d965d3a9"}}

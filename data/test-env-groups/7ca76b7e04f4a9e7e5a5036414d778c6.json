@@ -1,0 +1,1 @@
+{"id":"7ca76b7e04f4a9e7e5a5036414d778c6","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda submitOrderToAndromeda should handle parse error on success response","name":"should handle parse error on success response","status":"passed","testResultsByEnv":{"default":"48ea3ca25c0c05e3411c972a6d32450c"}}

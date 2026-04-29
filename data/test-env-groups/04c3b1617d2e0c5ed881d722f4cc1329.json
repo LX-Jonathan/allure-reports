@@ -1,0 +1,1 @@
+{"id":"04c3b1617d2e0c5ed881d722f4cc1329","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /invite returns 409 when link already exists","name":"returns 409 when link already exists","status":"passed","testResultsByEnv":{"default":"647e6eb9cbb3c42eb5cc22b8868ee0c0"}}

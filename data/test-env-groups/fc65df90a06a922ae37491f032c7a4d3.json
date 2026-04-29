@@ -1,0 +1,1 @@
+{"id":"fc65df90a06a922ae37491f032c7a4d3","fullName":"server/__tests__/users.routes.test.ts#users routes GET /api/v1/users/:id generates signed URL for avatar","name":"generates signed URL for avatar","status":"passed","testResultsByEnv":{"default":"b626f823861763e53356cd9c119eadc9"}}

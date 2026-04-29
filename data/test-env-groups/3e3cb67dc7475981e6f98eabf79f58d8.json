@@ -1,0 +1,1 @@
+{"id":"3e3cb67dc7475981e6f98eabf79f58d8","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord observations (labs and vitals) should separate vital-signs observations into vitalSigns","name":"should separate vital-signs observations into vitalSigns","status":"passed","testResultsByEnv":{"default":"e91e53dc3547bb67a5b1feb4e9c7866d"}}

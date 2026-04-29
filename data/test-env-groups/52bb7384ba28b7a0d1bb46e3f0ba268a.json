@@ -1,0 +1,1 @@
+{"id":"52bb7384ba28b7a0d1bb46e3f0ba268a","fullName":"client/src/lib/__tests__/import-configs.test.ts#PATIENTS_CONFIG.buildPayload normalizes gender, country, and language with defaults","name":"normalizes gender, country, and language with defaults","status":"passed","testResultsByEnv":{"default":"0bfeb6ec50b4e39812e9388127c076f1"}}

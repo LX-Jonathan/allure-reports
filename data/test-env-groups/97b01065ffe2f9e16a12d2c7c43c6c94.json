@@ -1,0 +1,1 @@
+{"id":"97b01065ffe2f9e16a12d2c7c43c6c94","fullName":"server/routes/__tests__/patient-auth-recovery-codes.routes.test.ts#patient-auth recovery codes POST /recovery-codes/generate writes a recovery_codes_generated audit log on success","name":"writes a recovery_codes_generated audit log on success","status":"passed","testResultsByEnv":{"default":"9224aaca362837a715cbb7fb55377ce5"}}

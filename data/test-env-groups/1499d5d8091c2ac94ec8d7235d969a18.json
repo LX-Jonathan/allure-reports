@@ -1,0 +1,1 @@
+{"id":"1499d5d8091c2ac94ec8d7235d969a18","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits (Patient Portal - Get My Kits) returns 200 with kits and product info","name":"returns 200 with kits and product info","status":"passed","testResultsByEnv":{"default":"7e7854175991dc754e8f9975526db252"}}

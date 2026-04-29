@@ -1,0 +1,1 @@
+{"id":"bc6a9f9be67723d07ff267580689e48d","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /fhir-connections/:connectionId/interaction-logs returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"4940d50922a7ceb061bdb1bdea7693b4"}}

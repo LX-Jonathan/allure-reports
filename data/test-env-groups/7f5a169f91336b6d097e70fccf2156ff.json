@@ -1,0 +1,1 @@
+{"id":"7f5a169f91336b6d097e70fccf2156ff","fullName":"server/services/__tests__/patientDashboardSummary.service.test.ts#computePatientDashboardSummaryMetrics returns zeroed metrics when patientIds is empty","name":"returns zeroed metrics when patientIds is empty","status":"passed","testResultsByEnv":{"default":"dda6064a1c420cac73efe075a6718b6b"}}

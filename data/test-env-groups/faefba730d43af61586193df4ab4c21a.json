@@ -1,0 +1,1 @@
+{"id":"faefba730d43af61586193df4ab4c21a","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePriorAuthRules passes when an approved authorization covers all required CPTs","name":"passes when an approved authorization covers all required CPTs","status":"passed","testResultsByEnv":{"default":"6aa36fb059b6dc7b6ad722042269f228"}}

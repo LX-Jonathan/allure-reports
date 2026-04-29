@@ -1,0 +1,1 @@
+{"id":"8c3cbce290b303c049dd8515d36ce0a4","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"3f81b054a5fbeac775be422d3d976ee4"}}

@@ -1,0 +1,1 @@
+{"id":"88a48a83932d3aa86298193396705e39","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs/resolved/:locationId/:module returns 400 for invalid module","name":"returns 400 for invalid module","status":"passed","testResultsByEnv":{"default":"5f43102756eb40545cce7deac6643ec5"}}

@@ -1,0 +1,1 @@
+{"id":"8195daa3e10ac471860916506a3fe7c4","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanItemJobs should handle empty items array","name":"should handle empty items array","status":"passed","testResultsByEnv":{"default":"883043914e29adbb0b3a9571c49cde48"}}

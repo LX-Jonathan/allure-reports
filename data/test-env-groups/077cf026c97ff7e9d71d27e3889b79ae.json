@@ -1,0 +1,1 @@
+{"id":"077cf026c97ff7e9d71d27e3889b79ae","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service debug/info/warn/error shortcuts should set level to debug","name":"should set level to debug","status":"passed","testResultsByEnv":{"default":"9d9654cefec9f76c1a180c34d77e6b86"}}

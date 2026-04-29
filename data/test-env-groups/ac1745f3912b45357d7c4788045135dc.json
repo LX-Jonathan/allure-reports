@@ -1,0 +1,1 @@
+{"id":"ac1745f3912b45357d7c4788045135dc","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/catalog/:id (Patient Portal - Product Details) returns 404 when product not found or inactive","name":"returns 404 when product not found or inactive","status":"passed","testResultsByEnv":{"default":"392fe2d2c1ae0a0a1e64196da94f883a"}}

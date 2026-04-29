@@ -1,0 +1,1 @@
+{"id":"229dbddd4a6dbd575cd2403808fba575","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts/seed-baseline returns 400 when no org context","name":"returns 400 when no org context","status":"passed","testResultsByEnv":{"default":"6fbbdd609cb22857148d21271e54f3b3"}}

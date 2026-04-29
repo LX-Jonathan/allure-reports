@@ -1,0 +1,1 @@
+{"id":"4714fbe17edcfce0746cd5c443bf208c","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should not create contractual adjustment when billed equals allowed","name":"should not create contractual adjustment when billed equals allowed","status":"passed","testResultsByEnv":{"default":"3125377cb81edd50ba7164e405f1fa78"}}

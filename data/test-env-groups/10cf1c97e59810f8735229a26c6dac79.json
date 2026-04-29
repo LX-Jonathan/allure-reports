@@ -1,0 +1,1 @@
+{"id":"10cf1c97e59810f8735229a26c6dac79","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/results/queue should return 500 on storage error","name":"should return 500 on storage error","status":"passed","testResultsByEnv":{"default":"3f6b85bd1a9b9d8f311bec03ba29b809"}}

@@ -1,0 +1,1 @@
+{"id":"1607f16e5969c23e7d710857479d4752","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should return empty string for empty input","name":"should return empty string for empty input","status":"passed","testResultsByEnv":{"default":"36727252f8dd0917a06051c0614a078f"}}

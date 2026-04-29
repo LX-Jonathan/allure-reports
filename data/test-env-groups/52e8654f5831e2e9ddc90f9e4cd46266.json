@@ -1,0 +1,1 @@
+{"id":"52e8654f5831e2e9ddc90f9e4cd46266","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getAuditLogsByResource should return audit logs for a resource","name":"should return audit logs for a resource","status":"passed","testResultsByEnv":{"default":"7e7e1a272e2c76fb0d12ee7394009ce2"}}

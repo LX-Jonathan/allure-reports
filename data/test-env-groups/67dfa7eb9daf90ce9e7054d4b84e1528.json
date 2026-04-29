@@ -1,0 +1,1 @@
+{"id":"67dfa7eb9daf90ce9e7054d4b84e1528","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId encrypts new clientSecret and updates config","name":"encrypts new clientSecret and updates config","status":"passed","testResultsByEnv":{"default":"8bd094cf8ab7c58217cc386c7a71f40e"}}

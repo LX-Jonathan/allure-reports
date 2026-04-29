@@ -1,0 +1,1 @@
+{"id":"4b9e60d0082549483fb7cb5f801be64c","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes GET /api/v1/auth/invites/:code returns 200 with superOrg name when invite has parentLabId","name":"returns 200 with superOrg name when invite has parentLabId","status":"passed","testResultsByEnv":{"default":"e3aca5ad0abdcaf958e5979f7544137b"}}

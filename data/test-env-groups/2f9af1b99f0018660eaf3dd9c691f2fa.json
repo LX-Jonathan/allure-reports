@@ -1,0 +1,1 @@
+{"id":"2f9af1b99f0018660eaf3dd9c691f2fa","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService buildTenantFilters should return empty filters for full access users","name":"should return empty filters for full access users","status":"passed","testResultsByEnv":{"default":"98afb9b320ed7c667dd36dff06d5b1a9"}}

@@ -1,0 +1,1 @@
+{"id":"ef44eb41293b796f57aa03aa606fdf31","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks ff00:: (multicast IPv6) via IP literal","name":"blocks ff00:: (multicast IPv6) via IP literal","status":"passed","testResultsByEnv":{"default":"3efebf472397221c236c4839d38da8cf"}}

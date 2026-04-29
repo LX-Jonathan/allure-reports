@@ -1,0 +1,1 @@
+{"id":"fbc151b9ed482cfdc280c90e51672bee","fullName":"client/src/pages/dedicated-portal/__tests__/portal-billing.test.tsx#PortalBillingPage Pay Now affordance shows the Pay Now bar enabled when Stripe is configured","name":"shows the Pay Now bar enabled when Stripe is configured","status":"passed","testResultsByEnv":{"default":"7b1af3b00150421039355bd5c44d0464"}}

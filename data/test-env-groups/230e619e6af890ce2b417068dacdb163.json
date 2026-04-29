@@ -1,0 +1,1 @@
+{"id":"230e619e6af890ce2b417068dacdb163","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#readWeeklyDigestConfig returns parsed config when valid","name":"returns parsed config when valid","status":"passed","testResultsByEnv":{"default":"10051246ee9bc35f874b092fe1ad3771"}}

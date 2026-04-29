@@ -1,0 +1,1 @@
+{"id":"7c15a8180bb0fe973029f01fe4b97b80","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"bd6a8853a3acd1aafd1093e76588fe89"}}

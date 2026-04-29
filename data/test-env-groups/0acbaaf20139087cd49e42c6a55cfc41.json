@@ -1,0 +1,1 @@
+{"id":"0acbaaf20139087cd49e42c6a55cfc41","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes DELETE /:id returns 500 when storage delete throws","name":"returns 500 when storage delete throws","status":"passed","testResultsByEnv":{"default":"2957cc8550406c6f3001a17d099ddd5c"}}

@@ -1,0 +1,1 @@
+{"id":"c1463a27c876c6d7cd8908a8d2f14e2d","fullName":"server/routes/__tests__/patient-auth-portal-link.routes.test.ts#GET /portal-link/verify returns 302 fallback redirect when token query param is missing","name":"returns 302 fallback redirect when token query param is missing","status":"passed","testResultsByEnv":{"default":"294ef97991f5c0f5d572693a9d8da9f4"}}

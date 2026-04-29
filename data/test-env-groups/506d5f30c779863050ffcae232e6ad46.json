@@ -1,0 +1,1 @@
+{"id":"506d5f30c779863050ffcae232e6ad46","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep detects missing-card-front when only the back image is uploaded","name":"detects missing-card-front when only the back image is uploaded","status":"passed","testResultsByEnv":{"default":"57343d122d4a295099336b80a9d5a7ee"}}

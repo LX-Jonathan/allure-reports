@@ -1,0 +1,1 @@
+{"id":"7641e011f14faf2e30c455d455d22d0d","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /patients returns empty array when no search term","name":"returns empty array when no search term","status":"passed","testResultsByEnv":{"default":"3bfb86b8508968323fc3623d690c73dc"}}

@@ -1,0 +1,1 @@
+{"id":"56c6721500dcb6ff0f1e6a69cc12b6ff","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId updates ticket status to resolved","name":"updates ticket status to resolved","status":"passed","testResultsByEnv":{"default":"84852733073f4716702c2b51821481f2"}}

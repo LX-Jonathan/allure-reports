@@ -1,0 +1,1 @@
+{"id":"d3107928ffd205ae7b8ea868c07c2987","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob data transformation should set null for undefined middleName","name":"should set null for undefined middleName","status":"passed","testResultsByEnv":{"default":"86289c4740653ceddc0160a136982d31"}}

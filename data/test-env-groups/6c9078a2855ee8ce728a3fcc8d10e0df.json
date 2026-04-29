@@ -1,0 +1,1 @@
+{"id":"6c9078a2855ee8ce728a3fcc8d10e0df","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler session cleanup cron callback should update status on success with zero deletions","name":"should update status on success with zero deletions","status":"passed","testResultsByEnv":{"default":"0361fbbee6271b4f0b17e8d150dd01c7"}}

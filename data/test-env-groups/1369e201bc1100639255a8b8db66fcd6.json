@@ -1,0 +1,1 @@
+{"id":"1369e201bc1100639255a8b8db66fcd6","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/products (Staff Portal - Create Product) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"ceb15a0b9324a55c0984c7ea374e9e32"}}

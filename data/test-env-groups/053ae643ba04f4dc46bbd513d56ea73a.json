@@ -1,0 +1,1 @@
+{"id":"053ae643ba04f4dc46bbd513d56ea73a","fullName":"server/routes/__tests__/api-keys.routes.test.ts#API Keys Routes DELETE /api/v1/api-keys/:id revokes API key and returns 200 with success","name":"revokes API key and returns 200 with success","status":"passed","testResultsByEnv":{"default":"5d6e7f490eda11f085d18aba00624bc3"}}

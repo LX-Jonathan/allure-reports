@@ -1,0 +1,1 @@
+{"id":"21c905e5d1e323bbcb7de0d822b72f8b","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/lookup/rate returns 400 when cptCode missing","name":"returns 400 when cptCode missing","status":"passed","testResultsByEnv":{"default":"d4c0455087d714fdf458441d7cd36528"}}

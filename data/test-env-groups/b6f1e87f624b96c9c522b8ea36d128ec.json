@@ -1,0 +1,1 @@
+{"id":"b6f1e87f624b96c9c522b8ea36d128ec","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId allows twilio enabled with existing auth token and no new one","name":"allows twilio enabled with existing auth token and no new one","status":"passed","testResultsByEnv":{"default":"827c29e403f70d0f69cfbbf5bc636584"}}

@@ -1,0 +1,1 @@
+{"id":"6707fbcb1afda19fc608d08864b0e8a3","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes GET /api/v1/patient-documents/:id/download returns 200 with signed download URL","name":"returns 200 with signed download URL","status":"passed","testResultsByEnv":{"default":"a148e7cf5042e38df5b1a61b066cf219"}}

@@ -1,0 +1,1 @@
+{"id":"1049b235e937bd8c4f00e0f8018a6051","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/catalog (Patient Portal - Public Catalog) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"60dd29cc1ade0993e304dffb7c6ba623"}}

@@ -1,0 +1,1 @@
+{"id":"2311d55a2c37e2b4ba8dbd6318630adb","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET / returns 400 for invalid query parameters","name":"returns 400 for invalid query parameters","status":"passed","testResultsByEnv":{"default":"474943272be52aff96c8e52b1c4f83e9"}}

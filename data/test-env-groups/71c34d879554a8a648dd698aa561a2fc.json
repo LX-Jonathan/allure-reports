@@ -1,0 +1,1 @@
+{"id":"71c34d879554a8a648dd698aa561a2fc","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should filter undefined confidences from pages","name":"should filter undefined confidences from pages","status":"passed","testResultsByEnv":{"default":"c638f07ed6ddaeb1bc5ac56cd038ecc0"}}

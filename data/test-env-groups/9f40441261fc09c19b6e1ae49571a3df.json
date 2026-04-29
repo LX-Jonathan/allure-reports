@@ -1,0 +1,1 @@
+{"id":"9f40441261fc09c19b6e1ae49571a3df","fullName":"client/src/pages/__tests__/registration-setup.test.tsx#RegistrationSetup unchecking a field also removes it from required","name":"unchecking a field also removes it from required","status":"passed","testResultsByEnv":{"default":"8d0b98529b1bc96d92ad672d2aa02120"}}

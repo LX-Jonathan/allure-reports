@@ -1,0 +1,1 @@
+{"id":"02f239bcd1bdc8066c11b0e7f152e5bd","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent returns 403 for org_admin (super_admin only)","name":"returns 403 for org_admin (super_admin only)","status":"passed","testResultsByEnv":{"default":"991c47943002add718140de12c6dda76"}}

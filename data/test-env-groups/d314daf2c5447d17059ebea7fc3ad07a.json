@@ -1,0 +1,1 @@
+{"id":"d314daf2c5447d17059ebea7fc3ad07a","fullName":"server/__tests__/worker-process.test.ts#worker-process shutdown function should exit with code 1 when shutdown fails","name":"should exit with code 1 when shutdown fails","status":"passed","testResultsByEnv":{"default":"8a7ad2e01670e75a7432756345eb7916"}}

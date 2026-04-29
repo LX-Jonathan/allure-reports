@@ -1,0 +1,1 @@
+{"id":"7194306c3c679145dd48fd7102d92814","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes POST / returns 400 for negative discountValue","name":"returns 400 for negative discountValue","status":"passed","testResultsByEnv":{"default":"662e9d890e29f434367cf02b2a44826a"}}

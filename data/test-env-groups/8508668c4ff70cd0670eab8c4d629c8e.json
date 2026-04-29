@@ -1,0 +1,1 @@
+{"id":"8508668c4ff70cd0670eab8c4d629c8e","fullName":"server/lib/__tests__/auth.test.ts#auth hasPermission should return true for valid role with permission","name":"should return true for valid role with permission","status":"passed","testResultsByEnv":{"default":"780b97cdf1609273e57e44bec526f76b"}}

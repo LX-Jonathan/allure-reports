@@ -1,0 +1,1 @@
+{"id":"304caad3c1773c7a4fe47ea71bb242da","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker startBulkScanSplitWorker should register failed event handler","name":"should register failed event handler","status":"passed","testResultsByEnv":{"default":"1b152f52e4ca8e5bbd0a3991916356ea"}}

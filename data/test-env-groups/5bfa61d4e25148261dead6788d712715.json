@@ -1,0 +1,1 @@
+{"id":"5bfa61d4e25148261dead6788d712715","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should propagate sharp errors","name":"should propagate sharp errors","status":"passed","testResultsByEnv":{"default":"035acdcbc890470f70a19a665cf22499"}}

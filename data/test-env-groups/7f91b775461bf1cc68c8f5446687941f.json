@@ -1,0 +1,1 @@
+{"id":"7f91b775461bf1cc68c8f5446687941f","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty state for outstanding balance when no billing data exists","name":"shows empty state for outstanding balance when no billing data exists","status":"passed","testResultsByEnv":{"default":"7552d25deb0b4e9743d15daa0f8b072a"}}

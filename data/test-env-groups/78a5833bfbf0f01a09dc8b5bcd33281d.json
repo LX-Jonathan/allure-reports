@@ -1,0 +1,1 @@
+{"id":"78a5833bfbf0f01a09dc8b5bcd33281d","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /hie-records/:id/status returns 400 for invalid status value","name":"returns 400 for invalid status value","status":"passed","testResultsByEnv":{"default":"993321d80d5960ff7685c43652978908"}}

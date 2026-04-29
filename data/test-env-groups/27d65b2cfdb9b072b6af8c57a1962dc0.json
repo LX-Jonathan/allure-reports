@@ -1,0 +1,1 @@
+{"id":"27d65b2cfdb9b072b6af8c57a1962dc0","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event returns validation error for missing fields","name":"returns validation error for missing fields","status":"passed","testResultsByEnv":{"default":"a6fd7c1c453d037f74a35529822f34eb"}}

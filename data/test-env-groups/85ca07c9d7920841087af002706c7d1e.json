@@ -1,0 +1,1 @@
+{"id":"85ca07c9d7920841087af002706c7d1e","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Public Pre-Registration Routes POST /api/v1/public/pre-registration/:linkCode/register returns 404 when link not found","name":"returns 404 when link not found","status":"passed","testResultsByEnv":{"default":"690a8ee38a530c726abb4e62cd4a8bb6"}}

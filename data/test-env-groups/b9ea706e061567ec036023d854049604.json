@@ -1,0 +1,1 @@
+{"id":"b9ea706e061567ec036023d854049604","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab clear button resets both search and status filter to defaults","name":"clear button resets both search and status filter to defaults","status":"passed","testResultsByEnv":{"default":"cff93a2beca81764481442fb8bb5f8a0"}}

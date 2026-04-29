@@ -1,0 +1,1 @@
+{"id":"7ff34d34ae2feca4374ddc4abde2db81","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker edge cases should handle eligibility result with EligibilityStatus fallback","name":"should handle eligibility result with EligibilityStatus fallback","status":"passed","testResultsByEnv":{"default":"e3801239c13cb474320a83b8138aee21"}}

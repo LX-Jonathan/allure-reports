@@ -1,0 +1,1 @@
+{"id":"c7d765a0b43f9d4ed5fd798bf3061767","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should process all images in a single batch when <= 16","name":"should process all images in a single batch when <= 16","status":"passed","testResultsByEnv":{"default":"a9be5c23ad48261d0cffa9f79b990cbb"}}

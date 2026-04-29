@@ -1,0 +1,1 @@
+{"id":"55c5d07ba32a1d0fb0b3c5354b1e69de","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth invalid token should call verifyPatientAccessToken with parsed token","name":"should call verifyPatientAccessToken with parsed token","status":"passed","testResultsByEnv":{"default":"b2aec85a3ac90cc5110504f980c582ed"}}

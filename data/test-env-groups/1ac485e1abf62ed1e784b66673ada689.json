@@ -1,0 +1,1 @@
+{"id":"1ac485e1abf62ed1e784b66673ada689","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext lab user with assignedOrganizationIds auto-selects single organization for lab user","name":"auto-selects single organization for lab user","status":"passed","testResultsByEnv":{"default":"34d7a2883258ace9b162306d173e540f"}}

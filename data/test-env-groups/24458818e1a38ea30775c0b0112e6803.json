@@ -1,0 +1,1 @@
+{"id":"24458818e1a38ea30775c0b0112e6803","fullName":"client/src/components/lab-operations/__tests__/collected-amount.test.tsx#CollectedAmountReport renders empty state when data is null","name":"renders empty state when data is null","status":"passed","testResultsByEnv":{"default":"d4eff24dddd449501f1ba306e4c76205"}}

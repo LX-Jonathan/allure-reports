@@ -1,0 +1,1 @@
+{"id":"a1b686c1c9f217e80e69c4ee44550e3d","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules/:id returns 200 with schedule details","name":"returns 200 with schedule details","status":"passed","testResultsByEnv":{"default":"de17f3a27ab083f539156a2493485ae6"}}

@@ -1,0 +1,1 @@
+{"id":"614fcef29f6900b93ce4b948509378cc","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"9452138269fe2c153c63d31ecef0bca6"}}

@@ -1,0 +1,1 @@
+{"id":"f77b3173e9486a175db93545776d2b96","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /config returns config with stripe configured status","name":"returns config with stripe configured status","status":"passed","testResultsByEnv":{"default":"9ec3defc7f398e709f80ee7e37f6c538"}}

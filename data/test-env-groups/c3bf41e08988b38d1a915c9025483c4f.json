@@ -1,0 +1,1 @@
+{"id":"c3bf41e08988b38d1a915c9025483c4f","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes POST /run allows location-level user when order location is in their locations","name":"allows location-level user when order location is in their locations","status":"passed","testResultsByEnv":{"default":"904472230b4f8af21d7d377bfcd07039"}}

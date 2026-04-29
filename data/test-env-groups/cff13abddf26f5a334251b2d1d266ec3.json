@@ -1,0 +1,1 @@
+{"id":"cff13abddf26f5a334251b2d1d266ec3","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes GET /api/v1/form-configs returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2890169096b7552f6a04ddd1526bbd20"}}

@@ -1,0 +1,1 @@
+{"id":"1a420a92b62bfba8251afdf4ff57d050","fullName":"server/middleware/__tests__/rateLimit.test.ts#sensitiveRateLimitMiddleware in-memory rate limiting should return retryAfter in 429 response","name":"should return retryAfter in 429 response","status":"passed","testResultsByEnv":{"default":"7bcbb125fdfce949312cdba5ea1c003d"}}

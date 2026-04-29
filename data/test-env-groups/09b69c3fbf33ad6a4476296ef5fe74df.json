@@ -1,0 +1,1 @@
+{"id":"09b69c3fbf33ad6a4476296ef5fe74df","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService checkIfRequired returns parsed AI response when Anthropic is configured","name":"returns parsed AI response when Anthropic is configured","status":"passed","testResultsByEnv":{"default":"2c07abae3f708c5046a6588302ae4156"}}

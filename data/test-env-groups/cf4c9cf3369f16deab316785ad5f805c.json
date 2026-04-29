@@ -1,0 +1,1 @@
+{"id":"cf4c9cf3369f16deab316785ad5f805c","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderOrdersForSignature should return orders and total count","name":"should return orders and total count","status":"passed","testResultsByEnv":{"default":"97dcd0a7485b08b1cba824220fdc942f"}}

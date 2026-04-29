@@ -1,0 +1,1 @@
+{"id":"392c2a203396ba757f4890093b3bb1a2","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/attach-order returns 403 for non-super_admin accessing different superOrg","name":"returns 403 for non-super_admin accessing different superOrg","status":"passed","testResultsByEnv":{"default":"76c2276d28d6adeeb6710b2b8bb8d345"}}

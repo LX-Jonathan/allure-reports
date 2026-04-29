@@ -1,0 +1,1 @@
+{"id":"65c933f1e7374359877cb0541b392eae","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring internal model returns null when there are no usable signals","name":"returns null when there are no usable signals","status":"passed","testResultsByEnv":{"default":"5a51180eecc8f17c90a9264cb42a86b6"}}

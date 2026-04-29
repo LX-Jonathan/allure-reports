@@ -1,0 +1,1 @@
+{"id":"1067f580c21324ffa109a4fb87010414","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/shipments/:id/events (Staff Portal - Create Shipment Event) returns 201 when event is created","name":"returns 201 when event is created","status":"passed","testResultsByEnv":{"default":"290d9469a1c3f582599c9bb2752ae8cc"}}

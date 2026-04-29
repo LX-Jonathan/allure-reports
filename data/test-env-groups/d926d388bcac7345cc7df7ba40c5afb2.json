@@ -1,0 +1,1 @@
+{"id":"d926d388bcac7345cc7df7ba40c5afb2","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings coverageToFhir maps insurance data to Coverage resource","name":"maps insurance data to Coverage resource","status":"passed","testResultsByEnv":{"default":"15540febbe24f65c2f82ba1faf486cdb"}}

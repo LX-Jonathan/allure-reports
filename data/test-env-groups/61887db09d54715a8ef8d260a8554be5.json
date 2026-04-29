@@ -1,0 +1,1 @@
+{"id":"61887db09d54715a8ef8d260a8554be5","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/invites/:code/accept returns 404 when invite not found","name":"returns 404 when invite not found","status":"passed","testResultsByEnv":{"default":"284b119f39dd5e0d97ceca0bb746143f"}}

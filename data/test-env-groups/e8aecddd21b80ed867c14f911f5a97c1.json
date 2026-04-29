@@ -1,0 +1,1 @@
+{"id":"e8aecddd21b80ed867c14f911f5a97c1","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId merges existing portal config with defaults","name":"merges existing portal config with defaults","status":"passed","testResultsByEnv":{"default":"b89cbf5777c8085256c20320198f435b"}}

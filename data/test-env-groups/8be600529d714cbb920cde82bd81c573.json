@@ -1,0 +1,1 @@
+{"id":"8be600529d714cbb920cde82bd81c573","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should initialize worker on first call","name":"should initialize worker on first call","status":"passed","testResultsByEnv":{"default":"1e30f6e940565abac0d0c2c0e3f15a6a"}}

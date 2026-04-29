@@ -1,0 +1,1 @@
+{"id":"1fca453f05534577f20a1debda5395c3","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker startBulkScanSplitWorker should log startup message with concurrency","name":"should log startup message with concurrency","status":"passed","testResultsByEnv":{"default":"0f519265b4e99ee2239b7d75f5cd921d"}}

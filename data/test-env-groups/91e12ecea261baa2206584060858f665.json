@@ -1,0 +1,1 @@
+{"id":"91e12ecea261baa2206584060858f665","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes POST /api/prompt-pay returns 201 on valid creation","name":"returns 201 on valid creation","status":"passed","testResultsByEnv":{"default":"97d340c1d055846bbb03138f779ee5b5"}}

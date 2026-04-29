@@ -1,0 +1,1 @@
+{"id":"d3a59d600db2bc0daa747a6350990f23","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id/deny allows system_admin role","name":"allows system_admin role","status":"passed","testResultsByEnv":{"default":"f6a8e2ddbf578cb826e3144c864f32d4"}}

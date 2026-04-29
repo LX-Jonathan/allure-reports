@@ -1,0 +1,1 @@
+{"id":"c6d4644bd83b3c919c8ece4ae626730e","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog defaults type to patient_issue when patientId provided","name":"defaults type to patient_issue when patientId provided","status":"passed","testResultsByEnv":{"default":"bd1b953dcc1c02ef80e1def74090181e"}}

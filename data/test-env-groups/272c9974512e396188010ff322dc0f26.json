@@ -1,0 +1,1 @@
+{"id":"272c9974512e396188010ff322dc0f26","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getPermissions returns all permissions","name":"returns all permissions","status":"passed","testResultsByEnv":{"default":"8f652654c02e8e788d26e8a52bdd9c4a"}}

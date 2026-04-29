@@ -1,0 +1,1 @@
+{"id":"d90798f4ca82d9fe584ea20ce6c7367a","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 200 with cursor-based pagination","name":"returns 200 with cursor-based pagination","status":"passed","testResultsByEnv":{"default":"6053707d3f6c79d7b4d67e1ea4ec2176"}}

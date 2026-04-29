@@ -1,0 +1,1 @@
+{"id":"4a265cf20ad84f7593f5ea41e9ea8867","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended PATCH /api/v1/diagnosis-codes/:id/favorite returns 400 when isFavorite is missing","name":"returns 400 when isFavorite is missing","status":"passed","testResultsByEnv":{"default":"53a9f23170d3f7b01bb25667b1702f40"}}

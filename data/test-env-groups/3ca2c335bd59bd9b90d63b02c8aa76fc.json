@@ -1,0 +1,1 @@
+{"id":"3ca2c335bd59bd9b90d63b02c8aa76fc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/messages emits socket event for new message","name":"emits socket event for new message","status":"passed","testResultsByEnv":{"default":"9adf79112b1f78b88f3865fd5cd85c96"}}

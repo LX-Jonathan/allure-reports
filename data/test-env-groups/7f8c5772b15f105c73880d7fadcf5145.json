@@ -1,0 +1,1 @@
+{"id":"7f8c5772b15f105c73880d7fadcf5145","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should return original for SSN with fewer than 9 digits","name":"should return original for SSN with fewer than 9 digits","status":"passed","testResultsByEnv":{"default":"8a322ef501c974b1903143f0d981803b"}}

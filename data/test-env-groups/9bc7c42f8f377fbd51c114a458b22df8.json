@@ -1,0 +1,1 @@
+{"id":"9bc7c42f8f377fbd51c114a458b22df8","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/compendium-configs should create a config for super_admin","name":"should create a config for super_admin","status":"passed","testResultsByEnv":{"default":"528a33c58937e49ed240d38b4d079af5"}}

@@ -1,0 +1,1 @@
+{"id":"101f0ff2030b3406b71037415866c940","fullName":"client/src/components/orders/__tests__/RunChecksModal.test.tsx#RunChecksModal does not close when clicking the overlay (outside the content)","name":"does not close when clicking the overlay (outside the content)","status":"passed","testResultsByEnv":{"default":"bdc6ec6f9f4935b818ee899f4cb31f53"}}

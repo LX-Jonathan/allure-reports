@@ -1,0 +1,1 @@
+{"id":"274bb28465aaeab85e683f8942820a37","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should handle response wrapped with just backticks and newline","name":"should handle response wrapped with just backticks and newline","status":"passed","testResultsByEnv":{"default":"c454684f0e6e4a22280ac6f18bbd5254"}}

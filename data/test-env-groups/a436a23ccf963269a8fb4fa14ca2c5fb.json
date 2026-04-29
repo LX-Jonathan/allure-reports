@@ -1,0 +1,1 @@
+{"id":"a436a23ccf963269a8fb4fa14ca2c5fb","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar CheckInEligibilityCoverageSection omits the staff label when no actor is returned","name":"omits the staff label when no actor is returned","status":"passed","testResultsByEnv":{"default":"9aacb8e7f57674c42b180e6c173e666a"}}

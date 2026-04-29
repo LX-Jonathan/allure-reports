@@ -1,0 +1,1 @@
+{"id":"ae22946b455462f1d4b5ee26da05fa8b","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should verify write by reading back the key","name":"should verify write by reading back the key","status":"passed","testResultsByEnv":{"default":"175df7f1f4d1295e816aefebbafe190c"}}

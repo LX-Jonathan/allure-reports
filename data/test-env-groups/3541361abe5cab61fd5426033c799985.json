@@ -1,0 +1,1 @@
+{"id":"3541361abe5cab61fd5426033c799985","fullName":"server/__tests__/storage-comm-consent.test.ts#storage.getCurrentCommunicationConsent (per-lab consent) returns null when no current row exists (strict opt-in)","name":"returns null when no current row exists (strict opt-in)","status":"passed","testResultsByEnv":{"default":"5f9168345cc35fe4ec575f739215ea3a"}}

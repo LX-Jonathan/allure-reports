@@ -1,0 +1,1 @@
+{"id":"7cb260765129ec4b06a17ed33a510b7f","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcess index re-exports should re-export batchProcessWithSSE from index","name":"should re-export batchProcessWithSSE from index","status":"passed","testResultsByEnv":{"default":"81331e263253cf0aac1d58356ac02b11"}}

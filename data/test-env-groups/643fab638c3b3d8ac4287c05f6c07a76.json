@@ -1,0 +1,1 @@
+{"id":"643fab638c3b3d8ac4287c05f6c07a76","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print prefers location-specific assignment over org-level","name":"prefers location-specific assignment over org-level","status":"passed","testResultsByEnv":{"default":"6387b4a6bf7b9f6aec59ebc200eb2c3a"}}

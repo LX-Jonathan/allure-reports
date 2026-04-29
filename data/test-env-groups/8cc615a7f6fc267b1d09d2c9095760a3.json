@@ -1,0 +1,1 @@
+{"id":"8cc615a7f6fc267b1d09d2c9095760a3","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/shares/:shareId returns 200 and revokes share","name":"returns 200 and revokes share","status":"passed","testResultsByEnv":{"default":"9cf9e73bf3ee90fe707ba22179593469"}}

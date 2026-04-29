@@ -1,0 +1,1 @@
+{"id":"ff952b45fed97c8fb2c2e2703c563fcc","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/alert-history should filter by queueType and limit","name":"should filter by queueType and limit","status":"passed","testResultsByEnv":{"default":"75b7a48c64c145f52cb5800c0c9a1fae"}}

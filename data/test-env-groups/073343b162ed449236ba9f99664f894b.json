@@ -1,0 +1,1 @@
+{"id":"073343b162ed449236ba9f99664f894b","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getCachedBillingResolutionData should return empty array when no metadata exists","name":"should return empty array when no metadata exists","status":"passed","testResultsByEnv":{"default":"9115fe5afcab6abc379858a59158a95a"}}

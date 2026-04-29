@@ -1,0 +1,1 @@
+{"id":"de37b49af9664493f6c2cee6c411ec28","fullName":"server/workers/__tests__/index.test.ts#workers/index re-exports should export startBulkScanItemWorker","name":"should export startBulkScanItemWorker","status":"passed","testResultsByEnv":{"default":"221b347ee9d98b7c3168b1cd6f5b2738"}}

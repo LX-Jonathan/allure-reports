@@ -1,0 +1,1 @@
+{"id":"c5b1d38cd92216d538da646877b8ac3e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 502 when FRHC API fetch fails","name":"returns 502 when FRHC API fetch fails","status":"passed","testResultsByEnv":{"default":"ef68d6264809ceace84d2ebcfd41eae6"}}

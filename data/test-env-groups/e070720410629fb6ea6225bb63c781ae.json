@@ -1,0 +1,1 @@
+{"id":"e070720410629fb6ea6225bb63c781ae","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Appointments deleteAppointmentSchedule returns true on soft-delete","name":"returns true on soft-delete","status":"passed","testResultsByEnv":{"default":"7381862eade12625c908f081de646cd5"}}

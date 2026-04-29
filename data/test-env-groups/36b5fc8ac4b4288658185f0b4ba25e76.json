@@ -1,0 +1,1 @@
+{"id":"36b5fc8ac4b4288658185f0b4ba25e76","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management deleteUser should return false when user not found","name":"should return false when user not found","status":"passed","testResultsByEnv":{"default":"d05bcd9efefff4df133cab9705a58cf0"}}

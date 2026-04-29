@@ -1,0 +1,1 @@
+{"id":"3b27cec967b65d395d05b15e59fb686b","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should set completed status with import results","name":"should set completed status with import results","status":"passed","testResultsByEnv":{"default":"a8248e2fe1b60216e4d3b9726fabcd8f"}}

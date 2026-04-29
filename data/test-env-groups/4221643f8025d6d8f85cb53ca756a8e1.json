@@ -1,0 +1,1 @@
+{"id":"4221643f8025d6d8f85cb53ca756a8e1","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 400 when Stripe refund fails","name":"returns 400 when Stripe refund fails","status":"passed","testResultsByEnv":{"default":"3d6fa652622a2e621b21050aa0b09fa9"}}

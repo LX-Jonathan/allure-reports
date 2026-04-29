@@ -1,0 +1,1 @@
+{"id":"4e570e08899ce97a005469cb55478ed2","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /health returns alerted:false when the tracker has no active snapshot","name":"returns alerted:false when the tracker has no active snapshot","status":"passed","testResultsByEnv":{"default":"916f08654cddaeaa1d54e9131d23c66e"}}

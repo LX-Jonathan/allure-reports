@@ -1,0 +1,1 @@
+{"id":"ac8b6cbb807987c9fdcb015e077b59ed","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id should return 404 when ticket not found","name":"should return 404 when ticket not found","status":"passed","testResultsByEnv":{"default":"ff45d6d8f3bcc13daa2fa301b227bcd3"}}

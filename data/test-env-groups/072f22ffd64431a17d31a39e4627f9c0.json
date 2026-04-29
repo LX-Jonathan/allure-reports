@@ -1,0 +1,1 @@
+{"id":"072f22ffd64431a17d31a39e4627f9c0","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes DELETE /api/v1/lab-tests/compendium-configs/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"786057b2862f096190bf046ae4b95afb"}}

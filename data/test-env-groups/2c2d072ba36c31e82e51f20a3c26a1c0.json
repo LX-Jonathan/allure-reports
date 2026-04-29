@@ -1,0 +1,1 @@
+{"id":"2c2d072ba36c31e82e51f20a3c26a1c0","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/merge-duplicates returns 500 for invalid UUIDs (caught as generic error)","name":"returns 500 for invalid UUIDs (caught as generic error)","status":"passed","testResultsByEnv":{"default":"573a9d360ef889fddf58672d548d6c7d"}}

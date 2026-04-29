@@ -1,0 +1,1 @@
+{"id":"6c80b814659e654e4a97152bc61357d3","fullName":"client/src/lib/__tests__/phone.test.ts#formatPhoneInput PH local format (leading 0, no mask) strips non-digits but keeps the leading 0 raw","name":"strips non-digits but keeps the leading 0 raw","status":"passed","testResultsByEnv":{"default":"b3a6ae6894c0f7f1b00bfa91f77725bf"}}

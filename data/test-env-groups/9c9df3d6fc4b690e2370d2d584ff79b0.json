@@ -1,0 +1,1 @@
+{"id":"9c9df3d6fc4b690e2370d2d584ff79b0","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended listPatientPortalAccountsByOrg applies status filter (not 'all')","name":"applies status filter (not 'all')","status":"passed","testResultsByEnv":{"default":"93464d2e171216bd991504b5ca8baf47"}}

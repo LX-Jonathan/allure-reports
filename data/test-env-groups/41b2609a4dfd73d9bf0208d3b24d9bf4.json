@@ -1,0 +1,1 @@
+{"id":"41b2609a4dfd73d9bf0208d3b24d9bf4","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService delete should return true on successful delete","name":"should return true on successful delete","status":"passed","testResultsByEnv":{"default":"dcf70005c051867b6bf0a300046b61b1"}}

@@ -1,0 +1,1 @@
+{"id":"24c988934ec030bd6221576c4b6c721b","fullName":"server/lib/__tests__/redisSessionStore.test.ts#createSessionStore should create PostgreSQL store when redis is not configured","name":"should create PostgreSQL store when redis is not configured","status":"passed","testResultsByEnv":{"default":"9466caa9aae427333dfdc2d532199c0c"}}

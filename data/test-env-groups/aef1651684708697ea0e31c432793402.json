@@ -1,0 +1,1 @@
+{"id":"aef1651684708697ea0e31c432793402","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /ai-extract returns 200 with sanitized sections on success","name":"returns 200 with sanitized sections on success","status":"passed","testResultsByEnv":{"default":"0e0cc323d746a848c3057dde4e21a1ee"}}

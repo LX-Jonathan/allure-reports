@@ -1,0 +1,1 @@
+{"id":"8b35bb46f6ce2f41fdf80b4b084a7ce4","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /config/:parentLabId returns 404 when lab not found","name":"returns 404 when lab not found","status":"passed","testResultsByEnv":{"default":"768d42b757818702ee7c09c84536667e"}}

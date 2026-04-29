@@ -1,0 +1,1 @@
+{"id":"c23be779d7b85618c019396bbf136fdc","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 201 and creates invitation for new user","name":"returns 201 and creates invitation for new user","status":"passed","testResultsByEnv":{"default":"d20fa0b4c79f071d07a591729e357e38"}}

@@ -1,0 +1,1 @@
+{"id":"572ab48731bb41d9b2061b6e397c410b","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#startMedicalNecessityWorker should register error event handler","name":"should register error event handler","status":"passed","testResultsByEnv":{"default":"da353a0b685dc281008139676953ec2f"}}

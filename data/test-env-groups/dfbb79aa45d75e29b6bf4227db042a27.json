@@ -1,0 +1,1 @@
+{"id":"dfbb79aa45d75e29b6bf4227db042a27","fullName":"client/src/hooks/__tests__/useSmartBack.test.ts#useSmartBack navigates to defaultPath when from param does not start with /","name":"navigates to defaultPath when from param does not start with /","status":"passed","testResultsByEnv":{"default":"1f08680cc53e1e3c79d65510db74a78e"}}

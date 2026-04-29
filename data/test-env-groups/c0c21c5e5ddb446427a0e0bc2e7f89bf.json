@@ -1,0 +1,1 @@
+{"id":"c0c21c5e5ddb446427a0e0bc2e7f89bf","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 400 when parentLabId cannot be determined","name":"returns 400 when parentLabId cannot be determined","status":"passed","testResultsByEnv":{"default":"bb207db918e3018d619b5278c267f277"}}

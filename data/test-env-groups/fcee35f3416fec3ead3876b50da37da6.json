@@ -1,0 +1,1 @@
+{"id":"fcee35f3416fec3ead3876b50da37da6","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes GET /api/v1/lab-tests restricts org_admin to their organization","name":"restricts org_admin to their organization","status":"passed","testResultsByEnv":{"default":"e886d5b925b7531daf0097a8cd22a05b"}}

@@ -1,0 +1,1 @@
+{"id":"1558987fe694eeb01679db78336868b8","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes DELETE /api/prompt-pay/:id returns 404 when discount not found","name":"returns 404 when discount not found","status":"passed","testResultsByEnv":{"default":"73a3a5fb317f10b5bec94424fadef1c3"}}

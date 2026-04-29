@@ -1,0 +1,1 @@
+{"id":"c202a0a04f2d82407a13a1665001e18c","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections - additional branches infers phone type from fhirPath containing telecom","name":"infers phone type from fhirPath containing telecom","status":"passed","testResultsByEnv":{"default":"9b10e409b5a7be66fc8877d89c192f5d"}}

@@ -1,0 +1,1 @@
+{"id":"157465fd7aa1b4a734eafb1e024a43e3","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event returns 404 when session not found or closed","name":"returns 404 when session not found or closed","status":"passed","testResultsByEnv":{"default":"69d949c0357b7e3ce2ff1c4ebdf27e55"}}

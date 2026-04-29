@@ -1,0 +1,1 @@
+{"id":"80bc6b28d3125da3e224edf37fc9d8ac","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError uses the plural form for invalid_code with attemptsRemaining>1 (Spanish)","name":"uses the plural form for invalid_code with attemptsRemaining>1 (Spanish)","status":"passed","testResultsByEnv":{"default":"65d4032d4309b9ae4fc203fd6c7c9e4d"}}

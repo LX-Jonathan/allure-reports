@@ -1,0 +1,1 @@
+{"id":"3ccf10f876e0e56414eec6f91b81a84e","fullName":"server/__tests__/system.routes.test.ts#system routes PATCH /api/v1/system/configs/:key returns 400 for non-string value","name":"returns 400 for non-string value","status":"passed","testResultsByEnv":{"default":"18e2c539c796a9f5b959f27f7cdca5de"}}

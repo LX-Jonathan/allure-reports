@@ -1,0 +1,1 @@
+{"id":"20d029b2b8883a267957ee30e894ba5b","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include billing info field labels","name":"should include billing info field labels","status":"passed","testResultsByEnv":{"default":"a998167a514c5de85af6b2bacc838ae3"}}

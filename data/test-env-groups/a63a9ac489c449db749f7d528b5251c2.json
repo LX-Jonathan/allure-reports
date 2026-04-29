@@ -1,0 +1,1 @@
+{"id":"a63a9ac489c449db749f7d528b5251c2","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes PATCH /api/v1/master-patients/:id rejects whitespace-only mobilePhone with 400","name":"rejects whitespace-only mobilePhone with 400","status":"passed","testResultsByEnv":{"default":"9287bad6b0b5ea2613f9a6eca058c6ea"}}

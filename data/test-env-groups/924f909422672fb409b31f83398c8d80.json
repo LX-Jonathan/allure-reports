@@ -1,0 +1,1 @@
+{"id":"924f909422672fb409b31f83398c8d80","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return empty array for cancelled","name":"should return empty array for cancelled","status":"passed","testResultsByEnv":{"default":"c19cc5e938791c18cbbfa044890285fc"}}

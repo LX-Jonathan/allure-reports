@@ -1,0 +1,1 @@
+{"id":"5640912b92e77afbdbdbf23625cfd907","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create access control should return error when location user selects invalid location","name":"should return error when location user selects invalid location","status":"passed","testResultsByEnv":{"default":"e34b0e7e49a35fac30dcee15d6cf4304"}}

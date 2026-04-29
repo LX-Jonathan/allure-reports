@@ -1,0 +1,1 @@
+{"id":"d8582cd6508cd96853006510566f15eb","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/auto-link returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"8083dbe6e1516101da28d97df8d600a7"}}

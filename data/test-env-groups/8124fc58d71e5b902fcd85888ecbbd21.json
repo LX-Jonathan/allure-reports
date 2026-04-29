@@ -1,0 +1,1 @@
+{"id":"8124fc58d71e5b902fcd85888ecbbd21","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/propensity-to-pay returns 403 when user lacks organization access","name":"returns 403 when user lacks organization access","status":"passed","testResultsByEnv":{"default":"2060a0cc13ac6ce6f97374bd4a018b34"}}

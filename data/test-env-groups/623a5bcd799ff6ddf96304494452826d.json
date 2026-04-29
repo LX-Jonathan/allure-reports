@@ -1,0 +1,1 @@
+{"id":"623a5bcd799ff6ddf96304494452826d","fullName":"server/routes/__tests__/user-view-portal-proxy.routes.test.ts#POST /:patientId/portal/proxies/invite (staff preview) returns 400 for invalid input","name":"returns 400 for invalid input","status":"passed","testResultsByEnv":{"default":"70d47d6ee00b76fb66799db7562969e8"}}

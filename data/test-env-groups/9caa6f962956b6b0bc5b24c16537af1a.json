@@ -1,0 +1,1 @@
+{"id":"9caa6f962956b6b0bc5b24c16537af1a","fullName":"server/lib/__tests__/socket-security-alerts.test.ts#security_alerts socket rooms room join policy does not put non-security roles into any security_alerts room","name":"does not put non-security roles into any security_alerts room","status":"passed","testResultsByEnv":{"default":"a1f37cf263e7e248c207b5cce7774811"}}

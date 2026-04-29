@@ -1,0 +1,1 @@
+{"id":"d40297601ff352f6783f9c0c39215630","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getOrgAdminsWithNewOrderNotifications should return empty array when org_admin role not found","name":"should return empty array when org_admin role not found","status":"passed","testResultsByEnv":{"default":"c85b2f8fc5f3be5072b71b47558db94e"}}

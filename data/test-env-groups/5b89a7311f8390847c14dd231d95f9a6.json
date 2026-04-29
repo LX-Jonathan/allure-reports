@@ -1,0 +1,1 @@
+{"id":"5b89a7311f8390847c14dd231d95f9a6","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq additional queue getters when configured getDataImportQueue should return a Queue instance","name":"getDataImportQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"a382579f2466ed96915b620fcc7b9079"}}

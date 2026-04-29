@@ -1,0 +1,1 @@
+{"id":"43dd8642e7e481c1daf44421caaac01f","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/rejections-by-payer returns 500 when service throws","name":"returns 500 when service throws","status":"passed","testResultsByEnv":{"default":"65c6cd718fffbe5e4db8b7deb3ac6e91"}}

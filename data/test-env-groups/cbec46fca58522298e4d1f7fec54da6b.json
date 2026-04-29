@@ -1,0 +1,1 @@
+{"id":"cbec46fca58522298e4d1f7fec54da6b","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner renders loading state with licenseKey prop without crashing","name":"renders loading state with licenseKey prop without crashing","status":"passed","testResultsByEnv":{"default":"abdd51567aaa1b3ad12de2b6845c306c"}}

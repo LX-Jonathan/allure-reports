@@ -1,0 +1,1 @@
+{"id":"d69ef4ef32988c058cc4553a6b94aedf","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /patients/:patientId/hie-records returns records for accessible patient","name":"returns records for accessible patient","status":"passed","testResultsByEnv":{"default":"9236006628822d585d44b3ac723b534b"}}

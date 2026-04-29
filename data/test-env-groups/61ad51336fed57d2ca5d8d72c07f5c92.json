@@ -1,0 +1,1 @@
+{"id":"61ad51336fed57d2ca5d8d72c07f5c92","fullName":"server/__tests__/bullmq.test.ts#bullmq lib queue getters getEmailQueue returns a Queue","name":"getEmailQueue returns a Queue","status":"passed","testResultsByEnv":{"default":"fc1f00cb11566f99310c926ec1e4041b"}}

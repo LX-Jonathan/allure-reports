@@ -1,0 +1,1 @@
+{"id":"99d8d3aec9c31af95dda350be957f0b3","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes PATCH /api/v1/locations/:id returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"bd1e6eb6509f9566310e587aec2f1f3e"}}

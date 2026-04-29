@@ -1,0 +1,1 @@
+{"id":"dbc44bd29dda506c47a8c4b76db6c0ee","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/documents returns 200 on successful document deletion","name":"returns 200 on successful document deletion","status":"passed","testResultsByEnv":{"default":"d4a64e44dfaf50260ed2e0f99f93cc1a"}}

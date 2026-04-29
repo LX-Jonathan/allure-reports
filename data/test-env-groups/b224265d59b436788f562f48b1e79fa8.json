@@ -1,0 +1,1 @@
+{"id":"b224265d59b436788f562f48b1e79fa8","fullName":"server/__tests__/static.test.ts#serveStatic SPA fallback route should send index.html for fallback route","name":"should send index.html for fallback route","status":"passed","testResultsByEnv":{"default":"06b029c744ddd5f995a2148e7e4f7280"}}

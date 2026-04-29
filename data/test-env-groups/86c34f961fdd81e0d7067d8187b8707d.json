@@ -1,0 +1,1 @@
+{"id":"86c34f961fdd81e0d7067d8187b8707d","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes POST /api/v1/lab-tests/compendium-configs returns 400 when name is missing","name":"returns 400 when name is missing","status":"passed","testResultsByEnv":{"default":"08bf056752a3897cba51da2636f12468"}}

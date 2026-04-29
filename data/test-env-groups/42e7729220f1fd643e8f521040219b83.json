@@ -1,0 +1,1 @@
+{"id":"42e7729220f1fd643e8f521040219b83","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/close returns 403 when user location does not match","name":"returns 403 when user location does not match","status":"passed","testResultsByEnv":{"default":"9a541bad48b5bf1229f10d30e9970880"}}

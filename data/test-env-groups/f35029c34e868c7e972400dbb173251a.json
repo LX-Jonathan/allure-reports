@@ -1,0 +1,1 @@
+{"id":"f35029c34e868c7e972400dbb173251a","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items returns 400 when itemType is missing","name":"returns 400 when itemType is missing","status":"passed","testResultsByEnv":{"default":"204fe028e06f45fd2501c6616bff54ec"}}

@@ -1,0 +1,1 @@
+{"id":"581039463bb32a1d6d5aeb63b4d9d351","fullName":"client/src/components/patient/__tests__/eligibility-check-dialog.test.tsx#EligibilityCheckDialog disables discovery button when isDiscoveryPending","name":"disables discovery button when isDiscoveryPending","status":"passed","testResultsByEnv":{"default":"5ee6edd34085aef77b60c41542ef4f7f"}}

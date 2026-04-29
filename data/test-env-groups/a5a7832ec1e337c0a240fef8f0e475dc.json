@@ -1,0 +1,1 @@
+{"id":"a5a7832ec1e337c0a240fef8f0e475dc","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeOCRText should handle text with extra whitespace in word count","name":"should handle text with extra whitespace in word count","status":"passed","testResultsByEnv":{"default":"f6ad3e952686adc0f6db273e3996ffd1"}}

@@ -1,0 +1,1 @@
+{"id":"6de1c49fa653ea1c92b895e463fcb975","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 400 for short search query","name":"returns 400 for short search query","status":"passed","testResultsByEnv":{"default":"4fe926ea0072fc36ae3a77b8d6b76936"}}

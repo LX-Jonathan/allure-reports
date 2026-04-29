@@ -1,0 +1,1 @@
+{"id":"afdc0b64b930cbd33833efd6b0243b4f","fullName":"server/routes/__tests__/lab-client-insurance-masters.routes.test.ts#lab-client-insurance-masters effective-credentials route returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"1bbd21c19baf8ffb161cbbdace26c147"}}

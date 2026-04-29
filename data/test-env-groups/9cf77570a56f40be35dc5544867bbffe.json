@@ -1,0 +1,1 @@
+{"id":"9cf77570a56f40be35dc5544867bbffe","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service getLogsByJob should not return logs without jobId","name":"should not return logs without jobId","status":"passed","testResultsByEnv":{"default":"508a4db5a5e3fa00d5db5d6b001a8869"}}

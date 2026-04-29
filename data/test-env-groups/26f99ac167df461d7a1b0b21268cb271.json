@@ -1,0 +1,1 @@
+{"id":"26f99ac167df461d7a1b0b21268cb271","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2fb70079a5d2f34c021dbb0d14e5b4c5"}}

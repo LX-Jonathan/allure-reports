@@ -1,0 +1,1 @@
+{"id":"1f33febe92c76f4e44775ae9836ee00b","fullName":"server/lib/__tests__/reportCache.test.ts#warmupReports skips when redis is not configured","name":"skips when redis is not configured","status":"passed","testResultsByEnv":{"default":"5b88888e5d9f4392442501d67da70cfd"}}

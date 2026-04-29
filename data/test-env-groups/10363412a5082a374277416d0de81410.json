@@ -1,0 +1,1 @@
+{"id":"10363412a5082a374277416d0de81410","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/patients/:patientId/summary resolves patient location name when locationId present","name":"resolves patient location name when locationId present","status":"passed","testResultsByEnv":{"default":"c094b3a32f7b179faa510cb1e74372e5"}}

@@ -1,0 +1,1 @@
+{"id":"d97da29b921c83a30e770029501e0285","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient testConnection should return failure when config is missing clientId","name":"should return failure when config is missing clientId","status":"passed","testResultsByEnv":{"default":"ee76acbedfba3699d5834ba35bf3583f"}}

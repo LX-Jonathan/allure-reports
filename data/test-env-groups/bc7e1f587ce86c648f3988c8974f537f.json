@@ -1,0 +1,1 @@
+{"id":"bc7e1f587ce86c648f3988c8974f537f","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePriorAuthRules returns not_required for self_pay regardless of requirements","name":"returns not_required for self_pay regardless of requirements","status":"passed","testResultsByEnv":{"default":"37a5f2e640c76dec6e81d40b17c4b6c0"}}

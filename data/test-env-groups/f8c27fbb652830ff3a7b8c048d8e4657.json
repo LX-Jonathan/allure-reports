@@ -1,0 +1,1 @@
+{"id":"f8c27fbb652830ff3a7b8c048d8e4657","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /activity ignores invalid requiredScope values","name":"ignores invalid requiredScope values","status":"passed","testResultsByEnv":{"default":"282fa609ab5734be000233e4cc5d9d8b"}}

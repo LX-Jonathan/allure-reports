@@ -1,0 +1,1 @@
+{"id":"8b7f5d71fc1f510236ceb0bce46b6029","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:patientId/insurance/:insuranceId returns 200 on successful insurance update","name":"returns 200 on successful insurance update","status":"passed","testResultsByEnv":{"default":"93459303f7d17e9ebbc7d35c98606b07"}}

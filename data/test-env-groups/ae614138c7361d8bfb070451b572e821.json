@@ -1,0 +1,1 @@
+{"id":"ae614138c7361d8bfb070451b572e821","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes GET /api/payment-plans returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"08b2cc172f3e5db0bf6435bb2cbbfb3c"}}

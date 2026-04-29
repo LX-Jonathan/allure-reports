@@ -1,0 +1,1 @@
+{"id":"173652fe3544c949937e8b3859c593eb","fullName":"server/__tests__/comm-consent.routes.test.ts#Patient portal: per-lab communication consent (cross-tenant) rejects an invalid channel (zod 400)","name":"rejects an invalid channel (zod 400)","status":"passed","testResultsByEnv":{"default":"73ad7c33437512d2bda0d92a52db0a16"}}

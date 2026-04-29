@@ -1,0 +1,1 @@
+{"id":"439142290ef04564ab2c722311c3fc76","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /fhir-connections/:id encrypts new client secret and clears token cache","name":"encrypts new client secret and clears token cache","status":"passed","testResultsByEnv":{"default":"ddcb9caafe5f9cbdd6dd31de77556689"}}

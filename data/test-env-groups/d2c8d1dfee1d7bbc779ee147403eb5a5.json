@@ -1,0 +1,1 @@
+{"id":"d2c8d1dfee1d7bbc779ee147403eb5a5","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints DELETE /api/v1/lab-tests/:id/image returns 200 on successful deletion with no imageUrl","name":"returns 200 on successful deletion with no imageUrl","status":"passed","testResultsByEnv":{"default":"d69e38849f4bcd47a065e2721d87702c"}}

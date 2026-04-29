@@ -1,0 +1,1 @@
+{"id":"72a9d0b822591a34ad7d1b2d3c2575f8","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms phone number normalization should handle 12-15 digit international numbers without + prefix","name":"should handle 12-15 digit international numbers without + prefix","status":"passed","testResultsByEnv":{"default":"bc2058a5be44a50025bd3fae35c6d237"}}

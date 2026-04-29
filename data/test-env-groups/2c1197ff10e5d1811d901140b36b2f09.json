@@ -1,0 +1,1 @@
+{"id":"2c1197ff10e5d1811d901140b36b2f09","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar does not render the coverage warning badge when no flag is present","name":"does not render the coverage warning badge when no flag is present","status":"passed","testResultsByEnv":{"default":"d48b321e29899f5cddb4b624aee614fd"}}

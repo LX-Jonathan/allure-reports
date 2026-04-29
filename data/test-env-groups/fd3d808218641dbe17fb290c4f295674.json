@@ -1,0 +1,1 @@
+{"id":"fd3d808218641dbe17fb290c4f295674","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/assignments returns list of lab assignments","name":"returns list of lab assignments","status":"passed","testResultsByEnv":{"default":"082347840f245d62664bdd88555771be"}}

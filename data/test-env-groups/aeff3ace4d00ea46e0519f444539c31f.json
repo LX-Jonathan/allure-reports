@@ -1,0 +1,1 @@
+{"id":"aeff3ace4d00ea46e0519f444539c31f","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /order/:orderId/detail returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"16002f3af10ea215f26bc9cefdd9c2ce"}}

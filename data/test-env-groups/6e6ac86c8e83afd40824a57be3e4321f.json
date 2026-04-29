@@ -1,0 +1,1 @@
+{"id":"6e6ac86c8e83afd40824a57be3e4321f","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/batch-job-status returns 400 when no valid job IDs provided","name":"returns 400 when no valid job IDs provided","status":"passed","testResultsByEnv":{"default":"0a6fb0ac9c5ca992649716bb2576d2a7"}}

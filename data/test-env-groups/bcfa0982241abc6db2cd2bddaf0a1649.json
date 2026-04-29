@@ -1,0 +1,1 @@
+{"id":"bcfa0982241abc6db2cd2bddaf0a1649","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should handle non-Error thrown values","name":"should handle non-Error thrown values","status":"passed","testResultsByEnv":{"default":"403480694fcca195bc934521ed44e45c"}}

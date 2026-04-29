@@ -1,0 +1,1 @@
+{"id":"b94f170aa038023b2064db93f7b8fe17","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should log forbidden error for status 403","name":"should log forbidden error for status 403","status":"passed","testResultsByEnv":{"default":"3a4eff11a14bc0009a8495cb033b5327"}}

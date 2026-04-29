@@ -1,0 +1,1 @@
+{"id":"30a3909217c770fd3632256373edf2f9","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService submitAuthorization returns parsed AI result when Anthropic is configured","name":"returns parsed AI result when Anthropic is configured","status":"passed","testResultsByEnv":{"default":"556c9c3886bfd647ad86f39961c40c6f"}}

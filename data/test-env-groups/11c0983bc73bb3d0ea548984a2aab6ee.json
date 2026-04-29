@@ -1,0 +1,1 @@
+{"id":"11c0983bc73bb3d0ea548984a2aab6ee","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id updates roleId, labId, and locationId","name":"updates roleId, labId, and locationId","status":"passed","testResultsByEnv":{"default":"f31b3a62745f650151ecad0addf36600"}}

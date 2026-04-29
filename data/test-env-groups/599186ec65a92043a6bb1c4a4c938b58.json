@@ -1,0 +1,1 @@
+{"id":"599186ec65a92043a6bb1c4a4c938b58","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:kitId/release-results (Staff Portal - Release Results) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"bd7c144e37355243391a02b3ac3fd29d"}}

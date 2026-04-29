@@ -1,0 +1,1 @@
+{"id":"72f5b6e1a974582f8bfc2c80b3950072","fullName":"server/lib/__tests__/email.test.ts#email isEmailConfigured returns false when both are not set","name":"returns false when both are not set","status":"passed","testResultsByEnv":{"default":"60c846ad2b4054d5984669d4233ab5fe"}}

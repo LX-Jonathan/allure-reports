@@ -1,0 +1,1 @@
+{"id":"a54bb792de00dbacc4c7ddad80663570","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs/:id/logo should redirect to external logoUrl if not internal path","name":"should redirect to external logoUrl if not internal path","status":"passed","testResultsByEnv":{"default":"27b95f320554e9def2a490438ce0fbd0"}}

@@ -1,0 +1,1 @@
+{"id":"ce03ec679dcbbf49ec01e8bccc470bd6","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/create-master returns 403 for non-labxchange user","name":"returns 403 for non-labxchange user","status":"passed","testResultsByEnv":{"default":"7ff3a5620f1f1c3d0951dd5fa29c9c64"}}

@@ -1,0 +1,1 @@
+{"id":"0c89f10cc138b00e24f5cfb844ee8c31","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/insurance returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"82cfe63e11f91ec08d56c77aa9697384"}}

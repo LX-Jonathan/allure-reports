@@ -1,0 +1,1 @@
+{"id":"f814c2a9ccf472144374a8e7101a9a94","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /stats returns 403 for non-labxchange user","name":"returns 403 for non-labxchange user","status":"passed","testResultsByEnv":{"default":"2dbb20d52fd4fd7cea0d981fd8ba6849"}}

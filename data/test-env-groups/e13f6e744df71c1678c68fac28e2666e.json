@@ -1,0 +1,1 @@
+{"id":"e13f6e744df71c1678c68fac28e2666e","fullName":"server/lib/__tests__/auth.test.ts#auth parseAuthorizationHeader should return null for undefined header","name":"should return null for undefined header","status":"passed","testResultsByEnv":{"default":"e2415785846ae746c3f2ac09761bf47b"}}

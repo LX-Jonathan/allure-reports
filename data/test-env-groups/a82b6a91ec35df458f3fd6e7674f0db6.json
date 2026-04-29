@@ -1,0 +1,1 @@
+{"id":"a82b6a91ec35df458f3fd6e7674f0db6","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/:id/mappings (additional branches) returns 404 when order not found","name":"returns 404 when order not found","status":"passed","testResultsByEnv":{"default":"f412d5fcf65c142368fade8fc6eb0f78"}}

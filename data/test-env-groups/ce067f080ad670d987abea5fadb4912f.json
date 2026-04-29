@@ -1,0 +1,1 @@
+{"id":"ce067f080ad670d987abea5fadb4912f","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate POST /orders/assign rejects assignee outside tenant scope","name":"rejects assignee outside tenant scope","status":"passed","testResultsByEnv":{"default":"b0d2221f7c2d3c4c26f4dcd2a01a66fe"}}

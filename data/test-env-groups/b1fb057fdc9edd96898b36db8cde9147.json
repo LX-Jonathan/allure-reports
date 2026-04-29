@@ -1,0 +1,1 @@
+{"id":"b1fb057fdc9edd96898b36db8cde9147","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints GET /api/v1/lxu/admin/articles returns 403 for non-admin users","name":"returns 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"9753b6f6f4179334edbe12acc2bf44f5"}}

@@ -1,0 +1,1 @@
+{"id":"fdc46c91a2fbfd8959cf360956cfaf7b","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create-and-link returns 400 for invalid email format","name":"returns 400 for invalid email format","status":"passed","testResultsByEnv":{"default":"642fe559f2fa41ccdf39158244c99512"}}

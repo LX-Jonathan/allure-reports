@@ -1,0 +1,1 @@
+{"id":"39606bf3aa8ebeb013b372e198871d8f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 403 when payment belongs to different org","name":"returns 403 when payment belongs to different org","status":"passed","testResultsByEnv":{"default":"3a4f7f926fc64fb5a627f04631220a4c"}}

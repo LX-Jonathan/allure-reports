@@ -1,0 +1,1 @@
+{"id":"8f3089fe6faf513c94049bf8926eb02c","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes GET /order/:orderId returns exists:true with check data when check exists","name":"returns exists:true with check data when check exists","status":"passed","testResultsByEnv":{"default":"96e714583442d7de62be55cd4a2fc6e0"}}

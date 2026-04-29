@@ -1,0 +1,1 @@
+{"id":"cf68aa27adb3d40b2d723e1c379fdf95","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 400 on validation error when tests array is empty","name":"returns 400 on validation error when tests array is empty","status":"passed","testResultsByEnv":{"default":"319ffe26ae313d902d3325857950b409"}}

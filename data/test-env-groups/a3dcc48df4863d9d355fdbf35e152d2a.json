@@ -1,0 +1,1 @@
+{"id":"a3dcc48df4863d9d355fdbf35e152d2a","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/catalog (Patient Portal - Public Catalog) returns 400 when parentLabId is missing","name":"returns 400 when parentLabId is missing","status":"passed","testResultsByEnv":{"default":"8c25cd3464ccdacfe12a6465fde1b053"}}

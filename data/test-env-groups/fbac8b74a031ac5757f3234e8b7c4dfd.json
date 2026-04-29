@@ -1,0 +1,1 @@
+{"id":"fbac8b74a031ac5757f3234e8b7c4dfd","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes DELETE /pre-registration-links/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c334a1cb7b47503b68c18b1576c3cc4a"}}

@@ -1,0 +1,1 @@
+{"id":"ebf86b1a0978d12edcfc8f8eca86fc69","fullName":"server/services/__tests__/base.service.test.ts#base.service getServiceContext should extract all properties from JwtPayload","name":"should extract all properties from JwtPayload","status":"passed","testResultsByEnv":{"default":"7c5e531eedc8965e129c1c86e62bf480"}}

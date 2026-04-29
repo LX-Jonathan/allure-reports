@@ -1,0 +1,1 @@
+{"id":"ca8a2e8cea9ff5d53f005a52ee61868b","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Download Compendium POST /api/v1/lab-tests/download-compendium returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"5e601d8065a486e081c0625269c7ae62"}}

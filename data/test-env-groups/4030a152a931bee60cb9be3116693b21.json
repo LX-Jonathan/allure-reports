@@ -1,0 +1,1 @@
+{"id":"4030a152a931bee60cb9be3116693b21","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate GET /orders with full access does not constrain by lab or locations","name":"with full access does not constrain by lab or locations","status":"passed","testResultsByEnv":{"default":"43d9bd5edcccd6ba63ee5c7407d05c4e"}}

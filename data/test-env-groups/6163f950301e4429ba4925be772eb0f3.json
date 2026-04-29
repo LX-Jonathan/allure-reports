@@ -1,0 +1,1 @@
+{"id":"6163f950301e4429ba4925be772eb0f3","fullName":"server/routes/__tests__/manual-payments-payback.routes.test.ts#Manual Payments — payback endpoint credits the patient account and posts journal + audit on success","name":"credits the patient account and posts journal + audit on success","status":"passed","testResultsByEnv":{"default":"bbe7b27c9c6ab9048b9d0f0304073aa7"}}

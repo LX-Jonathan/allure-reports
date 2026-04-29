@@ -1,0 +1,1 @@
+{"id":"f5530f1304f272a61010d86ddfc897ec","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET / super_admin can override parentLabId via query param","name":"super_admin can override parentLabId via query param","status":"passed","testResultsByEnv":{"default":"676672753f951a0593248393a19206b4"}}

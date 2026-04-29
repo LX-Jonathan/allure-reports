@@ -1,0 +1,1 @@
+{"id":"2a329849dedb38e99989ab27d8e8ddb9","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/featured returns 500 when db throws an error","name":"returns 500 when db throws an error","status":"passed","testResultsByEnv":{"default":"2536565015c2dccf8e6eb1a6bc969cdc"}}

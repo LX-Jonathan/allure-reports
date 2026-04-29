@@ -1,0 +1,1 @@
+{"id":"10e8e1aa70591754c250c312b6e720b5","fullName":"server/lib/__tests__/encryption.test.ts#encryption formatSSN should format correctly regardless of original formatting","name":"should format correctly regardless of original formatting","status":"passed","testResultsByEnv":{"default":"0054dd934d5d71733f8d47153489b0c0"}}

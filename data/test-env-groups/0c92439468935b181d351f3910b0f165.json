@@ -1,0 +1,1 @@
+{"id":"0c92439468935b181d351f3910b0f165","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations lists threads with last message previews for the patient","name":"lists threads with last message previews for the patient","status":"passed","testResultsByEnv":{"default":"5ea178792b04977724b79f251b381380"}}

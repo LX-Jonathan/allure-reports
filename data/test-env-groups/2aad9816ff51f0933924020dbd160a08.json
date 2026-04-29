@@ -1,0 +1,1 @@
+{"id":"2aad9816ff51f0933924020dbd160a08","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:patientId/insurance/:insuranceId encrypts subscriberDob before updating","name":"encrypts subscriberDob before updating","status":"passed","testResultsByEnv":{"default":"6ceecabd68e7b4a7236dfde4ad47b98a"}}

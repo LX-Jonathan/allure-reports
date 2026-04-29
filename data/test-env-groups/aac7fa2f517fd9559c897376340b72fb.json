@@ -1,0 +1,1 @@
+{"id":"aac7fa2f517fd9559c897376340b72fb","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId rejects invalid sendgrid fromEmail format via Zod schema","name":"rejects invalid sendgrid fromEmail format via Zod schema","status":"passed","testResultsByEnv":{"default":"ab53802afc2e01d320239bee18365261"}}

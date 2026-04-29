@@ -1,0 +1,1 @@
+{"id":"00cbc984468e350667f3eeb5e4bb5084","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/resync returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"d0120256dd301925c5fd16bbaab140aa"}}

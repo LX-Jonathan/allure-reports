@@ -1,0 +1,1 @@
+{"id":"e2130603acf8fd9c5c12e5ebc69354ff","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/results allows LX employee to access any patient results","name":"allows LX employee to access any patient results","status":"passed","testResultsByEnv":{"default":"174b7c8dff797b11e496c23a318d6612"}}

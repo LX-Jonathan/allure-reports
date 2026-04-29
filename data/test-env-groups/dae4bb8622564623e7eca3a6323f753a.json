@@ -1,0 +1,1 @@
+{"id":"dae4bb8622564623e7eca3a6323f753a","fullName":"server/__tests__/dtc.routes.test.ts#dtc routes POST /api/v1/dtc/products returns 400 for duplicate SKU","name":"returns 400 for duplicate SKU","status":"passed","testResultsByEnv":{"default":"165468dd66d740771fb27a3f3bfe4861"}}

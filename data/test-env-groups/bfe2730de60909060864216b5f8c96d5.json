@@ -1,0 +1,1 @@
+{"id":"bfe2730de60909060864216b5f8c96d5","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getBillingResolutionStats should handle claims without dueDate for overdue calculation","name":"should handle claims without dueDate for overdue calculation","status":"passed","testResultsByEnv":{"default":"9e86afc4c6cfb560cfaae2099bd25405"}}

@@ -1,0 +1,1 @@
+{"id":"602dd431c30cb5130c4b20e3b717fb42","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 400 when demographics service is disabled","name":"returns 400 when demographics service is disabled","status":"passed","testResultsByEnv":{"default":"ed2113d3d1230dd41dbbf005a794537c"}}

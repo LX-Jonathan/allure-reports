@@ -1,0 +1,1 @@
+{"id":"365a3d59fa427c4ca8f0c07adb172924","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate GET /holds with org-level access scopes by labId but not locations","name":"with org-level access scopes by labId but not locations","status":"passed","testResultsByEnv":{"default":"15b922fe1c4b38aa81915a4f4fea0135"}}

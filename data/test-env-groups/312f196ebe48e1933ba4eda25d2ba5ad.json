@@ -1,0 +1,1 @@
+{"id":"312f196ebe48e1933ba4eda25d2ba5ad","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with filtered stats for super_admin with labId filter","name":"returns 200 with filtered stats for super_admin with labId filter","status":"passed","testResultsByEnv":{"default":"9fcbd6692d24f84b150ccdbc84cf8ba2"}}

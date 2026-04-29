@@ -1,0 +1,1 @@
+{"id":"e1a774de3c982be6f6f97ec9d22e76b8","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes POST /api/v1/super-orgs should validate parent is actually a parent lab","name":"should validate parent is actually a parent lab","status":"passed","testResultsByEnv":{"default":"7b88f97f1d3fb9d604de7ca5d9db0619"}}

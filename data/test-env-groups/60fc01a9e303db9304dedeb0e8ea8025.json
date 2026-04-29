@@ -1,0 +1,1 @@
+{"id":"60fc01a9e303db9304dedeb0e8ea8025","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /:id returns 400 for invalid body (ZodError)","name":"returns 400 for invalid body (ZodError)","status":"passed","testResultsByEnv":{"default":"5a3d85734f841ac5c1ad9c0c59375341"}}

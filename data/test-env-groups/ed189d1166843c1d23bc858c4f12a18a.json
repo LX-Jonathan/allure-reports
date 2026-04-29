@@ -1,0 +1,1 @@
+{"id":"ed189d1166843c1d23bc858c4f12a18a","fullName":"server/routes/__tests__/enterprise-scheduling.routes.test.ts#Enterprise Scheduling Routes GET /api/enterprise-scheduling/waitlist returns 400 for invalid query params","name":"returns 400 for invalid query params","status":"passed","testResultsByEnv":{"default":"8d82c98d10915087bc0b3435157c1858"}}

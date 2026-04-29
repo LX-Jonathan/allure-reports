@@ -1,0 +1,1 @@
+{"id":"f9b70387c89d5c6db97b1d3290f13b0d","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/resolve returns 400 for invalid resolution type","name":"returns 400 for invalid resolution type","status":"passed","testResultsByEnv":{"default":"403cd45b18f8bd32ea0380188ce53dc1"}}

@@ -1,0 +1,1 @@
+{"id":"c0a035216316b4d1b91d3a87ea030624","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob user role resolution should default to viewer role when user not found","name":"should default to viewer role when user not found","status":"passed","testResultsByEnv":{"default":"1a90b34ab6157d0e8210f69b07729194"}}

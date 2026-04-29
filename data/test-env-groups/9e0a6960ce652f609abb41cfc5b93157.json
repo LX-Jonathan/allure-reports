@@ -1,0 +1,1 @@
+{"id":"9e0a6960ce652f609abb41cfc5b93157","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should register key in Redis on set for superOrgId pattern","name":"should register key in Redis on set for superOrgId pattern","status":"passed","testResultsByEnv":{"default":"638e14a0908593e86d2a6312555befef"}}

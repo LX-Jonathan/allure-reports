@@ -1,0 +1,1 @@
+{"id":"07a72a2731bfc1303ab14cf4c0832fa7","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useDtcCatalog fetches catalog through patientFetch when parentLabId is provided","name":"fetches catalog through patientFetch when parentLabId is provided","status":"passed","testResultsByEnv":{"default":"ae419958a9161fa722608c0a3dc2c983"}}

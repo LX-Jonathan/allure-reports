@@ -1,0 +1,1 @@
+{"id":"5ffbd313699a2571914fffdab54e5f23","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:scheduleId/events/:eventId returns 204 when event is deleted successfully","name":"returns 204 when event is deleted successfully","status":"passed","testResultsByEnv":{"default":"13367d644905cee1db7241d47ae0f41a"}}

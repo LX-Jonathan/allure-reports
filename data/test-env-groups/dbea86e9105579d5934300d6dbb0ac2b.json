@@ -1,0 +1,1 @@
+{"id":"dbea86e9105579d5934300d6dbb0ac2b","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService get should return null when Redis is not configured","name":"should return null when Redis is not configured","status":"passed","testResultsByEnv":{"default":"adedd6223c449eb95007f240f837e830"}}

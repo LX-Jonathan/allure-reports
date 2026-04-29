@@ -1,0 +1,1 @@
+{"id":"472bd09dc80050a0a76346b8f5ab411c","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations/:id/messages/upload rejects disallowed file types","name":"rejects disallowed file types","status":"passed","testResultsByEnv":{"default":"7a0e62fe68622f494e76aee39808a744"}}

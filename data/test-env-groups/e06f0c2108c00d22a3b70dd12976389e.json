@@ -1,0 +1,1 @@
+{"id":"e06f0c2108c00d22a3b70dd12976389e","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund processes Stripe refund when payment has stripePaymentIntentId","name":"processes Stripe refund when payment has stripePaymentIntentId","status":"passed","testResultsByEnv":{"default":"73726b93ecd47e367d120194277b1179"}}

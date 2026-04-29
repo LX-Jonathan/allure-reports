@@ -1,0 +1,1 @@
+{"id":"66b084c6b039e2373efc5dcf5ca8f9d8","fullName":"client/src/components/patient/__tests__/verification-helpers.test.tsx#verification-helpers renderField returns null for null/undefined/empty values","name":"returns null for null/undefined/empty values","status":"passed","testResultsByEnv":{"default":"913ed9c8765dc7d5f8b014c532e8cbdb"}}

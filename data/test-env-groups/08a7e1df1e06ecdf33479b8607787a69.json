@@ -1,0 +1,1 @@
+{"id":"08a7e1df1e06ecdf33479b8607787a69","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes POST /api/v1/lab-tests returns 403 when org_admin tries to create for different org","name":"returns 403 when org_admin tries to create for different org","status":"passed","testResultsByEnv":{"default":"8c01bae5bfb235454202acb14927ecc0"}}

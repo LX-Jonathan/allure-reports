@@ -1,0 +1,1 @@
+{"id":"ee7576e48d6a6ce01dc58afad7258e09","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService updateById (protected) should return null when record not found","name":"should return null when record not found","status":"passed","testResultsByEnv":{"default":"62bcda775a741fb1ca0c317692816658"}}

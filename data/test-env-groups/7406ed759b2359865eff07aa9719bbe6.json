@@ -1,0 +1,1 @@
+{"id":"7406ed759b2359865eff07aa9719bbe6","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets should filter tickets assigned to current user","name":"should filter tickets assigned to current user","status":"passed","testResultsByEnv":{"default":"16300a1b7ad67db02efc8a1cb993d671"}}

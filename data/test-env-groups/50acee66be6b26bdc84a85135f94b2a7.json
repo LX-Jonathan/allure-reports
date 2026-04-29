@@ -1,0 +1,1 @@
+{"id":"50acee66be6b26bdc84a85135f94b2a7","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/generate-form allows generation when sections exist but have no fields","name":"allows generation when sections exist but have no fields","status":"passed","testResultsByEnv":{"default":"c394ef23d460d156c3c11d543dc7d2fb"}}

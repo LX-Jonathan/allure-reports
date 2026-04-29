@@ -1,0 +1,1 @@
+{"id":"d6d7910686b6c4a2cc1b253b3ba5df7f","fullName":"server/__tests__/billing-resolution.routes.test.ts#billing-resolution routes GET /api/v1/billing-resolution/claims/:claimId returns 404 when claim not found","name":"returns 404 when claim not found","status":"passed","testResultsByEnv":{"default":"0595456b75ba84778c76096c9d88eae4"}}

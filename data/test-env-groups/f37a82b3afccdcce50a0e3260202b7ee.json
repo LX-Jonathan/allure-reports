@@ -1,0 +1,1 @@
+{"id":"f37a82b3afccdcce50a0e3260202b7ee","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logError should include stack trace in metadata for Error objects","name":"should include stack trace in metadata for Error objects","status":"passed","testResultsByEnv":{"default":"67354cebb1353e67d3f254aebdc5d550"}}

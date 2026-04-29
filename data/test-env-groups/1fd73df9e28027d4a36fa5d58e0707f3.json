@@ -1,0 +1,1 @@
+{"id":"1fd73df9e28027d4a36fa5d58e0707f3","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes GET / non-super_admin ignores parentLabId query param","name":"non-super_admin ignores parentLabId query param","status":"passed","testResultsByEnv":{"default":"9c8901ea58b5983292b3392d9fbcce5a"}}

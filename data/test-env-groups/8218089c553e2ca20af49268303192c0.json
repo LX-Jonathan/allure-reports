@@ -1,0 +1,1 @@
+{"id":"8218089c553e2ca20af49268303192c0","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker startEmailWorker should register error event handler","name":"should register error event handler","status":"passed","testResultsByEnv":{"default":"1f8d4d26908b796eaf5971b78521558c"}}

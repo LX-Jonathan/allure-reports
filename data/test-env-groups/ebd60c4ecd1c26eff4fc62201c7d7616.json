@@ -1,0 +1,1 @@
+{"id":"ebd60c4ecd1c26eff4fc62201c7d7616","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return stale when completed returnValue has no DB record","name":"should return stale when completed returnValue has no DB record","status":"passed","testResultsByEnv":{"default":"470a6c7cf29f1701a846be0ceeee8a63"}}

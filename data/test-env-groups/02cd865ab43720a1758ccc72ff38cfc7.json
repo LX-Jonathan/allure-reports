@@ -1,0 +1,1 @@
+{"id":"02cd865ab43720a1758ccc72ff38cfc7","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes DELETE /api/v1/schedules/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"3eb3ec85dc0379f24236405f1c0bd8d3"}}

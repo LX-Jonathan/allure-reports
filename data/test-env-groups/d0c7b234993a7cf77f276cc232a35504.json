@@ -1,0 +1,1 @@
+{"id":"d0c7b234993a7cf77f276cc232a35504","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxy-invitations/:code returns 404 when invitation not found","name":"returns 404 when invitation not found","status":"passed","testResultsByEnv":{"default":"d18e99f8d3c2400746069da1404026c8"}}

@@ -1,0 +1,1 @@
+{"id":"041c5d3f62b2a42b1b68673bb2a2dc18","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useSavedAddressOptions skips addresses missing both zip and city","name":"skips addresses missing both zip and city","status":"passed","testResultsByEnv":{"default":"08c2cac7659c4b9eec6190c05318b431"}}

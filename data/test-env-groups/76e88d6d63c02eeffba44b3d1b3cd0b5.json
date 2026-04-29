@@ -1,0 +1,1 @@
+{"id":"76e88d6d63c02eeffba44b3d1b3cd0b5","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding/:flowId/terms returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"e57fa00946995496cab13e037fcfe58f"}}

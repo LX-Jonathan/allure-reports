@@ -1,0 +1,1 @@
+{"id":"e54207c282921a9cc70a19788e04fb71","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusColors returns correct classes for pending status","name":"returns correct classes for pending status","status":"passed","testResultsByEnv":{"default":"f3357ff1adc85aed33c7a7a63b3112d5"}}

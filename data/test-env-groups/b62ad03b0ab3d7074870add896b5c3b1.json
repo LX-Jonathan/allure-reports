@@ -1,0 +1,1 @@
+{"id":"b62ad03b0ab3d7074870add896b5c3b1","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient searchPatient should not set name params when both are missing","name":"should not set name params when both are missing","status":"passed","testResultsByEnv":{"default":"a36ca86ffee760555b4c4277e2fd5e23"}}

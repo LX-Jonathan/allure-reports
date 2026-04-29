@@ -1,0 +1,1 @@
+{"id":"ff4585584d68c962bacb19ca09932dd0","fullName":"server/config/__tests__/env.test.ts#env.ts - module import coverage calls process.exit(1) when env validation fails","name":"calls process.exit(1) when env validation fails","status":"passed","testResultsByEnv":{"default":"f2a561087f9955955df25bee87dadff7"}}

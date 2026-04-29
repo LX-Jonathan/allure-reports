@@ -1,0 +1,1 @@
+{"id":"7533e38c2485f14e247b0854ea25daab","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientCreditConsumptionJournal includes order number and patient name in the description","name":"includes order number and patient name in the description","status":"passed","testResultsByEnv":{"default":"160e171899ffdd7120f6c7c0e90ee435"}}

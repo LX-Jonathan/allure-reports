@@ -1,0 +1,1 @@
+{"id":"97182b39a102dcbc2eca628451c882cb","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should update a super org","name":"should update a super org","status":"passed","testResultsByEnv":{"default":"c6287df13d062f3b660d61fb4b8ba5db"}}

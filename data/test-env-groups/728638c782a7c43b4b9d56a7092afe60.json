@@ -1,0 +1,1 @@
+{"id":"728638c782a7c43b4b9d56a7092afe60","fullName":"server/__tests__/users.routes.test.ts#users routes PATCH /api/v1/users/me returns 404 when updateUser returns null","name":"returns 404 when updateUser returns null","status":"passed","testResultsByEnv":{"default":"54e9e73b61a0ce1ee4fdb20924b3b4b4"}}

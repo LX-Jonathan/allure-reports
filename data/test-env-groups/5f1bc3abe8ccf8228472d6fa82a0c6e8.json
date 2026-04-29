@@ -1,0 +1,1 @@
+{"id":"5f1bc3abe8ccf8228472d6fa82a0c6e8","fullName":"client/src/contexts/__tests__/portal-navigation-context.test.tsx#PortalNavigationContext does not navigate when impersonating without provider","name":"does not navigate when impersonating without provider","status":"passed","testResultsByEnv":{"default":"a563080c94cb679b5666e0b73c6a9a1d"}}

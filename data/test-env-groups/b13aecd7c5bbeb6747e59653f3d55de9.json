@@ -1,0 +1,1 @@
+{"id":"b13aecd7c5bbeb6747e59653f3d55de9","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 400 when validation fails - invalid participantIds format","name":"returns 400 when validation fails - invalid participantIds format","status":"passed","testResultsByEnv":{"default":"f7985adca41cc7111057ffea825be550"}}

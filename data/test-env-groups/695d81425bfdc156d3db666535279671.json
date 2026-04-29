@@ -1,0 +1,1 @@
+{"id":"695d81425bfdc156d3db666535279671","fullName":"client/src/pages/__tests__/check-in.test.tsx#CheckInPage clears both id and step params when the checklist is closed","name":"clears both id and step params when the checklist is closed","status":"passed","testResultsByEnv":{"default":"64328f7aeb1ee48c11b25fc2d866982b"}}

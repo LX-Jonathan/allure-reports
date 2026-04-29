@@ -1,0 +1,1 @@
+{"id":"a387c7e4b5af1173a786fbe2e4e1dd13","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes PUT / returns 400 when the body has the wrong shape","name":"returns 400 when the body has the wrong shape","status":"passed","testResultsByEnv":{"default":"97e793a47a8a22c12c8f1e8caa9e59fe"}}

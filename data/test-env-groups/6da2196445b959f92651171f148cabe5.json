@@ -1,0 +1,1 @@
+{"id":"6da2196445b959f92651171f148cabe5","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext accessible locations for different user types returns all filtered locations for labxchange user","name":"returns all filtered locations for labxchange user","status":"passed","testResultsByEnv":{"default":"b48c5c4b61d2a2bc3448bcb3c85e386e"}}

@@ -1,0 +1,1 @@
+{"id":"6d43195582a88900fb1d18b734aaeba2","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return true for valid transition from collected to received","name":"should return true for valid transition from collected to received","status":"passed","testResultsByEnv":{"default":"e9b276a9135f80a8d322eec40d5fd967"}}

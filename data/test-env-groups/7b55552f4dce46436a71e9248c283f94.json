@@ -1,0 +1,1 @@
+{"id":"7b55552f4dce46436a71e9248c283f94","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker startInsuranceImportWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"98d92b167bbf57a9713983f538577e61"}}

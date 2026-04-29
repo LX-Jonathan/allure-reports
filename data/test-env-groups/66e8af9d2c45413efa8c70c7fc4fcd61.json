@@ -1,0 +1,1 @@
+{"id":"66e8af9d2c45413efa8c70c7fc4fcd61","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep respects per-lab channel preferences (email off, sms off)","name":"respects per-lab channel preferences (email off, sms off)","status":"passed","testResultsByEnv":{"default":"af66e2b347deecb6391a4a7aa5fc383d"}}

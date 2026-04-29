@@ -1,0 +1,1 @@
+{"id":"ae94b3624b3350bfee2d3a1f822fcfa7","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes GET /for-order-print returns 403 for non-super_admin without labId","name":"returns 403 for non-super_admin without labId","status":"passed","testResultsByEnv":{"default":"b833ab38622f6edbf6cee4eed453e27f"}}

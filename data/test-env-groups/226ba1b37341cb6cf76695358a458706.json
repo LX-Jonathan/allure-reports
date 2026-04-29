@@ -1,0 +1,1 @@
+{"id":"226ba1b37341cb6cf76695358a458706","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service resetCircuitBreaker should call close() on the breaker and return true","name":"should call close() on the breaker and return true","status":"passed","testResultsByEnv":{"default":"3abf3b9b5bcca1aa5a23f57a0c810d52"}}

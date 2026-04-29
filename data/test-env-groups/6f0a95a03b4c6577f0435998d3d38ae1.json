@@ -1,0 +1,1 @@
+{"id":"6f0a95a03b4c6577f0435998d3d38ae1","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker updateBatchProgress should mark batch as partial_failure when some items fail","name":"should mark batch as partial_failure when some items fail","status":"passed","testResultsByEnv":{"default":"b7337ce973fa2a9cbd027d33173c103d"}}

@@ -1,0 +1,1 @@
+{"id":"6bf2f9b6ee85c19df5d2b9cc391044d0","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should omit tax line when tax is 0","name":"should omit tax line when tax is 0","status":"passed","testResultsByEnv":{"default":"a77ef0c003d34da16a0b0944ec4312a5"}}

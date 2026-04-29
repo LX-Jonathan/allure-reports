@@ -1,0 +1,1 @@
+{"id":"09c848f3f29167bec4feb8128de92d4f","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings specimenToFhir uses orderNumber as fallback identifier","name":"uses orderNumber as fallback identifier","status":"passed","testResultsByEnv":{"default":"afe656f2b544c2cb8cdbef29c49d39cb"}}

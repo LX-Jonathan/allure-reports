@@ -1,0 +1,1 @@
+{"id":"907d92fa1b0f27a677d96409d40e97fc","fullName":"client/src/lib/__tests__/highlight-match.test.tsx#highlightMatch escapes regex special characters in the query","name":"escapes regex special characters in the query","status":"passed","testResultsByEnv":{"default":"1b23e946613e6ae102a369a8684045cf"}}

@@ -1,0 +1,1 @@
+{"id":"6dcc8c3693f742050e1bd4fd3f0e98ef","fullName":"client/src/components/__tests__/drivers-license-scanner.test.tsx#DriversLicenseScanner shows NotSupportedError when mediaDevices is not available","name":"shows NotSupportedError when mediaDevices is not available","status":"passed","testResultsByEnv":{"default":"1356900287f1fbb210dead9b8124d651"}}

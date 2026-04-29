@@ -1,0 +1,1 @@
+{"id":"67872a4918a4af267fc8437cec24bc62","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf returns 500 when Anthropic API throws","name":"returns 500 when Anthropic API throws","status":"passed","testResultsByEnv":{"default":"586ebdcf84c6ae569daaf2aa5f4f7159"}}

@@ -1,0 +1,1 @@
+{"id":"11c4432cfe7c2554d59a5231bf47fee8","fullName":"client/src/lib/__tests__/authUtils.test.ts#getAvatarColor returns deterministic results for same input","name":"returns deterministic results for same input","status":"passed","testResultsByEnv":{"default":"61a0c1daf49662c92ba33ac8e0105fdf"}}

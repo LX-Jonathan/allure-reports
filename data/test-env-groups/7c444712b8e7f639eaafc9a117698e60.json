@@ -1,0 +1,1 @@
+{"id":"7c444712b8e7f639eaafc9a117698e60","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors updatePatientGuarantor should update and return","name":"updatePatientGuarantor should update and return","status":"passed","testResultsByEnv":{"default":"51448a21236ceb64050356cfbba9def4"}}

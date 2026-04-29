@@ -1,0 +1,1 @@
+{"id":"c7c7a98e09fb05e694d3b1ff54cf921a","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/me returns 200 and updates own profile","name":"returns 200 and updates own profile","status":"passed","testResultsByEnv":{"default":"f7bad82e6a0c0bccd9ef0d98acf6ea30"}}

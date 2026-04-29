@@ -1,0 +1,1 @@
+{"id":"9b94aafa1bcbe5e10a6deccb44905884","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should default format to 'unknown' when undefined","name":"should default format to 'unknown' when undefined","status":"passed","testResultsByEnv":{"default":"ef3142bb9633dd8f9ee916469345d331"}}

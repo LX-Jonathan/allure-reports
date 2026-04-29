@@ -1,0 +1,1 @@
+{"id":"6791b8c0ef2f03abdb15f5a84ef3686a","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes POST /api/v1/super-orgs should validate parent exists for child labs","name":"should validate parent exists for child labs","status":"passed","testResultsByEnv":{"default":"1b74a6200796538192e4ac84440853cb"}}

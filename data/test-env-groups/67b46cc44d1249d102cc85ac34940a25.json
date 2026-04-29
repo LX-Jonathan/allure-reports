@@ -1,0 +1,1 @@
+{"id":"67b46cc44d1249d102cc85ac34940a25","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getFilteredClaims should handle empty results","name":"should handle empty results","status":"passed","testResultsByEnv":{"default":"d108b7ef53964cb57ef21f8b46ed77f4"}}

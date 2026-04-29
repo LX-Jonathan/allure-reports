@@ -1,0 +1,1 @@
+{"id":"8c6cc8a82b002f8f538a1a1948ba270b","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/lab-info should return default lab info when superOrg not found","name":"should return default lab info when superOrg not found","status":"passed","testResultsByEnv":{"default":"a90d77aeb37a8e96ab594efbb1e93e42"}}

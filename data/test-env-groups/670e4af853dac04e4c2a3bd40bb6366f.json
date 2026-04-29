@@ -1,0 +1,1 @@
+{"id":"670e4af853dac04e4c2a3bd40bb6366f","fullName":"server/services/__tests__/payment-application.test.ts#syncCreditRefundForStripeRefund returns null when the row is itself a reversal entry","name":"returns null when the row is itself a reversal entry","status":"passed","testResultsByEnv":{"default":"fbc85f060141ef98b1f6d37bf8fce257"}}

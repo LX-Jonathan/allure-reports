@@ -1,0 +1,1 @@
+{"id":"f508c585c85c4c32d673ff39de1aa8a0","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id additional edge cases returns 403 when location-level user has no locations","name":"returns 403 when location-level user has no locations","status":"passed","testResultsByEnv":{"default":"8b4bc2c0e6f9f6681c08ddb7be79987b"}}

@@ -1,0 +1,1 @@
+{"id":"a9d7c835a654eead5e9df30991ae6bb0","fullName":"server/routes/__tests__/operations-tasks.routes.test.ts#Operations Tasks routes scope enforcement (IDOR protection) returns scoped assignees for the bulk-assign picker","name":"returns scoped assignees for the bulk-assign picker","status":"passed","testResultsByEnv":{"default":"3c50c52a286d0a23bd6fb8f5c3138370"}}

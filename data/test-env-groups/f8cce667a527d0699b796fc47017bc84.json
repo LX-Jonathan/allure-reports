@@ -1,0 +1,1 @@
+{"id":"f8cce667a527d0699b796fc47017bc84","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /readers returns 500 when Stripe API fails","name":"returns 500 when Stripe API fails","status":"passed","testResultsByEnv":{"default":"83a00c2788494df4a17791f1d244fe05"}}

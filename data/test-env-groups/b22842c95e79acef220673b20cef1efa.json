@@ -1,0 +1,1 @@
+{"id":"b22842c95e79acef220673b20cef1efa","fullName":"client/src/components/payments/__tests__/payment-collection-prompt-dialog.test.tsx#PaymentCollectionPromptDialog renders nothing when data is null","name":"renders nothing when data is null","status":"passed","testResultsByEnv":{"default":"8a04738c24bd33f5ae1fa14e3bf37f5a"}}

@@ -1,0 +1,1 @@
+{"id":"4d2435b207df33b503dac020b3cb26e3","fullName":"server/middleware/__tests__/auditTenantResolver.test.ts#auditTenantResolver canonicalizeResourceType returns null for unknown types","name":"returns null for unknown types","status":"passed","testResultsByEnv":{"default":"70bad8e8332d8135abb469a9c0b68e29"}}

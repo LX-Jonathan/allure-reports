@@ -1,0 +1,1 @@
+{"id":"b5232e012be3a89465e0dc386e869344","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins createVisitCheckinEvent inserts an event and returns the created row","name":"inserts an event and returns the created row","status":"passed","testResultsByEnv":{"default":"d570595a5190d56ada7ec8a61692f689"}}

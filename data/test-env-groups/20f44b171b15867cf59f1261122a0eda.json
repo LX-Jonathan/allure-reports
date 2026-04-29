@@ -1,0 +1,1 @@
+{"id":"20f44b171b15867cf59f1261122a0eda","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments with applyCreditCents rejects applyCreditCents without patientId","name":"rejects applyCreditCents without patientId","status":"passed","testResultsByEnv":{"default":"9112b794338481238ab01d261bb2d7db"}}

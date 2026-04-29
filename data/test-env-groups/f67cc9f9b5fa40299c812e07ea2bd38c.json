@@ -1,0 +1,1 @@
+{"id":"f67cc9f9b5fa40299c812e07ea2bd38c","fullName":"client/src/components/patient/__tests__/portal-tab.test.tsx#PortalTab falls back to send #1 for proxy_invite_sent without explicit sendCount","name":"falls back to send #1 for proxy_invite_sent without explicit sendCount","status":"passed","testResultsByEnv":{"default":"7f711d7f2f3fdbeb46a4de9c3afefcc3"}}

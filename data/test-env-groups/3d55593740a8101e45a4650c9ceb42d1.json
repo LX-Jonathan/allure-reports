@@ -1,0 +1,1 @@
+{"id":"3d55593740a8101e45a4650c9ceb42d1","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments returns empty array for location-level user with no locations","name":"returns empty array for location-level user with no locations","status":"passed","testResultsByEnv":{"default":"936ce1388977434dd0bbbd10dce5d69e"}}

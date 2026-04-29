@@ -1,0 +1,1 @@
+{"id":"36bc4baf4707e8cccaa36a18f210975b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes DELETE /api/order-intake/bulk/batches/:batchId returns 200 on successful delete","name":"returns 200 on successful delete","status":"passed","testResultsByEnv":{"default":"eca69a8e0834ff0769037912d153a1fd"}}

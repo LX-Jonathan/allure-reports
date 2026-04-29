@@ -1,0 +1,1 @@
+{"id":"4b39da98a8dc3403417129bb45987d09","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/attach-patient returns 400 when patientId is missing","name":"returns 400 when patientId is missing","status":"passed","testResultsByEnv":{"default":"0510010dbd4ee4a016a00ee0d8874089"}}

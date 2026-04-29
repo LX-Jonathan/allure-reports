@@ -1,0 +1,1 @@
+{"id":"623fffbb832e31059a116e1f30877cf9","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes DELETE /api/v1/patient-medications/:id returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"edb83d886c23abc4a8892b752011e3b7"}}

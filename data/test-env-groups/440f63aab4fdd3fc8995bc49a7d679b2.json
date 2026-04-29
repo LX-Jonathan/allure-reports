@@ -1,0 +1,1 @@
+{"id":"440f63aab4fdd3fc8995bc49a7d679b2","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/export/:queueType should return 400 for invalid queue type","name":"should return 400 for invalid queue type","status":"passed","testResultsByEnv":{"default":"64b01712c24ba129f6536023eaf7a681"}}

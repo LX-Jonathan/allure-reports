@@ -1,0 +1,1 @@
+{"id":"0b620a3dded60ad43258b82cf5d2d750","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET /:id super-org user can fetch a client in one of their labs","name":"super-org user can fetch a client in one of their labs","status":"passed","testResultsByEnv":{"default":"056685b77e35da348ef5533812faeada"}}

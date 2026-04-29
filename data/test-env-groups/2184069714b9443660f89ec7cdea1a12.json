@@ -1,0 +1,1 @@
+{"id":"2184069714b9443660f89ec7cdea1a12","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /reports/open-claim-denials returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"b9bf206ea42b289c5fdfc3e3fe0943d9"}}

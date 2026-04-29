@@ -1,0 +1,1 @@
+{"id":"a876f053ff128a221f54bf555c7ca4ab","fullName":"server/routes/__tests__/patient-auth-sms.routes.test.ts#patient-auth SMS failure routes POST /phone-login should succeed in dev mode even when sendSms returns false","name":"should succeed in dev mode even when sendSms returns false","status":"passed","testResultsByEnv":{"default":"5b0553a5939fabab75c863c585e6bcc2"}}

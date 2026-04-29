@@ -1,0 +1,1 @@
+{"id":"89d6f18a91915684891695aefa7a37bc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/details returns org details with stats","name":"returns org details with stats","status":"passed","testResultsByEnv":{"default":"ab5578c9d4cab6803fc26dfbc6635566"}}

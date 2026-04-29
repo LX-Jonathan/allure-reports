@@ -1,0 +1,1 @@
+{"id":"90e5cf55a47e99b9bede96a67c8ea59b","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related getPatientByMrn should return patient when MRN found","name":"should return patient when MRN found","status":"passed","testResultsByEnv":{"default":"3afcb32d8074aff85d81724fb0ede5d2"}}

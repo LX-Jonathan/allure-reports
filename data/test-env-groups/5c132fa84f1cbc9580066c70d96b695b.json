@@ -1,0 +1,1 @@
+{"id":"5c132fa84f1cbc9580066c70d96b695b","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient getAccessToken (via testConnection) should default expires_in to 3600 when not in response","name":"should default expires_in to 3600 when not in response","status":"passed","testResultsByEnv":{"default":"4f7db394088cd46ff1dd0349f7be78d7"}}

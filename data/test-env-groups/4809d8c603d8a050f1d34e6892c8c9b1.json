@@ -1,0 +1,1 @@
+{"id":"4809d8c603d8a050f1d34e6892c8c9b1","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#buildPosHref omits null/undefined identifier params","name":"omits null/undefined identifier params","status":"passed","testResultsByEnv":{"default":"f666942925e187739138dfe9fdc42d47"}}

@@ -1,0 +1,1 @@
+{"id":"4a0e4e01ec439ca3c5719fd69898a2f1","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePatientRules returns ok with no issues for a fully valid patient","name":"returns ok with no issues for a fully valid patient","status":"passed","testResultsByEnv":{"default":"d49cbca09ed924933e4598d9679a4d27"}}

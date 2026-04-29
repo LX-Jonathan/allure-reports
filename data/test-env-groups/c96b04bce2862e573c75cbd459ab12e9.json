@@ -1,0 +1,1 @@
+{"id":"c96b04bce2862e573c75cbd459ab12e9","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/link returns 400 when patientId or masterPatientId missing","name":"returns 400 when patientId or masterPatientId missing","status":"passed","testResultsByEnv":{"default":"8ede00393657f1c99d251e774795b799"}}

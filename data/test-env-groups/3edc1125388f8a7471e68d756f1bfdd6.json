@@ -1,0 +1,1 @@
+{"id":"3edc1125388f8a7471e68d756f1bfdd6","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs/:id/available-tests returns available tests for org","name":"returns available tests for org","status":"passed","testResultsByEnv":{"default":"4ad2b95a184eaad5a8a1c990d224e078"}}

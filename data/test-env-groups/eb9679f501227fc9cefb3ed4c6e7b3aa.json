@@ -1,0 +1,1 @@
+{"id":"eb9679f501227fc9cefb3ed4c6e7b3aa","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /fee-schedules/:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"620436fd21fa5fa88386966380d9fbb7"}}

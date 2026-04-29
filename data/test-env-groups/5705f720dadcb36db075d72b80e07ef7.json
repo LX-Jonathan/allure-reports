@@ -1,0 +1,1 @@
+{"id":"5705f720dadcb36db075d72b80e07ef7","fullName":"server/lib/__tests__/reportCache.test.ts#getCachedReport returns isStale=true when entry exceeds soft TTL (80% of 3600s)","name":"returns isStale=true when entry exceeds soft TTL (80% of 3600s)","status":"passed","testResultsByEnv":{"default":"64c6f688a2dae0cbab2e7441a7351d59"}}

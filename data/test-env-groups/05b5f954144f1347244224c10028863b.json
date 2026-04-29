@@ -1,0 +1,1 @@
+{"id":"05b5f954144f1347244224c10028863b","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins (list scoping) does not pass tenant filters when caller has full access","name":"does not pass tenant filters when caller has full access","status":"passed","testResultsByEnv":{"default":"3c544517bcae693753fe4fba7e2ec403"}}

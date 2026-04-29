@@ -1,0 +1,1 @@
+{"id":"8efdc738515aa87cdcf7eb0a75fb210a","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations returns 400 when patient is missing lab context","name":"returns 400 when patient is missing lab context","status":"passed","testResultsByEnv":{"default":"6497cdcd28bad1656af5ae16586120bf"}}

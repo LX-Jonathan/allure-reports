@@ -1,0 +1,1 @@
+{"id":"d03427a32491b31898306f31e16305e3","fullName":"client/src/components/patient/__tests__/portal-tab.test.tsx#PortalTab renders MFA not enrolled warning when mfaEnrolledAt is null","name":"renders MFA not enrolled warning when mfaEnrolledAt is null","status":"passed","testResultsByEnv":{"default":"332c44d0a8d09c68dd44593b8ca02acc"}}

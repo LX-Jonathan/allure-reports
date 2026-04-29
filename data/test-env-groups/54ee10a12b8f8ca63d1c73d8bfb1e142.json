@@ -1,0 +1,1 @@
+{"id":"54ee10a12b8f8ca63d1c73d8bfb1e142","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan updateBulkScanBatch should update and return updated batch","name":"should update and return updated batch","status":"passed","testResultsByEnv":{"default":"160b295d4aa625623b00ae5306a55d77"}}

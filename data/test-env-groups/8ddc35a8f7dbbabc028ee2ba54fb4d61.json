@@ -1,0 +1,1 @@
+{"id":"8ddc35a8f7dbbabc028ee2ba54fb4d61","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getBillingResolutionStats should filter by sourceType","name":"should filter by sourceType","status":"passed","testResultsByEnv":{"default":"0b57eb34a20cb1ce8a672da69b76ff90"}}

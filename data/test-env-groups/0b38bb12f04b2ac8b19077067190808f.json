@@ -1,0 +1,1 @@
+{"id":"0b38bb12f04b2ac8b19077067190808f","fullName":"server/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getCollectedAmount should aggregate collected amounts by state, sales rep, and trend","name":"should aggregate collected amounts by state, sales rep, and trend","status":"passed","testResultsByEnv":{"default":"ba006c4c3e4ac5476ad533e5261eb915"}}

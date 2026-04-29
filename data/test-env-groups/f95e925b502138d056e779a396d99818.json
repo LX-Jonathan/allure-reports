@@ -1,0 +1,1 @@
+{"id":"f95e925b502138d056e779a396d99818","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalUserById returns portal user when found","name":"returns portal user when found","status":"passed","testResultsByEnv":{"default":"4ef4140c07ec35cf3508ba1addba5837"}}

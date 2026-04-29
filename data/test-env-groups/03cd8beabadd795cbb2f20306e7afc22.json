@@ -1,0 +1,1 @@
+{"id":"03cd8beabadd795cbb2f20306e7afc22","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should process item successfully with high confidence","name":"should process item successfully with high confidence","status":"passed","testResultsByEnv":{"default":"274b5d11d58b64cdbe6987b542475ffb"}}

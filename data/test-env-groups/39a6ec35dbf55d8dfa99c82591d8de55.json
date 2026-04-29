@@ -1,0 +1,1 @@
+{"id":"39a6ec35dbf55d8dfa99c82591d8de55","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads returns 400 for invalid body (missing subject)","name":"returns 400 for invalid body (missing subject)","status":"passed","testResultsByEnv":{"default":"8fd67bd6590e0a9bb3c76f809e6d1493"}}

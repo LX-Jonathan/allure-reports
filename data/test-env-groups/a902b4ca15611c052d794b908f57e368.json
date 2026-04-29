@@ -1,0 +1,1 @@
+{"id":"a902b4ca15611c052d794b908f57e368","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /appeals returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"1c23f38c2c6ee5965092cc72d55f9273"}}

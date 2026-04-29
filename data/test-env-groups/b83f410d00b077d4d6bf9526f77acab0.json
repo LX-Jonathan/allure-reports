@@ -1,0 +1,1 @@
+{"id":"b83f410d00b077d4d6bf9526f77acab0","fullName":"server/workers/__tests__/report-generation.worker.test.ts#startReportGenerationWorker should return worker instance when created successfully","name":"should return worker instance when created successfully","status":"passed","testResultsByEnv":{"default":"592db595137cbff7117369f8a9d665f9"}}

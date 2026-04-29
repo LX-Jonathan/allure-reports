@@ -1,0 +1,1 @@
+{"id":"59ce2ac08b569a154e030eb6b1902e6c","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueUserInviteEmail should use default BASE_URL when not set","name":"should use default BASE_URL when not set","status":"passed","testResultsByEnv":{"default":"a936b8eb2c356574443e01260c14d6ba"}}

@@ -1,0 +1,1 @@
+{"id":"150dd24f7e707b963be723b3714c8194","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /readers returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"58da789dd67b42a1864ca1382a40b80d"}}

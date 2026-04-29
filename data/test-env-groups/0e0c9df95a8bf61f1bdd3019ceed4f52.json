@@ -1,0 +1,1 @@
+{"id":"0e0c9df95a8bf61f1bdd3019ceed4f52","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload calls mapGenderForAndromeda with patient gender","name":"calls mapGenderForAndromeda with patient gender","status":"passed","testResultsByEnv":{"default":"e080a816002f27e408b53b8c3aa4ac13"}}

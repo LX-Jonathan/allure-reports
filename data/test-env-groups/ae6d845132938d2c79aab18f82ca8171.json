@@ -1,0 +1,1 @@
+{"id":"ae6d845132938d2c79aab18f82ca8171","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should fall back to local file read for non-redis paths","name":"should fall back to local file read for non-redis paths","status":"passed","testResultsByEnv":{"default":"25d1e5dc2ba71bb807b74b45023a03a4"}}

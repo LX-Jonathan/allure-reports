@@ -1,0 +1,1 @@
+{"id":"ab1ddfbeec04d2eaed81f431ae086d92","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management createUser should create a new user and return it","name":"should create a new user and return it","status":"passed","testResultsByEnv":{"default":"56fdd7047460cb53e00d5f91bfbf0016"}}

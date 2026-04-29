@@ -1,0 +1,1 @@
+{"id":"b1408dd0c805b7f4299914cf9c67c9a6","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 400 when duplicate name exists (case insensitive)","name":"returns 400 when duplicate name exists (case insensitive)","status":"passed","testResultsByEnv":{"default":"6abd440cf7da241950a1c28918fe4b5f"}}

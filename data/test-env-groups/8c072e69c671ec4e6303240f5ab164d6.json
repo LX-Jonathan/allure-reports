@@ -1,0 +1,1 @@
+{"id":"8c072e69c671ec4e6303240f5ab164d6","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /validate returns 500 when service throws","name":"returns 500 when service throws","status":"passed","testResultsByEnv":{"default":"83d3cece49ebcd0a31559a896e483a25"}}

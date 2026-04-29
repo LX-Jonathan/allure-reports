@@ -1,0 +1,1 @@
+{"id":"d9f6f1919fbe207028806a46f6dec4ea","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/create-master returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"1b7318f1f62f1bfb79eb3e0b860f2b9a"}}

@@ -1,0 +1,1 @@
+{"id":"b0fd7e55303f2a17112342b7eb1139de","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-search returns 200 with results from NPI registry","name":"returns 200 with results from NPI registry","status":"passed","testResultsByEnv":{"default":"2b791f4b925ccf7f7c51e9b625b6c6e8"}}

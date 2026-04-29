@@ -1,0 +1,1 @@
+{"id":"9f4cb286ca24720d25f54638d3ed7706","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner assigns fallback name for device without name or displayName","name":"assigns fallback name for device without name or displayName","status":"passed","testResultsByEnv":{"default":"0c45a429ed794990b91f8cc8511e3134"}}

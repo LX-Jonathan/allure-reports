@@ -1,0 +1,1 @@
+{"id":"434d61411327be4cbb134aec3d81c745","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:scheduleId/events/:eventId returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"d719626b30a0c20c78533efb1db99e47"}}

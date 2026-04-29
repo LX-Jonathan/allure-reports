@@ -1,0 +1,1 @@
+{"id":"af07ccd6bd39b606e1060957a20c9d1e","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/:id returns 200 with decrypted PHI","name":"returns 200 with decrypted PHI","status":"passed","testResultsByEnv":{"default":"dd860fc9d497740f146fffecae979035"}}

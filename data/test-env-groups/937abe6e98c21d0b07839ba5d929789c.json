@@ -1,0 +1,1 @@
+{"id":"937abe6e98c21d0b07839ba5d929789c","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/orders/bulk-retry should return 400 for missing ids","name":"should return 400 for missing ids","status":"passed","testResultsByEnv":{"default":"96aa8648bb7d4f41256472927f8ba3d4"}}

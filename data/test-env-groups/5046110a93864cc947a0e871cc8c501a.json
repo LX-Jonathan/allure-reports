@@ -1,0 +1,1 @@
+{"id":"5046110a93864cc947a0e871cc8c501a","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/alert-rules should filter by queueType and isActive","name":"should filter by queueType and isActive","status":"passed","testResultsByEnv":{"default":"d5668ebf5a432d71a42a3c7754bf0771"}}

@@ -1,0 +1,1 @@
+{"id":"fae162ff76a332d1299abcb6e8f93724","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Email Verification Codes invalidateEmailVerificationCodes should hard delete codes for lowercased email","name":"should hard delete codes for lowercased email","status":"passed","testResultsByEnv":{"default":"03ba541ab42ce44a352e65469a12721d"}}

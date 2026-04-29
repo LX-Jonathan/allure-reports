@@ -1,0 +1,1 @@
+{"id":"95601e478a8cf175ed06ec542c896ec5","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getById should return patient when found with full access","name":"should return patient when found with full access","status":"passed","testResultsByEnv":{"default":"8a99ab07882e2de6cf5fc2c26f01b23f"}}

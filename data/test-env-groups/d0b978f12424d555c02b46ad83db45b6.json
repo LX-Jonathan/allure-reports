@@ -1,0 +1,1 @@
+{"id":"d0b978f12424d555c02b46ad83db45b6","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /databases returns 503 when Athena not configured","name":"returns 503 when Athena not configured","status":"passed","testResultsByEnv":{"default":"3966149a27d152e01fd1c195772f78fd"}}

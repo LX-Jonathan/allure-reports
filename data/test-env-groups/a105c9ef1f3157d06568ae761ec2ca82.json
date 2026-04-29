@@ -1,0 +1,1 @@
+{"id":"a105c9ef1f3157d06568ae761ec2ca82","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should default hasAlpha to false when undefined","name":"should default hasAlpha to false when undefined","status":"passed","testResultsByEnv":{"default":"11d7fec00e43fd1e650f5e232448a7ee"}}

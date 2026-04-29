@@ -1,0 +1,1 @@
+{"id":"f0ce56e0b4d709bd491cf4c4aa9b1747","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/check-requirement returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"9ff0e2b2bd8999eead30b9bce71579db"}}

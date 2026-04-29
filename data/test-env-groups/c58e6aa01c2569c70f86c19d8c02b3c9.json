@@ -1,0 +1,1 @@
+{"id":"c58e6aa01c2569c70f86c19d8c02b3c9","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management deletePatientInsurance throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"91c9da7e645c20d35b662b3571bae5df"}}

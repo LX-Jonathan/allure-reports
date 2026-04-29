@@ -1,0 +1,1 @@
+{"id":"aa19c6a870a1b02a6a980e6f86066d03","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/export returns 403 for non-super_admin without parentLabId","name":"returns 403 for non-super_admin without parentLabId","status":"passed","testResultsByEnv":{"default":"ca28527b49a58a2b48149d6de5da71b1"}}

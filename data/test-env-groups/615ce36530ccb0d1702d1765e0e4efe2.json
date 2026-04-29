@@ -1,0 +1,1 @@
+{"id":"615ce36530ccb0d1702d1765e0e4efe2","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getUniqueErrorTypesFromCache should return empty array when no error types exist","name":"should return empty array when no error types exist","status":"passed","testResultsByEnv":{"default":"3a34e3a6009041e32593fbce540c2d4d"}}

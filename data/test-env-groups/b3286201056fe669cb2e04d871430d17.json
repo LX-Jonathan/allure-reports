@@ -1,0 +1,1 @@
+{"id":"b3286201056fe669cb2e04d871430d17","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns 400 when payment status does not allow refund","name":"returns 400 when payment status does not allow refund","status":"passed","testResultsByEnv":{"default":"ed10c693e19424f154ab6f8f3c631084"}}

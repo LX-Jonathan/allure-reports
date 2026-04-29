@@ -1,0 +1,1 @@
+{"id":"f0c28790c0bb45404b873a6af93be756","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storePageImage should include contentHash in metadata","name":"should include contentHash in metadata","status":"passed","testResultsByEnv":{"default":"6be6f2398a1e5385b1bb22f92a704ac0"}}

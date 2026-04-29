@@ -1,0 +1,1 @@
+{"id":"c014ab138050bac35a38ce90f215dae8","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations uses fallback address values when location fields are null","name":"uses fallback address values when location fields are null","status":"passed","testResultsByEnv":{"default":"4fcc2163857d53581f475500b14c08b9"}}

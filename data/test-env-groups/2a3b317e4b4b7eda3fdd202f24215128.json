@@ -1,0 +1,1 @@
+{"id":"2a3b317e4b4b7eda3fdd202f24215128","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations/:id flips unreadByPatient to false and returns the thread","name":"flips unreadByPatient to false and returns the thread","status":"passed","testResultsByEnv":{"default":"626232bfc280d9f7498807a217030e76"}}

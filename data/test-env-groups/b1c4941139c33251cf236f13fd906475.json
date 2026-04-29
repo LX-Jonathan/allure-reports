@@ -1,0 +1,1 @@
+{"id":"b1c4941139c33251cf236f13fd906475","fullName":"client/src/stores/__tests__/uiStore.test.ts#useUIStore setSidebarCollapsed sets the collapsed state directly","name":"setSidebarCollapsed sets the collapsed state directly","status":"passed","testResultsByEnv":{"default":"98e6dbf83dc33c16ced6f18f2393e87b"}}

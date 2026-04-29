@@ -1,0 +1,1 @@
+{"id":"f19e6f80fdfaf9a5bd81a2d080be8c3c","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is configured getBulkScanSplitQueue should return a Queue instance","name":"getBulkScanSplitQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"7796cbe8bf4441da097e7f9c8b67e557"}}

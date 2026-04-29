@@ -1,0 +1,1 @@
+{"id":"ec694141d4ddc2ed5ba92207c3bc4f33","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getUniqueClientsFromCache should return empty array when no claims have clientCode","name":"should return empty array when no claims have clientCode","status":"passed","testResultsByEnv":{"default":"518e25462281b93850f5adbcd8cfc61e"}}

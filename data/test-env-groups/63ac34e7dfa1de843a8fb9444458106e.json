@@ -1,0 +1,1 @@
+{"id":"63ac34e7dfa1de843a8fb9444458106e","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries returns 403 for location_admin role","name":"returns 403 for location_admin role","status":"passed","testResultsByEnv":{"default":"b5525d8256d209c80c2ff906dcc7f157"}}

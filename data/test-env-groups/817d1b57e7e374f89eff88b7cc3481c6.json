@@ -1,0 +1,1 @@
+{"id":"817d1b57e7e374f89eff88b7cc3481c6","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/pending-jobs/bulk-delete returns 200 with results when redis not configured","name":"returns 200 with results when redis not configured","status":"passed","testResultsByEnv":{"default":"2e1608e0e39be27159c096be2c2a170c"}}

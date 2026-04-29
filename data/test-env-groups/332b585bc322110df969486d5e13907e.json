@@ -1,0 +1,1 @@
+{"id":"332b585bc322110df969486d5e13907e","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms tenant Twilio config should skip tenant config when superOrg not found","name":"should skip tenant config when superOrg not found","status":"passed","testResultsByEnv":{"default":"8dd337f55baf7cd39a735a2e5b35b8f9"}}

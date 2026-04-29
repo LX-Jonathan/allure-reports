@@ -1,0 +1,1 @@
+{"id":"2ea432c353cb66cde24d851a1b1aae12","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 200 with configured false when not configured","name":"returns 200 with configured false when not configured","status":"passed","testResultsByEnv":{"default":"fd503d3fe4886ad53196938d6adf6b37"}}

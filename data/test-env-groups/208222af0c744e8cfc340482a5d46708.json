@@ -1,0 +1,1 @@
+{"id":"208222af0c744e8cfc340482a5d46708","fullName":"client/src/contexts/__tests__/portal-navigation-context.test.tsx#PortalNavigationContext navigates via setLocation when no provider and not impersonating","name":"navigates via setLocation when no provider and not impersonating","status":"passed","testResultsByEnv":{"default":"55065c58e120f32a1d29522e29218752"}}

@@ -1,0 +1,1 @@
+{"id":"6b3deeebf2a6705faafda3eb75fe2365","fullName":"server/lib/__tests__/reportCache.test.ts#setCachedReport does nothing when redis is not configured","name":"does nothing when redis is not configured","status":"passed","testResultsByEnv":{"default":"1182ff5b8ca9e8fd608cde66ab94c42f"}}

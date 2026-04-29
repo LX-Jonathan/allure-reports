@@ -1,0 +1,1 @@
+{"id":"84855bd5cd658e8cef595071d7a66ca3","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should throw when write verification returns null","name":"should throw when write verification returns null","status":"passed","testResultsByEnv":{"default":"f4578f13141056601afbe5341de3f61d"}}

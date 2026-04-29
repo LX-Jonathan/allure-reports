@@ -1,0 +1,1 @@
+{"id":"0c5f99c9d4ab1aaeebe4cea42b7ee25d","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/export/:queueType should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"e529421a937dfd1e47bc152bb7039dfe"}}

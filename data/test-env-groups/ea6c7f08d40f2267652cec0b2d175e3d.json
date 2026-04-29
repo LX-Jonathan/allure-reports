@@ -1,0 +1,1 @@
+{"id":"ea6c7f08d40f2267652cec0b2d175e3d","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Insurance Companies getAllInsuranceCompaniesForExport should return all companies without pagination","name":"should return all companies without pagination","status":"passed","testResultsByEnv":{"default":"1e4a84fc91abb0673ba8bf826a631a04"}}

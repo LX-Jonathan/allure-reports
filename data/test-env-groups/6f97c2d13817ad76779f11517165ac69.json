@@ -1,0 +1,1 @@
+{"id":"6f97c2d13817ad76779f11517165ac69","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings mapFhirStatusToOrder maps revoked to cancelled","name":"maps revoked to cancelled","status":"passed","testResultsByEnv":{"default":"35932acbbe99d528330a0ef5a9fa2c0b"}}

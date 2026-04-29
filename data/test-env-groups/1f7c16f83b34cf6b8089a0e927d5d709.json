@@ -1,0 +1,1 @@
+{"id":"1f7c16f83b34cf6b8089a0e927d5d709","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) POST /api/v1/pre-registration-links returns 201 on success with generated linkCode","name":"returns 201 on success with generated linkCode","status":"passed","testResultsByEnv":{"default":"6049cc97be7b0292f650152c2824eabe"}}

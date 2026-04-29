@@ -1,0 +1,1 @@
+{"id":"712189709b4d74805e49716455bfddc4","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id returns 403 for user without organization assignment","name":"returns 403 for user without organization assignment","status":"passed","testResultsByEnv":{"default":"80d90369ee334bbc852bea7ca62f3f06"}}

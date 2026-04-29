@@ -1,0 +1,1 @@
+{"id":"2a930ed6dedc4d7afd0077656ba89370","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deletePattern with Redis configured should never call redis.keys for patterns with no tag match","name":"should never call redis.keys for patterns with no tag match","status":"passed","testResultsByEnv":{"default":"ad5a6a945bc0e25d730b96444047d6db"}}

@@ -1,0 +1,1 @@
+{"id":"e25299696b585a56caed76b6b285be0d","fullName":"client/src/pages/__tests__/point-of-sale-deeplink.test.tsx#PointOfSalePage deep-link contract opens the PaymentDetailDialog when ?paymentId=X is present","name":"opens the PaymentDetailDialog when ?paymentId=X is present","status":"passed","testResultsByEnv":{"default":"fda49c9d3ecfe58bc8fff8c340b4267c"}}

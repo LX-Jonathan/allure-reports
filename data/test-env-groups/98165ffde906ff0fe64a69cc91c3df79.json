@@ -1,0 +1,1 @@
+{"id":"98165ffde906ff0fe64a69cc91c3df79","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should use 'Cash In' label for cash_in/paid_in","name":"should use 'Cash In' label for cash_in/paid_in","status":"passed","testResultsByEnv":{"default":"283ff80fb0568e69648ee8a77c3718f2"}}

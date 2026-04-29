@@ -1,0 +1,1 @@
+{"id":"c606208ee77dc235d1368e35c1c3e1e2","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth no token provided should not set patientUser when no token","name":"should not set patientUser when no token","status":"passed","testResultsByEnv":{"default":"121beb6ecf2ae5cbc5a06b53876c81a9"}}

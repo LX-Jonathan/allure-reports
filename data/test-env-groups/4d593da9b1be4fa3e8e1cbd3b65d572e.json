@@ -1,0 +1,1 @@
+{"id":"4d593da9b1be4fa3e8e1cbd3b65d572e","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/status should return configured status when DataXchange is configured","name":"should return configured status when DataXchange is configured","status":"passed","testResultsByEnv":{"default":"738ea885378d06517640ec72dc3c3c99"}}

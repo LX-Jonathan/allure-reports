@@ -1,0 +1,1 @@
+{"id":"e3a1db3ed19627a29e5a0ba759da03ee","fullName":"server/__tests__/index.test.ts#index shouldSkipBodyLogging (from index.ts) skips high-volume API prefixes used for response body logging","name":"skips high-volume API prefixes used for response body logging","status":"passed","testResultsByEnv":{"default":"88ea207e27b354470fa8817b044126be"}}

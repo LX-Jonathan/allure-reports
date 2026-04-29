@@ -1,0 +1,1 @@
+{"id":"071abcdbd562b08e23e9f2473503b624","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda isAndromedaConfigured should return false when client secret is empty string","name":"should return false when client secret is empty string","status":"passed","testResultsByEnv":{"default":"5a0c6412536906608b19b7d41e6fe77b"}}

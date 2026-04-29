@@ -1,0 +1,1 @@
+{"id":"bc6a3c979865830dab46e5a7be802ad6","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Test Panels & Lab Pricing setOrgPricing should create new pricing when none exists","name":"should create new pricing when none exists","status":"passed","testResultsByEnv":{"default":"cbca5ed71846d224cca782a0b103c4cf"}}

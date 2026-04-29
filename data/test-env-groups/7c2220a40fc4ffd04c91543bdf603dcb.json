@@ -1,0 +1,1 @@
+{"id":"7c2220a40fc4ffd04c91543bdf603dcb","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/years should return 500 when service throws error","name":"should return 500 when service throws error","status":"passed","testResultsByEnv":{"default":"850bc40e400d62e5ba5e50c86343f02c"}}

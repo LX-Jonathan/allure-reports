@@ -1,0 +1,1 @@
+{"id":"6475a7250b15baf24206e2069677839c","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics returns 200 with query parameters applied","name":"returns 200 with query parameters applied","status":"passed","testResultsByEnv":{"default":"aefa53dc93e9f8e35de7bda601c88d6b"}}

@@ -1,0 +1,1 @@
+{"id":"be1e5c48f55fd33e045ad1e7d1babc24","fullName":"client/src/contexts/__tests__/patient-impersonation-context.test.tsx#ImpersonationContext clears impersonation state on unmount","name":"clears impersonation state on unmount","status":"passed","testResultsByEnv":{"default":"93949314a74154069cf5c26f6a40de1e"}}

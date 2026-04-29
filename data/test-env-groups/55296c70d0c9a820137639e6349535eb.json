@@ -1,0 +1,1 @@
+{"id":"55296c70d0c9a820137639e6349535eb","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service detectBlankPage should return true when white ratio is above 95%","name":"should return true when white ratio is above 95%","status":"passed","testResultsByEnv":{"default":"66a2e190dc18fdf77e3961e3d96bdf35"}}

@@ -1,0 +1,1 @@
+{"id":"8da15732cc876aaeb3f1096cd73016bc","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins (list scoping) rejects non-front-desk roles","name":"rejects non-front-desk roles","status":"passed","testResultsByEnv":{"default":"a7967e8b43da5c88c5dbe701b059741f"}}

@@ -1,0 +1,1 @@
+{"id":"86d3984fece9af104718be750d5d206c","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#submitToPayer should log activity and continue when clearinghouse throws an error","name":"should log activity and continue when clearinghouse throws an error","status":"passed","testResultsByEnv":{"default":"e968eb79946fce3654b275e77162fc63"}}

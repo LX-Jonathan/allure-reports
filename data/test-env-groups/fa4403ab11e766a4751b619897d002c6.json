@@ -1,0 +1,1 @@
+{"id":"fa4403ab11e766a4751b619897d002c6","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/products/:id (Staff Portal - Get Product) returns 200 with product details","name":"returns 200 with product details","status":"passed","testResultsByEnv":{"default":"01c232e16a1fbf35a99d6d072002abd0"}}

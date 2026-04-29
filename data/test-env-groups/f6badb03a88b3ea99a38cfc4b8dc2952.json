@@ -1,0 +1,1 @@
+{"id":"f6badb03a88b3ea99a38cfc4b8dc2952","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/bulk/batches/:batchId returns 200 with batch details","name":"returns 200 with batch details","status":"passed","testResultsByEnv":{"default":"a18dbfb2a38113c84e4760957a3463fc"}}

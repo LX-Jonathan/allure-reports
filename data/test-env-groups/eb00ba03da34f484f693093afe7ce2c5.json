@@ -1,0 +1,1 @@
+{"id":"eb00ba03da34f484f693093afe7ce2c5","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware public pre-registration paths should skip CSRF validation for /api/public/pre-registration/* paths","name":"should skip CSRF validation for /api/public/pre-registration/* paths","status":"passed","testResultsByEnv":{"default":"b3495135c5562be4783aee70c106efe8"}}

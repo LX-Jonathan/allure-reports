@@ -1,0 +1,1 @@
+{"id":"ba9d08b76fc2109bcdb922c29eaa5220","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Export OTP Codes getLatestExportOtpCode should return null when no OTP exists","name":"should return null when no OTP exists","status":"passed","testResultsByEnv":{"default":"3f2c94161d609dae1811606c85681330"}}

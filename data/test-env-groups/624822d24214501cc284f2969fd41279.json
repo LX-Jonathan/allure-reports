@@ -1,0 +1,1 @@
+{"id":"624822d24214501cc284f2969fd41279","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/labs/:id should handle deletedAt field","name":"should handle deletedAt field","status":"passed","testResultsByEnv":{"default":"64c1b7c2a76e9d8e83641cd76ab53463"}}

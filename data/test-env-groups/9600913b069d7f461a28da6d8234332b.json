@@ -1,0 +1,1 @@
+{"id":"9600913b069d7f461a28da6d8234332b","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#buildPosHref encodes patientId, paymentId, and orderId in a stable order","name":"encodes patientId, paymentId, and orderId in a stable order","status":"passed","testResultsByEnv":{"default":"a8c6f2d3adde82ba7ae2b4439a953442"}}

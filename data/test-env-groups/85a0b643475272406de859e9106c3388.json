@@ -1,0 +1,1 @@
+{"id":"85a0b643475272406de859e9106c3388","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/companies/:id allows org_admin to delete company","name":"allows org_admin to delete company","status":"passed","testResultsByEnv":{"default":"21021fd243d19d767f6f9a14469efdce"}}

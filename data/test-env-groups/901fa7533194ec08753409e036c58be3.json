@@ -1,0 +1,1 @@
+{"id":"901fa7533194ec08753409e036c58be3","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService findMatchingProvider should attempt name-based lookup when no NPI provided","name":"should attempt name-based lookup when no NPI provided","status":"passed","testResultsByEnv":{"default":"4167b4696176a32c53273339ed125600"}}

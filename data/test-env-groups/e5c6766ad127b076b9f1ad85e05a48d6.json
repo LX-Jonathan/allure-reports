@@ -1,0 +1,1 @@
+{"id":"e5c6766ad127b076b9f1ad85e05a48d6","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service cleanupOldTempFiles should log when files are deleted","name":"should log when files are deleted","status":"passed","testResultsByEnv":{"default":"37f322ffff994c2acf25a1c2c7ac09f7"}}

@@ -1,0 +1,1 @@
+{"id":"8c74bd437780fb6ed6c1d24265530a0d","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect sends patient portal routes (/patient/*) to /patient/login","name":"sends patient portal routes (/patient/*) to /patient/login","status":"passed","testResultsByEnv":{"default":"0df4793685f6ac1c4369f8c2a7c59e09"}}

@@ -1,0 +1,1 @@
+{"id":"f2ab3133eed2afd39f5d2b79050721da","fullName":"server/__tests__/orders.routes.test.ts#orders.routes DELETE /api/v1/orders/:id/insurance/:insuranceId should return 404 if order not found","name":"should return 404 if order not found","status":"passed","testResultsByEnv":{"default":"3cb7ee7952d75de6a21ec4e5ecf9f83e"}}

@@ -1,0 +1,1 @@
+{"id":"369271a737087306ee608cc389143042","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"1b436afdbfbd01201711cf5b1bd4824f"}}

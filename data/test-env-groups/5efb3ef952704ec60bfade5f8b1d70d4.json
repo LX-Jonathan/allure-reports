@@ -1,0 +1,1 @@
+{"id":"5efb3ef952704ec60bfade5f8b1d70d4","fullName":"client/src/hooks/__tests__/useTemplateDerivedTests.test.ts#useTemplateDerivedTests falls back to checkbox fields for sections without linkedTests","name":"falls back to checkbox fields for sections without linkedTests","status":"passed","testResultsByEnv":{"default":"0cefd6f01a4897009a069a5384a1d84f"}}

@@ -1,0 +1,1 @@
+{"id":"97bfc48e9a4793f1d042ee57d2352f3e","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications sets high_risk status for Yellow accuracyColor","name":"sets high_risk status for Yellow accuracyColor","status":"passed","testResultsByEnv":{"default":"a0a011ffcfec4dac4d7dc1339398716f"}}

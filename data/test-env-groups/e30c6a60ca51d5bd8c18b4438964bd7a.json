@@ -1,0 +1,1 @@
+{"id":"e30c6a60ca51d5bd8c18b4438964bd7a","fullName":"client/src/components/patient/__tests__/portal-tab.test.tsx#PortalTab does not render send number badge for non-proxy-invite audit actions","name":"does not render send number badge for non-proxy-invite audit actions","status":"passed","testResultsByEnv":{"default":"15292119c1ae51bf087b22bcdcb2fad8"}}

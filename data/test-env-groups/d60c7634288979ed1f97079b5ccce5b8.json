@@ -1,0 +1,1 @@
+{"id":"d60c7634288979ed1f97079b5ccce5b8","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/pending-jobs/bulk-delete should return 400 for empty jobIds","name":"should return 400 for empty jobIds","status":"passed","testResultsByEnv":{"default":"d2657ac87769e64cfb310bf50e20ce25"}}

@@ -1,0 +1,1 @@
+{"id":"221add9107efa64e965acacbcba2290f","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent returns 500 when Stripe API fails","name":"returns 500 when Stripe API fails","status":"passed","testResultsByEnv":{"default":"beeb0e467964c0e07ae040f3514cb0e3"}}

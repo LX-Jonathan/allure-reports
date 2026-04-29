@@ -1,0 +1,1 @@
+{"id":"9297caa407b6f4a45d10b4996673765b","fullName":"server/routes/__tests__/lab-setup-wizard.routes.test.ts#Lab Setup Wizard Routes POST / returns 400 for invalid UUID format","name":"returns 400 for invalid UUID format","status":"passed","testResultsByEnv":{"default":"3742fad23db2423220d0999fc2c573a0"}}

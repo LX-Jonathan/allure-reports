@@ -1,0 +1,1 @@
+{"id":"f567158cd907f8d487f70273735aeed1","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes POST /:id/send returns 400 when the application has no email on file","name":"returns 400 when the application has no email on file","status":"passed","testResultsByEnv":{"default":"0adbc4bea17c9d85a869b3a3cc8cf198"}}

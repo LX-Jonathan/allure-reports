@@ -1,0 +1,1 @@
+{"id":"236838347268fc8946df283e210d94bf","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes PUT /api/v1/portal-config/:parentLabId returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"f66d572eee0500b49cf084689b921e0d"}}

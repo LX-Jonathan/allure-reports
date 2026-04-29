@@ -1,0 +1,1 @@
+{"id":"47a4ecf99a144f5becbb0b844c7c9407","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes DELETE /api/v1/flu-shots/:id returns 404 when flu shot not found","name":"returns 404 when flu shot not found","status":"passed","testResultsByEnv":{"default":"e94879af64b88e53506cd33788c09ad9"}}

@@ -1,0 +1,1 @@
+{"id":"4b957f2a903c7793eff250499b97311d","fullName":"client/src/hooks/__tests__/useDxDropdownDirtyTracker.test.ts#useDxDropdownDirtyTracker does not fire if a close event is delivered while already closed","name":"does not fire if a close event is delivered while already closed","status":"passed","testResultsByEnv":{"default":"608242eaa5cc0c3525f87bbbe428acfc"}}

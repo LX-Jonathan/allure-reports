@@ -1,0 +1,1 @@
+{"id":"131f3c7586219a540fe18a3a853ff2ee","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits/:kitId/results (Patient Portal - Get Kit Results) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"d1d43397ed1e889dd133b4100f65620f"}}

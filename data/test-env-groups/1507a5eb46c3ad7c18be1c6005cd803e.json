@@ -1,0 +1,1 @@
+{"id":"1507a5eb46c3ad7c18be1c6005cd803e","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation location-level users should fallback to locationId if locationIds not provided","name":"should fallback to locationId if locationIds not provided","status":"passed","testResultsByEnv":{"default":"aa94e156887e19d11d468b02ead34a34"}}

@@ -1,0 +1,1 @@
+{"id":"c089abc907882afdd792bb3268852faa","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#classifyImageConfidence returns 'unknown' when no score is supplied","name":"returns 'unknown' when no score is supplied","status":"passed","testResultsByEnv":{"default":"1efba22984b1eec51b77b9b68ce1e826"}}

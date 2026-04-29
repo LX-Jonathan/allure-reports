@@ -1,0 +1,1 @@
+{"id":"bc293e823b676537247daee062e83f78","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs returns 400 on Zod validation error (invalid types)","name":"returns 400 on Zod validation error (invalid types)","status":"passed","testResultsByEnv":{"default":"6391140a9024243ee3ebe25abee02281"}}

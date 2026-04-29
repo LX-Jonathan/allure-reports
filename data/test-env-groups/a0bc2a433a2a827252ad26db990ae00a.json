@@ -1,0 +1,1 @@
+{"id":"a0bc2a433a2a827252ad26db990ae00a","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules/:id/items/bulk returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"858277f23d95699ba6c462e8cc707fde"}}

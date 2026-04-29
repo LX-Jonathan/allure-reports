@@ -1,0 +1,1 @@
+{"id":"9580786d905f1419686d57ffc9200d15","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker startEligibilityWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"0f730c4ec6982f6126bc200f813870f9"}}

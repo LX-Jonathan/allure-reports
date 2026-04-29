@@ -1,0 +1,1 @@
+{"id":"0976ed196cb44a770fd9945a624c2cee","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes POST /api/v1/flu-shots returns 403 for location-level user with invalid location selection","name":"returns 403 for location-level user with invalid location selection","status":"passed","testResultsByEnv":{"default":"af60fc0bde06b627f4d7deae533d703e"}}

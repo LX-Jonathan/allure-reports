@@ -1,0 +1,1 @@
+{"id":"96213b43e982f254d449ba1da9305553","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns 200 with decrypted patient data","name":"returns 200 with decrypted patient data","status":"passed","testResultsByEnv":{"default":"31e29703011aa62ccc83ca097ba58b7b"}}

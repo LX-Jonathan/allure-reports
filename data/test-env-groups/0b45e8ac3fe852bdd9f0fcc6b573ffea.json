@@ -1,0 +1,1 @@
+{"id":"0b45e8ac3fe852bdd9f0fcc6b573ffea","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /labs/:id returns 404 when organization not found","name":"returns 404 when organization not found","status":"passed","testResultsByEnv":{"default":"c35c82d9f39626433d433951e3848e07"}}

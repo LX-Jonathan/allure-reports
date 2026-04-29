@@ -1,0 +1,1 @@
+{"id":"3d0845e9effc7418ebfc0dbc5b9be63c","fullName":"server/routes/__tests__/temporal.routes.test.ts#Temporal Routes GET /api/temporal/status returns configured with error when namespace fetch fails","name":"returns configured with error when namespace fetch fails","status":"passed","testResultsByEnv":{"default":"aecff2779fb87578b4c1d0b60dc6452f"}}

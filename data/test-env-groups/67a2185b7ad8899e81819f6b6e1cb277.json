@@ -1,0 +1,1 @@
+{"id":"67a2185b7ad8899e81819f6b6e1cb277","fullName":"server/routes/__tests__/public-portal.routes.test.ts#public-portal.routes returns 404 dedicated portal not available when access mode is marketplace","name":"returns 404 dedicated portal not available when access mode is marketplace","status":"passed","testResultsByEnv":{"default":"4849cd2fceea1d08975a27cfe91c5c9b"}}

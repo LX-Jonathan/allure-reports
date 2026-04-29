@@ -1,0 +1,1 @@
+{"id":"fafe893cb16e4af0a9eee4a33feecfdb","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"e66fbf88aae1818159f20e422feaeb3a"}}

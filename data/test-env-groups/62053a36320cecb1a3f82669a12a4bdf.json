@@ -1,0 +1,1 @@
+{"id":"62053a36320cecb1a3f82669a12a4bdf","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes POST / returns 400 for invalid discountType","name":"returns 400 for invalid discountType","status":"passed","testResultsByEnv":{"default":"ae4ea1a87e896702d6077921f610d9ee"}}

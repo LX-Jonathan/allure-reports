@@ -1,0 +1,1 @@
+{"id":"3c14e9fe8d778e72ff523d5a96f3ad5e","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations counts the invitation as expired even when the inviter cannot be located","name":"counts the invitation as expired even when the inviter cannot be located","status":"passed","testResultsByEnv":{"default":"28b209bf71db2a7520e7439ffb10a59b"}}

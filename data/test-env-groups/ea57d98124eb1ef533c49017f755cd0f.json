@@ -1,0 +1,1 @@
+{"id":"ea57d98124eb1ef533c49017f755cd0f","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/generate-mappings returns 404 when order not found","name":"returns 404 when order not found","status":"passed","testResultsByEnv":{"default":"456b0952285c8af49f98f48fd50791ec"}}

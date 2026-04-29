@@ -1,0 +1,1 @@
+{"id":"7bab4d9632169eaf085bbc08a4583e65","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateProviderRules emits MISSING_NPI as error for internal source","name":"emits MISSING_NPI as error for internal source","status":"passed","testResultsByEnv":{"default":"41320ecc49da6368bec9bcb97e228025"}}

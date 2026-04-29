@@ -1,0 +1,1 @@
+{"id":"2e16202c5fdf4f0ac5dbf128a13097e8","fullName":"client/src/hooks/__tests__/useFeeEstimation.test.tsx#useFeeEstimation - runFeeEstimation success does nothing when there is no patient","name":"does nothing when there is no patient","status":"passed","testResultsByEnv":{"default":"c5147737556f43c21d660cd150821d7c"}}

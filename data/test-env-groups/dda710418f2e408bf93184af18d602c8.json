@@ -1,0 +1,1 @@
+{"id":"dda710418f2e408bf93184af18d602c8","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should use default attempts when opts.attempts is undefined","name":"should use default attempts when opts.attempts is undefined","status":"passed","testResultsByEnv":{"default":"0e8c1c38555a1612694041d21933b825"}}

@@ -1,0 +1,1 @@
+{"id":"82b9bd669ef1e9c9e5ddf1089536950f","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth verifyCode mutation stores tokens and sets user on successful verification","name":"stores tokens and sets user on successful verification","status":"passed","testResultsByEnv":{"default":"e98228b6a36fd2b20c458255e29bfae4"}}

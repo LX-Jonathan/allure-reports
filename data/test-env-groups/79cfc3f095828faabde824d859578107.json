@@ -1,0 +1,1 @@
+{"id":"79cfc3f095828faabde824d859578107","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) mapHttpMethodToAction — DELETE maps to DELETE","name":"mapHttpMethodToAction — DELETE maps to DELETE","status":"passed","testResultsByEnv":{"default":"88772ae7bccd837952f7061475ed50b5"}}

@@ -1,0 +1,1 @@
+{"id":"09c28b542ff38a653f1dacff0b986685","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService generateABOContent uses carrier name in wording when provided","name":"uses carrier name in wording when provided","status":"passed","testResultsByEnv":{"default":"1725ee779d5123f0481c26d5ab12ea77"}}

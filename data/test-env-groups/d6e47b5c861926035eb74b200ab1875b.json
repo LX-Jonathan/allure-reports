@@ -1,0 +1,1 @@
+{"id":"d6e47b5c861926035eb74b200ab1875b","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService getById should return null when patient is in different super org","name":"should return null when patient is in different super org","status":"passed","testResultsByEnv":{"default":"a0868619de30b1bcd8a5a1489df66562"}}

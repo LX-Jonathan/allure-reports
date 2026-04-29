@@ -1,0 +1,1 @@
+{"id":"e58ccf8e05800f4fa90f492b68f705e9","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId returns 400 when twilio enabled but phoneNumber missing","name":"returns 400 when twilio enabled but phoneNumber missing","status":"passed","testResultsByEnv":{"default":"b866cdbd991b3c8de9df3087ec99ca2e"}}

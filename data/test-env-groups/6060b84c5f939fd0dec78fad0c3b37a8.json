@@ -1,0 +1,1 @@
+{"id":"6060b84c5f939fd0dec78fad0c3b37a8","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications createTestGroup should set locations when locationIds provided","name":"should set locations when locationIds provided","status":"passed","testResultsByEnv":{"default":"6b6ea4684bacae30373f523323d5b69d"}}

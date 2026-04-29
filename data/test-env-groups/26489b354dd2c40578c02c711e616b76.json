@@ -1,0 +1,1 @@
+{"id":"26489b354dd2c40578c02c711e616b76","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/logo returns 404 when no logo configured","name":"returns 404 when no logo configured","status":"passed","testResultsByEnv":{"default":"48a787c44c39eb85b2488cd1da039e0e"}}

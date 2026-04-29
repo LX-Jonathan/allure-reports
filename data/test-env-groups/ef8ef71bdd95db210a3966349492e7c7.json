@@ -1,0 +1,1 @@
+{"id":"ef8ef71bdd95db210a3966349492e7c7","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware safe methods (GET, HEAD, OPTIONS) should not set secure cookie in development","name":"should not set secure cookie in development","status":"passed","testResultsByEnv":{"default":"4b3feb928cdd767315faa1db3becb3e0"}}

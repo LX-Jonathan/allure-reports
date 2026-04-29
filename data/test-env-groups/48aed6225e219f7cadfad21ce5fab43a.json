@@ -1,0 +1,1 @@
+{"id":"48aed6225e219f7cadfad21ce5fab43a","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - CPT Lookup GET /api/v1/lab-tests/cpt-lookup returns empty array when term is too short","name":"returns empty array when term is too short","status":"passed","testResultsByEnv":{"default":"80171551dfe32778554daf50f5dc9a25"}}

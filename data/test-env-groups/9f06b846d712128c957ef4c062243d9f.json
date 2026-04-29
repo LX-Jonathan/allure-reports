@@ -1,0 +1,1 @@
+{"id":"9f06b846d712128c957ef4c062243d9f","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes GET /api/v1/locations returns 200 with all locations for full-access users","name":"returns 200 with all locations for full-access users","status":"passed","testResultsByEnv":{"default":"77e35e741821aa8340e1c10cce00eb95"}}

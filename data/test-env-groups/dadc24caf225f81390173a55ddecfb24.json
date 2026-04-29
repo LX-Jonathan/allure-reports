@@ -1,0 +1,1 @@
+{"id":"dadc24caf225f81390173a55ddecfb24","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService getReportById should return null when report not found","name":"should return null when report not found","status":"passed","testResultsByEnv":{"default":"db7a2e7df23f186a1243631ebaefca22"}}

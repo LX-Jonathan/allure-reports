@@ -1,0 +1,1 @@
+{"id":"d1b5b0d8870a25db04c1deab3a96db07","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /microsoft/start redirects on missing email","name":"redirects on missing email","status":"passed","testResultsByEnv":{"default":"a633082dcb0923c1475067dcf0a5267a"}}

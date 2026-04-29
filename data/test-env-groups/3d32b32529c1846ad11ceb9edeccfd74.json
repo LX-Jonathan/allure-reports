@@ -1,0 +1,1 @@
+{"id":"3d32b32529c1846ad11ceb9edeccfd74","fullName":"server/services/__tests__/circuitBreaker.service.test.ts#circuitBreaker.service createCircuitBreaker should return the created breaker instance","name":"should return the created breaker instance","status":"passed","testResultsByEnv":{"default":"e7099f9b89241e1173bf0d73b4316bce"}}

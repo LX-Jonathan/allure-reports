@@ -1,0 +1,1 @@
+{"id":"a31caa6bcb555db48fd0b6530431b5bf","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should read and decode base64 data from Redis","name":"should read and decode base64 data from Redis","status":"passed","testResultsByEnv":{"default":"fe5339a1291f58e9dbcda621eb4a78bd"}}

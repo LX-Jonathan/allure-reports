@@ -1,0 +1,1 @@
+{"id":"dd0391ab19c1455cb7ba2e3525504ec3","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should omit fieldConfidence when not provided","name":"should omit fieldConfidence when not provided","status":"passed","testResultsByEnv":{"default":"955f4d18f16ddf32173c1aa276165a7a"}}

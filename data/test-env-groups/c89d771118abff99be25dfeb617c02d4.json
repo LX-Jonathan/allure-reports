@@ -1,0 +1,1 @@
+{"id":"c89d771118abff99be25dfeb617c02d4","fullName":"server/__tests__/verification-confidence.test.ts#deriveEligibilityExtractionConfidence clamps to a lower confidence for high risk + no verified insurance","name":"clamps to a lower confidence for high risk + no verified insurance","status":"passed","testResultsByEnv":{"default":"6aec2fd7c17bd285d4cad4dd42665391"}}

@@ -1,0 +1,1 @@
+{"id":"a817961e23edf8485faa96d65894fd34","fullName":"client/src/lib/__tests__/queryClient.test.ts#fetchAsset attaches Authorization header for same-origin /api URLs","name":"attaches Authorization header for same-origin /api URLs","status":"passed","testResultsByEnv":{"default":"fbb4858157252354300083de10db5284"}}

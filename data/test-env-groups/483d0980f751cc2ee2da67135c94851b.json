@@ -1,0 +1,1 @@
+{"id":"483d0980f751cc2ee2da67135c94851b","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePatientRules accepts patient.name as a valid substitute for first/last name","name":"accepts patient.name as a valid substitute for first/last name","status":"passed","testResultsByEnv":{"default":"690873719956a38e5a5be041a112eb27"}}

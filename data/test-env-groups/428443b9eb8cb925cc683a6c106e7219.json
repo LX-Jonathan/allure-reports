@@ -1,0 +1,1 @@
+{"id":"428443b9eb8cb925cc683a6c106e7219","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq worker event handler callbacks should handle failed job with null job object","name":"should handle failed job with null job object","status":"passed","testResultsByEnv":{"default":"a0928366bc79590101b8d9deaf433832"}}

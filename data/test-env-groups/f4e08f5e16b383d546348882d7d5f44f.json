@@ -1,0 +1,1 @@
+{"id":"f4e08f5e16b383d546348882d7d5f44f","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/circuit-breaker/:queueType/close should return 400 for invalid queue type","name":"should return 400 for invalid queue type","status":"passed","testResultsByEnv":{"default":"92efb70bafce31f9ed5c7f1454b01d2f"}}

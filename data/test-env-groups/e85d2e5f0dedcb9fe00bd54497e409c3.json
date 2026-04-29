@@ -1,0 +1,1 @@
+{"id":"e85d2e5f0dedcb9fe00bd54497e409c3","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/labs/:orgId returns 400 when not configured","name":"returns 400 when not configured","status":"passed","testResultsByEnv":{"default":"6265e9362c69d416b486b43feb643a01"}}

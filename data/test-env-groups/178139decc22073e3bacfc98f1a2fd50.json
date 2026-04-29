@@ -1,0 +1,1 @@
+{"id":"178139decc22073e3bacfc98f1a2fd50","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding/:id/publish returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"dd3c9c34a80efc67278aeda72e75baa3"}}

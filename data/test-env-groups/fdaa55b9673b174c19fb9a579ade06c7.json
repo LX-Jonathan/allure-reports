@@ -1,0 +1,1 @@
+{"id":"fdaa55b9673b174c19fb9a579ade06c7","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes DELETE /api/onboarding/:id returns 200 on successful delete","name":"returns 200 on successful delete","status":"passed","testResultsByEnv":{"default":"075c8b4e1d0e0f80b86732bfe0c1f073"}}

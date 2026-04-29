@@ -1,0 +1,1 @@
+{"id":"278bf28bb06bcbbc5b7c6994ca4a8b53","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /locations returns 500 when DB query fails","name":"returns 500 when DB query fails","status":"passed","testResultsByEnv":{"default":"5800f1d663152b91a0ee7a1df6fbccca"}}

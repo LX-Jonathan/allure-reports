@@ -1,0 +1,1 @@
+{"id":"5020eae16e6facac7675e16268374c71","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query clears tokens when user is inactive","name":"clears tokens when user is inactive","status":"passed","testResultsByEnv":{"default":"47f9c2883f03335b09a0b7070ed03ff9"}}

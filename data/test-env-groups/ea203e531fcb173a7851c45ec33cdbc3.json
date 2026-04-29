@@ -1,0 +1,1 @@
+{"id":"ea203e531fcb173a7851c45ec33cdbc3","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Insurance getPatientInsurance should return insurance records","name":"getPatientInsurance should return insurance records","status":"passed","testResultsByEnv":{"default":"90dcec78564c4dff66b4ac36acd0835a"}}

@@ -1,0 +1,1 @@
+{"id":"6db9be349b009096933b444180159891","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness account mapping evaluation should set accountOk=false when error exists","name":"should set accountOk=false when error exists","status":"passed","testResultsByEnv":{"default":"c565157176441addb97b854be779bed8"}}

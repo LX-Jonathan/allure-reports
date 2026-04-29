@@ -1,0 +1,1 @@
+{"id":"f249ee2cb4e788e12ff152c38272bfcc","fullName":"server/__tests__/auth-login-code.routes.test.ts#POST /api/auth/verify-code logs in user with a valid code","name":"logs in user with a valid code","status":"passed","testResultsByEnv":{"default":"2444c89465d022d84044c2d32f10997d"}}

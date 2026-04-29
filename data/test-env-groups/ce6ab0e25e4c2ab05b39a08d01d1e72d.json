@@ -1,0 +1,1 @@
+{"id":"ce6ab0e25e4c2ab05b39a08d01d1e72d","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules returns 201 on valid creation","name":"returns 201 on valid creation","status":"passed","testResultsByEnv":{"default":"dcba520b0c75e511ff6724d9239c432a"}}

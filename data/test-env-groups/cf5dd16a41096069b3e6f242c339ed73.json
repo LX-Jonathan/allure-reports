@@ -1,0 +1,1 @@
+{"id":"cf5dd16a41096069b3e6f242c339ed73","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: passkey_factor_unavailable","name":"es: passkey_factor_unavailable","status":"passed","testResultsByEnv":{"default":"e163a0bc6b63cd4aa32cfdf68a284b44"}}

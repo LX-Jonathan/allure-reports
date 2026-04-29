@@ -1,0 +1,1 @@
+{"id":"17a718fd963abf4f37ba87f7d01c84e7","fullName":"client/src/hooks/__tests__/useFormConfig.test.ts#useFormConfig isFieldRequired returns required status from config selectedFields","name":"returns required status from config selectedFields","status":"passed","testResultsByEnv":{"default":"50ff25b4eb5b52a4178f0af4a32584f3"}}

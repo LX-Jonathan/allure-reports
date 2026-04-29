@@ -1,0 +1,1 @@
+{"id":"388eef08e303e979750689d6c0c524ae","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory role middleware should not apply role middleware when allowedRoles are empty","name":"should not apply role middleware when allowedRoles are empty","status":"passed","testResultsByEnv":{"default":"012bbf8c7df3f73c7fe9a71ce6e9a204"}}

@@ -1,0 +1,1 @@
+{"id":"66411e8a18334284588d704e0f40852f","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /fhir-connections/:id returns 400 for invalid body","name":"returns 400 for invalid body","status":"passed","testResultsByEnv":{"default":"7195d4e51dbf226d89a7c86f1ec9f394"}}

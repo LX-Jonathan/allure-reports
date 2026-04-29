@@ -1,0 +1,1 @@
+{"id":"489be15035bb022729108d1cd2beb64e","fullName":"client/src/components/patient/__tests__/lab-attention-panel.test.tsx#LabAttentionPanel renders the heading and a quiet empty state when there are zero issues","name":"renders the heading and a quiet empty state when there are zero issues","status":"passed","testResultsByEnv":{"default":"6e55f019e9a09b7a95174a5a786f88de"}}

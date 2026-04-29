@@ -1,0 +1,1 @@
+{"id":"c67a8b382bbe625927152d60bba14079","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service clearTemplateCache should reset all stats to zero","name":"should reset all stats to zero","status":"passed","testResultsByEnv":{"default":"ca02f4ad1bacee747d88b57beca7d3a5"}}

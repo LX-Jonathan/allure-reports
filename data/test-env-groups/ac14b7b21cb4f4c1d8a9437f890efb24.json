@@ -1,0 +1,1 @@
+{"id":"ac14b7b21cb4f4c1d8a9437f890efb24","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService executeReport should return error when category not found","name":"should return error when category not found","status":"passed","testResultsByEnv":{"default":"e79f0a82acd678eff9087e922adc0510"}}

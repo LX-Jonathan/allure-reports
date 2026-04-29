@@ -1,0 +1,1 @@
+{"id":"e4de74f076dc5ac7ffc5f859450b53e6","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/abn-batch returns 200 updating existing selfPayTests entry","name":"returns 200 updating existing selfPayTests entry","status":"passed","testResultsByEnv":{"default":"3f3905e11dc72325468f044313fe86e8"}}

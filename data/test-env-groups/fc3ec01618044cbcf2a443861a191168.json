@@ -1,0 +1,1 @@
+{"id":"fc3ec01618044cbcf2a443861a191168","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker should create worker with correct queue name and concurrency","name":"should create worker with correct queue name and concurrency","status":"passed","testResultsByEnv":{"default":"49f203e7aaff2191db3ce16f8c8a3eec"}}

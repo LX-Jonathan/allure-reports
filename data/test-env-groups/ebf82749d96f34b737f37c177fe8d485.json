@@ -1,0 +1,1 @@
+{"id":"ebf82749d96f34b737f37c177fe8d485","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService set should return false when Redis is not configured","name":"should return false when Redis is not configured","status":"passed","testResultsByEnv":{"default":"5e2e66657bf5f8a62c15c243a3ba734f"}}

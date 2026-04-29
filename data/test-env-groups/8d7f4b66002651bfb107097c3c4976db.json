@@ -1,0 +1,1 @@
+{"id":"8d7f4b66002651bfb107097c3c4976db","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints GET /api/v1/lxu/admin/contextual-help returns 200 with contextual help mappings","name":"returns 200 with contextual help mappings","status":"passed","testResultsByEnv":{"default":"ecb37da1c095335e5f012521c610eb8e"}}

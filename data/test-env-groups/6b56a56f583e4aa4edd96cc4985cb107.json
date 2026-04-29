@@ -1,0 +1,1 @@
+{"id":"6b56a56f583e4aa4edd96cc4985cb107","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs returns 400 when parent is not a parent lab","name":"returns 400 when parent is not a parent lab","status":"passed","testResultsByEnv":{"default":"b3fe2126c94147eaf3d4d86737c3437a"}}

@@ -1,0 +1,1 @@
+{"id":"121948472d0f18accef7c56d4f1c6631","fullName":"server/__tests__/aggregate-order-insurance-verdict.test.ts#pickStrongerVerdict (task-1572) a stronger existing verdict is not downgraded by a weaker incoming row","name":"a stronger existing verdict is not downgraded by a weaker incoming row","status":"passed","testResultsByEnv":{"default":"956cb4722001a58a267bf051fcbd2367"}}

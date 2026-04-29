@@ -1,0 +1,1 @@
+{"id":"517b95841454f358654ce1e9d84d3bd6","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateCodingRules does not emit INSURANCE_REQUIRES_DX for self_pay","name":"does not emit INSURANCE_REQUIRES_DX for self_pay","status":"passed","testResultsByEnv":{"default":"77f77c4a3297dd2ea3217c1e6483e4b8"}}

@@ -1,0 +1,1 @@
+{"id":"a43f575bdab767d295a5ad1370942e8b","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth redirects to login when only user is present (no token)","name":"redirects to login when only user is present (no token)","status":"passed","testResultsByEnv":{"default":"3a34e5ef564df3f6ee35e900cd001254"}}

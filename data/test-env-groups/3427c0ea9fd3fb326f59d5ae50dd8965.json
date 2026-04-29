@@ -1,0 +1,1 @@
+{"id":"3427c0ea9fd3fb326f59d5ae50dd8965","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/products (Staff Portal - Create Product) returns 400 when SKU already exists","name":"returns 400 when SKU already exists","status":"passed","testResultsByEnv":{"default":"f43322f0b2fd8e1598aa143ca6f37d4a"}}

@@ -1,0 +1,1 @@
+{"id":"52ab81d9400a27f38e4d63bb761ac267","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob scheduled-report type should use schedule export format","name":"should use schedule export format","status":"passed","testResultsByEnv":{"default":"572622c941d43af688b689d86507c99d"}}

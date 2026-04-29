@@ -1,0 +1,1 @@
+{"id":"3822ef9765ca45b22df41db81cd074ba","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes DELETE /api/payment-plans/:id returns 500 on db error during deletion","name":"returns 500 on db error during deletion","status":"passed","testResultsByEnv":{"default":"0f19f3e5447a54a981b46a60a279ae6e"}}

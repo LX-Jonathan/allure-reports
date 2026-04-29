@@ -1,0 +1,1 @@
+{"id":"aee27d5a01c1a19dafdfa092deaa2e4f","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get with Redis configured should return null when Redis returns undefined","name":"should return null when Redis returns undefined","status":"passed","testResultsByEnv":{"default":"ae6d1800eaebed790ba6399bb1685093"}}

@@ -1,0 +1,1 @@
+{"id":"23c18006d6848c86838b71f0114f8bd0","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/discovery returns 502 when FRHC API returns error (no org context)","name":"returns 502 when FRHC API returns error (no org context)","status":"passed","testResultsByEnv":{"default":"f189a52baa9d82d6b7bfcc0a2532f263"}}

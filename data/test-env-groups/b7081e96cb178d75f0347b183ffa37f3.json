@@ -1,0 +1,1 @@
+{"id":"b7081e96cb178d75f0347b183ffa37f3","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service Filter validation edge cases should reject DELETE SQL keyword in filter","name":"should reject DELETE SQL keyword in filter","status":"passed","testResultsByEnv":{"default":"5a07a50ab1799128a8cd29fffd53a970"}}

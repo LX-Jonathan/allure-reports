@@ -1,0 +1,1 @@
+{"id":"b7decd8229831a5583812aa5e78d8be3","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/ingest returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"371f9340df8cd70e63d84746525678f5"}}

@@ -1,0 +1,1 @@
+{"id":"e6e51de81f632bdea5f464152f990393","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/:id/reminder skips sending when prior auth is in a terminal status","name":"skips sending when prior auth is in a terminal status","status":"passed","testResultsByEnv":{"default":"7772fff0a6fc15429f8be7c26482b76b"}}

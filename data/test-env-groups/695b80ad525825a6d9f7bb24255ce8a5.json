@@ -1,0 +1,1 @@
+{"id":"695b80ad525825a6d9f7bb24255ce8a5","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes POST /api/v1/lab-tests/import should restrict org_admin to their org","name":"should restrict org_admin to their org","status":"passed","testResultsByEnv":{"default":"6e2ce23546540f3915e43855e598d79c"}}

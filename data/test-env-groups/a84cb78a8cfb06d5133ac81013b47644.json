@@ -1,0 +1,1 @@
+{"id":"a84cb78a8cfb06d5133ac81013b47644","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Flu Shots & Biometrics getFluShotCount returns 0 with no results","name":"returns 0 with no results","status":"passed","testResultsByEnv":{"default":"be5fe6c568004bf03cf93f9fb0f34c2f"}}

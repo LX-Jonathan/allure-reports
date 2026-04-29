@@ -1,0 +1,1 @@
+{"id":"b73cc77eb6258f4108a8bef4dd1b3b3d","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET / super-org user gets 403 when requesting a lab outside their parent_lab","name":"super-org user gets 403 when requesting a lab outside their parent_lab","status":"passed","testResultsByEnv":{"default":"cb6eaabe3102e41d4ec65f476415e181"}}

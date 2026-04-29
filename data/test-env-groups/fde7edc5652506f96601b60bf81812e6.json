@@ -1,0 +1,1 @@
+{"id":"fde7edc5652506f96601b60bf81812e6","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management updatePatientInsurance returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"9c406a51ec08026fd96b9c41ef6a14bb"}}

@@ -1,0 +1,1 @@
+{"id":"c80b23d31f7536936aa1b60c9728f916","fullName":"server/workers/__tests__/lab-test-import.worker.test.ts#processLabTestImportJob completion should update job status to completed on success","name":"should update job status to completed on success","status":"passed","testResultsByEnv":{"default":"dd849398a02cea4708c3ae474353ebaf"}}

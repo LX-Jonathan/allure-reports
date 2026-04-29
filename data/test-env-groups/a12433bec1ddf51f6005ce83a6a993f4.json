@@ -1,0 +1,1 @@
+{"id":"a12433bec1ddf51f6005ce83a6a993f4","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageApiKeys chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"67182cac67b4ea181292f965357a7883"}}

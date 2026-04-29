@@ -1,0 +1,1 @@
+{"id":"818a23fcbea8c8c424b8bc5c00b8676c","fullName":"server/lib/__tests__/r2.test.ts#r2.ts getSignedUploadUrl should throw error when R2 is not configured","name":"should throw error when R2 is not configured","status":"passed","testResultsByEnv":{"default":"a77a32e5073ccab548de0624deadcb88"}}

@@ -1,0 +1,1 @@
+{"id":"29c9db5450f849e702fa276a1e90b142","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns 400 when unable to determine org context","name":"returns 400 when unable to determine org context","status":"passed","testResultsByEnv":{"default":"249a2631043fa13f2b6cfbecf32a176d"}}

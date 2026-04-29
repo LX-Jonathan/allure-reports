@@ -1,0 +1,1 @@
+{"id":"0bb9f80adf630a6afe326f5e6d2e7c13","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service computeContentHash should return a 16-character hex string","name":"should return a 16-character hex string","status":"passed","testResultsByEnv":{"default":"7050b1d0f1fa01f246e2adbe7fbc58da"}}

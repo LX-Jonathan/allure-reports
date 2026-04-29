@@ -1,0 +1,1 @@
+{"id":"9b055a0ed5953bbf63cd22103f4fb923","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - CPT Lookup GET /api/v1/lab-tests/cpt-lookup returns mapped results from internal CPT data","name":"returns mapped results from internal CPT data","status":"passed","testResultsByEnv":{"default":"51c17b376cab1491cdb7fe7178a55ed1"}}

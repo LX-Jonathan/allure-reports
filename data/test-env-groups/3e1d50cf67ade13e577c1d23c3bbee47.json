@@ -1,0 +1,1 @@
+{"id":"3e1d50cf67ade13e577c1d23c3bbee47","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker should call cleanup on startup","name":"should call cleanup on startup","status":"passed","testResultsByEnv":{"default":"7e3fc909c5f8bfdcfd4f72395654efe0"}}

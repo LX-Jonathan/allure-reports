@@ -1,0 +1,1 @@
+{"id":"b024450688bf26b7189625556867e719","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries createJournalEntry (via exported functions) should set isPosted to true on inserted entry","name":"should set isPosted to true on inserted entry","status":"passed","testResultsByEnv":{"default":"e56e1898c9623d8ef66d444899759d38"}}

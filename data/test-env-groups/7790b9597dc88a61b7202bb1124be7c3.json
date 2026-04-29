@@ -1,0 +1,1 @@
+{"id":"7790b9597dc88a61b7202bb1124be7c3","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getCachedBillingResolutionData should handle chunk as non-array gracefully","name":"should handle chunk as non-array gracefully","status":"passed","testResultsByEnv":{"default":"06b18a9fcd285ec9fe58baf28081212a"}}

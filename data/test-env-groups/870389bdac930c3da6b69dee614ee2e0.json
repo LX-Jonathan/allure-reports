@@ -1,0 +1,1 @@
+{"id":"870389bdac930c3da6b69dee614ee2e0","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring internal model clamps credit score to FICO band 300-850","name":"clamps credit score to FICO band 300-850","status":"passed","testResultsByEnv":{"default":"5febab9ba21f4afcd281e081369a8b65"}}

@@ -1,0 +1,1 @@
+{"id":"9ff0f33100163ccfc72c33285698083d","fullName":"server/lib/__tests__/reportCache.test.ts#cachedReportFetch returns cached data with fromCache=true on a fresh hit","name":"returns cached data with fromCache=true on a fresh hit","status":"passed","testResultsByEnv":{"default":"c3d220d4ff0dad1c1517d2a500cef545"}}

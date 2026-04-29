@@ -1,0 +1,1 @@
+{"id":"ca12ea0e09e373e56791507d6b074b9a","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit returns 0 and performs no update when patient has no credit","name":"returns 0 and performs no update when patient has no credit","status":"passed","testResultsByEnv":{"default":"d94574cfccff1d83f389d924de6934ad"}}

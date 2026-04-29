@@ -1,0 +1,1 @@
+{"id":"0fc2a7442a69723b57153b0976fbc782","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records returns 400 for invalid query params","name":"returns 400 for invalid query params","status":"passed","testResultsByEnv":{"default":"fa11c9cc9dd69d85e0aa77c6ed8fc606"}}

@@ -1,0 +1,1 @@
+{"id":"5995775156652d3b586501aec5289932","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan createBulkScanBatch should insert and return created batch","name":"should insert and return created batch","status":"passed","testResultsByEnv":{"default":"403aedee03cd1af1c4b48edb491b71f0"}}

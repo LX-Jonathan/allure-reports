@@ -1,0 +1,1 @@
+{"id":"5bea7104881186c04d89931b27216ff6","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: unknown_passkey","name":"es: unknown_passkey","status":"passed","testResultsByEnv":{"default":"81bc66ec84b3a004927e1de44572157f"}}

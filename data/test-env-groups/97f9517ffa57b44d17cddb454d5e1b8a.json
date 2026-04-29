@@ -1,0 +1,1 @@
+{"id":"97f9517ffa57b44d17cddb454d5e1b8a","fullName":"server/routes/__tests__/medical-necessity.routes.test.ts#Medical Necessity Routes POST /api/v1/medical-necessity/analyze returns 400 for validation error - missing patientAge","name":"returns 400 for validation error - missing patientAge","status":"passed","testResultsByEnv":{"default":"0bf77d0fadf2a5d88e8ada9a70fecb4f"}}

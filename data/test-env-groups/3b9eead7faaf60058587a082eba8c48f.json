@@ -1,0 +1,1 @@
+{"id":"3b9eead7faaf60058587a082eba8c48f","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale en has a non-empty translation for every server error code en: account_disabled","name":"en: account_disabled","status":"passed","testResultsByEnv":{"default":"043b535b397066f21cffc4f28d3f6e98"}}

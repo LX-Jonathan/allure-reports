@@ -1,0 +1,1 @@
+{"id":"5a1f4e2d77dbad979ebb90ea580fb900","fullName":"server/lib/__tests__/insurance-update-notifications.test.ts#notifyStaffOfPendingInsuranceUpdate falls back to REPLIT_DEV_DOMAIN when BASE_URL is unset","name":"falls back to REPLIT_DEV_DOMAIN when BASE_URL is unset","status":"passed","testResultsByEnv":{"default":"99a3d1d7941425f86e0911b0fc0a4c4c"}}

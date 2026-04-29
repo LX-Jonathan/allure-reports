@@ -1,0 +1,1 @@
+{"id":"d3ca20d4619cb2aa9b21c04a3edf94d5","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/interface-routes returns org-specific routes when org_id provided","name":"returns org-specific routes when org_id provided","status":"passed","testResultsByEnv":{"default":"90ffb6263d502c99fddebaa51d7e5018"}}

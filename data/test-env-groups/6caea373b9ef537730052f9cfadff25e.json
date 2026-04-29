@@ -1,0 +1,1 @@
+{"id":"6caea373b9ef537730052f9cfadff25e","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/available-users returns 200 with available users","name":"returns 200 with available users","status":"passed","testResultsByEnv":{"default":"5a8e8e1d711e7733a9778d9106f3b4d1"}}

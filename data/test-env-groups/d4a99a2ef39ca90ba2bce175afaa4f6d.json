@@ -1,0 +1,1 @@
+{"id":"d4a99a2ef39ca90ba2bce175afaa4f6d","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies/:id/logo returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"49983d8676a2d968edf91b1d318844b5"}}

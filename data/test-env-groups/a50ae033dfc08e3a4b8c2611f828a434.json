@@ -1,0 +1,1 @@
+{"id":"a50ae033dfc08e3a4b8c2611f828a434","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes DELETE /api/v1/lab-tests/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"299a28e8cb37d3c83a06337df269b64a"}}

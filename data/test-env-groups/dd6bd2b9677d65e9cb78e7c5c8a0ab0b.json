@@ -1,0 +1,1 @@
+{"id":"dd6bd2b9677d65e9cb78e7c5c8a0ab0b","fullName":"server/lib/__tests__/email.test.ts#email sendUserInviteEmail includes organization name when provided","name":"includes organization name when provided","status":"passed","testResultsByEnv":{"default":"7df3cc8f942a2abd193b5995414a07fc"}}

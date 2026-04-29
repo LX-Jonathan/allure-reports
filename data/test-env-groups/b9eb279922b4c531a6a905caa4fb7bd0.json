@@ -1,0 +1,1 @@
+{"id":"b9eb279922b4c531a6a905caa4fb7bd0","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF does not render the logo image when the URL is blank","name":"does not render the logo image when the URL is blank","status":"passed","testResultsByEnv":{"default":"bd274c495f0bd0cb50ce670525e7441b"}}

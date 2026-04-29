@@ -1,0 +1,1 @@
+{"id":"a10ea2526cc28bff1282e4c0a44a0a81","fullName":"client/src/lib/__tests__/authUtils.test.ts#formatTimeAgo returns minutes ago for times under an hour","name":"returns minutes ago for times under an hour","status":"passed","testResultsByEnv":{"default":"66322f722a844bd74580ce92a5ab715f"}}

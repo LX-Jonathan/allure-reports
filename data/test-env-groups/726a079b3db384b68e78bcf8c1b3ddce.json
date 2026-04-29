@@ -1,0 +1,1 @@
+{"id":"726a079b3db384b68e78bcf8c1b3ddce","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Providers updateProvider returns null when provider not found","name":"returns null when provider not found","status":"passed","testResultsByEnv":{"default":"87ac361f7072fb017968a71dc3a033d7"}}

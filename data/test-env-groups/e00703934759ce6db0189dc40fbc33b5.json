@@ -1,0 +1,1 @@
+{"id":"e00703934759ce6db0189dc40fbc33b5","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Tenant isolation POST /invoices/generate returns 404 for cross-tenant contract","name":"POST /invoices/generate returns 404 for cross-tenant contract","status":"passed","testResultsByEnv":{"default":"7e094ceb331144db21312e271cf2e820"}}

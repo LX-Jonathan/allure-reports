@@ -1,0 +1,1 @@
+{"id":"5aa41803eb2fc5272130cb575c42fd75","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications - Create and Update POST /api/v1/medications returns 400 on schema validation error (missing code)","name":"returns 400 on schema validation error (missing code)","status":"passed","testResultsByEnv":{"default":"717513b2d8a3eff75212bd391ea0d60d"}}

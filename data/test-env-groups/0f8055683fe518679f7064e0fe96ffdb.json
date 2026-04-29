@@ -1,0 +1,1 @@
+{"id":"0f8055683fe518679f7064e0fe96ffdb","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware canManageFormConfigs chain should require location_admin, org_admin, or super_admin roles","name":"should require location_admin, org_admin, or super_admin roles","status":"passed","testResultsByEnv":{"default":"604c6223026689e867bfa296a2840514"}}

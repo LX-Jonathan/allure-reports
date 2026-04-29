@@ -1,0 +1,1 @@
+{"id":"4a663526d45a3a10fa77f8cec7dce794","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/apply-credit-payment returns 400 when patient has no available credit","name":"returns 400 when patient has no available credit","status":"passed","testResultsByEnv":{"default":"d8933b25e77d6eeb54d27ff1d816b125"}}

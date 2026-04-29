@@ -1,0 +1,1 @@
+{"id":"1feec7ea50dd846cccf157489a54bab8","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptCookieValue / decryptCookieValue returns ciphertext unchanged when decryption throws (corrupted data)","name":"returns ciphertext unchanged when decryption throws (corrupted data)","status":"passed","testResultsByEnv":{"default":"0cfd0a1ce882aee0a0bc4ccde825b62f"}}

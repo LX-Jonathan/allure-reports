@@ -1,0 +1,1 @@
+{"id":"ea37ae593d92253f89068f34d45c27d9","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes DELETE /:id/permanent returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"a4c56726a1035b320e009c85e1094191"}}

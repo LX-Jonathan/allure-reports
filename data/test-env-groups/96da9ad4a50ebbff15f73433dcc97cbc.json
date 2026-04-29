@@ -1,0 +1,1 @@
+{"id":"96da9ad4a50ebbff15f73433dcc97cbc","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/generate-mappings returns 200 with generated mappings","name":"returns 200 with generated mappings","status":"passed","testResultsByEnv":{"default":"6245cef5c6d69126e6f2bc7592ad09f8"}}

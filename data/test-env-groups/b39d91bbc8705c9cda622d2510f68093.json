@@ -1,0 +1,1 @@
+{"id":"b39d91bbc8705c9cda622d2510f68093","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete with Google Maps API uses route only when no street_number exists","name":"uses route only when no street_number exists","status":"passed","testResultsByEnv":{"default":"79e0a2dd072189ace0a5776c837e10bd"}}

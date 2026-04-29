@@ -1,0 +1,1 @@
+{"id":"fcb36161450d8ff12e8b3969893a2133","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxies/invite creates an invitation, lowercases email, and queues invite email","name":"creates an invitation, lowercases email, and queues invite email","status":"passed","testResultsByEnv":{"default":"742ddbe42807a32e491fc8e16840b388"}}

@@ -1,0 +1,1 @@
+{"id":"b3d89227ef902cefc55884171b984bf8","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service fastTemplateMatch cache behavior should add new template to cache on first recognition","name":"should add new template to cache on first recognition","status":"passed","testResultsByEnv":{"default":"65fea12e1d982c6b508876bf0914674d"}}

@@ -1,0 +1,1 @@
+{"id":"b04f05cbca2827c963dc788a9b83d7a2","fullName":"server/config/__tests__/env.test.ts#env schema validation allows optional Twilio fields to be undefined","name":"allows optional Twilio fields to be undefined","status":"passed","testResultsByEnv":{"default":"003feb844296b8547078746824e650df"}}

@@ -1,0 +1,1 @@
+{"id":"56c3eaca3a508be9190a93467de85a6a","fullName":"client/src/components/__tests__/portal-management-redirect.test.tsx#PortalManagementRedirect preserves non-tab query params when redirecting","name":"preserves non-tab query params when redirecting","status":"passed","testResultsByEnv":{"default":"52b7da873de4699489c84eaa7b81956d"}}

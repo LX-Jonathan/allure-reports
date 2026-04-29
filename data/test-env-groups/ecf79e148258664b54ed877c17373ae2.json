@@ -1,0 +1,1 @@
+{"id":"ecf79e148258664b54ed877c17373ae2","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - User Invites getUserInvitesByEmail should return empty array when no invites","name":"should return empty array when no invites","status":"passed","testResultsByEnv":{"default":"fc927d396731bb3a69a796dcadc078f2"}}

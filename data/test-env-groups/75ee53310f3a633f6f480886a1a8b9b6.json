@@ -1,0 +1,1 @@
+{"id":"75ee53310f3a633f6f480886a1a8b9b6","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query returns 500 when AI query service throws","name":"returns 500 when AI query service throws","status":"passed","testResultsByEnv":{"default":"ef972328d0fc0e605fcc22a367afd7c1"}}

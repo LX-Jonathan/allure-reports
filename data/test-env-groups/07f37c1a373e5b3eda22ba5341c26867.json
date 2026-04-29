@@ -1,0 +1,1 @@
+{"id":"07f37c1a373e5b3eda22ba5341c26867","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - tenant scope on /query (a) regular lab user sees rows scoped by their own parent_lab","name":"(a) regular lab user sees rows scoped by their own parent_lab","status":"passed","testResultsByEnv":{"default":"db6c807974110803467900261b46ee46"}}

@@ -1,0 +1,1 @@
+{"id":"126d84bbecd6d9b875cc4edd46bbe72f","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) mapHttpMethodToAction — POST maps to CREATE","name":"mapHttpMethodToAction — POST maps to CREATE","status":"passed","testResultsByEnv":{"default":"d15f4525c5993bf4686f93c231ae3fcb"}}

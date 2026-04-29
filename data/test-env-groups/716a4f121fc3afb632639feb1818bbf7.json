@@ -1,0 +1,1 @@
+{"id":"716a4f121fc3afb632639feb1818bbf7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import strips BOM and normalizes CRLF line endings","name":"strips BOM and normalizes CRLF line endings","status":"passed","testResultsByEnv":{"default":"f31a72f0ac9f831875fb3ef8b1fbb599"}}

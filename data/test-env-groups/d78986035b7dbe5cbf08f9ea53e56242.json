@@ -1,0 +1,1 @@
+{"id":"d78986035b7dbe5cbf08f9ea53e56242","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes PATCH /api/v1/flu-shots/:id returns 403 for mismatched parentLabId","name":"returns 403 for mismatched parentLabId","status":"passed","testResultsByEnv":{"default":"b80bc2b04b3be0dca0bf0cb6820aaf5f"}}

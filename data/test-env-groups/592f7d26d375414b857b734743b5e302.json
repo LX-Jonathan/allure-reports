@@ -1,0 +1,1 @@
+{"id":"592f7d26d375414b857b734743b5e302","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/import/:id/confirm returns 500 when addProviderImportJob returns null","name":"returns 500 when addProviderImportJob returns null","status":"passed","testResultsByEnv":{"default":"8582382fcb57bf234473fba87bb8ab60"}}

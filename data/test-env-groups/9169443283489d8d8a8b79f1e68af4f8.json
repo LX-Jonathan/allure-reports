@@ -1,0 +1,1 @@
+{"id":"9169443283489d8d8a8b79f1e68af4f8","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /pos/locations returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"f41bca27df1e08c206d559572c0cb08e"}}

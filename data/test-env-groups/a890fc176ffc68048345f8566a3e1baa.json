@@ -1,0 +1,1 @@
+{"id":"a890fc176ffc68048345f8566a3e1baa","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/my-kits/:kitId/results (Patient Portal - Get Kit Results) returns 400 when results are not yet available","name":"returns 400 when results are not yet available","status":"passed","testResultsByEnv":{"default":"e5d2a94cbe7e34b726ea6932b677f281"}}

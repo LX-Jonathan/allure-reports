@@ -1,0 +1,1 @@
+{"id":"95e9bd5c3e4f4758d098c14d43ac7379","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient pullPatientRecords should pull all resource types for a patient","name":"should pull all resource types for a patient","status":"passed","testResultsByEnv":{"default":"1447d7169dedc151abb1afbd4e98066c"}}

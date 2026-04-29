@@ -1,0 +1,1 @@
+{"id":"d3cd3d75d4e1d1b91a5c4479b86dff10","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/:id/resend-invite continues even if email queue fails","name":"continues even if email queue fails","status":"passed","testResultsByEnv":{"default":"2032424d910da3df7731504d331ca893"}}

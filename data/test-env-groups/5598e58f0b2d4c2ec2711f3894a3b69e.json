@@ -1,0 +1,1 @@
+{"id":"5598e58f0b2d4c2ec2711f3894a3b69e","fullName":"server/__tests__/auth-login-code.routes.test.ts#POST /api/auth/send-code returns 503 with email_send_failed when the email queue fails","name":"returns 503 with email_send_failed when the email queue fails","status":"passed","testResultsByEnv":{"default":"3f268ae9addc2dad9ef6e866b9b79aa9"}}

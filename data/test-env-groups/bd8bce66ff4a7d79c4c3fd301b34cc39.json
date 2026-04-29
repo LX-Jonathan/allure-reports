@@ -1,0 +1,1 @@
+{"id":"bd8bce66ff4a7d79c4c3fd301b34cc39","fullName":"server/lib/__tests__/encryption.test.ts#encryption hashSSN should return consistent hash for same SSN","name":"should return consistent hash for same SSN","status":"passed","testResultsByEnv":{"default":"373db028cf06a98dedbadd61672a94a4"}}

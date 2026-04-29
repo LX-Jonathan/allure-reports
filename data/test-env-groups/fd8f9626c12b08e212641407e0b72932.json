@@ -1,0 +1,1 @@
+{"id":"fd8f9626c12b08e212641407e0b72932","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 400 when url is missing","name":"returns 400 when url is missing","status":"passed","testResultsByEnv":{"default":"fe45f5bb7a49c44dbd3c8bd35d16a264"}}

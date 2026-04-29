@@ -1,0 +1,1 @@
+{"id":"3f31b88b6ed3c2e40d0ef517dfad375e","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes GET /api/v1/schedules filters by parentLabId for full access users","name":"filters by parentLabId for full access users","status":"passed","testResultsByEnv":{"default":"44c3f6715510233e64c16b9b0de2241b"}}

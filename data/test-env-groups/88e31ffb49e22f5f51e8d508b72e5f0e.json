@@ -1,0 +1,1 @@
+{"id":"88e31ffb49e22f5f51e8d508b72e5f0e","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes PUT /api/v1/marketplace/admin/:parentLabId creates new profile when none exists","name":"creates new profile when none exists","status":"passed","testResultsByEnv":{"default":"66d4651b3e7315e3790c33a6bba4444a"}}

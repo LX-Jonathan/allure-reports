@@ -1,0 +1,1 @@
+{"id":"2aa7cb162fcd5659029715d42fcf6beb","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob data transformation should trim name fields","name":"should trim name fields","status":"passed","testResultsByEnv":{"default":"0327a5dd4db91c7fd8eaa21d64aefd1a"}}

@@ -1,0 +1,1 @@
+{"id":"05f235b8202669981596126fb029d077","fullName":"client/src/components/__tests__/insurance-card-capture.test.tsx#InsuranceCardCapture shows camera permission error when getUserMedia fails with NotAllowedError","name":"shows camera permission error when getUserMedia fails with NotAllowedError","status":"passed","testResultsByEnv":{"default":"7a7b7c16adcd94eb1c540cd8f07d8dd1"}}

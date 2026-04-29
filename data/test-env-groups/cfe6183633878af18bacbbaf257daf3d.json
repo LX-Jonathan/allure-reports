@@ -1,0 +1,1 @@
+{"id":"cfe6183633878af18bacbbaf257daf3d","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/logo redirects to external URL if logoUrl starts with http","name":"redirects to external URL if logoUrl starts with http","status":"passed","testResultsByEnv":{"default":"d09c89b4642dc9d46a683fdf05ca8f5d"}}

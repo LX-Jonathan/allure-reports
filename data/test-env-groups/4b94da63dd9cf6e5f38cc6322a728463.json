@@ -1,0 +1,1 @@
+{"id":"4b94da63dd9cf6e5f38cc6322a728463","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET /:id returns 404 for soft-deleted clients (deletedAt IS NULL filter applied)","name":"returns 404 for soft-deleted clients (deletedAt IS NULL filter applied)","status":"passed","testResultsByEnv":{"default":"89239d5b3668f2b8eea6325788da2b56"}}

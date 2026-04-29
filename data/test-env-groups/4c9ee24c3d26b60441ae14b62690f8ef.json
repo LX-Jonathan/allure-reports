@@ -1,0 +1,1 @@
+{"id":"4c9ee24c3d26b60441ae14b62690f8ef","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService set should use custom TTL when provided","name":"should use custom TTL when provided","status":"passed","testResultsByEnv":{"default":"1f8556aa41b8627f470bdb938a0bd170"}}

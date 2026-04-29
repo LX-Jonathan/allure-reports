@@ -1,0 +1,1 @@
+{"id":"8964bf4cbdf21299fe3b55b4261c8f9b","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related getPatientCount should return count without filter","name":"should return count without filter","status":"passed","testResultsByEnv":{"default":"a6f9e9d99444fed9978cb5d2c27188a4"}}

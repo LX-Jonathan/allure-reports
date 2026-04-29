@@ -1,0 +1,1 @@
+{"id":"8d5159f16be4b671040e3834f49bdaba","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF does not render payment history when no payments","name":"does not render payment history when no payments","status":"passed","testResultsByEnv":{"default":"735850efc670530560dc0252acaeddb2"}}

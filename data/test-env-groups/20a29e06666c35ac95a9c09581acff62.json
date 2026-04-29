@@ -1,0 +1,1 @@
+{"id":"20a29e06666c35ac95a9c09581acff62","fullName":"server/lib/__tests__/auth.test.ts#auth decodeToken should return null when decode returns null","name":"should return null when decode returns null","status":"passed","testResultsByEnv":{"default":"22ef114cf5af137fa9c7a325a552dd8e"}}

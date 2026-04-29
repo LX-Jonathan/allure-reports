@@ -1,0 +1,1 @@
+{"id":"b0163629f57808dbda4efdacf4fcc808","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService queueReportExecution should handle queue job failure","name":"should handle queue job failure","status":"passed","testResultsByEnv":{"default":"4d3d1730f06fbe800ac485c9353e82e5"}}

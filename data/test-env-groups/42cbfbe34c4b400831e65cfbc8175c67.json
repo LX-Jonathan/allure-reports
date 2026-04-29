@@ -1,0 +1,1 @@
+{"id":"42cbfbe34c4b400831e65cfbc8175c67","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/queue-pending returns alreadyExists when company already exists","name":"returns alreadyExists when company already exists","status":"passed","testResultsByEnv":{"default":"6c0a2a3c3de0d268fd075f8bc084e9f9"}}

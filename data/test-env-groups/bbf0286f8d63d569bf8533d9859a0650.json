@@ -1,0 +1,1 @@
+{"id":"bbf0286f8d63d569bf8533d9859a0650","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders should return 404 if provider not found for signature-required","name":"should return 404 if provider not found for signature-required","status":"passed","testResultsByEnv":{"default":"cd467b67fbde7f6261f143694cdb9e06"}}

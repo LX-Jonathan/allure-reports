@@ -1,0 +1,1 @@
+{"id":"0532fe79d5796516b26c8923caa5d367","fullName":"client/src/hooks/__tests__/useOrderCciIgnore.test.tsx#useOrderCciIgnore handlers always read the latest options (live ref pattern)","name":"handlers always read the latest options (live ref pattern)","status":"passed","testResultsByEnv":{"default":"c960bb213eb3634682624b2bd8ee3da6"}}

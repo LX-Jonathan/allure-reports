@@ -1,0 +1,1 @@
+{"id":"e078d7db84489eafb98872fa8b5faebd","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates mapTestToTemplateCode tests without codes should return test name as code when code is undefined","name":"should return test name as code when code is undefined","status":"passed","testResultsByEnv":{"default":"99e9cf60052cfd8d3aadd728eccab816"}}

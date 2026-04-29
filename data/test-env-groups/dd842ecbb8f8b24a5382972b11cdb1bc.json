@@ -1,0 +1,1 @@
+{"id":"dd842ecbb8f8b24a5382972b11cdb1bc","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should accept any of multiple required permissions","name":"should accept any of multiple required permissions","status":"passed","testResultsByEnv":{"default":"95e578a50e6c25a7aeb2e4f47ed8d8dd"}}

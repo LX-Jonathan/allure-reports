@@ -1,0 +1,1 @@
+{"id":"b1e447b5861c668b76b17691d5fa9f69","fullName":"client/src/components/orders/__tests__/claims-sidecar.test.tsx#ClaimsSidecar returns null when order is null","name":"returns null when order is null","status":"passed","testResultsByEnv":{"default":"a4719ab92c8bee16d64387e0d7e3f53f"}}

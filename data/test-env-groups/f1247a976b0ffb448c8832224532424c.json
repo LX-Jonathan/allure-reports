@@ -1,0 +1,1 @@
+{"id":"f1247a976b0ffb448c8832224532424c","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/upload-url should return 503 when R2 not configured","name":"should return 503 when R2 not configured","status":"passed","testResultsByEnv":{"default":"d664e094fd335d550fdbb2e7361829d0"}}

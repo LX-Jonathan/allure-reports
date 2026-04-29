@@ -1,0 +1,1 @@
+{"id":"c024d8eae25ef36477fed58050f6d8e8","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket onUserTyping registers listener and returns cleanup","name":"onUserTyping registers listener and returns cleanup","status":"passed","testResultsByEnv":{"default":"5ad79794bda5921d85f8db5f8443a298"}}

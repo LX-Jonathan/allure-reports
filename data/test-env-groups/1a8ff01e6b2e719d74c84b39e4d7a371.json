@@ -1,0 +1,1 @@
+{"id":"1a8ff01e6b2e719d74c84b39e4d7a371","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Order History and Analytics GET /api/v1/lab-tests/:id/ordering-clients returns empty clients when test has no orders","name":"returns empty clients when test has no orders","status":"passed","testResultsByEnv":{"default":"cb2a9a45a86c85599192c399e6ca8175"}}

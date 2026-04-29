@@ -1,0 +1,1 @@
+{"id":"14d9e888d8ab5c57ff9b7c61cdd1f99e","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useCreateCheckoutSession sends checkout request through patientFetch with correct body","name":"sends checkout request through patientFetch with correct body","status":"passed","testResultsByEnv":{"default":"54d200c18e12dcdadf07f76e39eb2172"}}

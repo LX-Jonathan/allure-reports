@@ -1,0 +1,1 @@
+{"id":"ebdea7a336b18605044f63252ccf6a0b","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /drivers-license returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"91192e574673e214ae25cc52dac49244"}}

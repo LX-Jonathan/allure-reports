@@ -1,0 +1,1 @@
+{"id":"1554ac7e782a14bd4affca763ea810c1","fullName":"client/src/components/patient/__tests__/medications.test.tsx#PatientMedications renders the add medication button when not readonly","name":"renders the add medication button when not readonly","status":"passed","testResultsByEnv":{"default":"50f0d8dd786d11e6308e0caa4adc6994"}}

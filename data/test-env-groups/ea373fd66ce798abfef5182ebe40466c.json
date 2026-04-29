@@ -1,0 +1,1 @@
+{"id":"ea373fd66ce798abfef5182ebe40466c","fullName":"server/__tests__/auth-login-code.routes.test.ts#POST /api/auth/send-code returns generic success for disabled user (anti-enumeration)","name":"returns generic success for disabled user (anti-enumeration)","status":"passed","testResultsByEnv":{"default":"242fba63ceda3c148983fa905ac5e9d3"}}

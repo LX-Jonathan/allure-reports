@@ -1,0 +1,1 @@
+{"id":"7dd37e1225091462e1b93793389deb6e","fullName":"server/lib/__tests__/auth.test.ts#auth verifyAccessToken should return null for invalid token","name":"should return null for invalid token","status":"passed","testResultsByEnv":{"default":"613dc928057845605474446d5e440de6"}}

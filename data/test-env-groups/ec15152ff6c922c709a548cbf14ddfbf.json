@@ -1,0 +1,1 @@
+{"id":"ec15152ff6c922c709a548cbf14ddfbf","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create data encryption should encrypt dateOfBirth","name":"should encrypt dateOfBirth","status":"passed","testResultsByEnv":{"default":"d536066475cee9533271d54ffec66cde"}}

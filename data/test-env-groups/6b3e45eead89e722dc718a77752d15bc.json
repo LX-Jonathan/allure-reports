@@ -1,0 +1,1 @@
+{"id":"6b3e45eead89e722dc718a77752d15bc","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses default phone when both guarantor and patient phone are invalid","name":"uses default phone when both guarantor and patient phone are invalid","status":"passed","testResultsByEnv":{"default":"22336fbabd085232e1efc0c016d64db0"}}

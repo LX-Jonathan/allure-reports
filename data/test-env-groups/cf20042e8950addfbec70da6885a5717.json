@@ -1,0 +1,1 @@
+{"id":"cf20042e8950addfbec70da6885a5717","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/messages should return 403 for unauthorized user","name":"should return 403 for unauthorized user","status":"passed","testResultsByEnv":{"default":"600a5fe02a2fc30fd5b59d1dd005aa9f"}}

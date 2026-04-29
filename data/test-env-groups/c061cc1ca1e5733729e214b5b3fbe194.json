@@ -1,0 +1,1 @@
+{"id":"c061cc1ca1e5733729e214b5b3fbe194","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"0cbe5761c19477d8fde79b998f83fcf6"}}

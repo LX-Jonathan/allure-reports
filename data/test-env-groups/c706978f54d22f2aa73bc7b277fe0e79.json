@@ -1,0 +1,1 @@
+{"id":"c706978f54d22f2aa73bc7b277fe0e79","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findManyPaginated should pass additional filters to findMany and count","name":"should pass additional filters to findMany and count","status":"passed","testResultsByEnv":{"default":"04650d135e4434db5bf40ab09daa890e"}}

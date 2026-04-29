@@ -1,0 +1,1 @@
+{"id":"cb157a8369cb8dcbbdda399dc500966e","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 400 when patient data incomplete","name":"returns 400 when patient data incomplete","status":"passed","testResultsByEnv":{"default":"785cc6fcd69e54b400b953253d4d223a"}}

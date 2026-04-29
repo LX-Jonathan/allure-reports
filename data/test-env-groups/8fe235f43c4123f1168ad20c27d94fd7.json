@@ -1,0 +1,1 @@
+{"id":"8fe235f43c4123f1168ad20c27d94fd7","fullName":"server/middleware/__tests__/patientAuth.test.ts#requirePatientAuth token parsing should call parseAuthorizationHeader with authorization header","name":"should call parseAuthorizationHeader with authorization header","status":"passed","testResultsByEnv":{"default":"0fc180433873eac38175ff6c8e0a464e"}}

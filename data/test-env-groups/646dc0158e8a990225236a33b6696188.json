@@ -1,0 +1,1 @@
+{"id":"646dc0158e8a990225236a33b6696188","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar hides Patient Portal NavItem for lab_client staff (they use standalone routes)","name":"hides Patient Portal NavItem for lab_client staff (they use standalone routes)","status":"passed","testResultsByEnv":{"default":"a6c22263f274ba8ecc3237b741e00b15"}}

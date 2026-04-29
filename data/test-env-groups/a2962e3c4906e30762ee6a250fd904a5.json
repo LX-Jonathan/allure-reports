@@ -1,0 +1,1 @@
+{"id":"a2962e3c4906e30762ee6a250fd904a5","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should throw when API response contains error field","name":"should throw when API response contains error field","status":"passed","testResultsByEnv":{"default":"a591d7ce42f20f9c8d4574d41f582643"}}

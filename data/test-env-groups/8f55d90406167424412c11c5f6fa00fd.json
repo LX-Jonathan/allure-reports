@@ -1,0 +1,1 @@
+{"id":"8f55d90406167424412c11c5f6fa00fd","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /record-terminal-payment returns 500 when DB insert fails","name":"returns 500 when DB insert fails","status":"passed","testResultsByEnv":{"default":"372cba18d49cedf736e61f08f82c5bee"}}

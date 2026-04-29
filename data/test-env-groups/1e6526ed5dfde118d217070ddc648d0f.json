@@ -1,0 +1,1 @@
+{"id":"1e6526ed5dfde118d217070ddc648d0f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries createJournalEntry (via exported functions) should set postingDate equal to entryDate","name":"should set postingDate equal to entryDate","status":"passed","testResultsByEnv":{"default":"5effad8c05881f6c3b1f4057bf9b6b5b"}}

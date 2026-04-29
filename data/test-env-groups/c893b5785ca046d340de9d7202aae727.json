@@ -1,0 +1,1 @@
+{"id":"c893b5785ca046d340de9d7202aae727","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware safe methods (GET, HEAD, OPTIONS) should store token on request object","name":"should store token on request object","status":"passed","testResultsByEnv":{"default":"ef831a4e69d3b0664401dfa0399b4009"}}

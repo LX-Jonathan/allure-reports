@@ -1,0 +1,1 @@
+{"id":"8822829a33875f42ff1080fe63632db0","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 400 when address is incomplete","name":"returns 400 when address is incomplete","status":"passed","testResultsByEnv":{"default":"06aa2c263565bde6b2fc6fb10536ef1a"}}

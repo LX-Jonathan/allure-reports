@@ -1,0 +1,1 @@
+{"id":"918ca4e9dfc914ccb7070c2e06ce7870","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - FRHC API Configs getFrhcApiConfigById should return config with sanitized password","name":"should return config with sanitized password","status":"passed","testResultsByEnv":{"default":"ddf8992586847d9db059b9be13eb06fd"}}

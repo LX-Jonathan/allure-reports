@@ -1,0 +1,1 @@
+{"id":"73c372c2d4f2cb6fc1af1b0830c82833","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/fetch-website-info returns 400 for private/internal host","name":"returns 400 for private/internal host","status":"passed","testResultsByEnv":{"default":"863381cdbc7253d5f3d4d2421f1f5b06"}}

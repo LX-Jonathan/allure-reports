@@ -1,0 +1,1 @@
+{"id":"24d5ff8cda1888c0018fb851a78e0922","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/ai-health-insights returns 500 when OpenAI returns no content","name":"returns 500 when OpenAI returns no content","status":"passed","testResultsByEnv":{"default":"e65f9668b40b732d68ed30256ca425a7"}}

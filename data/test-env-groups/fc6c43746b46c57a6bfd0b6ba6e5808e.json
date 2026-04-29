@@ -1,0 +1,1 @@
+{"id":"fc6c43746b46c57a6bfd0b6ba6e5808e","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should credit sales tax payable for tax","name":"should credit sales tax payable for tax","status":"passed","testResultsByEnv":{"default":"5cd7d3c8c0c8c4a4a19617ad10d8a840"}}

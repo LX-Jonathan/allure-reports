@@ -1,0 +1,1 @@
+{"id":"c0429ffcd48a49879881ac0f173d92cc","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses patient phone for guarantor when guarantor phone is invalid","name":"uses patient phone for guarantor when guarantor phone is invalid","status":"passed","testResultsByEnv":{"default":"dd78c32a555bb91ad68e6da78a6299b7"}}

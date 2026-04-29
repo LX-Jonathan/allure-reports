@@ -1,0 +1,1 @@
+{"id":"3d5450e39674293ff05026f0b9c90507","fullName":"server/middleware/__tests__/patientAuth.test.ts#requireClinicalMfa swallows storage errors and returns 403","name":"swallows storage errors and returns 403","status":"passed","testResultsByEnv":{"default":"6b0c38fa85fc665c78b4de94a1dcaa4b"}}

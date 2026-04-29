@@ -1,0 +1,1 @@
+{"id":"d46c3db82c2778a94829a9034996c269","fullName":"server/routes/__tests__/lab-client-insurance-masters.routes.test.ts#lab-client-insurance-masters effective-credentials route falls back to lab default when no override is set","name":"falls back to lab default when no override is set","status":"passed","testResultsByEnv":{"default":"d99b8068776c0aa71cd1d0a8a6b72ef8"}}

@@ -1,0 +1,1 @@
+{"id":"595c3ce4d96d3c06189334552a1ae5bd","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /capture-payment returns 400 for StripeInvalidRequestError","name":"returns 400 for StripeInvalidRequestError","status":"passed","testResultsByEnv":{"default":"cfe9f02e85e45ea27b71c42944f5ee8e"}}

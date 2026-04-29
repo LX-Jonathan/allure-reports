@@ -1,0 +1,1 @@
+{"id":"1310e662f9b4d0a00d99bf08ca1e326b","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return correct transitions for processing","name":"should return correct transitions for processing","status":"passed","testResultsByEnv":{"default":"37e54e526de71ebc8ae66b5c83a482a7"}}

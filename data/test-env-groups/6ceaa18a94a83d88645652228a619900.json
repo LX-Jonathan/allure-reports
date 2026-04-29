@@ -1,0 +1,1 @@
+{"id":"6ceaa18a94a83d88645652228a619900","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete with Google Maps API parses sublocality when no locality component exists","name":"parses sublocality when no locality component exists","status":"passed","testResultsByEnv":{"default":"0baf87356933e8a78beb159fb889ac5d"}}

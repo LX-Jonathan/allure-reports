@@ -1,0 +1,1 @@
+{"id":"bcef1036833151490531bea99cdc6bfb","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /ai-generate returns 400 for invalid tone","name":"returns 400 for invalid tone","status":"passed","testResultsByEnv":{"default":"9299330065d97c70dfe544817a45cc54"}}

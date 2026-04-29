@@ -1,0 +1,1 @@
+{"id":"898bd67864f9140caebf9fbf6412dfd6","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should return 401 when apiKey is not present on request","name":"should return 401 when apiKey is not present on request","status":"passed","testResultsByEnv":{"default":"6c5fc7d68b158c2aff9ad98857c15d4c"}}

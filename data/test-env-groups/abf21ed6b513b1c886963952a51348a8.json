@@ -1,0 +1,1 @@
+{"id":"abf21ed6b513b1c886963952a51348a8","fullName":"client/src/components/payments/__tests__/payment-detail-dialog.test.tsx#PaymentDetailDialog read-only view hides the Open in POS link for already-reversed payments","name":"hides the Open in POS link for already-reversed payments","status":"passed","testResultsByEnv":{"default":"53d0b623b11d5e9322f49d8b8148a39b"}}

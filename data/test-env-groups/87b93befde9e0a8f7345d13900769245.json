@@ -1,0 +1,1 @@
+{"id":"87b93befde9e0a8f7345d13900769245","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return completed from fallback Redis when no returnValue","name":"should return completed from fallback Redis when no returnValue","status":"passed","testResultsByEnv":{"default":"6ee1298709017673d46e3fc5ef75174e"}}

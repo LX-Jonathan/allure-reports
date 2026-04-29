@@ -1,0 +1,1 @@
+{"id":"e5c0d61f230963dcfe5d8995fe7edcfb","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth returned state flags exposes isSendingCode from sendCode mutation","name":"exposes isSendingCode from sendCode mutation","status":"passed","testResultsByEnv":{"default":"8d0a94334963f14f29e88c4732b42f09"}}

@@ -1,0 +1,1 @@
+{"id":"653f1356a8ae3dc3af89f4673f9c0a6b","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#Staff /admin endpoints rejects unauthenticated callers","name":"rejects unauthenticated callers","status":"passed","testResultsByEnv":{"default":"caad9daef5657764461737e2dcf27183"}}

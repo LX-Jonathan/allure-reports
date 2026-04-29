@@ -1,0 +1,1 @@
+{"id":"bd9e71eaab74bb5ff10dc55699682ea5","fullName":"server/middleware/__tests__/rateLimit.test.ts#authRateLimitMiddleware Redis rate limiting should return 429 with auth-specific message when Redis limit exceeded","name":"should return 429 with auth-specific message when Redis limit exceeded","status":"passed","testResultsByEnv":{"default":"4d0b01662280c0b63114427bd8daf354"}}

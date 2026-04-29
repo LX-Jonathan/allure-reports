@@ -1,0 +1,1 @@
+{"id":"c39f448cf4d0fdcffc226b37b2e48072","fullName":"client/src/components/patient/__tests__/financial-assistance-badge.test.tsx#FinancialAssistanceBadge does not render expires-soon indicator when expiration is far away","name":"does not render expires-soon indicator when expiration is far away","status":"passed","testResultsByEnv":{"default":"7b53336774153b5317303917f8e80268"}}

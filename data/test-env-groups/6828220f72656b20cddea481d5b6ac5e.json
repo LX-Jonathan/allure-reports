@@ -1,0 +1,1 @@
+{"id":"6828220f72656b20cddea481d5b6ac5e","fullName":"client/src/components/patient/__tests__/patient-sidecar.test.tsx#PatientSidecar Credit tab recent payments renders the loading state while the payments query is pending","name":"renders the loading state while the payments query is pending","status":"passed","testResultsByEnv":{"default":"c4d79387d6fb1984551a8d38ae48dae2"}}

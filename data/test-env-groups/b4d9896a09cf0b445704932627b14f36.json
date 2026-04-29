@@ -1,0 +1,1 @@
+{"id":"b4d9896a09cf0b445704932627b14f36","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes Routes GET /api/v1/diagnosis-codes/:id returns 404 when diagnosis code not found","name":"returns 404 when diagnosis code not found","status":"passed","testResultsByEnv":{"default":"e6a5ffbad8cfb7afd16b794a10f9760f"}}

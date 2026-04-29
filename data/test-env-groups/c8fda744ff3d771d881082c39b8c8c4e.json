@@ -1,0 +1,1 @@
+{"id":"c8fda744ff3d771d881082c39b8c8c4e","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should return cached result when available and valid","name":"should return cached result when available and valid","status":"passed","testResultsByEnv":{"default":"7a75035aade14f63cbc6e10414970ff6"}}

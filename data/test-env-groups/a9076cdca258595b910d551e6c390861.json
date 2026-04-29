@@ -1,0 +1,1 @@
+{"id":"a9076cdca258595b910d551e6c390861","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics/:id returns 200 with decrypted patient PHI","name":"returns 200 with decrypted patient PHI","status":"passed","testResultsByEnv":{"default":"c42c50d8aa8a44cbb84805cf763a1e7c"}}

@@ -1,0 +1,1 @@
+{"id":"88ec1b423afbd28802a87267e0189549","fullName":"client/src/components/patient/__tests__/consent-history-tab.test.tsx#ConsentHistoryTab renders revoked reason text when present","name":"renders revoked reason text when present","status":"passed","testResultsByEnv":{"default":"de47c606a5ed399ce35c35ad41e309b4"}}

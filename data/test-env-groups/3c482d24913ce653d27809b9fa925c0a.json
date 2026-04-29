@@ -1,0 +1,1 @@
+{"id":"3c482d24913ce653d27809b9fa925c0a","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /manage/stats returns 403 for non-super_admin","name":"returns 403 for non-super_admin","status":"passed","testResultsByEnv":{"default":"c29f879476ea780acc86c8257a4ff062"}}

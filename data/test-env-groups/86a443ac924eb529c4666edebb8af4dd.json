@@ -1,0 +1,1 @@
+{"id":"86a443ac924eb529c4666edebb8af4dd","fullName":"server/__tests__/apply-remit-lines-to-order-items.test.ts#classifyRemitLine returns pending_insurance when claim status is not final","name":"returns pending_insurance when claim status is not final","status":"passed","testResultsByEnv":{"default":"4dcb8aaabf63126abc93a60dcbd7cf63"}}

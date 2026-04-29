@@ -1,0 +1,1 @@
+{"id":"1e9c460a740d435ec95f43c46bf465c3","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id/plans/:planId returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"f25d75c431df91ec444479ca6cf1b81b"}}

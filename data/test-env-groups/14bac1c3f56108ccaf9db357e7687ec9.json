@@ -1,0 +1,1 @@
+{"id":"14bac1c3f56108ccaf9db357e7687ec9","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id/unlink-user returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"abe203a07dbbaa88f547c3c72a9cf760"}}

@@ -1,0 +1,1 @@
+{"id":"3c7811ad598c1445b4db4230498527f6","fullName":"server/lib/__tests__/logger.test.ts#logger getConfiguredLevel — NODE_ENV fallback (no LOG_LEVEL set) uses 'silent' when NODE_ENV=test — all logs are suppressed","name":"uses 'silent' when NODE_ENV=test — all logs are suppressed","status":"passed","testResultsByEnv":{"default":"522ae506f3257432f869edf891c3c43c"}}

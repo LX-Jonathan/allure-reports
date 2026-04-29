@@ -1,0 +1,1 @@
+{"id":"8701ced39510d3545a9a5a620d9b0802","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/stats returns 200 with stats for viewer scoped to their locations","name":"returns 200 with stats for viewer scoped to their locations","status":"passed","testResultsByEnv":{"default":"bd9dd20d5c3a99fa02177555f9757c30"}}

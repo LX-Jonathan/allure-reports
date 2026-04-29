@@ -1,0 +1,1 @@
+{"id":"4a5af853796937e614071d8947445602","fullName":"server/__tests__/users.routes.test.ts#users routes GET /api/v1/users/:id returns user with role and org details","name":"returns user with role and org details","status":"passed","testResultsByEnv":{"default":"c4325f9c3eff0220a89660bc67c4d418"}}

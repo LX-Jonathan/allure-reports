@@ -1,0 +1,1 @@
+{"id":"b5ffe7ec7d94f9fbf2be7175c379a32d","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes GET /api/onboarding/:id returns 403 when user has no access to location-level flow","name":"returns 403 when user has no access to location-level flow","status":"passed","testResultsByEnv":{"default":"049b57b9fa8f7f6d01e748089912378c"}}

@@ -1,0 +1,1 @@
+{"id":"5a27a42e40c85035adb58b81ff4f8c28","fullName":"client/src/pages/patient/__tests__/patient-labs.test.tsx#PatientLabsPage chooser behavior clicking a lab without tabToPreserve navigates to the bare lab URL","name":"clicking a lab without tabToPreserve navigates to the bare lab URL","status":"passed","testResultsByEnv":{"default":"826479351f03d9c132189060582ef55a"}}

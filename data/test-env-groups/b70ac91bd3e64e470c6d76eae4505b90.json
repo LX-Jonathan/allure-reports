@@ -1,0 +1,1 @@
+{"id":"b70ac91bd3e64e470c6d76eae4505b90","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker startBulkScanItemWorker should register completed event handler","name":"should register completed event handler","status":"passed","testResultsByEnv":{"default":"1a89bbf5cde4c54cba6126e46a96b319"}}

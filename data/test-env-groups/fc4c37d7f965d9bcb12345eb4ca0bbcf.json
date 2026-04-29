@@ -1,0 +1,1 @@
+{"id":"fc4c37d7f965d9bcb12345eb4ca0bbcf","fullName":"client/src/components/__tests__/insurance-card-capture.test.tsx#InsuranceCardCapture shows no camera found error when getUserMedia fails with NotFoundError","name":"shows no camera found error when getUserMedia fails with NotFoundError","status":"passed","testResultsByEnv":{"default":"75d5b0c4668cb2337f72f87cc577afb2"}}

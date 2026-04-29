@@ -1,0 +1,1 @@
+{"id":"c8bb4016d28a9f00279b94171607462f","fullName":"server/lib/__tests__/redis.test.ts#redis.ts getSensitiveRateLimiter should return a sensitive rate limiter when configured","name":"should return a sensitive rate limiter when configured","status":"passed","testResultsByEnv":{"default":"699aca0e32bfacf28a212c198d47ec3d"}}

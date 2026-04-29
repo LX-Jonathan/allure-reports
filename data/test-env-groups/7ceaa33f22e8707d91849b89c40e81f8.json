@@ -1,0 +1,1 @@
+{"id":"7ceaa33f22e8707d91849b89c40e81f8","fullName":"server/__tests__/static.test.ts#serveStatic directory validation should not throw error when dist directory exists","name":"should not throw error when dist directory exists","status":"passed","testResultsByEnv":{"default":"b66792ebd9d228eb02ec1052b701eea4"}}

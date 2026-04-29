@@ -1,0 +1,1 @@
+{"id":"1ed049e31568b6feb45928dec741f7a6","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries createJournalEntry (via exported functions) should return null when account lookup fails for any line","name":"should return null when account lookup fails for any line","status":"passed","testResultsByEnv":{"default":"5ed282ef8a087f53a3c3c2ffd199137a"}}

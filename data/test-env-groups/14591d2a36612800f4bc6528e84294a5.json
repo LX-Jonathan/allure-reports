@@ -1,0 +1,1 @@
+{"id":"14591d2a36612800f4bc6528e84294a5","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/batch returns 400 when labId is missing","name":"returns 400 when labId is missing","status":"passed","testResultsByEnv":{"default":"73d6e860d57335c8d606db0f4ccc7aa1"}}

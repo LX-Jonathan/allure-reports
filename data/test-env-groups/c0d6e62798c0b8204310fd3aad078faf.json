@@ -1,0 +1,1 @@
+{"id":"c0d6e62798c0b8204310fd3aad078faf","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"48d844ab7b18b921db3320ca08b45356"}}

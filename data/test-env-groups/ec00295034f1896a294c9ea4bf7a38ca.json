@@ -1,0 +1,1 @@
+{"id":"ec00295034f1896a294c9ea4bf7a38ca","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes guarantor proxy access uses the acting-as patient id when present and audits the access","name":"uses the acting-as patient id when present and audits the access","status":"passed","testResultsByEnv":{"default":"f7906612f52582b2ce735395705f22a1"}}

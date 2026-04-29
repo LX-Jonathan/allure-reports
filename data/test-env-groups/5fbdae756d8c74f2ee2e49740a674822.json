@@ -1,0 +1,1 @@
+{"id":"5fbdae756d8c74f2ee2e49740a674822","fullName":"server/lib/__tests__/crud-factory.test.ts#crud-factory edge cases should handle beforeDelete hook returning true","name":"should handle beforeDelete hook returning true","status":"passed","testResultsByEnv":{"default":"656b8eb4cdf54961b63e50995e436a11"}}

@@ -1,0 +1,1 @@
+{"id":"16474ab6548a92d271132f5eb4ce76d3","fullName":"server/lib/__tests__/auth.test.ts#auth generateAccessToken should handle user without optional fields","name":"should handle user without optional fields","status":"passed","testResultsByEnv":{"default":"796d98bce026171a80e832ec054944d0"}}

@@ -1,0 +1,1 @@
+{"id":"cd5f5a31555855a6cab878eb6e29848b","fullName":"server/lib/__tests__/patient-dashboard-summary.test.ts#patient-dashboard-summary getFinancialAssistanceExpirationsForPatientIds returns [] and logs on db failure","name":"returns [] and logs on db failure","status":"passed","testResultsByEnv":{"default":"0b7c5417ade74e77c7a8c327b06f9c0f"}}

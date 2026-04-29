@@ -1,0 +1,1 @@
+{"id":"eaea4252293391d565d04f34f04b6f80","fullName":"client/src/lib/__tests__/queryClient.test.ts#session-expired redirect on 401 does not redirect when already on the patient login page","name":"does not redirect when already on the patient login page","status":"passed","testResultsByEnv":{"default":"00c7824b5159546d47f2a54d34f0736a"}}

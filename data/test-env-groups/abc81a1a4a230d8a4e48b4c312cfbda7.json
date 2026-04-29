@@ -1,0 +1,1 @@
+{"id":"abc81a1a4a230d8a4e48b4c312cfbda7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id/deny returns 403 for unauthorized role (staff)","name":"returns 403 for unauthorized role (staff)","status":"passed","testResultsByEnv":{"default":"8257fe73b5dca5d2bf08c053b7977011"}}

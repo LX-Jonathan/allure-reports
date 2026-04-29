@@ -1,0 +1,1 @@
+{"id":"9640ca49392c7d92bcdbb2f51afdbf63","fullName":"shared/__tests__/phone.test.ts#toE164Phone still applies NANP rules for '+1' input so junk area codes are rejected","name":"still applies NANP rules for '+1' input so junk area codes are rejected","status":"passed","testResultsByEnv":{"default":"e2b2e375f2c2975678dca3f4a4789032"}}

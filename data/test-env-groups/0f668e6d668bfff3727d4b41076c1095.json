@@ -1,0 +1,1 @@
+{"id":"0f668e6d668bfff3727d4b41076c1095","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should verify database record for successful results","name":"should verify database record for successful results","status":"passed","testResultsByEnv":{"default":"889cef8f5f544e3f09c58132f6f8bc82"}}

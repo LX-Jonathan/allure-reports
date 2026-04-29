@@ -1,0 +1,1 @@
+{"id":"687a8ab4f1369d7561fa08dfb8996109","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes GET /api/v1/auth/invites/:code returns 200 with organization name when invite has labId","name":"returns 200 with organization name when invite has labId","status":"passed","testResultsByEnv":{"default":"761d74d6b90dfb8da913821746c69608"}}

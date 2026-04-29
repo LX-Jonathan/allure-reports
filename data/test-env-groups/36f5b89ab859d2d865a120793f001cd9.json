@@ -1,0 +1,1 @@
+{"id":"36f5b89ab859d2d865a120793f001cd9","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService createShare should return null when report not found","name":"should return null when report not found","status":"passed","testResultsByEnv":{"default":"b59ebba734a6f882782b7f63846bf139"}}

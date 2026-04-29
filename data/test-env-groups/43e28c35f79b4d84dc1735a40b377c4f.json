@@ -1,0 +1,1 @@
+{"id":"43e28c35f79b4d84dc1735a40b377c4f","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueWelcomeEmail should not include first name in content for privacy","name":"should not include first name in content for privacy","status":"passed","testResultsByEnv":{"default":"b2da83a12d0bb6a312f34949dc814146"}}

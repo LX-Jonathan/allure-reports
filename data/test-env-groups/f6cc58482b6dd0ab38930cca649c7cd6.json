@@ -1,0 +1,1 @@
+{"id":"f6cc58482b6dd0ab38930cca649c7cd6","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/draws-summary returns 200 with draws summary for super_admin","name":"returns 200 with draws summary for super_admin","status":"passed","testResultsByEnv":{"default":"fdf9c84b915df07e41246a5b1c7553d5"}}

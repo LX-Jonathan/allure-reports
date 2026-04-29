@@ -1,0 +1,1 @@
+{"id":"04a805530fdf0ddf3f8b28f67e9e0a8c","fullName":"client/src/stores/__tests__/orderDialogStore.test.ts#useOrderDialogStore closeDialog sets isOpen to false but preserves other state","name":"sets isOpen to false but preserves other state","status":"passed","testResultsByEnv":{"default":"6f6aa7bac9e1b42430308d0a6974a984"}}

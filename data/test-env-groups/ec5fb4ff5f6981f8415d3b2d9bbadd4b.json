@@ -1,0 +1,1 @@
+{"id":"ec5fb4ff5f6981f8415d3b2d9bbadd4b","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes PATCH /api/v1/users/:id/status returns 403 when org_admin has no labId","name":"returns 403 when org_admin has no labId","status":"passed","testResultsByEnv":{"default":"2460ef35bb7d53341359a97d32be3828"}}

@@ -1,0 +1,1 @@
+{"id":"17694c1a5010e4d9f7f4d4f573104570","fullName":"server/__tests__/system.routes.test.ts#system routes POST /api/v1/system/test-email returns 400 for missing required fields","name":"returns 400 for missing required fields","status":"passed","testResultsByEnv":{"default":"5f60d63f20cba1a05841722ad2c71bd3"}}

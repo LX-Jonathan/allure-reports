@@ -1,0 +1,1 @@
+{"id":"0ec7ac096fefcd7ec5e034805c2f83a3","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue checkEmailConsent should return false when no communication preferences found","name":"should return false when no communication preferences found","status":"passed","testResultsByEnv":{"default":"00ad5b5a9a68557593323faa7cdb0cbb"}}

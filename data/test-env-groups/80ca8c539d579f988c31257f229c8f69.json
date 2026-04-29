@@ -1,0 +1,1 @@
+{"id":"80ca8c539d579f988c31257f229c8f69","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/search returns 400 when query is too short","name":"returns 400 when query is too short","status":"passed","testResultsByEnv":{"default":"8ed7c0bb0047aad10fd1766fe268a262"}}

@@ -1,0 +1,1 @@
+{"id":"39a9000fd1446ee032b333f1addc5daf","fullName":"server/workers/__tests__/report-generation.worker.test.ts#processReportGenerationJob scheduled-report type should throw error when scheduleId is missing","name":"should throw error when scheduleId is missing","status":"passed","testResultsByEnv":{"default":"b6ac231e248e25839ad1e78238208326"}}

@@ -1,0 +1,1 @@
+{"id":"26786bef0fa60572d6e1d849f45f351b","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should return 400 for invalid type","name":"should return 400 for invalid type","status":"passed","testResultsByEnv":{"default":"0e6fda37c298516fa90434f21e84221b"}}

@@ -1,0 +1,1 @@
+{"id":"6c0be0c9960f15f315d65a0d40b4c0c2","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should use DB templateType to determine transactional bypass","name":"should use DB templateType to determine transactional bypass","status":"passed","testResultsByEnv":{"default":"4652571e6255e7a939d217af0fc3ef7b"}}

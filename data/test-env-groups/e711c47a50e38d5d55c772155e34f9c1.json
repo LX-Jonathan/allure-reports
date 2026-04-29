@@ -1,0 +1,1 @@
+{"id":"e711c47a50e38d5d55c772155e34f9c1","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists/:id/duplicate returns 403 when org_admin duplicates different org's list","name":"returns 403 when org_admin duplicates different org's list","status":"passed","testResultsByEnv":{"default":"6c3642866b811b8ab9a7b23d56f345a7"}}

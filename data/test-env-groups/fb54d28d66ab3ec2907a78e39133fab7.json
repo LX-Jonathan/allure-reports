@@ -1,0 +1,1 @@
+{"id":"fb54d28d66ab3ec2907a78e39133fab7","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should generate a unique nanoid per request","name":"should generate a unique nanoid per request","status":"passed","testResultsByEnv":{"default":"e0f2f6283d400a07a30838766ebafdc5"}}

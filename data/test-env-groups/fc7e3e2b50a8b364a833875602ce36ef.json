@@ -1,0 +1,1 @@
+{"id":"fc7e3e2b50a8b364a833875602ce36ef","fullName":"client/src/lib/__tests__/return-to.test.ts#consumeReturnToFromSearch falls back to session storage when URL has no next","name":"falls back to session storage when URL has no next","status":"passed","testResultsByEnv":{"default":"800659f799d355a905e47157ddd212cb"}}

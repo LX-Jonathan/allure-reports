@@ -1,0 +1,1 @@
+{"id":"96f2a70102da4a48f2b4936124e9f4b9","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#ConsolidatedStatementPDF renders the lab's custom statement disclaimer when provided","name":"renders the lab's custom statement disclaimer when provided","status":"passed","testResultsByEnv":{"default":"3df695d5f01e6e2fc15e33cb09db5140"}}

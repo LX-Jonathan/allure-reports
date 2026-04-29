@@ -1,0 +1,1 @@
+{"id":"87fab043508a33a80ac1ae30a102baa9","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes POST /validate-order returns 400 for invalid payload (non-object body like a string)","name":"returns 400 for invalid payload (non-object body like a string)","status":"passed","testResultsByEnv":{"default":"0378eaf50b9bedef4501c6cde52828c0"}}

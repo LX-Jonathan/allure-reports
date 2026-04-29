@@ -1,0 +1,1 @@
+{"id":"14d0ed2c69c4f8b6f8f90e1d32a92994","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets/:id/messages should allow ticket owner to post message","name":"should allow ticket owner to post message","status":"passed","testResultsByEnv":{"default":"a4d18618ad94ca6306da95c04fd52ab1"}}

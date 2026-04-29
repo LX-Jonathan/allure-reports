@@ -1,0 +1,1 @@
+{"id":"659b9185f297e499d4d597ab2149e219","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes DELETE /api/v1/lab-tests/:id returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"2bb761f0169fd3ab4672eed64c5247b6"}}

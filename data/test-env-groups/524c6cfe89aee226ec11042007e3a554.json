@@ -1,0 +1,1 @@
+{"id":"524c6cfe89aee226ec11042007e3a554","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) PATCH /invoices/:invoiceId returns 401 without auth header","name":"PATCH /invoices/:invoiceId returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"2df50bdcbebabaecd916d2f78cb7cdee"}}

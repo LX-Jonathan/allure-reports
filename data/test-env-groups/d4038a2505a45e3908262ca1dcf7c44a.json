@@ -1,0 +1,1 @@
+{"id":"d4038a2505a45e3908262ca1dcf7c44a","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"af944a156f35633aa4a6756003628eb1"}}

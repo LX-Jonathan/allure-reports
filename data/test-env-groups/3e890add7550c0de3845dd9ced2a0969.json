@@ -1,0 +1,1 @@
+{"id":"3e890add7550c0de3845dd9ced2a0969","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /validate returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"75c7d582b8bfbfd3ea98d38673ebec35"}}

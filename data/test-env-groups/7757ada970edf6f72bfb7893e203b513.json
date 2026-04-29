@@ -1,0 +1,1 @@
+{"id":"7757ada970edf6f72bfb7893e203b513","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /invoices/all returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"630386c48ef107a08432f2c84a527895"}}

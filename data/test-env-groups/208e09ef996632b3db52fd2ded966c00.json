@@ -1,0 +1,1 @@
+{"id":"208e09ef996632b3db52fd2ded966c00","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes GET /api/v1/lab-tests/categories should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"ea3ccee5e41114513800424bcf6e7af7"}}

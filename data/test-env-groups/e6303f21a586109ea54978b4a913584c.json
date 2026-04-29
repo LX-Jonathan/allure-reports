@@ -1,0 +1,1 @@
+{"id":"e6303f21a586109ea54978b4a913584c","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes PATCH /api/onboarding/:id returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"96dfd9cab988b72ed16ba269606ed640"}}

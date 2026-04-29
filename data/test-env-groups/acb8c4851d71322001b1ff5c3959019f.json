@@ -1,0 +1,1 @@
+{"id":"acb8c4851d71322001b1ff5c3959019f","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes PATCH /api/orders/:id/status returns 400 when status is missing","name":"returns 400 when status is missing","status":"passed","testResultsByEnv":{"default":"c0fe02bc3b11b3d554bc7bee87503993"}}

@@ -1,0 +1,1 @@
+{"id":"a025ea4e3fab639c7cac2bf462c47d20","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance POST /:id/eligibility returns 404 when patient is missing","name":"returns 404 when patient is missing","status":"passed","testResultsByEnv":{"default":"7cacabbd46bcf36eb48e2f0ce3c0d537"}}

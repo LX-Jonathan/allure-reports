@@ -1,0 +1,1 @@
+{"id":"f55e18c0fc7fdd020af73e6d054b206e","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateProviderRules emits NO_PROVIDER error when provider is null","name":"emits NO_PROVIDER error when provider is null","status":"passed","testResultsByEnv":{"default":"f0e275e479fe5d3313a361de870f0a68"}}

@@ -1,0 +1,1 @@
+{"id":"95815bcea4d1c9210ea255b690aec635","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo returns 404 when super org not found","name":"returns 404 when super org not found","status":"passed","testResultsByEnv":{"default":"8e61f8a2b3c3034c17e6fe81f8c138d5"}}

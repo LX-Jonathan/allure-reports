@@ -1,0 +1,1 @@
+{"id":"5814ffcc83a30acc3a0db571449bd86b","fullName":"server/config/__tests__/env.test.ts#env schema validation accepts valid NODE_ENV values","name":"accepts valid NODE_ENV values","status":"passed","testResultsByEnv":{"default":"59ecf747ec681e7c09426e3c645d08ce"}}

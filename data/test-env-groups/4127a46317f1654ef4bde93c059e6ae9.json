@@ -1,0 +1,1 @@
+{"id":"4127a46317f1654ef4bde93c059e6ae9","fullName":"server/workers/__tests__/medication-import.worker.test.ts#startMedicationImportWorker should return worker instance when created successfully","name":"should return worker instance when created successfully","status":"passed","testResultsByEnv":{"default":"ec35289b8eaa2d963d093116e0aafa9c"}}

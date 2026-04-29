@@ -1,0 +1,1 @@
+{"id":"00d315ffc7b099c78b8ecca1391b6010","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/shipments/:id/events (Staff Portal - Get Shipment Events) returns 200 with events","name":"returns 200 with events","status":"passed","testResultsByEnv":{"default":"2adbff354d8d03ef65495b5d8a2a4bab"}}

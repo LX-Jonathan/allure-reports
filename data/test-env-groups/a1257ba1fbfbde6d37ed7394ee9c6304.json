@@ -1,0 +1,1 @@
+{"id":"a1257ba1fbfbde6d37ed7394ee9c6304","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes GET /api/v1/favorites returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"00dac54ffe55f5fa82fa1ac7afbb3962"}}

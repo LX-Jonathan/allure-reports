@@ -1,0 +1,1 @@
+{"id":"102dd962c5deb5998d1459c50e942e78","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/insurance returns 200 with null subscriberDob when not set","name":"returns 200 with null subscriberDob when not set","status":"passed","testResultsByEnv":{"default":"c59f7e519cbd1844e25a1c08bd1797a1"}}

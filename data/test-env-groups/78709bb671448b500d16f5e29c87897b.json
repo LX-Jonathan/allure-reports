@@ -1,0 +1,1 @@
+{"id":"78709bb671448b500d16f5e29c87897b","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService getScannedOrder should return order when found","name":"should return order when found","status":"passed","testResultsByEnv":{"default":"56f5390c2665e9e59e2c155417d84999"}}

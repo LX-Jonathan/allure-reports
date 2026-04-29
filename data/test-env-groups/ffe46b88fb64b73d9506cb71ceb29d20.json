@@ -1,0 +1,1 @@
+{"id":"ffe46b88fb64b73d9506cb71ceb29d20","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler session cleanup cron callback should update status on error","name":"should update status on error","status":"passed","testResultsByEnv":{"default":"17f099233c95b6bd79a8e961a4ca4af4"}}

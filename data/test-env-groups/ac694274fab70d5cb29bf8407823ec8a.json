@@ -1,0 +1,1 @@
+{"id":"ac694274fab70d5cb29bf8407823ec8a","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord allergies should map allergy entries with reactions","name":"should map allergy entries with reactions","status":"passed","testResultsByEnv":{"default":"a503134379c6f395d968a51cef42fe84"}}

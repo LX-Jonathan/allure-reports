@@ -1,0 +1,1 @@
+{"id":"c4432426bd347ebbfa53344b3b6fcd1d","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir maps gender variations correctly","name":"maps gender variations correctly","status":"passed","testResultsByEnv":{"default":"f07a80438b73d065241593bbef8bc469"}}

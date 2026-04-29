@@ -1,0 +1,1 @@
+{"id":"f1419ba96331844625c0fab5bb15cfbc","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should return error when location-level user selects invalid location","name":"should return error when location-level user selects invalid location","status":"passed","testResultsByEnv":{"default":"26936466c2024402f892dd101eb26f67"}}

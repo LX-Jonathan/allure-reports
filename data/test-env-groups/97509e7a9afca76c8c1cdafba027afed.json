@@ -1,0 +1,1 @@
+{"id":"97509e7a9afca76c8c1cdafba027afed","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when account name contains invalid characters","name":"should return 400 when account name contains invalid characters","status":"passed","testResultsByEnv":{"default":"2d4110d94b2a5ffe94eb196d7c5c8037"}}

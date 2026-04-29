@@ -1,0 +1,1 @@
+{"id":"c14e71c9e392bb5d1c8f4ab3336f67a4","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/resolve/:slug returns superOrg data when found","name":"returns superOrg data when found","status":"passed","testResultsByEnv":{"default":"ce7b766e1d6996c61ffed32821b122c3"}}

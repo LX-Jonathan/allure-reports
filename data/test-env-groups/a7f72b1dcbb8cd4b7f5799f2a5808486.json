@@ -1,0 +1,1 @@
+{"id":"a7f72b1dcbb8cd4b7f5799f2a5808486","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes GET /for-lab/:parentLabId returns 403 for non-admin role","name":"returns 403 for non-admin role","status":"passed","testResultsByEnv":{"default":"7f26b5f91d4cd1470995e903fa98db92"}}

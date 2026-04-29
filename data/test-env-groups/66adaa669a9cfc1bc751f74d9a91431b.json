@@ -1,0 +1,1 @@
+{"id":"66adaa669a9cfc1bc751f74d9a91431b","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /recent-threads returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"3ac26fa8a11a37af15b7f68da63cff77"}}

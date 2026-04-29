@@ -1,0 +1,1 @@
+{"id":"d136aed11b82434f454bdfbd214ece28","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims returns 200 with paginated claims","name":"returns 200 with paginated claims","status":"passed","testResultsByEnv":{"default":"0178266be2b9c0a8c246549c0720a49a"}}

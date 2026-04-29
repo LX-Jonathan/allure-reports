@@ -1,0 +1,1 @@
+{"id":"14cd1e52af0506b8f62806ead9efc27d","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes PATCH /api/v1/schedules/:scheduleId/events/:eventId returns 400 for invalid data structure","name":"returns 400 for invalid data structure","status":"passed","testResultsByEnv":{"default":"88a18dd5fb06b9a7680343bbe22b1b11"}}

@@ -1,0 +1,1 @@
+{"id":"dbded71932240ef1b5c06651727043d1","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/products (Staff Portal - Product List) returns 200 with products and pagination","name":"returns 200 with products and pagination","status":"passed","testResultsByEnv":{"default":"eb8a39b856f78f24c7d2b2088d4fe0c4"}}

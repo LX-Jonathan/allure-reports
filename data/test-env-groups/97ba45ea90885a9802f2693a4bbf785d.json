@@ -1,0 +1,1 @@
+{"id":"97ba45ea90885a9802f2693a4bbf785d","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog falls back to insurance.deductibleAmount when coverage not found","name":"falls back to insurance.deductibleAmount when coverage not found","status":"passed","testResultsByEnv":{"default":"bf1ef1ea44b4538276284b3e91157cbe"}}

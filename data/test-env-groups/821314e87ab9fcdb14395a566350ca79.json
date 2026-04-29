@@ -1,0 +1,1 @@
+{"id":"821314e87ab9fcdb14395a566350ca79","fullName":"server/__tests__/apply-remit-lines-to-order-items.test.ts#applyRemitLinesToOrderItems returns immediately when there is no orderId or no lines","name":"returns immediately when there is no orderId or no lines","status":"passed","testResultsByEnv":{"default":"af80860198100a06a09a3a6177c947ee"}}

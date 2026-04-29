@@ -1,0 +1,1 @@
+{"id":"755967f541adb82841bf912f00e438f0","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner showDialog forwards non-blank messages to original showDialog","name":"showDialog forwards non-blank messages to original showDialog","status":"passed","testResultsByEnv":{"default":"8e05f9c3045e1729408ba5165e1d5b93"}}

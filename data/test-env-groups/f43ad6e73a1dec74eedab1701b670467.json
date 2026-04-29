@@ -1,0 +1,1 @@
+{"id":"f43ad6e73a1dec74eedab1701b670467","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes POST /api/v1/patients/:patientId/documents returns 400 when no file uploaded","name":"returns 400 when no file uploaded","status":"passed","testResultsByEnv":{"default":"2fd02b359a936117839bf10b7ac29b22"}}

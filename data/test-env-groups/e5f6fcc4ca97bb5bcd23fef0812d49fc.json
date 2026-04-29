@@ -1,0 +1,1 @@
+{"id":"e5f6fcc4ca97bb5bcd23fef0812d49fc","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/frhc-api-configs returns 400 on validation error - missing apiUrl","name":"returns 400 on validation error - missing apiUrl","status":"passed","testResultsByEnv":{"default":"78eaf5e8a9919f477d9b7af51fc4e5fb"}}

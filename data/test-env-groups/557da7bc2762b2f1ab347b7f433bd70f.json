@@ -1,0 +1,1 @@
+{"id":"557da7bc2762b2f1ab347b7f433bd70f","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 403 when user is not a participant and not super_admin","name":"returns 403 when user is not a participant and not super_admin","status":"passed","testResultsByEnv":{"default":"0e170f639fd8c9ab4d7fdd45f02c46c3"}}

@@ -1,0 +1,1 @@
+{"id":"1c37a7b3335216d68d7865a997c8448e","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors createPatientGuarantor should create and return","name":"createPatientGuarantor should create and return","status":"passed","testResultsByEnv":{"default":"3c3b707a6ce22e823311e9efbd75bd91"}}

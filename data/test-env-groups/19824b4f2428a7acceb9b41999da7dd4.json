@@ -1,0 +1,1 @@
+{"id":"19824b4f2428a7acceb9b41999da7dd4","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes PATCH /api/order-intake/bulk/items/:itemId returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"85379a9c1c25e6d9c051a0115775ccee"}}

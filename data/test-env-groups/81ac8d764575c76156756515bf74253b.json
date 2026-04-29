@@ -1,0 +1,1 @@
+{"id":"81ac8d764575c76156756515bf74253b","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes GET /api/v1/patient-medications/:id returns 200 with medication data","name":"returns 200 with medication data","status":"passed","testResultsByEnv":{"default":"4d1ea63d67393c7805c87e8f38a31029"}}

@@ -1,0 +1,1 @@
+{"id":"a0dea1c3f54f3f690e93dd3c63bfd5a0","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PUT /api/v1/providers/my-signature returns 400 when signature data is missing","name":"returns 400 when signature data is missing","status":"passed","testResultsByEnv":{"default":"7f175e639a22fc5be7a64c95e01f0c44"}}

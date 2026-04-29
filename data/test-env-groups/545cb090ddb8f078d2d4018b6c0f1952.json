@@ -1,0 +1,1 @@
+{"id":"545cb090ddb8f078d2d4018b6c0f1952","fullName":"server/services/__tests__/base.service.test.ts#base.service getAccessFilter should call getDataAccessFilter with correct JwtPayload structure","name":"should call getDataAccessFilter with correct JwtPayload structure","status":"passed","testResultsByEnv":{"default":"14bf6eb39a12891ac3854cfad285f87e"}}

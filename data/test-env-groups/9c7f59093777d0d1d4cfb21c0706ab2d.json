@@ -1,0 +1,1 @@
+{"id":"9c7f59093777d0d1d4cfb21c0706ab2d","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#DELETE /api/patient/proxies/:id (patient revoke) rejects malformed UUID with 400","name":"rejects malformed UUID with 400","status":"passed","testResultsByEnv":{"default":"af517a957773ced0eb63b51f02f4b7bd"}}

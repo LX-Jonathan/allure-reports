@@ -1,0 +1,1 @@
+{"id":"550efec5b9f00c8d81b78588b4ff3c32","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /assign returns 400 for invalid UUID","name":"returns 400 for invalid UUID","status":"passed","testResultsByEnv":{"default":"1c1e4aad873779c2dc39ee096f7c542b"}}

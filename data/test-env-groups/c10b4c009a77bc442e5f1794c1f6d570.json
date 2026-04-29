@@ -1,0 +1,1 @@
+{"id":"c10b4c009a77bc442e5f1794c1f6d570","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addEmailJob should handle getJobCounts error gracefully","name":"should handle getJobCounts error gracefully","status":"passed","testResultsByEnv":{"default":"bc418de6c8f14b873470437fdf6855ae"}}

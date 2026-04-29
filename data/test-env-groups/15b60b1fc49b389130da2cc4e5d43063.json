@@ -1,0 +1,1 @@
+{"id":"15b60b1fc49b389130da2cc4e5d43063","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"add860a20ae6c42ce156b36c047ca06c"}}

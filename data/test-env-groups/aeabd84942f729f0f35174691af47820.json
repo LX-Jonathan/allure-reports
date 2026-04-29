@@ -1,0 +1,1 @@
+{"id":"aeabd84942f729f0f35174691af47820","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment subtracts prior credit reversals when computing remaining refundable","name":"subtracts prior credit reversals when computing remaining refundable","status":"passed","testResultsByEnv":{"default":"b4e0ba22007ddfa3a2b7715774b4f2b9"}}

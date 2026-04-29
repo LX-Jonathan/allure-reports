@@ -1,0 +1,1 @@
+{"id":"051001f76788cfd879cee44cd4e85dc3","fullName":"server/lib/__tests__/sms.test.ts#sms sendLabchatSms should format body without subject line when subject is undefined","name":"should format body without subject line when subject is undefined","status":"passed","testResultsByEnv":{"default":"0c9443e92867978e23bba60778e9150e"}}

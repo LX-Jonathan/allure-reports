@@ -1,0 +1,1 @@
+{"id":"48bd5174da73e5e942b94ec4d0c71870","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:id returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"c688848c647bd4a0222baa4a99218492"}}

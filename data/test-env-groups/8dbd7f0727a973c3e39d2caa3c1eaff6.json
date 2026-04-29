@@ -1,0 +1,1 @@
+{"id":"8dbd7f0727a973c3e39d2caa3c1eaff6","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-detail/:id returns 403 when patient parentLabId is not in allowed list","name":"returns 403 when patient parentLabId is not in allowed list","status":"passed","testResultsByEnv":{"default":"ae30c1d2699e47f789c3437588ba6a33"}}

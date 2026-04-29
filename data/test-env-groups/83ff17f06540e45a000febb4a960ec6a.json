@@ -1,0 +1,1 @@
+{"id":"83ff17f06540e45a000febb4a960ec6a","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/shipments/:id/events (Staff Portal - Get Shipment Events) returns 404 when shipment not found","name":"returns 404 when shipment not found","status":"passed","testResultsByEnv":{"default":"9b78e9b9fdc7bff68f9aad5aeb0fa4ed"}}

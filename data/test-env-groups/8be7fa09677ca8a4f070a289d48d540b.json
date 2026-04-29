@@ -1,0 +1,1 @@
+{"id":"8be7fa09677ca8a4f070a289d48d540b","fullName":"server/jobs/__tests__/scheduler.test.ts#runManualSync should propagate errors from syncBillingResolutionData","name":"should propagate errors from syncBillingResolutionData","status":"passed","testResultsByEnv":{"default":"781b4ebef38bf774ae9f69c35dd45d0e"}}

@@ -1,0 +1,1 @@
+{"id":"bd19166aaa66142228c7920856074d83","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/pull-records returns 403 when org access denied","name":"returns 403 when org access denied","status":"passed","testResultsByEnv":{"default":"32d6abb8b26762cd007a839900541184"}}

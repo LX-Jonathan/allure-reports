@@ -1,0 +1,1 @@
+{"id":"3038478e3df139981c3b3f21dff4731c","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is not configured getEmailQueue should return null","name":"getEmailQueue should return null","status":"passed","testResultsByEnv":{"default":"a0a8c13eb1c5bde7c36b32b9c5d57b31"}}

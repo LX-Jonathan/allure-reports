@@ -1,0 +1,1 @@
+{"id":"54eec1c9b804b0b55a9b00ba0810a75c","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions removeRolePermission should handle undefined rowCount gracefully","name":"should handle undefined rowCount gracefully","status":"passed","testResultsByEnv":{"default":"f738e57585232fa09b38204fa6c301ac"}}

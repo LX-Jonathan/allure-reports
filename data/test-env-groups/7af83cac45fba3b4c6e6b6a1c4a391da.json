@@ -1,0 +1,1 @@
+{"id":"7af83cac45fba3b4c6e6b6a1c4a391da","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Approved for Diagnosis (AI) POST /api/v1/lab-tests/approved-for-diagnosis returns empty suggestions when AI returns no text","name":"returns empty suggestions when AI returns no text","status":"passed","testResultsByEnv":{"default":"e1cf5d135b8bd81db1318a2808950bea"}}

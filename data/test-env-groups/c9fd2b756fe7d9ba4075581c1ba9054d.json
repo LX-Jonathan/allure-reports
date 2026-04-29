@@ -1,0 +1,1 @@
+{"id":"c9fd2b756fe7d9ba4075581c1ba9054d","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector calls setAllSelections and closes dialog on Apply","name":"calls setAllSelections and closes dialog on Apply","status":"passed","testResultsByEnv":{"default":"a171c52b56b51c25c565543ac287d5be"}}

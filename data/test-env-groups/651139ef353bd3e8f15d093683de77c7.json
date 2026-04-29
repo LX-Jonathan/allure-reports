@@ -1,0 +1,1 @@
+{"id":"651139ef353bd3e8f15d093683de77c7","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findManyPaginated should correctly calculate hasMore when more records exist","name":"should correctly calculate hasMore when more records exist","status":"passed","testResultsByEnv":{"default":"fcc17d46b0d3fa708d3c54a27ab78ddb"}}

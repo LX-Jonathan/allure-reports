@@ -1,0 +1,1 @@
+{"id":"6209d8b2fbde0c712d56d49becccdb02","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluateInsuranceRules emits NO_INSURANCE error when insurance array is empty","name":"emits NO_INSURANCE error when insurance array is empty","status":"passed","testResultsByEnv":{"default":"5bd6a731afb1b076f4461bca3a5dc64d"}}

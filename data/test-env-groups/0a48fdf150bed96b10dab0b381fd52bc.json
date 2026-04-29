@@ -1,0 +1,1 @@
+{"id":"0a48fdf150bed96b10dab0b381fd52bc","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batch-action returns 400 when batchId or action is missing","name":"returns 400 when batchId or action is missing","status":"passed","testResultsByEnv":{"default":"e6b13f2b8ab287aa41d9403134e03be3"}}

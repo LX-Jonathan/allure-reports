@@ -1,0 +1,1 @@
+{"id":"7d2581702071f6fa5fe9d6d55863c1bc","fullName":"server/workers/__tests__/provider-import.worker.test.ts#startProviderImportWorker should create worker with correct queue name","name":"should create worker with correct queue name","status":"passed","testResultsByEnv":{"default":"086db486c15e2486f01fe83258f81b4d"}}

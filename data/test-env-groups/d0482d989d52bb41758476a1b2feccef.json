@@ -1,0 +1,1 @@
+{"id":"d0482d989d52bb41758476a1b2feccef","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes PATCH /campaigns/:id generates HTML when contentJson is provided","name":"generates HTML when contentJson is provided","status":"passed","testResultsByEnv":{"default":"a489a15256138a0d7fff8ec2843aa5a1"}}

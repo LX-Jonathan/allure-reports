@@ -1,0 +1,1 @@
+{"id":"31b1be889653995c894a628fbed8da94","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"12148b0aecd55e607aca2ee1cc299be4"}}

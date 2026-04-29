@@ -1,0 +1,1 @@
+{"id":"ab3c68a824451e1fa20b8538fbacee24","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner handles GetDevicesAsync rejection gracefully","name":"handles GetDevicesAsync rejection gracefully","status":"passed","testResultsByEnv":{"default":"f992d757b359bb0a7de61ea63a0f9dbd"}}

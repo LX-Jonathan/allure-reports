@@ -1,0 +1,1 @@
+{"id":"89596f7ec3c8e26af3604e3cec2a386c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management getPatientInsurance returns empty array when none","name":"returns empty array when none","status":"passed","testResultsByEnv":{"default":"05e78027f24d5c05907c5555a422d41c"}}

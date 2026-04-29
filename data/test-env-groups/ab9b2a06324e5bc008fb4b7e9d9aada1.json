@@ -1,0 +1,1 @@
+{"id":"ab9b2a06324e5bc008fb4b7e9d9aada1","fullName":"client/src/lib/__tests__/utils.test.ts#formatRoleName returns empty string for null or undefined","name":"returns empty string for null or undefined","status":"passed","testResultsByEnv":{"default":"5dd29e1802fb4b3fcabafb9dfef453e2"}}

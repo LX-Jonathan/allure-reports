@@ -1,0 +1,1 @@
+{"id":"3d5c1fc9d4e1f613474ca7765ccedbb5","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /locations returns 500 when Stripe location creation fails","name":"returns 500 when Stripe location creation fails","status":"passed","testResultsByEnv":{"default":"7fbdb66cf4abd416b7c3151bf69e3981"}}

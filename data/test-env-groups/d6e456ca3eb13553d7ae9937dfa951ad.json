@@ -1,0 +1,1 @@
+{"id":"d6e456ca3eb13553d7ae9937dfa951ad","fullName":"server/__tests__/storage-results.test.ts#DatabaseStorage - Lab Results releaseLabResultToPatient should set releasedToPatient, releasedBy, and releasedAt","name":"should set releasedToPatient, releasedBy, and releasedAt","status":"passed","testResultsByEnv":{"default":"4c35a6f319eefa1ac74ebe8e8dca4607"}}

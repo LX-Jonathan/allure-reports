@@ -1,0 +1,1 @@
+{"id":"debba3430297c7e8150c40155df71fac","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should pass all valid filters to service","name":"should pass all valid filters to service","status":"passed","testResultsByEnv":{"default":"2203bc1efc7606ff64befc95259b697e"}}

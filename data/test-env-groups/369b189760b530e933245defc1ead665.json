@@ -1,0 +1,1 @@
+{"id":"369b189760b530e933245defc1ead665","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#gatherDocuments should use payerName fallback when insurance company not found","name":"should use payerName fallback when insurance company not found","status":"passed","testResultsByEnv":{"default":"ce636b5550ac3ec1d7eac42408f1114a"}}

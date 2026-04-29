@@ -1,0 +1,1 @@
+{"id":"3b697eeb9f14ad336bafa700a24565f4","fullName":"client/src/lib/__tests__/order-selection-adapters.test.ts#medicationToSelectItem does not set description when genericName matches name","name":"does not set description when genericName matches name","status":"passed","testResultsByEnv":{"default":"43dbcbda3c7365427c4b7d9f63b36c9f"}}

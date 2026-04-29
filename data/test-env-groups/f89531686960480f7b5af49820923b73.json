@@ -1,0 +1,1 @@
+{"id":"f89531686960480f7b5af49820923b73","fullName":"client/src/lib/__tests__/return-to.test.ts#sanitizeReturnTo returns null for nullish or empty values","name":"returns null for nullish or empty values","status":"passed","testResultsByEnv":{"default":"2487d128e8b4a525c1b13bb864d40319"}}

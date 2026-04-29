@@ -1,0 +1,1 @@
+{"id":"4edcc3da87f9f4a1cb8c3be55308a8ac","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should allow ticket owner to update","name":"should allow ticket owner to update","status":"passed","testResultsByEnv":{"default":"8edeebea3fdbe56400ca9ee6a1e9ab28"}}

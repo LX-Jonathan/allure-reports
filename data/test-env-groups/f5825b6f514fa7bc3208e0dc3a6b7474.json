@@ -1,0 +1,1 @@
+{"id":"f5825b6f514fa7bc3208e0dc3a6b7474","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/sign returns 403 when order not assigned to provider","name":"returns 403 when order not assigned to provider","status":"passed","testResultsByEnv":{"default":"dba6406c1f76780ac255e6d006958279"}}

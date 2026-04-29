@@ -1,0 +1,1 @@
+{"id":"aecfc005adb80a161973412faaadf168","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service detectBlankPage should return true for an all-white page (100% > 240)","name":"should return true for an all-white page (100% > 240)","status":"passed","testResultsByEnv":{"default":"9ce20a445ca62a899d3e3c12d087e4e6"}}

@@ -1,0 +1,1 @@
+{"id":"ad70e9afdf541c2040eb05807b30e33c","fullName":"server/lib/__tests__/r2.test.ts#r2.ts getSignedDownloadUrl should throw error when R2 is not configured","name":"should throw error when R2 is not configured","status":"passed","testResultsByEnv":{"default":"9a56709eb6529fa8133628b7341f4cf0"}}

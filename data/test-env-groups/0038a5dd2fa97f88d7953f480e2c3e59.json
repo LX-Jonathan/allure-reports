@@ -1,0 +1,1 @@
+{"id":"0038a5dd2fa97f88d7953f480e2c3e59","fullName":"server/__tests__/users.routes.test.ts#users routes PATCH /api/v1/users/:id sets user org and location assignments","name":"sets user org and location assignments","status":"passed","testResultsByEnv":{"default":"b5a0b748a34e96bbc000b89511ba0e66"}}

@@ -1,0 +1,1 @@
+{"id":"b52513dc2c5d99bd726dd2b3761a4060","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /order/:orderId/accession returns 400 for empty accessionId","name":"returns 400 for empty accessionId","status":"passed","testResultsByEnv":{"default":"f006f42969115c73addda98dc4f14708"}}

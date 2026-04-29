@@ -1,0 +1,1 @@
+{"id":"997513925635891cfed57ae6eb0f973c","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient testConnection should default server name when software info missing","name":"should default server name when software info missing","status":"passed","testResultsByEnv":{"default":"bdec5be9ee46fce66be6c5dbcad5c18d"}}

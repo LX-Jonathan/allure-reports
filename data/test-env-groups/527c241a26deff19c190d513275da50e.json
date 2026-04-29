@@ -1,0 +1,1 @@
+{"id":"527c241a26deff19c190d513275da50e","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/claims-trend returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"50afa33fe5fd08e80a2a376758abfe66"}}

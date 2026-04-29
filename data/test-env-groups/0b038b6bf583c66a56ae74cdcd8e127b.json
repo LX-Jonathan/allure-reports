@@ -1,0 +1,1 @@
+{"id":"0b038b6bf583c66a56ae74cdcd8e127b","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/:id/sign returns 404 when provider not found","name":"returns 404 when provider not found","status":"passed","testResultsByEnv":{"default":"82c59d6364a5e7d74d99df317973255d"}}

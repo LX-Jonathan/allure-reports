@@ -1,0 +1,1 @@
+{"id":"c5e8187a042fb627f33c98fac583e76e","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService set with Redis configured should use default TTL when not specified","name":"should use default TTL when not specified","status":"passed","testResultsByEnv":{"default":"84a1ccd8a3b6812cf41a532a95c224fd"}}

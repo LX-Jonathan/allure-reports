@@ -1,0 +1,1 @@
+{"id":"a6adf195cb84461d65663629328ce32d","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Insurance Companies createInsuranceCompany throws when DB rejects","name":"throws when DB rejects","status":"passed","testResultsByEnv":{"default":"5f196c89650fef03f6f80ee4f83a301b"}}

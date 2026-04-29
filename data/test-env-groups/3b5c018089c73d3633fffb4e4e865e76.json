@@ -1,0 +1,1 @@
+{"id":"3b5c018089c73d3633fffb4e4e865e76","fullName":"client/src/hooks/__tests__/useDymoLabel.test.ts#useDymoLabel checkEnvironment handles JSON string response from sync getPrinters","name":"checkEnvironment handles JSON string response from sync getPrinters","status":"passed","testResultsByEnv":{"default":"e0565b600097458ff1803d7e6e782f07"}}

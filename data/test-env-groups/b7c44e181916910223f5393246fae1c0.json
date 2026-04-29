@@ -1,0 +1,1 @@
+{"id":"b7c44e181916910223f5393246fae1c0","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/view returns 201 with view log","name":"returns 201 with view log","status":"passed","testResultsByEnv":{"default":"c5d8e5f94d9feb8076f5e6c802c4ef80"}}

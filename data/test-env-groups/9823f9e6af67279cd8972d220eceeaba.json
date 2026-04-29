@@ -1,0 +1,1 @@
+{"id":"9823f9e6af67279cd8972d220eceeaba","fullName":"client/src/hooks/__tests__/use-patient-lab-issues.test.tsx#usePatientLabIssues does NOT flag consent when both email and sms are present","name":"does NOT flag consent when both email and sms are present","status":"passed","testResultsByEnv":{"default":"ac732421c3d89201d51f4e3e9f8ba446"}}

@@ -1,0 +1,1 @@
+{"id":"2b45789ff74741604171b7b0ffb90235","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /appeal-templates returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"d4b33c5f87c96f9a85fa8d173896ff2e"}}

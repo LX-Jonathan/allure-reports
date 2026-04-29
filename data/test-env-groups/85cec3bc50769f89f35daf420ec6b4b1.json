@@ -1,0 +1,1 @@
+{"id":"85cec3bc50769f89f35daf420ec6b4b1","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes PUT /config/:parentLabId sets audit context after successful update","name":"sets audit context after successful update","status":"passed","testResultsByEnv":{"default":"15daf0653c536a57589788c4995a700f"}}

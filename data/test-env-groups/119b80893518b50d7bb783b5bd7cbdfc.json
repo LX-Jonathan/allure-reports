@@ -1,0 +1,1 @@
+{"id":"119b80893518b50d7bb783b5bd7cbdfc","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 400 when patient is already linked","name":"returns 400 when patient is already linked","status":"passed","testResultsByEnv":{"default":"e5307ab032654f966c57a8e9a416ba80"}}

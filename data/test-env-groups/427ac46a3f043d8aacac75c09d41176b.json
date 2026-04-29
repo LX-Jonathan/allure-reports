@@ -1,0 +1,1 @@
+{"id":"427ac46a3f043d8aacac75c09d41176b","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addScanOrderJob should add job with correct data when queue is available","name":"should add job with correct data when queue is available","status":"passed","testResultsByEnv":{"default":"c12e2d522a34bd4fa4183d37a40e2d55"}}

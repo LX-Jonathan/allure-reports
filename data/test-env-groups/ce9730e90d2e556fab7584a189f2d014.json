@@ -1,0 +1,1 @@
+{"id":"ce9730e90d2e556fab7584a189f2d014","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromTemp should throw when file does not exist","name":"should throw when file does not exist","status":"passed","testResultsByEnv":{"default":"2d64e40e83cdaf8b97e33deba0cd20f2"}}

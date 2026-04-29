@@ -1,0 +1,1 @@
+{"id":"dd690b207f318315eeff0e55e30cb829","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/quickstarts/:id returns 403 for non-admin users","name":"returns 403 for non-admin users","status":"passed","testResultsByEnv":{"default":"fe42dafcef2113febb24fd26a9f25eee"}}

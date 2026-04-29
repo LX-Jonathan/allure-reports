@@ -1,0 +1,1 @@
+{"id":"734f94784d17ce6c2355b30dad62bc58","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /health returns 403 for non-super_admin users","name":"returns 403 for non-super_admin users","status":"passed","testResultsByEnv":{"default":"98766486191e55fffcda19b7212ef8d4"}}

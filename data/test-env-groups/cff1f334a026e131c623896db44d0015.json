@@ -1,0 +1,1 @@
+{"id":"cff1f334a026e131c623896db44d0015","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should return pending status for waiting jobs","name":"should return pending status for waiting jobs","status":"passed","testResultsByEnv":{"default":"a1a47b40947f0d701f63702fc5f8f0af"}}

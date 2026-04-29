@@ -1,0 +1,1 @@
+{"id":"7ee3386e97b738c6d152dafed8308da1","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendSms per-lab consent guardrail blocks non-transactional sends when patientId is missing","name":"blocks non-transactional sends when patientId is missing","status":"passed","testResultsByEnv":{"default":"973b40976b9ea883356d7c6e9e5d7905"}}

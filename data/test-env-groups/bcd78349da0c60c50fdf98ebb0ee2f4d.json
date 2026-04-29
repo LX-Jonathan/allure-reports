@@ -1,0 +1,1 @@
+{"id":"bcd78349da0c60c50fdf98ebb0ee2f4d","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should filter out invalid rows before batch insert","name":"should filter out invalid rows before batch insert","status":"passed","testResultsByEnv":{"default":"99cff8b6c15b0b35f9a39c5e283d8759"}}

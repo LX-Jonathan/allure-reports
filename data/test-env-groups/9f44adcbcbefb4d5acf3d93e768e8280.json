@@ -1,0 +1,1 @@
+{"id":"9f44adcbcbefb4d5acf3d93e768e8280","fullName":"client/src/components/__tests__/staff-notification-listener.test.tsx#StaffNotificationListener does not subscribe when the role is not on the staff inbox allow-list","name":"does not subscribe when the role is not on the staff inbox allow-list","status":"passed","testResultsByEnv":{"default":"0260f49d6d1258a8ca1c01765b03236c"}}

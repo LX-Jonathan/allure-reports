@@ -1,0 +1,1 @@
+{"id":"dbdaf5817ac2fecfff214eda99fe2600","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers (additional edge cases) returns 400 when lab cannot be determined","name":"returns 400 when lab cannot be determined","status":"passed","testResultsByEnv":{"default":"a4649627c695be354ce316a3722efb8d"}}

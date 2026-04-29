@@ -1,0 +1,1 @@
+{"id":"7ba66f5df40807c5fe2d59e442319567","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getRoleByName returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"6d95453cd3e5b17504f3e29eed9b2477"}}

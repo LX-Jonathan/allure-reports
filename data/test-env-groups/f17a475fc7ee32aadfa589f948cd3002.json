@@ -1,0 +1,1 @@
+{"id":"f17a475fc7ee32aadfa589f948cd3002","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 400 when tradingPartnerId is empty","name":"returns 400 when tradingPartnerId is empty","status":"passed","testResultsByEnv":{"default":"b446d4fb090171bf731dd2970d80e6b3"}}

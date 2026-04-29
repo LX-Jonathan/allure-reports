@@ -1,0 +1,1 @@
+{"id":"1869bc6d041c93e359e4747baf9a3a02","fullName":"server/__tests__/verification-confidence.test.ts#deriveDemographicsVerificationConfidence falls back to risk indicator when AccuracyColor is missing","name":"falls back to risk indicator when AccuracyColor is missing","status":"passed","testResultsByEnv":{"default":"4f89f50bb41088b9d4d442d36c937886"}}

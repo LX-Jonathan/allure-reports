@@ -1,0 +1,1 @@
+{"id":"98798a168f69b85b6eb3098ab329ccbe","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness provider data evaluation should flag missing NPI as error","name":"should flag missing NPI as error","status":"passed","testResultsByEnv":{"default":"acb90530fbb403f389bd39ea9f309d68"}}

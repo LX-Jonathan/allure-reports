@@ -1,0 +1,1 @@
+{"id":"537572cf2b1317d5bb586a8c9182dcfd","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes POST /api/v1/biometrics returns 400 for invalid datePerformed","name":"returns 400 for invalid datePerformed","status":"passed","testResultsByEnv":{"default":"5bca9afe784d4cccc00742d18f865c14"}}

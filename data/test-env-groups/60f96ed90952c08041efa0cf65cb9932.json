@@ -1,0 +1,1 @@
+{"id":"60f96ed90952c08041efa0cf65cb9932","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/orders returns orders when configured","name":"returns orders when configured","status":"passed","testResultsByEnv":{"default":"cfffc9cc35eb42aa1a2da298e9bdbaa4"}}

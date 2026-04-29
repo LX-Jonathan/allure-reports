@@ -1,0 +1,1 @@
+{"id":"023a0b3e8b72cab706cd1e9f3877aa6d","fullName":"server/routes/__tests__/patient-portal-lab.routes.test.ts#Patient Portal Lab - Order Detail UUID Validation returns 401 without auth token","name":"returns 401 without auth token","status":"passed","testResultsByEnv":{"default":"6cb0cf4aaaf42222430f88db86f74ca5"}}

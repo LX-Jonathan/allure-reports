@@ -1,0 +1,1 @@
+{"id":"8a6cf56dbde314ddd43e223f9c8428be","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post837ClaimJournal should return null when account lookup fails","name":"should return null when account lookup fails","status":"passed","testResultsByEnv":{"default":"9cfbb085356f8d63cbced13c8d3ccb8c"}}

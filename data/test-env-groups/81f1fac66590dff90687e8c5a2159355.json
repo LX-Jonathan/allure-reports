@@ -1,0 +1,1 @@
+{"id":"81f1fac66590dff90687e8c5a2159355","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processProviderRow should throw when parentLabId missing","name":"should throw when parentLabId missing","status":"passed","testResultsByEnv":{"default":"35af3a5b7456cc43e2d250df5db49394"}}

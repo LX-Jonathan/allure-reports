@@ -1,0 +1,1 @@
+{"id":"8cc34a3a49dfbcfdcef4b50837785905","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients returns 200 with paginated patients list","name":"returns 200 with paginated patients list","status":"passed","testResultsByEnv":{"default":"36574a44390f5389fce2a063829747ed"}}

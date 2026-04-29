@@ -1,0 +1,1 @@
+{"id":"2f9d87e7904b057ca89ad7fd0978cc28","fullName":"server/__tests__/storage-providers-meds.test.ts#DatabaseStorage - Providers getProviderByNpi should return provider when NPI matches","name":"should return provider when NPI matches","status":"passed","testResultsByEnv":{"default":"c1f818f823ea80ff1d7a600b642cd829"}}

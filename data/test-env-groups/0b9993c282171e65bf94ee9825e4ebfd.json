@@ -1,0 +1,1 @@
+{"id":"0b9993c282171e65bf94ee9825e4ebfd","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - tenant scope on /query free-text search on 'prior_auth' matches patient MRN via EXISTS","name":"free-text search on 'prior_auth' matches patient MRN via EXISTS","status":"passed","testResultsByEnv":{"default":"914cba3a9345b472c213bad8c9e5cd5b"}}

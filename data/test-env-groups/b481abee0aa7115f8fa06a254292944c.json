@@ -1,0 +1,1 @@
+{"id":"b481abee0aa7115f8fa06a254292944c","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes PUT /api/order-intake/:id/mappings returns 400 when mappings is not an array","name":"returns 400 when mappings is not an array","status":"passed","testResultsByEnv":{"default":"8f492de10fcc3f34896d7db35e3fc768"}}

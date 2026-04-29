@@ -1,0 +1,1 @@
+{"id":"89f88b461a91b9f62a9d05a993bf289c","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes DELETE /api/v1/providers/:id returns 200 on successful deletion","name":"returns 200 on successful deletion","status":"passed","testResultsByEnv":{"default":"1442fd3129735e2a88dbd8b18d9798ab"}}

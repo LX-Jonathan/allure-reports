@@ -1,0 +1,1 @@
+{"id":"020523b4fbbd759b70feb87dfb973ca1","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/validate-address (pre-registration) returns 200 with USPS validated address","name":"returns 200 with USPS validated address","status":"passed","testResultsByEnv":{"default":"0a027796f04e5ecccd448ea0a5414fda"}}

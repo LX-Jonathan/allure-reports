@@ -1,0 +1,1 @@
+{"id":"028dae3d9a1476728baebb13fd70c6f3","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-lookup returns 400 when NPI is missing","name":"returns 400 when NPI is missing","status":"passed","testResultsByEnv":{"default":"e72aa60bae315b44378d6606d17e4f0f"}}

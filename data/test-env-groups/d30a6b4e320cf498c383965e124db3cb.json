@@ -1,0 +1,1 @@
+{"id":"d30a6b4e320cf498c383965e124db3cb","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getOrgAdminsWithNewOrderNotifications should return admins with notifications enabled","name":"should return admins with notifications enabled","status":"passed","testResultsByEnv":{"default":"a117815887daabb13c4adee83343ff28"}}

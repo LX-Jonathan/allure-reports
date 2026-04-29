@@ -1,0 +1,1 @@
+{"id":"216a523eff41d451d12bf541c6a0d066","fullName":"server/__tests__/vite.test.ts#setupVite catch-all handler should read client/index.html from disk","name":"should read client/index.html from disk","status":"passed","testResultsByEnv":{"default":"1c47b14900e27cf4d3fbc0f7a90af939"}}

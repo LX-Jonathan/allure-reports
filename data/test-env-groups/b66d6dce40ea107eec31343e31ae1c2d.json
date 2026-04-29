@@ -1,0 +1,1 @@
+{"id":"b66d6dce40ea107eec31343e31ae1c2d","fullName":"server/services/__tests__/readinessFixGuidance.service.test.ts#readinessFixGuidance.service filters out issues that are not errors or warnings","name":"filters out issues that are not errors or warnings","status":"passed","testResultsByEnv":{"default":"dd5a10297f49bcbce431bf0de90bef4f"}}

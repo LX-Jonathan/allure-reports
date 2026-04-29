@@ -1,0 +1,1 @@
+{"id":"2f7eb7f7581c42ad0c0a976be57f4f44","fullName":"server/routes/__tests__/dashboard.routes.test.ts#Dashboard Routes GET /api/v1/dashboard/appointment-heatmap returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"a50699c0532a78cac6241c6ed93c6e83"}}

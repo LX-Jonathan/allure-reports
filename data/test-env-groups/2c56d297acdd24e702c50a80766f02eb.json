@@ -1,0 +1,1 @@
+{"id":"2c56d297acdd24e702c50a80766f02eb","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy deleteOrg should return false when org not found","name":"should return false when org not found","status":"passed","testResultsByEnv":{"default":"f2aa7003250c8e70213f04247f73e3e2"}}

@@ -1,0 +1,1 @@
+{"id":"f3e6a13739d642379c537298c1c8c188","fullName":"client/src/contexts/__tests__/patient-impersonation-context.test.tsx#ImpersonationContext returns null when used outside provider","name":"returns null when used outside provider","status":"passed","testResultsByEnv":{"default":"541b35ddfefd23ca1a10ddacc124905e"}}

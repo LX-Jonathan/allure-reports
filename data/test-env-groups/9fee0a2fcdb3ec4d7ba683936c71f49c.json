@@ -1,0 +1,1 @@
+{"id":"9fee0a2fcdb3ec4d7ba683936c71f49c","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/claims-trend returns 500 when service throws","name":"returns 500 when service throws","status":"passed","testResultsByEnv":{"default":"ba2cf2961ec95af6c3cb4994be52e215"}}

@@ -1,0 +1,1 @@
+{"id":"449844ea11b8127ab38f3789db6f3299","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding/:id/publish returns 200 on successful publish","name":"returns 200 on successful publish","status":"passed","testResultsByEnv":{"default":"a8daa34d9fb1ab48387ab8bd3edff6ef"}}

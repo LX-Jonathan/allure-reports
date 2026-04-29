@@ -1,0 +1,1 @@
+{"id":"7df6365b3a62f2424e39e92dbed5f969","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob job initialization should throw error if parsedData is null","name":"should throw error if parsedData is null","status":"passed","testResultsByEnv":{"default":"d81ebb2b9ed56ba3f749a82075c79213"}}

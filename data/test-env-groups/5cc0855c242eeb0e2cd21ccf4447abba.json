@@ -1,0 +1,1 @@
+{"id":"5cc0855c242eeb0e2cd21ccf4447abba","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId/forms returns forms list","name":"returns forms list","status":"passed","testResultsByEnv":{"default":"380613d5403bef723816a53a9cf1324b"}}

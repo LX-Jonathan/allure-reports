@@ -1,0 +1,1 @@
+{"id":"176280ee82ef47716d765d6657427751","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob - additional coverage should delete local temp file after successful processing","name":"should delete local temp file after successful processing","status":"passed","testResultsByEnv":{"default":"fb05eb0c277f866bbef52c355edc14f1"}}

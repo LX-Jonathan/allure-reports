@@ -1,0 +1,1 @@
+{"id":"158f342af9a981e7ac785712ee896551","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should handle dead letter queue failure gracefully","name":"should handle dead letter queue failure gracefully","status":"passed","testResultsByEnv":{"default":"4446386f2bdb398aea2ce393597c7661"}}

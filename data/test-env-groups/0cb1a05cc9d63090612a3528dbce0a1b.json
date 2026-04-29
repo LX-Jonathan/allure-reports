@@ -1,0 +1,1 @@
+{"id":"0cb1a05cc9d63090612a3528dbce0a1b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/messages-by-org returns 403 for disallowed role","name":"returns 403 for disallowed role","status":"passed","testResultsByEnv":{"default":"c87688d12e5918ef1c5bf9847c6efc57"}}

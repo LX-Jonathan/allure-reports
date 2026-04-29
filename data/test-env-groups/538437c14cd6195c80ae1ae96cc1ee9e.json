@@ -1,0 +1,1 @@
+{"id":"538437c14cd6195c80ae1ae96cc1ee9e","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates mapTestToTemplateCode case insensitivity should match regardless of case - mixed","name":"should match regardless of case - mixed","status":"passed","testResultsByEnv":{"default":"9c6d745974ce1e4482c5f2a4941a3cdb"}}

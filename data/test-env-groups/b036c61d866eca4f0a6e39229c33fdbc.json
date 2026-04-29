@@ -1,0 +1,1 @@
+{"id":"b036c61d866eca4f0a6e39229c33fdbc","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord allergies should use code.text as substance fallback","name":"should use code.text as substance fallback","status":"passed","testResultsByEnv":{"default":"2a8841abbefea66d8d0827f2577b1bd0"}}

@@ -1,0 +1,1 @@
+{"id":"05661450851661faa66cffe332fc3b00","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related getPatients should return paginated patients with total","name":"should return paginated patients with total","status":"passed","testResultsByEnv":{"default":"54c401591599ca217af3609c19c7a3a5"}}

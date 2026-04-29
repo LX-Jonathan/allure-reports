@@ -1,0 +1,1 @@
+{"id":"1ba249ad498c8c60c4759c4d123ef3c0","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processTradingPartnerRow should throw without parentLabId","name":"should throw without parentLabId","status":"passed","testResultsByEnv":{"default":"4c5c8d59428bd419abb7aa003c99c6fc"}}

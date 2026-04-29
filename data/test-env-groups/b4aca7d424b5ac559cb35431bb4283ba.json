@@ -1,0 +1,1 @@
+{"id":"b4aca7d424b5ac559cb35431bb4283ba","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import/:id/confirm returns 403 when non-owner non-super_admin tries to confirm","name":"returns 403 when non-owner non-super_admin tries to confirm","status":"passed","testResultsByEnv":{"default":"428c79998ce67ae150ea8662250b2235"}}

@@ -1,0 +1,1 @@
+{"id":"103835cbfa294e80847e588337bf79d1","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/threads/:threadId/portal-link-destinations returns 404 when org not under parent lab","name":"returns 404 when org not under parent lab","status":"passed","testResultsByEnv":{"default":"7a6cccc63e09c456d432820de59d0b3c"}}

@@ -1,0 +1,1 @@
+{"id":"01adaef00529cc388de27b9363c4bc36","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: passkey_challenge_expired","name":"es: passkey_challenge_expired","status":"passed","testResultsByEnv":{"default":"04634683c0ca63537c9cef34084bff4e"}}

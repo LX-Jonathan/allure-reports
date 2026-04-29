@@ -1,0 +1,1 @@
+{"id":"8d5fab2a98604feb321c6d29404de438","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserByEmail should return falsy when email not found","name":"should return falsy when email not found","status":"passed","testResultsByEnv":{"default":"410deee7d4748b461a5d149d3f95f71c"}}

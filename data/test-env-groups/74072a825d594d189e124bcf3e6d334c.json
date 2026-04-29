@@ -1,0 +1,1 @@
+{"id":"74072a825d594d189e124bcf3e6d334c","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Lab Tests setLabTestLocations should delete existing and insert new locations","name":"should delete existing and insert new locations","status":"passed","testResultsByEnv":{"default":"10cf6d9a59d9f8483311442c9d9212eb"}}

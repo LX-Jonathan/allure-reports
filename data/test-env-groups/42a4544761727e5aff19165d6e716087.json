@@ -1,0 +1,1 @@
+{"id":"42a4544761727e5aff19165d6e716087","fullName":"server/__tests__/comm-consent.routes.test.ts#Staff: per-lab communication consent (cross-tenant + revoke-with-reason) returns 404 when the patient does not exist","name":"returns 404 when the patient does not exist","status":"passed","testResultsByEnv":{"default":"cedec0f643c08a388944817331f849b0"}}

@@ -1,0 +1,1 @@
+{"id":"5d6ff3be2515e621fe698aa61362ed04","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /:checkId/clear-edit returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"33689e2586b0c7525dfa206d90d4f35c"}}

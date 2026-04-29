@@ -1,0 +1,1 @@
+{"id":"bb20b43a366c3f140b7346e9e4a2993b","fullName":"client/src/components/__tests__/range-bar.test.tsx#canRenderRangeBar returns false for null value","name":"returns false for null value","status":"passed","testResultsByEnv":{"default":"83627ac085805f6798aee47b3235355b"}}

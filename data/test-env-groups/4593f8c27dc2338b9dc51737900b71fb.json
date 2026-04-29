@@ -1,0 +1,1 @@
+{"id":"4593f8c27dc2338b9dc51737900b71fb","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes POST /api/v1/marketplace/admin/:parentLabId/generate returns 503 when Anthropic not configured","name":"returns 503 when Anthropic not configured","status":"passed","testResultsByEnv":{"default":"94c757ee076c1452663885ef847cec40"}}

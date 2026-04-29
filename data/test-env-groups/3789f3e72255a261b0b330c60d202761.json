@@ -1,0 +1,1 @@
+{"id":"3789f3e72255a261b0b330c60d202761","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts DELETE /chart-of-accounts/:id returns 400 when account has child accounts","name":"returns 400 when account has child accounts","status":"passed","testResultsByEnv":{"default":"3821cf82cfeab3529a2e74cf7abe1e62"}}

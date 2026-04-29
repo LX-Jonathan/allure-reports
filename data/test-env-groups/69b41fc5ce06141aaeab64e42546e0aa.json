@@ -1,0 +1,1 @@
+{"id":"69b41fc5ce06141aaeab64e42546e0aa","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings fhirPatientToLocal maps FHIR Patient to local patient data","name":"maps FHIR Patient to local patient data","status":"passed","testResultsByEnv":{"default":"4ff31adfa93599396b7d0ed234605808"}}

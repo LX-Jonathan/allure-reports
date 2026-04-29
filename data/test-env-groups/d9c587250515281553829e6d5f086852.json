@@ -1,0 +1,1 @@
+{"id":"d9c587250515281553829e6d5f086852","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService deleteByTenant with Redis configured should delete the registry key even when the set is empty","name":"should delete the registry key even when the set is empty","status":"passed","testResultsByEnv":{"default":"35e974dccf366d337a2723a6181aaa85"}}

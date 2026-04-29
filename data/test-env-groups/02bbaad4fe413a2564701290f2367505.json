@@ -1,0 +1,1 @@
+{"id":"02bbaad4fe413a2564701290f2367505","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireSuperOrg should return 403 when parentLabId does not match","name":"should return 403 when parentLabId does not match","status":"passed","testResultsByEnv":{"default":"ebdf04fd027098fdf23051e976f52130"}}

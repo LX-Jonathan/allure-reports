@@ -1,0 +1,1 @@
+{"id":"08a4929e575139712ad7f3a9d96732e8","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should return 401 when no token is provided","name":"should return 401 when no token is provided","status":"passed","testResultsByEnv":{"default":"a89e77c035d457911f6c14a697cb7090"}}

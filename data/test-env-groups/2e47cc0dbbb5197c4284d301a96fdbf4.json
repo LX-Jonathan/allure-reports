@@ -1,0 +1,1 @@
+{"id":"2e47cc0dbbb5197c4284d301a96fdbf4","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Reports with GlanceFilters GET /reports/error-rate-calculations returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"8ce8e240ece842248445c0f28938e1bb"}}

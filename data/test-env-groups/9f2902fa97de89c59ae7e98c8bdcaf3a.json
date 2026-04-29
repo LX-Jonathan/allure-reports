@@ -1,0 +1,1 @@
+{"id":"9f2902fa97de89c59ae7e98c8bdcaf3a","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processLocationRow should default locationType to draw_station when empty","name":"should default locationType to draw_station when empty","status":"passed","testResultsByEnv":{"default":"c704ec43faa2e751f9bb784f0b93ed22"}}

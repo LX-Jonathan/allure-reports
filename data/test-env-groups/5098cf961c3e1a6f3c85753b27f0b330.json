@@ -1,0 +1,1 @@
+{"id":"5098cf961c3e1a6f3c85753b27f0b330","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes GET /api/v1/system/scheduled-jobs returns 200 with empty jobs list when no jobs exist","name":"returns 200 with empty jobs list when no jobs exist","status":"passed","testResultsByEnv":{"default":"de07828443840085bb688be1892ddeb5"}}

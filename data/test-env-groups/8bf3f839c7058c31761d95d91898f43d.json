@@ -1,0 +1,1 @@
+{"id":"8bf3f839c7058c31761d95d91898f43d","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET /:id returns 403 when no parentLabId and not super_admin","name":"returns 403 when no parentLabId and not super_admin","status":"passed","testResultsByEnv":{"default":"bac1ea026761f9e61aca0952e3c0f8c0"}}

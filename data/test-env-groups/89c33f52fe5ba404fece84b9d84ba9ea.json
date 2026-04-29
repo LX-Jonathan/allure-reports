@@ -1,0 +1,1 @@
+{"id":"89c33f52fe5ba404fece84b9d84ba9ea","fullName":"client/src/hooks/__tests__/useDxDropdownDirtyTracker.test.ts#useDxDropdownDirtyTracker ignores selection mutations that happen while the dropdown is closed","name":"ignores selection mutations that happen while the dropdown is closed","status":"passed","testResultsByEnv":{"default":"58c49584d5b8a3bd14427a230cfbb3e4"}}

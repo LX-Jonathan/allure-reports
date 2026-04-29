@@ -1,0 +1,1 @@
+{"id":"b70de61facd017c04558fc64e7ee977f","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /documents-summary returns empty documents list when no documents exist","name":"returns empty documents list when no documents exist","status":"passed","testResultsByEnv":{"default":"e673b66b538e8cf83a8fc5dc1598f934"}}

@@ -1,0 +1,1 @@
+{"id":"650e241c21860e1f3d77f3011a365004","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/tickets/:ticketId updates ticket status to closed with closedAt","name":"updates ticket status to closed with closedAt","status":"passed","testResultsByEnv":{"default":"2dc9fa6fabe75cf57c9e6f49ea573901"}}

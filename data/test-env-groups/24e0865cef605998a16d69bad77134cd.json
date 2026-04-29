@@ -1,0 +1,1 @@
+{"id":"24e0865cef605998a16d69bad77134cd","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes POST /api/onboarding returns 403 when location-level user tries to create for other location","name":"returns 403 when location-level user tries to create for other location","status":"passed","testResultsByEnv":{"default":"997432d662f977431b9e0393d7cc86ad"}}

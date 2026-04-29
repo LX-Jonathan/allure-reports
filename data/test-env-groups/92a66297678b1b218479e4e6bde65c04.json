@@ -1,0 +1,1 @@
+{"id":"92a66297678b1b218479e4e6bde65c04","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET /:id super_admin can access without parentLabId","name":"super_admin can access without parentLabId","status":"passed","testResultsByEnv":{"default":"239366e42f56fa2feb64c751a7dfdab4"}}

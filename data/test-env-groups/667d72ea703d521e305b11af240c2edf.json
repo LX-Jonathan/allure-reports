@@ -1,0 +1,1 @@
+{"id":"667d72ea703d521e305b11af240c2edf","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/scanner/webhook returns 403 when scanner is inactive","name":"returns 403 when scanner is inactive","status":"passed","testResultsByEnv":{"default":"8206d0c159c54d5c6bd4c1d23621f485"}}

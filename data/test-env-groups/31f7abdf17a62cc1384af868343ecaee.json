@@ -1,0 +1,1 @@
+{"id":"31f7abdf17a62cc1384af868343ecaee","fullName":"server/lib/__tests__/auth.test.ts#auth generateAccessToken should use locationId as locationIds array when locationIds is null","name":"should use locationId as locationIds array when locationIds is null","status":"passed","testResultsByEnv":{"default":"b9a6a9320356c92fc8e5c03806219c34"}}

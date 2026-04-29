@@ -1,0 +1,1 @@
+{"id":"d7560ca4748b852ba8298a60851c06db","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 403 for org_admin role","name":"returns 403 for org_admin role","status":"passed","testResultsByEnv":{"default":"e5f490d321c1b69186a8ee16a7890c65"}}

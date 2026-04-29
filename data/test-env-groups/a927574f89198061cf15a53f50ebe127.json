@@ -1,0 +1,1 @@
+{"id":"a927574f89198061cf15a53f50ebe127","fullName":"client/src/pages/__tests__/form-config-editor.test.tsx#FormConfigEditorPage strips legacy phone field from selectedFields on submit when editing","name":"strips legacy phone field from selectedFields on submit when editing","status":"passed","testResultsByEnv":{"default":"81a98855273a4bbbf4f9c75df0405294"}}

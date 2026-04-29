@@ -1,0 +1,1 @@
+{"id":"3740ab8328794a496660a2d422878199","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup returns 400 when url is not a string","name":"returns 400 when url is not a string","status":"passed","testResultsByEnv":{"default":"c0c9b8cf85389e2002943abb11883486"}}

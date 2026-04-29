@@ -1,0 +1,1 @@
+{"id":"2ad89b6ac8813edb5fa2db3aee5a0857","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should update email status to sent on success","name":"should update email status to sent on success","status":"passed","testResultsByEnv":{"default":"0a94fad1ba4eaeb780f21378d5a81bc9"}}

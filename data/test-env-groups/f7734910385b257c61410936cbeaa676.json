@@ -1,0 +1,1 @@
+{"id":"f7734910385b257c61410936cbeaa676","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes POST /api/payment-plans validation edge cases returns 500 on db error during creation","name":"returns 500 on db error during creation","status":"passed","testResultsByEnv":{"default":"83390d5484823481fc06785c31f12f9e"}}

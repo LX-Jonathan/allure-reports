@@ -1,0 +1,1 @@
+{"id":"755268fcbd6e8efbc2d7e23947726033","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Eligibility Extended getEligibilityVerificationsByPatient returns empty array when no verifications","name":"returns empty array when no verifications","status":"passed","testResultsByEnv":{"default":"c3a9d685a708e0d1c1b9035f75c91512"}}

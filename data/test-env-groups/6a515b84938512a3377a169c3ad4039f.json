@@ -1,0 +1,1 @@
+{"id":"6a515b84938512a3377a169c3ad4039f","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getAllowedTransitions should return correct transitions for draft","name":"should return correct transitions for draft","status":"passed","testResultsByEnv":{"default":"639e3f12dc093e0047cfb4c9f5b420e9"}}

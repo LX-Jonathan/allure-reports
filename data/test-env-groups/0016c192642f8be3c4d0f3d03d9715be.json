@@ -1,0 +1,1 @@
+{"id":"0016c192642f8be3c4d0f3d03d9715be","fullName":"server/__tests__/lab-tests.routes.test.ts#lab-tests.routes DELETE /api/v1/aoe-lists/:id should delete an AOE list","name":"should delete an AOE list","status":"passed","testResultsByEnv":{"default":"a8f7dbac5752a42aa0533b00fe4603cf"}}

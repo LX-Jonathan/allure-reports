@@ -1,0 +1,1 @@
+{"id":"4cc84425b38854868157bf7d153a799c","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"be76b8807b6d7dd28262fab319238242"}}

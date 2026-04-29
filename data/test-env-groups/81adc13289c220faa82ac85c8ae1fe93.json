@@ -1,0 +1,1 @@
+{"id":"81adc13289c220faa82ac85c8ae1fe93","fullName":"server/services/__tests__/readinessEvaluator.test.ts#evaluatePriorAuthRules emits PA_PARTIAL_COVERAGE error when an approval misses some required CPTs","name":"emits PA_PARTIAL_COVERAGE error when an approval misses some required CPTs","status":"passed","testResultsByEnv":{"default":"19f289d42b6a18547bba7d57eccf26a5"}}

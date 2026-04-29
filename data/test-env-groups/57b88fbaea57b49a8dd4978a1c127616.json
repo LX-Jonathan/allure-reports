@@ -1,0 +1,1 @@
+{"id":"57b88fbaea57b49a8dd4978a1c127616","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#startMedicalNecessityWorker should return null when Redis is not available","name":"should return null when Redis is not available","status":"passed","testResultsByEnv":{"default":"5d6def89ac9ad6d9702807c045d2ddbd"}}

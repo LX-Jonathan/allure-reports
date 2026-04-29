@@ -1,0 +1,1 @@
+{"id":"16b086cecf7c6a5854bfc5eabcd14181","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert shows the configure link for super_admin users","name":"shows the configure link for super_admin users","status":"passed","testResultsByEnv":{"default":"4c928244579611468c724a0029e571e3"}}

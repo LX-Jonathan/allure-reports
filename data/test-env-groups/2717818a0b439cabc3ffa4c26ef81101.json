@@ -1,0 +1,1 @@
+{"id":"2717818a0b439cabc3ffa4c26ef81101","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/create-master creates master patient with SSN","name":"creates master patient with SSN","status":"passed","testResultsByEnv":{"default":"48c9121ac4233ad5478ec079ac4cb6cf"}}

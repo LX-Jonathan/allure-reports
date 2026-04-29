@@ -1,0 +1,1 @@
+{"id":"bd4bf9210d93b3abd2e4e335fd993c9b","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows an overdue badge with day count when daysOverdue > 0","name":"shows an overdue badge with day count when daysOverdue > 0","status":"passed","testResultsByEnv":{"default":"6b99dc10b8cebc3ce7c593b6cf7a7a91"}}

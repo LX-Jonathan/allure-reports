@@ -1,0 +1,1 @@
+{"id":"e58b84825b88aa38b2301bb2def1d2af","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderByNpi should return provider matching npi and parentLabId","name":"should return provider matching npi and parentLabId","status":"passed","testResultsByEnv":{"default":"861d14673e779c0d9a1467ec0e8f56d8"}}

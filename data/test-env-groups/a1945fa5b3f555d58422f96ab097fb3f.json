@@ -1,0 +1,1 @@
+{"id":"a1945fa5b3f555d58422f96ab097fb3f","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Role-based access completeness GET /fhir-connections/stats allows org_admin","name":"GET /fhir-connections/stats allows org_admin","status":"passed","testResultsByEnv":{"default":"b2618dee296d89e3df2c691ba32e97a3"}}

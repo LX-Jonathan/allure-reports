@@ -1,0 +1,1 @@
+{"id":"ff40f0cdf76eb4376ee2977267e68e8d","fullName":"client/src/components/__tests__/create-ticket-dialog.test.tsx#CreateTicketDialog does not render channel select for non-lab-staff","name":"does not render channel select for non-lab-staff","status":"passed","testResultsByEnv":{"default":"9e3e7d57897ceb4632d48cd508aa8863"}}

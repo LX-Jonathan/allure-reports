@@ -1,0 +1,1 @@
+{"id":"c37a63f4fdf0a13f7a96d1c55b269573","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: mfa_ticket_invalid","name":"es: mfa_ticket_invalid","status":"passed","testResultsByEnv":{"default":"8c3de11da58b76b9086310229abcd757"}}

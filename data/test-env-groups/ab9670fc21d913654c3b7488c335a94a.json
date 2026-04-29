@@ -1,0 +1,1 @@
+{"id":"ab9670fc21d913654c3b7488c335a94a","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan createBulkScanItems returns empty array for empty input","name":"returns empty array for empty input","status":"passed","testResultsByEnv":{"default":"67324ce70fd39ad2caae74dc235b2e8a"}}

@@ -1,0 +1,1 @@
+{"id":"bb0fbe679bdf187979ba18521a0eb5b7","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext role detection detects super_admin role","name":"detects super_admin role","status":"passed","testResultsByEnv":{"default":"66eeaf577601909e7670bdc2d5c399df"}}

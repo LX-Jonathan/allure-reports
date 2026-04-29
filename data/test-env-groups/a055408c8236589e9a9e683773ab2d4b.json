@@ -1,0 +1,1 @@
+{"id":"a055408c8236589e9a9e683773ab2d4b","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batch-action returns 200 with filtered itemIds when provided","name":"returns 200 with filtered itemIds when provided","status":"passed","testResultsByEnv":{"default":"cbbb113924e4c4e04f7af19a01b7ba95"}}

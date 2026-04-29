@@ -1,0 +1,1 @@
+{"id":"49a4b34639912ea6ac84964757ceb8e9","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /ai-lookup returns 500 when AI response is invalid JSON","name":"returns 500 when AI response is invalid JSON","status":"passed","testResultsByEnv":{"default":"2b568c32cfba067c8fc376ae6de9d490"}}

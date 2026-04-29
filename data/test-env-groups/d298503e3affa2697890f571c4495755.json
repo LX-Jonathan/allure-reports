@@ -1,0 +1,1 @@
+{"id":"d298503e3affa2697890f571c4495755","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService canTransition should return true for valid transition from draft to pending","name":"should return true for valid transition from draft to pending","status":"passed","testResultsByEnv":{"default":"f847e86260775fca0b79e169ec3e6d38"}}

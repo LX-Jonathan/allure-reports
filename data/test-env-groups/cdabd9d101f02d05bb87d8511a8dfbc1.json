@@ -1,0 +1,1 @@
+{"id":"cdabd9d101f02d05bb87d8511a8dfbc1","fullName":"server/lib/__tests__/guarantor-access.test.ts#inferRequiredScopeFromAction maps 'payments_history_view' -> billing","name":"maps 'payments_history_view' -> billing","status":"passed","testResultsByEnv":{"default":"868397e43bf9ace87b7486dee53eb944"}}

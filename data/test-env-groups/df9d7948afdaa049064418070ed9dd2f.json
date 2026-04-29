@@ -1,0 +1,1 @@
+{"id":"df9d7948afdaa049064418070ed9dd2f","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:id/status (Staff Portal - Update Kit Status) returns 200 when kit status is updated","name":"returns 200 when kit status is updated","status":"passed","testResultsByEnv":{"default":"4925648fae68628b985fc415de024dee"}}

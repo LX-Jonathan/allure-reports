@@ -1,0 +1,1 @@
+{"id":"373713241f11e911c984f14ddea4a6fb","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id/deny returns 200 on successful denial","name":"returns 200 on successful denial","status":"passed","testResultsByEnv":{"default":"cef5bc390096decb401e3f7917304260"}}

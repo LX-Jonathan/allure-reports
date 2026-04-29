@@ -1,0 +1,1 @@
+{"id":"16abafb922c67063be595f8a2d44e615","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"261d58cefd74d2698e076d901dd17b13"}}

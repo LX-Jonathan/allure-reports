@@ -1,0 +1,1 @@
+{"id":"52e8c15b0d3b784f82fe3e36496635eb","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/claims/:claimId/resolve returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"fe438adccca0647e9b9542bc22ea557b"}}

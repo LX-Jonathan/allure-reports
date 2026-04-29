@@ -1,0 +1,1 @@
+{"id":"22bd44ad6c2e06002498bed22f186efe","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requirePermission should return 403 when required permission is missing","name":"should return 403 when required permission is missing","status":"passed","testResultsByEnv":{"default":"bd51cc69aec85b0d060ab278d8ef5cb8"}}

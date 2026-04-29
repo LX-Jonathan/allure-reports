@@ -1,0 +1,1 @@
+{"id":"6bc7be768fae8f94064259e05d2d28af","fullName":"client/src/pages/__tests__/forgot-password.test.tsx#ForgotPasswordPage calls authenticatedFetch with POST on valid submit","name":"calls authenticatedFetch with POST on valid submit","status":"passed","testResultsByEnv":{"default":"80f29a4bdb974cac1123e5a399be394a"}}

@@ -1,0 +1,1 @@
+{"id":"eeef45d010b56c106ee5f3ce36ca5817","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id/approve allows admin role","name":"allows admin role","status":"passed","testResultsByEnv":{"default":"3625ff45cadf47220f6aaae307c4faa3"}}

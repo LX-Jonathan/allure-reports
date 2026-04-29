@@ -1,0 +1,1 @@
+{"id":"5b59afbf5ba9657c8b6c1e13aae91ae8","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is not configured getEligibilityQueue should return null","name":"getEligibilityQueue should return null","status":"passed","testResultsByEnv":{"default":"16602cabaf701e7526978580d1953b8d"}}

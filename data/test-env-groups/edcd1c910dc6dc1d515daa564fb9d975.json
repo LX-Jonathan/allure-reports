@@ -1,0 +1,1 @@
+{"id":"edcd1c910dc6dc1d515daa564fb9d975","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /invoices/:invoiceId returns 200 on success","name":"returns 200 on success","status":"passed","testResultsByEnv":{"default":"d6d844499c679ca99678bc9d36e1f9f5"}}

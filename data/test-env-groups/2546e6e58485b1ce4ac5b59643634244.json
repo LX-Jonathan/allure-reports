@@ -1,0 +1,1 @@
+{"id":"2546e6e58485b1ce4ac5b59643634244","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes POST /api/v1/billing-resolution/accounts returns 403 when non-super_admin tries to create","name":"returns 403 when non-super_admin tries to create","status":"passed","testResultsByEnv":{"default":"693010a68f1e603e77fdfa85a429c48d"}}

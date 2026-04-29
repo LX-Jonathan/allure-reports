@@ -1,0 +1,1 @@
+{"id":"82f93290852d39e58ef9ad3ec014f501","fullName":"client/src/pages/__tests__/marketplace-preview.test.tsx#MarketplacePreviewPage falls back to the default 'Gallery' title when no gallery section is present","name":"falls back to the default 'Gallery' title when no gallery section is present","status":"passed","testResultsByEnv":{"default":"cc0bd0852509c742d46581feedd9a492"}}

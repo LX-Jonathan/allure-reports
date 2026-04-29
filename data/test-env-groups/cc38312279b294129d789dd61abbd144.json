@@ -1,0 +1,1 @@
+{"id":"cc38312279b294129d789dd61abbd144","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanyById returns company with org when found","name":"returns company with org when found","status":"passed","testResultsByEnv":{"default":"fcb1074db0a8ceecc1bf1e2dfd726c2e"}}

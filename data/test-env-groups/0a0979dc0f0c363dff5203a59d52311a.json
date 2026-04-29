@@ -1,0 +1,1 @@
+{"id":"0a0979dc0f0c363dff5203a59d52311a","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes POST /api/v1/favorites returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"f4f818cbc155583ccdf163cf3fc97594"}}

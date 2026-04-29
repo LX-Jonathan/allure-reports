@@ -1,0 +1,1 @@
+{"id":"8a6d3e909e8b5bacc758ba96e5a772ae","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy Error handling - DB rejections propagate createLocation throws when db.insert rejects","name":"createLocation throws when db.insert rejects","status":"passed","testResultsByEnv":{"default":"0c84c93e0df1727b78045950fa868c15"}}

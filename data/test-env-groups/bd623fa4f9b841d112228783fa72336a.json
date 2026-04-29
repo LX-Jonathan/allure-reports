@@ -1,0 +1,1 @@
+{"id":"bd623fa4f9b841d112228783fa72336a","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessForTextExtraction should apply sharpen and denoise when highQuality is true","name":"should apply sharpen and denoise when highQuality is true","status":"passed","testResultsByEnv":{"default":"5eaed4ad376d4e109c50218b4138d032"}}

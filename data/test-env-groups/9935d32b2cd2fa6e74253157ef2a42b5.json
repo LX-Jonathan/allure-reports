@@ -1,0 +1,1 @@
+{"id":"9935d32b2cd2fa6e74253157ef2a42b5","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes DELETE /api/v1/order-intake/pending-jobs/:jobId should succeed even when redis not configured","name":"should succeed even when redis not configured","status":"passed","testResultsByEnv":{"default":"1a886820eafecd27141934fa628013c3"}}

@@ -1,0 +1,1 @@
+{"id":"6586e74119ec31ab344f6c8508964d54","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/alert-history should cap limit at 200","name":"should cap limit at 200","status":"passed","testResultsByEnv":{"default":"df30616b6929c01da0826442d4ed128a"}}

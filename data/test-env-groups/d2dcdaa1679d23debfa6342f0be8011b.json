@@ -1,0 +1,1 @@
+{"id":"d2dcdaa1679d23debfa6342f0be8011b","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes DELETE /api/v1/providers/:id returns 404 when provider not found","name":"returns 404 when provider not found","status":"passed","testResultsByEnv":{"default":"a3ede0faa9cf3215e71de07ec0c389b4"}}

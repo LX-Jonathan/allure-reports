@@ -1,0 +1,1 @@
+{"id":"e81b6bdebbd00de3edd1a1766e70d04e","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync isAthenaConfigured should return true when all AWS credentials are configured","name":"should return true when all AWS credentials are configured","status":"passed","testResultsByEnv":{"default":"2aab8fa48780f26b0eafb635d2a51281"}}

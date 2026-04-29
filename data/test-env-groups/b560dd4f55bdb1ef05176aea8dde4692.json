@@ -1,0 +1,1 @@
+{"id":"b560dd4f55bdb1ef05176aea8dde4692","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanDriversLicense should throw error when API call fails","name":"should throw error when API call fails","status":"passed","testResultsByEnv":{"default":"f54786d6b8b4e22c4b77bb1a2b3ff37a"}}

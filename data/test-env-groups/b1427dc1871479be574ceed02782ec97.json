@@ -1,0 +1,1 @@
+{"id":"b1427dc1871479be574ceed02782ec97","fullName":"server/workers/__tests__/scan-order.worker.test.ts#startScanOrderWorker event handlers should trigger completed event handler without throwing","name":"should trigger completed event handler without throwing","status":"passed","testResultsByEnv":{"default":"93698992df448c4de1270495126131ee"}}

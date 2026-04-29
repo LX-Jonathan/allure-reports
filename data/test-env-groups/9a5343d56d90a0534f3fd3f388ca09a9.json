@@ -1,0 +1,1 @@
+{"id":"9a5343d56d90a0534f3fd3f388ca09a9","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should return null for undefined header","name":"should return null for undefined header","status":"passed","testResultsByEnv":{"default":"7bf00cb805bad27c5868f6cd0dbb4b55"}}

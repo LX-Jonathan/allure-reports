@@ -1,0 +1,1 @@
+{"id":"c3b251aee1ee187703ded403fd5595ad","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes PATCH /api/v1/biometrics/:id returns 403 for user without required role","name":"returns 403 for user without required role","status":"passed","testResultsByEnv":{"default":"b73418ed58db25c8469d1ccd4f6646f8"}}

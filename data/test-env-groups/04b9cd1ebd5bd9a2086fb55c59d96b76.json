@@ -1,0 +1,1 @@
+{"id":"04b9cd1ebd5bd9a2086fb55c59d96b76","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes POST /api/fee-schedules returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"f3ffd4acefc11b779b49b5117189a539"}}

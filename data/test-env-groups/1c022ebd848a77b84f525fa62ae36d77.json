@@ -1,0 +1,1 @@
+{"id":"1c022ebd848a77b84f525fa62ae36d77","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings patientToFhir maps basic patient data to FHIR Patient resource","name":"maps basic patient data to FHIR Patient resource","status":"passed","testResultsByEnv":{"default":"54ab9c2b9fff866774237a8e0dec0fcb"}}

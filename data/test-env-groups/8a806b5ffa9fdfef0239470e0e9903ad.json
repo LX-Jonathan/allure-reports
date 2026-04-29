@@ -1,0 +1,1 @@
+{"id":"8a806b5ffa9fdfef0239470e0e9903ad","fullName":"server/lib/__tests__/email.test.ts#email sendEmail logs email and returns true when SendGrid is not configured","name":"logs email and returns true when SendGrid is not configured","status":"passed","testResultsByEnv":{"default":"03b0b60d9cfae804f36a00ceb78b91fa"}}

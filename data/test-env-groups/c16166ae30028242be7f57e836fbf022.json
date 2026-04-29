@@ -1,0 +1,1 @@
+{"id":"c16166ae30028242be7f57e836fbf022","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Biometrics getBiometricById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"f9e3abb60b7fc635dda26b46cda96ffe"}}

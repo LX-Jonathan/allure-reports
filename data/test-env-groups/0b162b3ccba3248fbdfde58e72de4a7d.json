@@ -1,0 +1,1 @@
+{"id":"0b162b3ccba3248fbdfde58e72de4a7d","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq isBullMQConfigured should return false when both env vars are not set","name":"should return false when both env vars are not set","status":"passed","testResultsByEnv":{"default":"7a0a8cf13e6245cd0f51263e26adf431"}}

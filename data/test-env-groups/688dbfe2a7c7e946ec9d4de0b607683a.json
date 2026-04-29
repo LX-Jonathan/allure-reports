@@ -1,0 +1,1 @@
+{"id":"688dbfe2a7c7e946ec9d4de0b607683a","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should return default mask when extra characters cause more than 9 digits","name":"should return default mask when extra characters cause more than 9 digits","status":"passed","testResultsByEnv":{"default":"c1412e464184d43c09abcfe05d1f87ef"}}

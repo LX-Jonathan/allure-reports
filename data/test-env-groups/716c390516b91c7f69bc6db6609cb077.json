@@ -1,0 +1,1 @@
+{"id":"716c390516b91c7f69bc6db6609cb077","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances eligibilityCache should be configured with prefix 'eligibility' and TTL 3600","name":"eligibilityCache should be configured with prefix 'eligibility' and TTL 3600","status":"passed","testResultsByEnv":{"default":"e5c62622a443763848756c9c561c99ab"}}

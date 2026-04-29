@@ -1,0 +1,1 @@
+{"id":"d002cbb61996f40cf65d90551d3cd989","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets returns 403 when org not found","name":"returns 403 when org not found","status":"passed","testResultsByEnv":{"default":"3082db29302e08f6e9241c782c85529b"}}

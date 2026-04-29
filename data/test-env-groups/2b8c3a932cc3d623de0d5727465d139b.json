@@ -1,0 +1,1 @@
+{"id":"2b8c3a932cc3d623de0d5727465d139b","fullName":"server/routes/__tests__/enterprise-scheduling.routes.test.ts#Enterprise Scheduling Routes GET /api/enterprise-scheduling/waitlist returns 500 when storage throws","name":"returns 500 when storage throws","status":"passed","testResultsByEnv":{"default":"6a68a10a638d148287290063bbbcb5ce"}}

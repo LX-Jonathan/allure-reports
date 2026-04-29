@@ -1,0 +1,1 @@
+{"id":"7fce4d80170984113f9d738356fa4a48","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/insurance should return 404 if order not found","name":"should return 404 if order not found","status":"passed","testResultsByEnv":{"default":"ebddd87b9e9afdc4add08da432af282b"}}

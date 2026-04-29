@@ -1,0 +1,1 @@
+{"id":"fa31f96357374ce1f8fac7f05a167741","fullName":"client/src/components/patient/__tests__/portal-tab.test.tsx#PortalTab renders org link with Unknown when no requestMethod","name":"renders org link with Unknown when no requestMethod","status":"passed","testResultsByEnv":{"default":"5202de112c990d9bff6ead88d0b17d2b"}}

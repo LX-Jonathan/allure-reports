@@ -1,0 +1,1 @@
+{"id":"40b6fa829435a6099c2231985f2f9e43","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes Private IP range blocking (isPrivateIP branches) blocks 240.0.0.1 (240+ reserved range) via IP literal","name":"blocks 240.0.0.1 (240+ reserved range) via IP literal","status":"passed","testResultsByEnv":{"default":"0ec1896a8782c115b86bc8e9053d0885"}}

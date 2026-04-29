@@ -1,0 +1,1 @@
+{"id":"80c1eb2dd9aa6dbc6e5851beb14e76ce","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should accept valid month values 1-12","name":"should accept valid month values 1-12","status":"passed","testResultsByEnv":{"default":"5bbad477be0e18655bd93c854bbed2ed"}}

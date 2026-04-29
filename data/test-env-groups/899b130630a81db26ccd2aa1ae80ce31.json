@@ -1,0 +1,1 @@
+{"id":"899b130630a81db26ccd2aa1ae80ce31","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications createProvider should insert provider and return it","name":"should insert provider and return it","status":"passed","testResultsByEnv":{"default":"e78ef9c9865603674d197147c5b8cff2"}}

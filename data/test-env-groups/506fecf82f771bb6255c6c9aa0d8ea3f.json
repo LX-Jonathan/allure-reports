@@ -1,0 +1,1 @@
+{"id":"506fecf82f771bb6255c6c9aa0d8ea3f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-lookup (additional edge cases) returns 500 when fetch throws","name":"returns 500 when fetch throws","status":"passed","testResultsByEnv":{"default":"3721d850505635bb349435fe0fe8927a"}}

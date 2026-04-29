@@ -1,0 +1,1 @@
+{"id":"0cb5a9930cbc85b47e550d3c89a3ddd3","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate/email should return 401 when not authenticated","name":"should return 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"dfa0f3723b842e87d21d59e9cfdb1744"}}

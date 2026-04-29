@@ -1,0 +1,1 @@
+{"id":"a6dc93df4a179e5be4339230f346db6b","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/:id/compliance-check returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"5377343a148804aec041d0fb99493a64"}}

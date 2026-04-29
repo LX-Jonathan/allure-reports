@@ -1,0 +1,1 @@
+{"id":"2ede59214611d0f06c0a13a1c8215a14","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers (additional edge cases) returns 400 when org belongs to different superOrg","name":"returns 400 when org belongs to different superOrg","status":"passed","testResultsByEnv":{"default":"7eaa9bdd1855fe9a6a2d2a3e04129aac"}}

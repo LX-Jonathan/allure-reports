@@ -1,0 +1,1 @@
+{"id":"b1b5226d1ddae80958e2403a4d4e488e","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/messages should return 200 for assigned user","name":"should return 200 for assigned user","status":"passed","testResultsByEnv":{"default":"f2ed1333d1588f0af4b6296c9f340cdb"}}

@@ -1,0 +1,1 @@
+{"id":"c377e19051d3a18e5d29cd45bf895873","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/workflow-type returns 400 when errorType is missing","name":"returns 400 when errorType is missing","status":"passed","testResultsByEnv":{"default":"7ea45906a39a3bb3fb26a59331f85ba9"}}

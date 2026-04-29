@@ -1,0 +1,1 @@
+{"id":"2c365b9ab438ace13a7678de22b76865","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker startDataImportWorker should create a worker with DATA_IMPORT queue and concurrency 2","name":"should create a worker with DATA_IMPORT queue and concurrency 2","status":"passed","testResultsByEnv":{"default":"6cf6748ea173d872aa57ef2571ca6e1c"}}

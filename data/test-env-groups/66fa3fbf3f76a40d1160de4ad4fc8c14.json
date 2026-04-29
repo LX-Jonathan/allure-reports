@@ -1,0 +1,1 @@
+{"id":"66fa3fbf3f76a40d1160de4ad4fc8c14","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /companies/:id/logo rejects invalid file types","name":"rejects invalid file types","status":"passed","testResultsByEnv":{"default":"72f36460685dfac6f9e8e53214d41f03"}}

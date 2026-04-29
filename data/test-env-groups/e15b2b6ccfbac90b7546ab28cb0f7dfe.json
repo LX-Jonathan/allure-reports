@@ -1,0 +1,1 @@
+{"id":"e15b2b6ccfbac90b7546ab28cb0f7dfe","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/batch-action returns 200 with patient IDs for valid action","name":"returns 200 with patient IDs for valid action","status":"passed","testResultsByEnv":{"default":"9496a251baf53296275a377c1365d074"}}

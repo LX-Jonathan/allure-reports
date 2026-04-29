@@ -1,0 +1,1 @@
+{"id":"4dc6638254c514aff2b8f885359c8f40","fullName":"server/routes/__tests__/manual-payments-refund-credit.routes.test.ts#Manual Payments — refund-credit endpoint 403 when the user lacks staff role","name":"403 when the user lacks staff role","status":"passed","testResultsByEnv":{"default":"208b7a5213a0601fac4a5cbd3ae33a73"}}

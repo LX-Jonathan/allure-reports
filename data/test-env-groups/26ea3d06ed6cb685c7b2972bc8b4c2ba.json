@@ -1,0 +1,1 @@
+{"id":"26ea3d06ed6cb685c7b2972bc8b4c2ba","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes POST /api/v1/users/invite returns 500 when reactivation fails","name":"returns 500 when reactivation fails","status":"passed","testResultsByEnv":{"default":"3a213e5409fc2ea09fc19e417513f518"}}

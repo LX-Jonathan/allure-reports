@@ -1,0 +1,1 @@
+{"id":"3ece5e76fafb54438698e9832df7c31b","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes PUT /locations/:id/providers returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"91bb470f3e3d7a82d0ef2a1fda6a7819"}}

@@ -1,0 +1,1 @@
+{"id":"27aa914a0fc6c222bb6cfd5a8ec3a341","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendEmail per-lab consent guardrail allows non-transactional sends when consent is granted","name":"allows non-transactional sends when consent is granted","status":"passed","testResultsByEnv":{"default":"d076968dcdbb6a807de037bf1026a7aa"}}

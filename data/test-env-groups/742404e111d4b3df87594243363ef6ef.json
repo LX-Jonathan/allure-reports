@@ -1,0 +1,1 @@
+{"id":"742404e111d4b3df87594243363ef6ef","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth token refresh lifecycle initializes token refresh when authenticated","name":"initializes token refresh when authenticated","status":"passed","testResultsByEnv":{"default":"8a6c9cee0fddd83014a81db5e0f9d8f5"}}

@@ -1,0 +1,1 @@
+{"id":"03ed0bd9dcd26fedb7bddfeb24e64498","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /reports/open-claim-denials returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"9ed2184076862d37fc4f937842ccf382"}}

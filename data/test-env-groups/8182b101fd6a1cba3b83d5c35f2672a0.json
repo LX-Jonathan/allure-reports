@@ -1,0 +1,1 @@
+{"id":"8182b101fd6a1cba3b83d5c35f2672a0","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when filter validation fails to fetch options","name":"should return 400 when filter validation fails to fetch options","status":"passed","testResultsByEnv":{"default":"2722a6da6d551a64de82610b041a3e71"}}

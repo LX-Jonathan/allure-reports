@@ -1,0 +1,1 @@
+{"id":"abdf11ccd23f57531104ecd7cb621e07","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes DELETE /api/v1/lab-tests/compendium-configs/:id returns 404 when config not found","name":"returns 404 when config not found","status":"passed","testResultsByEnv":{"default":"c966708c9292746b7c926748ea4cdf37"}}

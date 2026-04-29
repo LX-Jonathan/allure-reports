@@ -1,0 +1,1 @@
+{"id":"01ca5c6130df3d50445b48021eb9f7fd","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes POST /api/v1/master-patients/create-master returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"67b5138d3ec4414bcd65a691743f2a62"}}

@@ -1,0 +1,1 @@
+{"id":"8c6f64939b2ac4eb3bf8f0a2ab8e8d5a","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/org-detail/:labId returns 200 with org detail data","name":"returns 200 with org detail data","status":"passed","testResultsByEnv":{"default":"11688854d13847905aa8124c247373ad"}}

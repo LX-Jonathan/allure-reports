@@ -1,0 +1,1 @@
+{"id":"9bd2eab3e77c497186c77b4d63f584b1","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#submitToPayer should log activity on clearinghouse submission failure","name":"should log activity on clearinghouse submission failure","status":"passed","testResultsByEnv":{"default":"3547622758c5f5ca64125ed3f37c5ceb"}}

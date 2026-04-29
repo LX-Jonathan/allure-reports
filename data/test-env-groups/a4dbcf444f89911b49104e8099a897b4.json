@@ -1,0 +1,1 @@
+{"id":"a4dbcf444f89911b49104e8099a897b4","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch includes CSRF token for POST requests","name":"includes CSRF token for POST requests","status":"passed","testResultsByEnv":{"default":"a44d430a5bb58bb098685d457561caee"}}

@@ -1,0 +1,1 @@
+{"id":"8aaf5903f9b8a61bf01165dd3d455e06","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore set should ceil the ttl value from maxAge","name":"should ceil the ttl value from maxAge","status":"passed","testResultsByEnv":{"default":"8b1d58f2aed7391422bfd31f2580e9b1"}}

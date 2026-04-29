@@ -1,0 +1,1 @@
+{"id":"d57d61c3b6d0602349856b99191a096b","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances catalogCache should be configured with prefix 'catalog' and TTL 300","name":"catalogCache should be configured with prefix 'catalog' and TTL 300","status":"passed","testResultsByEnv":{"default":"d8ecfe43934d26345146f8b2ba0adcd9"}}

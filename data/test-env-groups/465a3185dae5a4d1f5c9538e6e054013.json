@@ -1,0 +1,1 @@
+{"id":"465a3185dae5a4d1f5c9538e6e054013","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/from-intake returns 400 when location ID is invalid UUID","name":"returns 400 when location ID is invalid UUID","status":"passed","testResultsByEnv":{"default":"ffb68b9ab4aece086119abda442a8a6e"}}

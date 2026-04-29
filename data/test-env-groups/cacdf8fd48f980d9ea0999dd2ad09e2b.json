@@ -1,0 +1,1 @@
+{"id":"cacdf8fd48f980d9ea0999dd2ad09e2b","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes DELETE /locations/:id returns 403 when non-full-access user has no org","name":"returns 403 when non-full-access user has no org","status":"passed","testResultsByEnv":{"default":"3bd658bd23134d061795a15a90613890"}}

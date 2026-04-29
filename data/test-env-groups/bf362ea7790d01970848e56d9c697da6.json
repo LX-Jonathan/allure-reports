@@ -1,0 +1,1 @@
+{"id":"bf362ea7790d01970848e56d9c697da6","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:patientId/insurance/:insuranceId returns 404 when updatePatientInsurance returns null","name":"returns 404 when updatePatientInsurance returns null","status":"passed","testResultsByEnv":{"default":"7f9413fd132f6a9a1c7ff0ac546f400a"}}

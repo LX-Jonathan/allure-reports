@@ -1,0 +1,1 @@
+{"id":"004908e3a74fcc0c82bd3dc01221565b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/alert-rules should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"36a668b5bfc76573d6f9c22259e783af"}}

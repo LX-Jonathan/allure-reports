@@ -1,0 +1,1 @@
+{"id":"1822d6ffeab9c6171409cdddd9a2fc6d","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload uses default physician values when provider is missing","name":"uses default physician values when provider is missing","status":"passed","testResultsByEnv":{"default":"b50ce3aa77211dd52c9b699f2c107919"}}

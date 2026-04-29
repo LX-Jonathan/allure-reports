@@ -1,0 +1,1 @@
+{"id":"65a72d6fbb4f5f8fb12c0d4bebda2ea7","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes POST /manage/import-trading-partners returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"b29c71b6c4981f3453dcd69a85a8ed2c"}}

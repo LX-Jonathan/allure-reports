@@ -1,0 +1,1 @@
+{"id":"3385a07d177909c5168a921ba91034f3","fullName":"server/lib/__tests__/marketplace-website-scraper.test.ts#marketplace-website-scraper extractImagesFromHtml excludes logos when picking heroCandidate","name":"excludes logos when picking heroCandidate","status":"passed","testResultsByEnv":{"default":"196433eef3e49dcd1643d4f6ecbbf1c7"}}

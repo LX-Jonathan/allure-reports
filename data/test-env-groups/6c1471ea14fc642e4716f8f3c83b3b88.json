@@ -1,0 +1,1 @@
+{"id":"6c1471ea14fc642e4716f8f3c83b3b88","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/favorites creates favorite without optional displayName and displayCode","name":"creates favorite without optional displayName and displayCode","status":"passed","testResultsByEnv":{"default":"77c29c8631cfe79fbcf366ae5676c954"}}

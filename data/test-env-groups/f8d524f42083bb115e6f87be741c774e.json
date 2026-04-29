@@ -1,0 +1,1 @@
+{"id":"f8d524f42083bb115e6f87be741c774e","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should fail when FRHC config is not found","name":"should fail when FRHC config is not found","status":"passed","testResultsByEnv":{"default":"9506a508c5d9e338f20659f6f602e4da"}}

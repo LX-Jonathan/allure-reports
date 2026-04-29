@@ -1,0 +1,1 @@
+{"id":"2396953788f43f900e3a6621564b021d","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logJobStart should log info with fileName and stage upload","name":"should log info with fileName and stage upload","status":"passed","testResultsByEnv":{"default":"861ff51fd4a02a8f4bca144f23785b3c"}}

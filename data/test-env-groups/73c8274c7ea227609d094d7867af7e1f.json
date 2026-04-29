@@ -1,0 +1,1 @@
+{"id":"73c8274c7ea227609d094d7867af7e1f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /summary returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"adf30aa9011e92191c8b8ae077d5f701"}}

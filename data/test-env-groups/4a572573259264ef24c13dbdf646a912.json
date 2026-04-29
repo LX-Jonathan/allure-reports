@@ -1,0 +1,1 @@
+{"id":"4a572573259264ef24c13dbdf646a912","fullName":"server/services/__tests__/ocrArtifacts.service.test.ts#ocrArtifacts.service storeExtractedData should return null when R2 is not configured","name":"should return null when R2 is not configured","status":"passed","testResultsByEnv":{"default":"c1c3b603cae568d0b140e10ee8efe4d8"}}

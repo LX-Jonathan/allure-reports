@@ -1,0 +1,1 @@
+{"id":"918f7f5bd221d6f553dd5724fc20063c","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/labs/:orgId returns organization detail","name":"returns organization detail","status":"passed","testResultsByEnv":{"default":"c8931724fa9ccb6ca0604e5a31ba705a"}}

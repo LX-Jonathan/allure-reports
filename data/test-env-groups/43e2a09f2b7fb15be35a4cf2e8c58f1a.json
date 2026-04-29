@@ -1,0 +1,1 @@
+{"id":"43e2a09f2b7fb15be35a4cf2e8c58f1a","fullName":"client/src/components/patient/__tests__/pre-save-verification-dialog.test.tsx#PreSaveVerificationDialog calls onSkipDemographics from skip button","name":"calls onSkipDemographics from skip button","status":"passed","testResultsByEnv":{"default":"dddbabe4256b05104bc62629f29aed2f"}}

@@ -1,0 +1,1 @@
+{"id":"6c918e7f3c16fa277bdc5f858fa5589b","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies returns 400 on validation error - missing code","name":"returns 400 on validation error - missing code","status":"passed","testResultsByEnv":{"default":"b1d955d3c7f6ff6e33d7417d31194c58"}}

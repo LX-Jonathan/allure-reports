@@ -1,0 +1,1 @@
+{"id":"6d29b239c9518970e551b01a00735311","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService queueReportExecution should return error when queue not configured","name":"should return error when queue not configured","status":"passed","testResultsByEnv":{"default":"3320ee59f84974bb5d86f22ea6d5706a"}}

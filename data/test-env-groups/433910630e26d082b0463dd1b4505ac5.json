@@ -1,0 +1,1 @@
+{"id":"433910630e26d082b0463dd1b4505ac5","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker edge cases plan year extraction should set plan year fields to null when coverage info is absent","name":"should set plan year fields to null when coverage info is absent","status":"passed","testResultsByEnv":{"default":"6dc134808d924d63ff9ad02f843bf6bb"}}

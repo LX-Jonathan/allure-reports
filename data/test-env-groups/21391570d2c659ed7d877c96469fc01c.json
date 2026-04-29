@@ -1,0 +1,1 @@
+{"id":"21391570d2c659ed7d877c96469fc01c","fullName":"server/__tests__/storage-results.test.ts#DatabaseStorage - Lab Results getLabResultsByPatientId should return results for patient ordered by receivedAt desc","name":"should return results for patient ordered by receivedAt desc","status":"passed","testResultsByEnv":{"default":"3cc03b90df2d86f9426644c1576febf4"}}

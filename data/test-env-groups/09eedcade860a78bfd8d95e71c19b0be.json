@@ -1,0 +1,1 @@
+{"id":"09eedcade860a78bfd8d95e71c19b0be","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes GET /templates/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"ececfe970e8dbf2c78ea30221c18d2e7"}}

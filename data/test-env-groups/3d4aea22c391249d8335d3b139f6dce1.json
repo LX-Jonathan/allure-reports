@@ -1,0 +1,1 @@
+{"id":"3d4aea22c391249d8335d3b139f6dce1","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generateEmailVerificationToken should generate 32-byte token","name":"should generate 32-byte token","status":"passed","testResultsByEnv":{"default":"04a3f89b66954f4ac360c5b0d16b93a5"}}

@@ -1,0 +1,1 @@
+{"id":"5fa37c20662519a47d7fa2f2e702eade","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders returns empty when location-level user has no locations","name":"returns empty when location-level user has no locations","status":"passed","testResultsByEnv":{"default":"af3bb27b9020a4776e163823880cbfba"}}

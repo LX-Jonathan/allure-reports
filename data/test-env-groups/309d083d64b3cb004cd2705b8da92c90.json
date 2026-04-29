@@ -1,0 +1,1 @@
+{"id":"309d083d64b3cb004cd2705b8da92c90","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /drivers-license returns 400 when no file is uploaded","name":"returns 400 when no file is uploaded","status":"passed","testResultsByEnv":{"default":"040b4d245fd50518ee060e6559626cbd"}}

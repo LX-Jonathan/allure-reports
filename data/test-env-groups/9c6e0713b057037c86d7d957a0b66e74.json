@@ -1,0 +1,1 @@
+{"id":"9c6e0713b057037c86d7d957a0b66e74","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service cropRegion should propagate sharp errors for invalid regions","name":"should propagate sharp errors for invalid regions","status":"passed","testResultsByEnv":{"default":"66f6e9a11b348ab08fc04d800ee51bff"}}

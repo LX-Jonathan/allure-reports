@@ -1,0 +1,1 @@
+{"id":"9158ddb4d5fb815276df70115ce09f5b","fullName":"client/src/hooks/__tests__/useZebraLabel.test.ts#useZebraLabel checkEnvironment parses only height when PRINT WIDTH is missing","name":"checkEnvironment parses only height when PRINT WIDTH is missing","status":"passed","testResultsByEnv":{"default":"17bba76391df84e233b974d38f57811c"}}

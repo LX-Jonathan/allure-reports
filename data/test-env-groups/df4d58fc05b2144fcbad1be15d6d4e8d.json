@@ -1,0 +1,1 @@
+{"id":"df4d58fc05b2144fcbad1be15d6d4e8d","fullName":"client/src/components/__tests__/tenant-selector.test.tsx#TenantSelector selects super-org item via handleDraftSuperOrgSelect for superadmin","name":"selects super-org item via handleDraftSuperOrgSelect for superadmin","status":"passed","testResultsByEnv":{"default":"35afc9ffad26b54b363f4d1a7c4969ac"}}

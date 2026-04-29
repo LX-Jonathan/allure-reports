@@ -1,0 +1,1 @@
+{"id":"b7e71723987f323cd142a59b45a5bf90","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings mapFhirStatusToOrder maps draft to draft","name":"maps draft to draft","status":"passed","testResultsByEnv":{"default":"2e0c51a2e4e56ee40452f2efa98917f9"}}

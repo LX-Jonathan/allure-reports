@@ -1,0 +1,1 @@
+{"id":"22aed6b75d567f36937cbb55816861d7","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 400 for validation error (missing name)","name":"returns 400 for validation error (missing name)","status":"passed","testResultsByEnv":{"default":"3544645249cacfeaa85e381c64180b52"}}

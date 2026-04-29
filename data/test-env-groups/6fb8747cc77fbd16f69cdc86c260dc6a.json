@@ -1,0 +1,1 @@
+{"id":"6fb8747cc77fbd16f69cdc86c260dc6a","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should include payer name in description when provided","name":"should include payer name in description when provided","status":"passed","testResultsByEnv":{"default":"895c7324aedfcb0e0593fc57be438248"}}

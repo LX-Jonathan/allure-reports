@@ -1,0 +1,1 @@
+{"id":"f79217343ec9701116488290835dc7db","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should return empty string for null/undefined","name":"should return empty string for null/undefined","status":"passed","testResultsByEnv":{"default":"ede67a16b95061a6a0fa28818b3be4f3"}}

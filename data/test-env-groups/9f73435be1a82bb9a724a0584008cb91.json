@@ -1,0 +1,1 @@
+{"id":"9f73435be1a82bb9a724a0584008cb91","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner handles EnumDWT_ImageType fallback when IT_JPG is undefined","name":"handles EnumDWT_ImageType fallback when IT_JPG is undefined","status":"passed","testResultsByEnv":{"default":"5fece2c55ed90e8229a1b02d582e4588"}}

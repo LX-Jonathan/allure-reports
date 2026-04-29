@@ -1,0 +1,1 @@
+{"id":"2450a411bbcd9a51a85b4bcda5a5c967","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getOrderCount should apply specific location filter for location-level user when valid","name":"should apply specific location filter for location-level user when valid","status":"passed","testResultsByEnv":{"default":"b5339461508929b38e100495ba5c0716"}}

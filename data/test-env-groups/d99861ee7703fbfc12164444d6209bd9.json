@@ -1,0 +1,1 @@
+{"id":"d99861ee7703fbfc12164444d6209bd9","fullName":"client/src/components/__tests__/range-bar.test.tsx#canRenderRangeBar returns true when using refRangeLow/High","name":"returns true when using refRangeLow/High","status":"passed","testResultsByEnv":{"default":"c6f359d71b3baefd33f75969b1be4e8e"}}

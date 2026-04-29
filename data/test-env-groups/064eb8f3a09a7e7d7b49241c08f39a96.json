@@ -1,0 +1,1 @@
+{"id":"064eb8f3a09a7e7d7b49241c08f39a96","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent creates intent with order metadata when orderId is valid","name":"creates intent with order metadata when orderId is valid","status":"passed","testResultsByEnv":{"default":"ca0c790efc3fd6d32e6404c42ba6596f"}}

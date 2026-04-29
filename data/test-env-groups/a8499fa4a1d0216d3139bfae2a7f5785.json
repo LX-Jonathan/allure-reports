@@ -1,0 +1,1 @@
+{"id":"a8499fa4a1d0216d3139bfae2a7f5785","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should handle confidence exactly at threshold (0.8)","name":"should handle confidence exactly at threshold (0.8)","status":"passed","testResultsByEnv":{"default":"a82e00a886f9774d24f0dee329aabc9e"}}

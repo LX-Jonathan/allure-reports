@@ -1,0 +1,1 @@
+{"id":"0e5b0cdca07e2c6e06df61c8cd29709b","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /locations uses parentLabId from query when not on user","name":"uses parentLabId from query when not on user","status":"passed","testResultsByEnv":{"default":"51254254cb2b73b984e676afca2dd6c3"}}

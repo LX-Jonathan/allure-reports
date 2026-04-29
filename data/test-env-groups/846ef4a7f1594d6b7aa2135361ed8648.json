@@ -1,0 +1,1 @@
+{"id":"846ef4a7f1594d6b7aa2135361ed8648","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries post835RemittanceJournal should return null on error and log","name":"should return null on error and log","status":"passed","testResultsByEnv":{"default":"a2342b06bf72c543fe3310ca00fb532a"}}

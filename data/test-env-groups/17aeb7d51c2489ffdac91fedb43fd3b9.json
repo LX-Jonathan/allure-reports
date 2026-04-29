@@ -1,0 +1,1 @@
+{"id":"17aeb7d51c2489ffdac91fedb43fd3b9","fullName":"server/routes/__tests__/user-view-portal-labchat.routes.test.ts#User-view portal LabChat preview routes GET /:patientId/portal/doctalk/conversations/:conversationId/messages returns serialized messages","name":"returns serialized messages","status":"passed","testResultsByEnv":{"default":"70c8c64fff8f2422b08c11e9faadd76c"}}

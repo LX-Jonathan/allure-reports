@@ -1,0 +1,1 @@
+{"id":"fe8746dab34857ac696dd8eadb47c845","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService createScannedOrder should throw when db insert returns no result","name":"should throw when db insert returns no result","status":"passed","testResultsByEnv":{"default":"6a619746953ab8842d8bfaee415c2377"}}

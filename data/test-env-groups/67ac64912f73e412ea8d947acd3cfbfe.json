@@ -1,0 +1,1 @@
+{"id":"67ac64912f73e412ea8d947acd3cfbfe","fullName":"client/src/hooks/__tests__/useOrderFixDialogs.test.tsx#useOrderFixDialogs fixCoveragePreview starts idle and stays idle while no pending dx is picked","name":"starts idle and stays idle while no pending dx is picked","status":"passed","testResultsByEnv":{"default":"60081ef2129f00509e5d6c54a522529b"}}

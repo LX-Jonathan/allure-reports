@@ -1,0 +1,1 @@
+{"id":"c6caa98ca8857ff8ce82d9ae53fd2370","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /837/:id/validate returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"c7e31ea7852dd95ad2a5aa1c681bb8c8"}}

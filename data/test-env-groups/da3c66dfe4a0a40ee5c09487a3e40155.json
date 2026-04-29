@@ -1,0 +1,1 @@
+{"id":"da3c66dfe4a0a40ee5c09487a3e40155","fullName":"client/src/components/check-in/__tests__/WalkInDialog.test.tsx#WalkInDialog registers anyway when the user overrides the duplicate warning","name":"registers anyway when the user overrides the duplicate warning","status":"passed","testResultsByEnv":{"default":"1cee6bbf2d8f99ff5e93fc85e76268f9"}}

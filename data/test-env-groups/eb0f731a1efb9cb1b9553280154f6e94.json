@@ -1,0 +1,1 @@
+{"id":"eb0f731a1efb9cb1b9553280154f6e94","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserByEmail normalizes email to lowercase","name":"normalizes email to lowercase","status":"passed","testResultsByEnv":{"default":"bcb2ff69833ba02a32583889c0009fa4"}}

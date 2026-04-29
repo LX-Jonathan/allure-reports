@@ -1,0 +1,1 @@
+{"id":"766da2dd90fb29e45753f8db43aa649e","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets should return 200 with paginated tickets for super admin","name":"should return 200 with paginated tickets for super admin","status":"passed","testResultsByEnv":{"default":"9dfdb7ff83b5190674ecb08e931f8f15"}}

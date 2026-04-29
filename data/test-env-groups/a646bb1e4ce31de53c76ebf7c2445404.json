@@ -1,0 +1,1 @@
+{"id":"a646bb1e4ce31de53c76ebf7c2445404","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#MarketplaceEditorPage gallery URL add + position insertion rejects non-http URLs without modifying the gallery","name":"rejects non-http URLs without modifying the gallery","status":"passed","testResultsByEnv":{"default":"feadfed3c6155a35c76f43c5d72a7ea6"}}

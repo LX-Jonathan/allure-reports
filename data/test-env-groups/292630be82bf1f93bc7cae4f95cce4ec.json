@@ -1,0 +1,1 @@
+{"id":"292630be82bf1f93bc7cae4f95cce4ec","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service terminateTesseractWorker should propagate error when terminate rejects","name":"should propagate error when terminate rejects","status":"passed","testResultsByEnv":{"default":"720667b74a529a499701817e77c1d414"}}

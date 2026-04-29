@@ -1,0 +1,1 @@
+{"id":"cfdd03627756eaaa88755d340e89edbf","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check-async returns 202 on successful async check","name":"returns 202 on successful async check","status":"passed","testResultsByEnv":{"default":"4a0b29ef04159313371772b1d557a462"}}

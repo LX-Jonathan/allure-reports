@@ -1,0 +1,1 @@
+{"id":"24c87f2e99811b364b7ed70df3edfd16","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord empty data should return empty arrays for all categories when pull has no entries","name":"should return empty arrays for all categories when pull has no entries","status":"passed","testResultsByEnv":{"default":"ffcb89432a3bc9a51b075ee2103bae4c"}}

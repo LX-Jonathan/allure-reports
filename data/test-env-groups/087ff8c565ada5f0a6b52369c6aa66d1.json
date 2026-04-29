@@ -1,0 +1,1 @@
+{"id":"087ff8c565ada5f0a6b52369c6aa66d1","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/:id/confirm-mappings should confirm mappings","name":"should confirm mappings","status":"passed","testResultsByEnv":{"default":"36b84070af2f6ed3f5120a4ef2fd4691"}}

@@ -1,0 +1,1 @@
+{"id":"33a1578fdb63d87f617d4783a644001f","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode returns default when sections is null/empty","name":"returns default when sections is null/empty","status":"passed","testResultsByEnv":{"default":"3394a16da84e2bc22760fa31645fa578"}}

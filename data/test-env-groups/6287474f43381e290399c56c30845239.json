@@ -1,0 +1,1 @@
+{"id":"6287474f43381e290399c56c30845239","fullName":"client/src/lib/__tests__/queryClient.test.ts#authenticatedFetch retries with fresh CSRF on 403 for mutating request","name":"retries with fresh CSRF on 403 for mutating request","status":"passed","testResultsByEnv":{"default":"bc6c941e16877e94bb4246963adcf452"}}

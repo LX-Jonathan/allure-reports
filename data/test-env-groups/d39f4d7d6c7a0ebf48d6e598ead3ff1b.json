@@ -1,0 +1,1 @@
+{"id":"d39f4d7d6c7a0ebf48d6e598ead3ff1b","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: weak_password","name":"es: weak_password","status":"passed","testResultsByEnv":{"default":"90e7a3e076e4385b5ead4b51928f6e64"}}

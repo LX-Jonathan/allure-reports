@@ -1,0 +1,1 @@
+{"id":"42b33cb16c37142d2bdea29f0b406c2c","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Orders updateOrderStatus should update status for collected with collector info","name":"should update status for collected with collector info","status":"passed","testResultsByEnv":{"default":"b076254cc4f3892e38ef7bbc8b997e68"}}

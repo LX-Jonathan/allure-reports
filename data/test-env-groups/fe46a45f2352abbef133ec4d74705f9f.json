@@ -1,0 +1,1 @@
+{"id":"fe46a45f2352abbef133ec4d74705f9f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should omit shipping line when shippingCost is 0","name":"should omit shipping line when shippingCost is 0","status":"passed","testResultsByEnv":{"default":"5d50bc8ccd517a12f36fbca0960f0db4"}}

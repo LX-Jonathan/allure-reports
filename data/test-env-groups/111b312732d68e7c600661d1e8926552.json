@@ -1,0 +1,1 @@
+{"id":"111b312732d68e7c600661d1e8926552","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - User Invites getUserInviteByCode should return null when not found","name":"should return null when not found","status":"passed","testResultsByEnv":{"default":"a31cb16744fa4d1e8c8242054bac4ac7"}}

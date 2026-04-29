@@ -1,0 +1,1 @@
+{"id":"aedfb2552a30f5ee46f63fdfeb0a713a","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/interface-routes error handling returns 500 on API error","name":"returns 500 on API error","status":"passed","testResultsByEnv":{"default":"a268e3cbefa03cbdf4a38687b6cabd8b"}}

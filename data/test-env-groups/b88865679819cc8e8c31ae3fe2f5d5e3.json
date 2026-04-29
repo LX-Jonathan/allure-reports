@@ -1,0 +1,1 @@
+{"id":"b88865679819cc8e8c31ae3fe2f5d5e3","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode returns 'before' when only non-static sections precede the gallery","name":"returns 'before' when only non-static sections precede the gallery","status":"passed","testResultsByEnv":{"default":"4f2f3af104ab7d646f597d63ae854948"}}

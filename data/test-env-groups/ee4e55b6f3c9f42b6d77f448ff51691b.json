@@ -1,0 +1,1 @@
+{"id":"ee4e55b6f3c9f42b6d77f448ff51691b","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /drivers-license validates license number length (4-20 chars)","name":"validates license number length (4-20 chars)","status":"passed","testResultsByEnv":{"default":"b642804072fbec43eb438b1c9faf3757"}}

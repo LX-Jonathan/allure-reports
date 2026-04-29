@@ -1,0 +1,1 @@
+{"id":"c1ad69eda7b88269b6cde1c4e52c32bc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/patients/:patientId/summary returns full patient summary","name":"returns full patient summary","status":"passed","testResultsByEnv":{"default":"8856ed71bdccee625cb325586b239c89"}}

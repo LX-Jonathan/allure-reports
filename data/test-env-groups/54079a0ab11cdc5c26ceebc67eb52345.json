@@ -1,0 +1,1 @@
+{"id":"54079a0ab11cdc5c26ceebc67eb52345","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"5bdf1eb00a50a049c7740516402cb32f"}}

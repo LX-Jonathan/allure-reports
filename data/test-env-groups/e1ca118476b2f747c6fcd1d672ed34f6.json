@@ -1,0 +1,1 @@
+{"id":"e1ca118476b2f747c6fcd1d672ed34f6","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/kits/:kitId/release-results (Staff Portal - Release Results) returns 200 when results are released","name":"returns 200 when results are released","status":"passed","testResultsByEnv":{"default":"bc2c88575aed46b95c883167bd425f78"}}

@@ -1,0 +1,1 @@
+{"id":"6bef35f152e93edb2d6661665ca1f1eb","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes PATCH /api/v1/billing-resolution/accounts/:id returns 404 when account not found","name":"returns 404 when account not found","status":"passed","testResultsByEnv":{"default":"2cbe88dee60492da110c14738f2bb7f3"}}

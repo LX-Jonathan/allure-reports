@@ -1,0 +1,1 @@
+{"id":"b926edc39078f8e25af94460e4597509","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq worker event handler callbacks should log on job failed","name":"should log on job failed","status":"passed","testResultsByEnv":{"default":"442c5311d2e79057fefdbe5902b6959e"}}

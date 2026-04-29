@@ -1,0 +1,1 @@
+{"id":"521eb7efb8c7a4d2bc4476cfa6921a44","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/org-detail/:labId returns 403 for disallowed role","name":"returns 403 for disallowed role","status":"passed","testResultsByEnv":{"default":"ce215f4d8be28800c4a2faaee542199e"}}

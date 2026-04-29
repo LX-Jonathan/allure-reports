@@ -1,0 +1,1 @@
+{"id":"a2a40a3bae1899a34995328ff48941a3","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service storeFileToRedis should log CRITICAL error when verification returns null","name":"should log CRITICAL error when verification returns null","status":"passed","testResultsByEnv":{"default":"bdb130d821070f249f0573a9075ff738"}}

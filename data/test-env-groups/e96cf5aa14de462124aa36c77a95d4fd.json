@@ -1,0 +1,1 @@
+{"id":"e96cf5aa14de462124aa36c77a95d4fd","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should use buffer length as size","name":"should use buffer length as size","status":"passed","testResultsByEnv":{"default":"d673c71bafe13bfa05eeb731a521e3b9"}}

@@ -1,0 +1,1 @@
+{"id":"dee9ad3dcb7400850de34d1c1f717613","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment rejects refunding when status is not refundable","name":"rejects refunding when status is not refundable","status":"passed","testResultsByEnv":{"default":"32a47ab1c280e8211556037426750c07"}}

@@ -1,0 +1,1 @@
+{"id":"cf46f37247eef003c9b68e3d58af4703","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /hie-records applies org-level access filter for non-super-admin","name":"applies org-level access filter for non-super-admin","status":"passed","testResultsByEnv":{"default":"caa7d6d644d3b2cc477923b44569afa0"}}

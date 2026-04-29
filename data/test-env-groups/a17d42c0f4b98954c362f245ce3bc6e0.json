@@ -1,0 +1,1 @@
+{"id":"a17d42c0f4b98954c362f245ce3bc6e0","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 201 for org_admin creating config in their org","name":"returns 201 for org_admin creating config in their org","status":"passed","testResultsByEnv":{"default":"a632ac4e5084fc4fb89fb7a5a8caf311"}}

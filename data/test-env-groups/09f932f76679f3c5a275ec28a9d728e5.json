@@ -1,0 +1,1 @@
+{"id":"09f932f76679f3c5a275ec28a9d728e5","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /labs/:id returns 400 when copayVarianceThresholds is missing required fields","name":"returns 400 when copayVarianceThresholds is missing required fields","status":"passed","testResultsByEnv":{"default":"97e7f43a984cf4228ab336c4034d9721"}}

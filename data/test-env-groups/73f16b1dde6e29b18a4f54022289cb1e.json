@@ -1,0 +1,1 @@
+{"id":"73f16b1dde6e29b18a4f54022289cb1e","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId allows empty string fromEmail via Zod schema","name":"allows empty string fromEmail via Zod schema","status":"passed","testResultsByEnv":{"default":"e2c287ba43ceb2e3230b0d17ac1d4a65"}}

@@ -1,0 +1,1 @@
+{"id":"3d0780f867e6b3c9a42749782d422eaf","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should handle request without insurance","name":"should handle request without insurance","status":"passed","testResultsByEnv":{"default":"53be859b0520b3d9acd5f180503537e2"}}

@@ -1,0 +1,1 @@
+{"id":"52a6901d328eee8632f1634324141f92","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/lookup/batch returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"ad8166299aa116a7cf0341a7c51d231b"}}

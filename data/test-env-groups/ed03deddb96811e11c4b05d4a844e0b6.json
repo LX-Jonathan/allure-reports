@@ -1,0 +1,1 @@
+{"id":"ed03deddb96811e11c4b05d4a844e0b6","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service preloadClfsData does not throw when preload fails","name":"does not throw when preload fails","status":"passed","testResultsByEnv":{"default":"1f7f897a902a41a0f48498cb5ca11d44"}}

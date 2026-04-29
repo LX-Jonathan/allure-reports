@@ -1,0 +1,1 @@
+{"id":"63de956e4c621eb4af75350cbbef5ceb","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#Staff /admin endpoints staff can revoke a proxy on a patient in their super-org","name":"staff can revoke a proxy on a patient in their super-org","status":"passed","testResultsByEnv":{"default":"2d0c3fad5d03e43161520124766e3021"}}

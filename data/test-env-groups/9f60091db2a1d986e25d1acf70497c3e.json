@@ -1,0 +1,1 @@
+{"id":"9f60091db2a1d986e25d1acf70497c3e","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when account name filter is too long","name":"should return 400 when account name filter is too long","status":"passed","testResultsByEnv":{"default":"210f1810cb732efa5b66487cefe7392d"}}

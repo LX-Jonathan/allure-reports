@@ -1,0 +1,1 @@
+{"id":"08b5fc2436704e696952c288257c8833","fullName":"server/routes/__tests__/andromeda-readiness.routes.test.ts#Andromeda Readiness Routes POST /run returns 403 for location-level user when order has no locationId","name":"returns 403 for location-level user when order has no locationId","status":"passed","testResultsByEnv":{"default":"3a563c56c459fe4435a6b5764995961d"}}

@@ -1,0 +1,1 @@
+{"id":"ff3a1cbcf50988a8615089b6e3eb8941","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should not apply threshold when option is false","name":"should not apply threshold when option is false","status":"passed","testResultsByEnv":{"default":"5b71d38ee788937e06f603bf53fd7c32"}}

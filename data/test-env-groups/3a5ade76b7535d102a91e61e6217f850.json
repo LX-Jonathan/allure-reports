@@ -1,0 +1,1 @@
+{"id":"3a5ade76b7535d102a91e61e6217f850","fullName":"client/src/lib/__tests__/return-to.test.ts#sanitizeReturnTo rejects lab-branded portal login/register paths to prevent loops","name":"rejects lab-branded portal login/register paths to prevent loops","status":"passed","testResultsByEnv":{"default":"0fb95a0273c1124278078797ba057cb2"}}

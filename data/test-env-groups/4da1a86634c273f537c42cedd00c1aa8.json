@@ -1,0 +1,1 @@
+{"id":"4da1a86634c273f537c42cedd00c1aa8","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments sets audit context after recording payment","name":"sets audit context after recording payment","status":"passed","testResultsByEnv":{"default":"4a0c2c669d72b997cfa086ad50be1ecd"}}

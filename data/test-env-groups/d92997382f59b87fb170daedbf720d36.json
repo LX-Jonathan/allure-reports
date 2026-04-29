@@ -1,0 +1,1 @@
+{"id":"d92997382f59b87fb170daedbf720d36","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/lab-info should return branded lab info when superOrg exists","name":"should return branded lab info when superOrg exists","status":"passed","testResultsByEnv":{"default":"5f71ca3e512825e8415b64d70f6bcdb0"}}

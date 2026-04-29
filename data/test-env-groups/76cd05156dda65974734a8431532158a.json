@@ -1,0 +1,1 @@
+{"id":"76cd05156dda65974734a8431532158a","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes PATCH /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"d5816dfcd76edfe14cb5c5a32773fd04"}}

@@ -1,0 +1,1 @@
+{"id":"3b1a37bad81b3bd784da2ef3ff195dff","fullName":"server/__tests__/billing-list-patient-paid-aggregation.test.ts#Billing list patient-paid aggregation nets a $50 payment partially reversed by $20 to $30","name":"nets a $50 payment partially reversed by $20 to $30","status":"passed","testResultsByEnv":{"default":"f2d93cc6650b2fb758b2429f90c3d4d2"}}

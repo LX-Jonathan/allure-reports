@@ -1,0 +1,1 @@
+{"id":"81d1108b202a550a06fc4378efec0362","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#useOrderMoneyReadiness never returns a negative copay","name":"never returns a negative copay","status":"passed","testResultsByEnv":{"default":"a03806f50044cb979ad3953ca405e92b"}}

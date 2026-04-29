@@ -1,0 +1,1 @@
+{"id":"98b13dd2bf85e3cf43322098f8294f9c","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations still marks the invitation expired when the email fails to queue","name":"still marks the invitation expired when the email fails to queue","status":"passed","testResultsByEnv":{"default":"01520954fb946ed04c390141ace027b6"}}

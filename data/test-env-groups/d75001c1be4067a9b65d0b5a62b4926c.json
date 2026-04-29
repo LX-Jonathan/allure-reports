@@ -1,0 +1,1 @@
+{"id":"d75001c1be4067a9b65d0b5a62b4926c","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes POST / returns 400 for non-integer discountValue","name":"returns 400 for non-integer discountValue","status":"passed","testResultsByEnv":{"default":"5419a630a6df10f0f9c5e8069a41ad5a"}}

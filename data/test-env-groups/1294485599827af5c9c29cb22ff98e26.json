@@ -1,0 +1,1 @@
+{"id":"1294485599827af5c9c29cb22ff98e26","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/ai-health-insights returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"7f93ea2c0baad318a684cfab14499242"}}

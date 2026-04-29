@@ -1,0 +1,1 @@
+{"id":"3d55ae4163d44fcdcd20f1d9f153d43d","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore set should use default ttl when session.cookie is undefined","name":"should use default ttl when session.cookie is undefined","status":"passed","testResultsByEnv":{"default":"5736cd3ef2f02089f737071406d22b3b"}}

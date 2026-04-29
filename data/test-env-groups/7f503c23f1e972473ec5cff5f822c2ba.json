@@ -1,0 +1,1 @@
+{"id":"7f503c23f1e972473ec5cff5f822c2ba","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/upload should return 400 without file","name":"should return 400 without file","status":"passed","testResultsByEnv":{"default":"1527e2c542f214dac1f32eac6880bae8"}}

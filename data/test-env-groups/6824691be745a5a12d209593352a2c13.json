@@ -1,0 +1,1 @@
+{"id":"6824691be745a5a12d209593352a2c13","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/npi-search returns 400 for invalid state format","name":"returns 400 for invalid state format","status":"passed","testResultsByEnv":{"default":"f3afb960d3849cf67df063cc5ee7f978"}}

@@ -1,0 +1,1 @@
+{"id":"52fa151288008d81a34bedff41420b97","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns validation error for missing required fields","name":"returns validation error for missing required fields","status":"passed","testResultsByEnv":{"default":"ae2a19dff1a1bf5f7c15f54e95c5eabf"}}

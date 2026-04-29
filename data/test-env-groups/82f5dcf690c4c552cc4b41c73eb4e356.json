@@ -1,0 +1,1 @@
+{"id":"82f5dcf690c4c552cc4b41c73eb4e356","fullName":"client/src/hooks/__tests__/useOrderSignatures.test.tsx#useOrderSignatures moveSigDraw uses the first touch coordinate for touch events","name":"moveSigDraw uses the first touch coordinate for touch events","status":"passed","testResultsByEnv":{"default":"90eb8f640a9a39333989f5bbfdf3de9f"}}

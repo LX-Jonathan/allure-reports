@@ -1,0 +1,1 @@
+{"id":"a7472e6dfa2e941fa284a3a056fd5ceb","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes POST /api/v1/flu-shots returns 403 for non-admin user without organization","name":"returns 403 for non-admin user without organization","status":"passed","testResultsByEnv":{"default":"48293c8490ebc22a94cec077f1282507"}}

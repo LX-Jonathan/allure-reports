@@ -1,0 +1,1 @@
+{"id":"0480e34ee3e5876b679df2b15b4f9a3e","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert uses a custom data-testid prefix when provided","name":"uses a custom data-testid prefix when provided","status":"passed","testResultsByEnv":{"default":"1013c304fd798ebd790cfd3b4c8bb535"}}

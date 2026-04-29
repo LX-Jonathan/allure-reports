@@ -1,0 +1,1 @@
+{"id":"af448507af977de88cd4657796d36508","fullName":"server/__tests__/favorites.routes.test.ts#favorites routes GET /api/v1/order-favorites returns order favorites for user","name":"returns order favorites for user","status":"passed","testResultsByEnv":{"default":"0758c68cbd16274ab15a92839439336b"}}

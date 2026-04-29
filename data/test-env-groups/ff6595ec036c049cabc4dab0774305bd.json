@@ -1,0 +1,1 @@
+{"id":"ff6595ec036c049cabc4dab0774305bd","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getSuperOrgById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"1930142bc558caf39034c75d4877f076"}}

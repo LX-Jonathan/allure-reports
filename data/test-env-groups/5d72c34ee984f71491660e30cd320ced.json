@@ -1,0 +1,1 @@
+{"id":"5d72c34ee984f71491660e30cd320ced","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /labs/:id allows org_admin to delete","name":"allows org_admin to delete","status":"passed","testResultsByEnv":{"default":"93fd256a8c55501d88ac66d84d6a40ae"}}

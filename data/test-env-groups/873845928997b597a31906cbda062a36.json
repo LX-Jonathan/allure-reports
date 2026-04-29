@@ -1,0 +1,1 @@
+{"id":"873845928997b597a31906cbda062a36","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id returns 403 when order belongs to different organization","name":"returns 403 when order belongs to different organization","status":"passed","testResultsByEnv":{"default":"c34ccfb8e880726520321549a9772fac"}}

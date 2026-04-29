@@ -1,0 +1,1 @@
+{"id":"135af09d2bfb2c99d78baaa1acafe26b","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth — dev auto-login (isDev = true, no valid JWT) sets req.user and calls next when a super_admin user exists","name":"sets req.user and calls next when a super_admin user exists","status":"passed","testResultsByEnv":{"default":"a4da1a3b52850de158bbd0063db55e3f"}}

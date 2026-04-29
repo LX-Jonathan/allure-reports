@@ -1,0 +1,1 @@
+{"id":"4c5ff095f8991f6400f0f1a67e29c658","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments requires Stripe payment intent for credit_card","name":"requires Stripe payment intent for credit_card","status":"passed","testResultsByEnv":{"default":"61598c639a09f29ed70995d97d068614"}}

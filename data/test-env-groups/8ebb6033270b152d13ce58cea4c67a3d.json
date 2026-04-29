@@ -1,0 +1,1 @@
+{"id":"8ebb6033270b152d13ce58cea4c67a3d","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#Staff /admin endpoints blocks staff from accessing patients in other super-orgs","name":"blocks staff from accessing patients in other super-orgs","status":"passed","testResultsByEnv":{"default":"ff8f2e52922c84eab16a7702249a567c"}}

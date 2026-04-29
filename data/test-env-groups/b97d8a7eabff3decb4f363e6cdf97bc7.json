@@ -1,0 +1,1 @@
+{"id":"b97d8a7eabff3decb4f363e6cdf97bc7","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check returns 502 when fetch fails","name":"returns 502 when fetch fails","status":"passed","testResultsByEnv":{"default":"2761bbff16e9c26f9b788ffe6a4549a8"}}

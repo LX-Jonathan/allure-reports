@@ -1,0 +1,1 @@
+{"id":"106f1f74e18a780d334c15a5c9ad58e5","fullName":"server/routes/__tests__/order-readiness.routes.test.ts#Order Readiness Routes - Scrub & Release Gate GET /orders rejects invalid query params (bad readinessStatus)","name":"rejects invalid query params (bad readinessStatus)","status":"passed","testResultsByEnv":{"default":"43588e9671ecbc04e0d79c7358117ce4"}}

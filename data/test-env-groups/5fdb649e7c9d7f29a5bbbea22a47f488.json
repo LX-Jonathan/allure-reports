@@ -1,0 +1,1 @@
+{"id":"5fdb649e7c9d7f29a5bbbea22a47f488","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService deleteById (protected) should delete and return true when record found","name":"should delete and return true when record found","status":"passed","testResultsByEnv":{"default":"49dc9b3db015d872cd42b4cc7ecb022d"}}

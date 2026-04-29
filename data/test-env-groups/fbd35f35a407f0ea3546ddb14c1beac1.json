@@ -1,0 +1,1 @@
+{"id":"fbd35f35a407f0ea3546ddb14c1beac1","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests - Test Image Endpoints GET /api/v1/lab-tests/:id/image redirects when imageUrl starts with http","name":"redirects when imageUrl starts with http","status":"passed","testResultsByEnv":{"default":"2c8877b207ab9e8fff3548aff6694621"}}

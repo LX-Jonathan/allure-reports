@@ -1,0 +1,1 @@
+{"id":"fc9eec000af0d200217c824f25d70081","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs returns 400 when slug already exists","name":"returns 400 when slug already exists","status":"passed","testResultsByEnv":{"default":"daf37a01adda23db46239151dc9514f6"}}

@@ -1,0 +1,1 @@
+{"id":"47e4f4b035bcf9ffc0793b619e1b2eec","fullName":"server/lib/__tests__/staff-notifications.test.ts#recordStaffNotifications inserts the rows and emits one socket event per inserted row","name":"inserts the rows and emits one socket event per inserted row","status":"passed","testResultsByEnv":{"default":"584c2ef558be0a9643a6bcb05d69ffce"}}

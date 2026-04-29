@@ -1,0 +1,1 @@
+{"id":"68f10b9b4fe3bbfb96104192ca884e1d","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/eligibility-verifications returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"3ea748e8c9bfc5b8b9f338431e3b7ee1"}}

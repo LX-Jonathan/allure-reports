@@ -1,0 +1,1 @@
+{"id":"59a043f74ee41070270171c5abeabcc7","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) POST / returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"692d4601dc7a6197f132f243ae2fc3ca"}}

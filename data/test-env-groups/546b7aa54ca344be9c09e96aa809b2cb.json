@@ -1,0 +1,1 @@
+{"id":"546b7aa54ca344be9c09e96aa809b2cb","fullName":"client/src/lib/__tests__/marketplace-utils.test.ts#getOrgInitials returns the first letters of the first two words, uppercased","name":"returns the first letters of the first two words, uppercased","status":"passed","testResultsByEnv":{"default":"37b6ba4c607894a7ddbafa2535acb7a9"}}

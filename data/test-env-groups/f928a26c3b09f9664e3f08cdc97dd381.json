@@ -1,0 +1,1 @@
+{"id":"f928a26c3b09f9664e3f08cdc97dd381","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite patient creation succeeds even when auto-invite fails","name":"patient creation succeeds even when auto-invite fails","status":"passed","testResultsByEnv":{"default":"14302712fdc65b377624091cbf040a06"}}

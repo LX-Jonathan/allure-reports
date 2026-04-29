@@ -1,0 +1,1 @@
+{"id":"7d0f9912c051bc9b56a4d9c02a29438f","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient pullPatientRecords should return empty entries when resource requests fail","name":"should return empty entries when resource requests fail","status":"passed","testResultsByEnv":{"default":"669cf0e878d1bc0c994303a0526d4db3"}}

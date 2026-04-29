@@ -1,0 +1,1 @@
+{"id":"18232df1f5fdacc5933221bb1cc14e4a","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob data transformation should set isActive to true and createdBy to userId","name":"should set isActive to true and createdBy to userId","status":"passed","testResultsByEnv":{"default":"74cce1ce6026bf6ce700e950440166e9"}}

@@ -1,0 +1,1 @@
+{"id":"a1afdd5abac2c7d9229f0f5eb6ae9095","fullName":"server/routes/__tests__/patient-auth-report-suspicious.routes.test.ts#POST /security-activity/report-suspicious returns 404 when the event id does not belong to the patient","name":"returns 404 when the event id does not belong to the patient","status":"passed","testResultsByEnv":{"default":"b523f032b28962cefa40376cd747ec5d"}}

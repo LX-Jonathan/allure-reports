@@ -1,0 +1,1 @@
+{"id":"691ec527b46d25890343e71de1ed2cc8","fullName":"server/routes/__tests__/form-configs.routes.test.ts#Form Configs Routes POST /api/v1/form-configs returns 403 for org_admin when location not in their org","name":"returns 403 for org_admin when location not in their org","status":"passed","testResultsByEnv":{"default":"a32fa74997fbb5f4fa1f5a00684e2a91"}}

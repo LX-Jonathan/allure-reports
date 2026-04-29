@@ -1,0 +1,1 @@
+{"id":"8b6aea46a97317a041179f7a14d4848b","fullName":"client/src/hooks/__tests__/useFeeEstimation.test.tsx#useFeeEstimation - patient/test-count auto-reset resets state when the number of selected tests changes","name":"resets state when the number of selected tests changes","status":"passed","testResultsByEnv":{"default":"e98f687c5fa00edc4305f5012a1649d4"}}

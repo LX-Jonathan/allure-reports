@@ -1,0 +1,1 @@
+{"id":"a32fe154b5ebe296f17596b62b4128f3","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) POST / returns 401 without auth header","name":"POST / returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"a4d93e87d55aa543f083db415f556570"}}

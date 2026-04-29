@@ -1,0 +1,1 @@
+{"id":"9aeabaf64ca74b01f8a3a3fd6778fd22","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCashEventJournal should treat paid_out as cash_out","name":"should treat paid_out as cash_out","status":"passed","testResultsByEnv":{"default":"d52cd442e344b78aee9427dfc918ae20"}}

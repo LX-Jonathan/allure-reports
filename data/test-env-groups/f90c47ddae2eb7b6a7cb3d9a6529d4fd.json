@@ -1,0 +1,1 @@
+{"id":"f90c47ddae2eb7b6a7cb3d9a6529d4fd","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireRole should reject when user role not in allowed list","name":"should reject when user role not in allowed list","status":"passed","testResultsByEnv":{"default":"03566380c5fcddd9b14746bd8872b8c6"}}

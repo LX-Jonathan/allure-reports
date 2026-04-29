@@ -1,0 +1,1 @@
+{"id":"cb2b114050a7c9b62605a9cf69e18bbd","fullName":"client/src/i18n/__tests__/i18n.test.ts#patient portal i18n applyAuthenticatedLanguage prefers server value when no pre-auth choice exists","name":"applyAuthenticatedLanguage prefers server value when no pre-auth choice exists","status":"passed","testResultsByEnv":{"default":"22bea945d3eabf2b7b2a8590ce9d8105"}}

@@ -1,0 +1,1 @@
+{"id":"72a4db8f5314d8fe81ab97a1c4c82b9d","fullName":"client/src/components/patient/__tests__/pre-save-verification-dialog.test.tsx#PreSaveVerificationDialog shows 'no insurance returned' alert when both lists are empty","name":"shows 'no insurance returned' alert when both lists are empty","status":"passed","testResultsByEnv":{"default":"9c016af961201a26e68f10264449dbd6"}}

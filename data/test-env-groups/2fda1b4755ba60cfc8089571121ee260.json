@@ -1,0 +1,1 @@
+{"id":"2fda1b4755ba60cfc8089571121ee260","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /simulate-reader returns 400 when readerId is empty","name":"returns 400 when readerId is empty","status":"passed","testResultsByEnv":{"default":"9c256461c327c557cdc52fc9ba5827df"}}

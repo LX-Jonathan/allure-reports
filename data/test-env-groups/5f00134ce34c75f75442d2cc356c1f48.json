@@ -1,0 +1,1 @@
+{"id":"5f00134ce34c75f75442d2cc356c1f48","fullName":"client/src/pages/__tests__/patient-new.test.tsx#PatientNewPage survives failed network request and still shows org name","name":"survives failed network request and still shows org name","status":"passed","testResultsByEnv":{"default":"f39489b4a7323b88dc2734412ad30b6c"}}

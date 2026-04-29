@@ -1,0 +1,1 @@
+{"id":"0289760c96646208d9745503e31168d7","fullName":"server/jobs/__tests__/financial-assistance-expiration-weekly-digest.test.ts#runFinancialAssistanceExpirationWeeklyDigest skips labs with the digest disabled or no recipients","name":"skips labs with the digest disabled or no recipients","status":"passed","testResultsByEnv":{"default":"4e9e1fdb2198195f6ac0305043f42c87"}}

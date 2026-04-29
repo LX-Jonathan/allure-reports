@@ -1,0 +1,1 @@
+{"id":"d78dca330374b87c73c51e2bd7855499","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes PATCH /api/chat/conversations/:id returns 200 for super_admin updating any conversation","name":"returns 200 for super_admin updating any conversation","status":"passed","testResultsByEnv":{"default":"17989e0e754d6fd7778a90e1f330fd81"}}

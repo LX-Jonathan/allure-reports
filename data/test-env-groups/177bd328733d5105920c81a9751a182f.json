@@ -1,0 +1,1 @@
+{"id":"177bd328733d5105920c81a9751a182f","fullName":"client/src/lib/__tests__/marketplace-utils.test.ts#getOrgInitials caps at two characters even for long names","name":"caps at two characters even for long names","status":"passed","testResultsByEnv":{"default":"ebdd07789ea5dacabb6ed3f3134b1044"}}

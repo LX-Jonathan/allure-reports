@@ -1,0 +1,1 @@
+{"id":"95caf479c468ab8ab59a90cade47cadb","fullName":"server/workers/__tests__/index.test.ts#workers/index startAllWorkers should return workers object with null values for failed workers","name":"should return workers object with null values for failed workers","status":"passed","testResultsByEnv":{"default":"03c4bc229f587402bc72f6db31660c8f"}}

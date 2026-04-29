@@ -1,0 +1,1 @@
+{"id":"1d38711e69a7b866a3561044bf02ff54","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#useMarketplaceFallbackStatus returns false when the loaded profile is enriched","name":"returns false when the loaded profile is enriched","status":"passed","testResultsByEnv":{"default":"776c7bc94960d847e7ff3dd11b4e7eec"}}

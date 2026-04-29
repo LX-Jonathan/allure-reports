@@ -1,0 +1,1 @@
+{"id":"4d3eab7f51162aad70c64fde4d75d6da","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports/categories returns 200 with categories","name":"returns 200 with categories","status":"passed","testResultsByEnv":{"default":"92728c6eda5ff96248a50110c4c2add7"}}

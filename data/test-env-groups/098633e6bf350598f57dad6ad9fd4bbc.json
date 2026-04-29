@@ -1,0 +1,1 @@
+{"id":"098633e6bf350598f57dad6ad9fd4bbc","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 403 when user has no access","name":"returns 403 when user has no access","status":"passed","testResultsByEnv":{"default":"59e9b60b1706f2ea05153f5d7f4c1171"}}

@@ -1,0 +1,1 @@
+{"id":"59a0b97d63354ca249ba7c48c1e9ea99","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /super-orgs/:id returns 400 when lab has existing labs","name":"returns 400 when lab has existing labs","status":"passed","testResultsByEnv":{"default":"6ff3f67c332ab3090ec59040855cefa6"}}

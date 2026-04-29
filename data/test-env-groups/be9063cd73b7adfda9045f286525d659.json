@@ -1,0 +1,1 @@
+{"id":"be9063cd73b7adfda9045f286525d659","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment supports a partial credit refund and leaves remaining refundable credit","name":"supports a partial credit refund and leaves remaining refundable credit","status":"passed","testResultsByEnv":{"default":"a49385448d531302f611a1178a66a4d7"}}

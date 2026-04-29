@@ -1,0 +1,1 @@
+{"id":"6a74fa0205bdc450e8b62eb6fa031e96","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes GET /api/chat/conversations/:id returns 403 when user from different super org tries to access","name":"returns 403 when user from different super org tries to access","status":"passed","testResultsByEnv":{"default":"025fa41fc64d6b72e1e8f4d3673a90d9"}}

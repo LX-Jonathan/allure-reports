@@ -1,0 +1,1 @@
+{"id":"7d3f69955990908862ab89d417d256b7","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requirePermission should return 401 when user is not authenticated","name":"should return 401 when user is not authenticated","status":"passed","testResultsByEnv":{"default":"016a5446958035928cf5fc6f77cb761d"}}

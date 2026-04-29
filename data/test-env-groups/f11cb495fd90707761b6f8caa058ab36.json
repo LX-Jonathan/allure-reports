@@ -1,0 +1,1 @@
+{"id":"f11cb495fd90707761b6f8caa058ab36","fullName":"server/workers/__tests__/lab-test-import.worker.test.ts#processLabTestImportJob job initialization should update job status to importing","name":"should update job status to importing","status":"passed","testResultsByEnv":{"default":"39b780c34ae645dcc949cbf641bb8fff"}}

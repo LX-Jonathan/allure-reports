@@ -1,0 +1,1 @@
+{"id":"a12617cc4332cdf5269ef8471d4e6379","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/details returns 404 when org not found","name":"returns 404 when org not found","status":"passed","testResultsByEnv":{"default":"8b16c88e30668866508158631584cf99"}}

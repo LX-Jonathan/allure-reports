@@ -1,0 +1,1 @@
+{"id":"fad349ef30950fbf97b86380549a17ec","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/schedules/:scheduleId returns 200 and deletes schedule","name":"returns 200 and deletes schedule","status":"passed","testResultsByEnv":{"default":"83754c6e6f41b3f36a5ae2eae1204ee7"}}

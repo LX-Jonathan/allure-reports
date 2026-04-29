@@ -1,0 +1,1 @@
+{"id":"1140d19c7d9c35ce5de7ebc380adc2b7","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET / returns 403 when authenticated but not a super_admin","name":"returns 403 when authenticated but not a super_admin","status":"passed","testResultsByEnv":{"default":"fbc4cb9bcba3129a24ec17b11d78e240"}}

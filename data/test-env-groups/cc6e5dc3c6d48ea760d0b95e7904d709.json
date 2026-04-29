@@ -1,0 +1,1 @@
+{"id":"cc6e5dc3c6d48ea760d0b95e7904d709","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/companies/import-national returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"d8908f18f7c7a0c0d235bdf50ca71536"}}

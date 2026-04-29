@@ -1,0 +1,1 @@
+{"id":"892e0fce92897db0823f82db9592f544","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes GET /api/v1/patients/:patientId/documents returns 403 when user lacks organization access","name":"returns 403 when user lacks organization access","status":"passed","testResultsByEnv":{"default":"401b73b9da3034b753aaa84181f9cfa3"}}

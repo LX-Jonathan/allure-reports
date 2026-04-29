@@ -1,0 +1,1 @@
+{"id":"c590b18a48da5e2568fec85211091c5a","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should count words correctly in batch results","name":"should count words correctly in batch results","status":"passed","testResultsByEnv":{"default":"78e1601c6febbd98303f079b354a7c42"}}

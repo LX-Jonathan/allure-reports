@@ -1,0 +1,1 @@
+{"id":"1d6b55483013a6cf7fcb9873998b126f","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes POST /api/v1/lab-tests returns 400 on validation error - missing name","name":"returns 400 on validation error - missing name","status":"passed","testResultsByEnv":{"default":"9a29a3519063c89ad8a75b2ebabab368"}}

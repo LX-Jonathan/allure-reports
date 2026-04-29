@@ -1,0 +1,1 @@
+{"id":"be79cf70bf368c482c97f1107221c434","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins listVisitCheckinEvents returns an empty array when no events exist","name":"returns an empty array when no events exist","status":"passed","testResultsByEnv":{"default":"48f1e95ad862c871d00b0128ac2bb070"}}

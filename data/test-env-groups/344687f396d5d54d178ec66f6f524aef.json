@@ -1,0 +1,1 @@
+{"id":"344687f396d5d54d178ec66f6f524aef","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes PUT /api/v1/patient-documents/:id/file returns 403 when user lacks access","name":"returns 403 when user lacks access","status":"passed","testResultsByEnv":{"default":"fe87abc4bbdfd66a05d578787416ca26"}}

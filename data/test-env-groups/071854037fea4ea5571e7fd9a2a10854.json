@@ -1,0 +1,1 @@
+{"id":"071854037fea4ea5571e7fd9a2a10854","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/kits/:kitId/results (Staff Portal - Submit Kit Results) returns 201 when results are submitted successfully","name":"returns 201 when results are submitted successfully","status":"passed","testResultsByEnv":{"default":"a828d996ae1d81ae231856fa98f0284c"}}

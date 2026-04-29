@@ -1,0 +1,1 @@
+{"id":"367347ae44e8059041ab19e635efd9ca","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness provider data evaluation should flag NPI of all zeros as missing","name":"should flag NPI of all zeros as missing","status":"passed","testResultsByEnv":{"default":"cf4f57c2c4904131b0f0d497a04615ca"}}

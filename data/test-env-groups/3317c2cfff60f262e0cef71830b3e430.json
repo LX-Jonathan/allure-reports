@@ -1,0 +1,1 @@
+{"id":"3317c2cfff60f262e0cef71830b3e430","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware CSRF token validation for unsafe methods should validate PATCH requests","name":"should validate PATCH requests","status":"passed","testResultsByEnv":{"default":"7478b9bd52317303699c6b5a1a481d10"}}

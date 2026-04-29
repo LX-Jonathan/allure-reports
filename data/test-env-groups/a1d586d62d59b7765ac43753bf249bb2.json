@@ -1,0 +1,1 @@
+{"id":"a1d586d62d59b7765ac43753bf249bb2","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id/status should return 400 if already in desired state","name":"should return 400 if already in desired state","status":"passed","testResultsByEnv":{"default":"5721c606a719bb67c493ddbbedec9f36"}}

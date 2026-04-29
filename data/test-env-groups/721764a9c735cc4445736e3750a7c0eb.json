@@ -1,0 +1,1 @@
+{"id":"721764a9c735cc4445736e3750a7c0eb","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/lookup/batch returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"9a91c70222c818497debc6b22127d68c"}}

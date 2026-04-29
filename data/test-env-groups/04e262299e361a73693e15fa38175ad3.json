@@ -1,0 +1,1 @@
+{"id":"04e262299e361a73693e15fa38175ad3","fullName":"server/routes/__tests__/messaging-config.routes.test.ts#Messaging Config Routes PUT /:parentLabId returns 400 when sendgrid enabled but fromEmail missing","name":"returns 400 when sendgrid enabled but fromEmail missing","status":"passed","testResultsByEnv":{"default":"29da93e0d59c196506691fc09d80c82e"}}

@@ -1,0 +1,1 @@
+{"id":"89b7e5956b68f073977e1cf750c33dd6","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management Error handling - DB rejections propagate setUserLocationAssignments throws on delete failure","name":"setUserLocationAssignments throws on delete failure","status":"passed","testResultsByEnv":{"default":"b2d9fe4c5d58ee22227403ba2cd25a23"}}

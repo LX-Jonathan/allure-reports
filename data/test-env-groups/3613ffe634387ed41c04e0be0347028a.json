@@ -1,0 +1,1 @@
+{"id":"3613ffe634387ed41c04e0be0347028a","fullName":"server/services/__tests__/payment-application.test.ts#applyPaymentToPlan records partials as a residual without marking the installment paid","name":"records partials as a residual without marking the installment paid","status":"passed","testResultsByEnv":{"default":"c427164d7becd1b3ff64a26e3d4d38dc"}}

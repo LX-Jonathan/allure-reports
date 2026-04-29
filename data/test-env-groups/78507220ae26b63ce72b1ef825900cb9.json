@@ -1,0 +1,1 @@
+{"id":"78507220ae26b63ce72b1ef825900cb9","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#processMedicalNecessityJob error handling should include completedAt even on error","name":"should include completedAt even on error","status":"passed","testResultsByEnv":{"default":"3540fe2358aa5080ed43db994f25e252"}}

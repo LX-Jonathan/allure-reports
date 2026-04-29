@@ -1,0 +1,1 @@
+{"id":"5b4c68b82a92fe7243101d08d5374f9e","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /history returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2593d02b2e4735b448d06e8c6f5dad8e"}}

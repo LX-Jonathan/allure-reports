@@ -1,0 +1,1 @@
+{"id":"568b841003acb63bae65caa340963303","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes DELETE /api/v1/patients/:patientId/insurance/:insuranceId returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"1ee5b9133f061141a77b41e3b4ebba83"}}

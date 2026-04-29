@@ -1,0 +1,1 @@
+{"id":"6477cc96ba80cd6a3d6225791c3b624c","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#patientFetch sends null token when no token in localStorage","name":"sends null token when no token in localStorage","status":"passed","testResultsByEnv":{"default":"c3fececa8a10157b55330322833fe3db"}}

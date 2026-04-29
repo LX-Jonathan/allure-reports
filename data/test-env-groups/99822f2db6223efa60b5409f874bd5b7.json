@@ -1,0 +1,1 @@
+{"id":"99822f2db6223efa60b5409f874bd5b7","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes GET /api/v1/patient-documents/:id returns 200 with document data","name":"returns 200 with document data","status":"passed","testResultsByEnv":{"default":"3c6105b73f9d93bc1443080230e6bb97"}}

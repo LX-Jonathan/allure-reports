@@ -1,0 +1,1 @@
+{"id":"0c593906072418f1d4b42307e5b822f8","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/:id/pdf returns 403 when user has no organization","name":"returns 403 when user has no organization","status":"passed","testResultsByEnv":{"default":"2af9f9569a694d7aedbb45b78b06ed87"}}

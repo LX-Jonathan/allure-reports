@@ -1,0 +1,1 @@
+{"id":"99c6d72cb16f4433ac7bb1f66edd4cbd","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#classifyImageConfidence returns 'likely' for mid-range scores (50-79)","name":"returns 'likely' for mid-range scores (50-79)","status":"passed","testResultsByEnv":{"default":"61b58b2b381fdb742f2d3cb800f2e1f9"}}

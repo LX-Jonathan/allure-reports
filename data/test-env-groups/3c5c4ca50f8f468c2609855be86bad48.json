@@ -1,0 +1,1 @@
+{"id":"3c5c4ca50f8f468c2609855be86bad48","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Appointments & Schedules deleteAppointmentSchedule soft deletes schedule","name":"soft deletes schedule","status":"passed","testResultsByEnv":{"default":"9c66aa4505efe87b2cff023118663f67"}}

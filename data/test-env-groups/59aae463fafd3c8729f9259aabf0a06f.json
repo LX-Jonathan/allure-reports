@@ -1,0 +1,1 @@
+{"id":"59aae463fafd3c8729f9259aabf0a06f","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes DELETE /api/v1/users/:id returns 200 and deletes user","name":"returns 200 and deletes user","status":"passed","testResultsByEnv":{"default":"94339805a55627b2427faf238d9ca0dd"}}

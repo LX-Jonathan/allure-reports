@@ -1,0 +1,1 @@
+{"id":"736edc3d901938de02565c0014fd76c2","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda formatCollectionDateForAndromeda should format a date string to yyyyMMddHHmmss","name":"should format a date string to yyyyMMddHHmmss","status":"passed","testResultsByEnv":{"default":"101210868068cb80d5e60fc5cc9943ff"}}

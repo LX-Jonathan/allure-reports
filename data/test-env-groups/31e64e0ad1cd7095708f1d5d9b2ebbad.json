@@ -1,0 +1,1 @@
+{"id":"31e64e0ad1cd7095708f1d5d9b2ebbad","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider returns 403 for non-provider role","name":"returns 403 for non-provider role","status":"passed","testResultsByEnv":{"default":"e3fb70821d679f46714009e9f6aaaec7"}}

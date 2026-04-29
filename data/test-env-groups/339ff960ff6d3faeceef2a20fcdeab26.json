@@ -1,0 +1,1 @@
+{"id":"339ff960ff6d3faeceef2a20fcdeab26","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should return completed status with result from BullMQ","name":"should return completed status with result from BullMQ","status":"passed","testResultsByEnv":{"default":"3bdbc0a5520cdc21a975fff8e18fe90c"}}

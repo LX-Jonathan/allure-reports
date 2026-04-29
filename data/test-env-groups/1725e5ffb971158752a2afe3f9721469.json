@@ -1,0 +1,1 @@
+{"id":"1725e5ffb971158752a2afe3f9721469","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service cleanupOldTempFiles should delete files older than 30 minutes","name":"should delete files older than 30 minutes","status":"passed","testResultsByEnv":{"default":"56aad6b438edd3a5e5d597fbff923f3d"}}

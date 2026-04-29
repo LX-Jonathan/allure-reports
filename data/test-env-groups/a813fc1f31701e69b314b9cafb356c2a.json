@@ -1,0 +1,1 @@
+{"id":"a813fc1f31701e69b314b9cafb356c2a","fullName":"server/lib/__tests__/logger.test.ts#logger log levels should suppress all logs when LOG_LEVEL=silent","name":"should suppress all logs when LOG_LEVEL=silent","status":"passed","testResultsByEnv":{"default":"7f238b8266f9a44eb6e95dfd3e929bdb"}}

@@ -1,0 +1,1 @@
+{"id":"0afae21f57accec4d60c42f216790864","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /appeals/dashboard returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"7a3632c4e0ab489b1dc8972505daa2d4"}}

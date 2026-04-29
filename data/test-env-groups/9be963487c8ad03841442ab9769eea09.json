@@ -1,0 +1,1 @@
+{"id":"9be963487c8ad03841442ab9769eea09","fullName":"server/jobs/__tests__/scheduler.test.ts#triggerManualRun should update lastRun and nextRun on success","name":"should update lastRun and nextRun on success","status":"passed","testResultsByEnv":{"default":"e6e22657fc2c17a20db9b6fb77f59651"}}

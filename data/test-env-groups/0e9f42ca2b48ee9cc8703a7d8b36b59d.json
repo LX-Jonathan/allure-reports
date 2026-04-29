@@ -1,0 +1,1 @@
+{"id":"0e9f42ca2b48ee9cc8703a7d8b36b59d","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should allow same slug for same org","name":"should allow same slug for same org","status":"passed","testResultsByEnv":{"default":"e19f5b7fd67c19d631740b3d0ca84c2e"}}

@@ -1,0 +1,1 @@
+{"id":"1120c67e100a1079e7af81b288388b39","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Pre-Registration Links deletePreRegistrationLink returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"f57cbf5fbb1af2ca664eb0a7f28e20c8"}}

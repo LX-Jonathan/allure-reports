@@ -1,0 +1,1 @@
+{"id":"70ac2141202cea2ee62ffc3d0c398de5","fullName":"client/src/hooks/__tests__/useDtc.test.ts#useActivateKit sends activation request through patientFetch and invalidates kits cache","name":"sends activation request through patientFetch and invalidates kits cache","status":"passed","testResultsByEnv":{"default":"7e965e9e752cd573bc9d7b3d1f9b9080"}}

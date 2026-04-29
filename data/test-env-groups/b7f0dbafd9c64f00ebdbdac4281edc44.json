@@ -1,0 +1,1 @@
+{"id":"b7f0dbafd9c64f00ebdbdac4281edc44","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes GET /api/order-entry-templates/discipline-by-order/:discipline returns 200 with template when found","name":"returns 200 with template when found","status":"passed","testResultsByEnv":{"default":"7d877930d4e6146996664aab860ce438"}}

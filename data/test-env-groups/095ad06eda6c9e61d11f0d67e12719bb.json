@@ -1,0 +1,1 @@
+{"id":"095ad06eda6c9e61d11f0d67e12719bb","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status returns 404 when super org not found","name":"returns 404 when super org not found","status":"passed","testResultsByEnv":{"default":"5310333fcac1d7cd07be1bb669c6a6b1"}}

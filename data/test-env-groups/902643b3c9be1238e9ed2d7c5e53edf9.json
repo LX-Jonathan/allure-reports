@@ -1,0 +1,1 @@
+{"id":"902643b3c9be1238e9ed2d7c5e53edf9","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth error fallback strings uses 'Verification failed' fallback when API returns no message or error","name":"uses 'Verification failed' fallback when API returns no message or error","status":"passed","testResultsByEnv":{"default":"f1296e6f1cdf722e34008b466b9b82ce"}}

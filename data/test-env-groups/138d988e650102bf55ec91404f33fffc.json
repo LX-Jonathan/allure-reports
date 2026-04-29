@@ -1,0 +1,1 @@
+{"id":"138d988e650102bf55ec91404f33fffc","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/shares/:shareId returns 403 for unauthorized roles","name":"returns 403 for unauthorized roles","status":"passed","testResultsByEnv":{"default":"66840c2cea32e8241512d20a2beb3044"}}

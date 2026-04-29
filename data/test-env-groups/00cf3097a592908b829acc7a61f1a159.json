@@ -1,0 +1,1 @@
+{"id":"00cf3097a592908b829acc7a61f1a159","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service terminateTesseractWorker should not throw when no worker is active","name":"should not throw when no worker is active","status":"passed","testResultsByEnv":{"default":"59ac7b49ccef76a65462b88706317398"}}

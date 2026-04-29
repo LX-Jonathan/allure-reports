@@ -1,0 +1,1 @@
+{"id":"7033956100dd53f819b2fb09bd280f3f","fullName":"client/src/pages/__tests__/appointments.test.tsx#AppointmentsPage prefers the earliest blocked step in VALID_STEPS order when multiple are blocked","name":"prefers the earliest blocked step in VALID_STEPS order when multiple are blocked","status":"passed","testResultsByEnv":{"default":"e12c2facceed0be92425d5da0bbd6be6"}}

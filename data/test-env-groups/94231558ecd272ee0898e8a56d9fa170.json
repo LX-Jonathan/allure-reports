@@ -1,0 +1,1 @@
+{"id":"94231558ecd272ee0898e8a56d9fa170","fullName":"server/lib/__tests__/cache.service.test.ts#invalidateProviderCaches should clear all even when parentLabId is provided","name":"should clear all even when parentLabId is provided","status":"passed","testResultsByEnv":{"default":"72df900b9384069bd0ea6a929e11eece"}}

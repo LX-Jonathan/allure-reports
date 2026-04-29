@@ -1,0 +1,1 @@
+{"id":"96a2094807d62c834cae375cc308689c","fullName":"server/__tests__/orders.routes.test.ts#orders.routes GET /api/v1/orders/count should return order count","name":"should return order count","status":"passed","testResultsByEnv":{"default":"8876103e1bb29f3a9b453c5b6966d8f5"}}

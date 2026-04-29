@@ -1,0 +1,1 @@
+{"id":"9c32ddc594efaab9ae25d15341baad7a","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes PATCH /api/v1/aoe-lists/:id returns 403 when org_admin updates different org's AOE list","name":"returns 403 when org_admin updates different org's AOE list","status":"passed","testResultsByEnv":{"default":"0a83014367bae9cc410de9d1242d09d6"}}

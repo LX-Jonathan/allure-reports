@@ -1,0 +1,1 @@
+{"id":"0071624b3c764bc14b80e6c871982e0f","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider (additional edge cases) returns association candidates when not linked","name":"returns association candidates when not linked","status":"passed","testResultsByEnv":{"default":"e00e01cfb1c2fde251ee6b0c1a3ba313"}}

@@ -1,0 +1,1 @@
+{"id":"067cf3bac6f1df5d69ef3433b5404a3a","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 200 with not_us_address for non-US state","name":"returns 200 with not_us_address for non-US state","status":"passed","testResultsByEnv":{"default":"0d809a3d0ab07e0a1eb21707d920c805"}}

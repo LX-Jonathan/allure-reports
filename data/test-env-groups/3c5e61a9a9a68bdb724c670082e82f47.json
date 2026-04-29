@@ -1,0 +1,1 @@
+{"id":"3c5e61a9a9a68bdb724c670082e82f47","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id/attachments/:key/download should return 200 with download URL","name":"should return 200 with download URL","status":"passed","testResultsByEnv":{"default":"fe055cd77a90d0a31f08fb4e3786e69b"}}

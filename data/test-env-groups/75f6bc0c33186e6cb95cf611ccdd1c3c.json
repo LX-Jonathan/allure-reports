@@ -1,0 +1,1 @@
+{"id":"75f6bc0c33186e6cb95cf611ccdd1c3c","fullName":"server/routes/__tests__/operations-tasks.routes.test.ts#Operations Tasks routes scope enforcement (IDOR protection) strips unknown values from ?sources= via the enum guard","name":"strips unknown values from ?sources= via the enum guard","status":"passed","testResultsByEnv":{"default":"4ee1c098839cb63a82e4ceffb7cd9e1d"}}

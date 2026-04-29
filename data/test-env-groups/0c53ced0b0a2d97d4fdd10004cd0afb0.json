@@ -1,0 +1,1 @@
+{"id":"0c53ced0b0a2d97d4fdd10004cd0afb0","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes Auth middleware returns 401 when key is wrong","name":"returns 401 when key is wrong","status":"passed","testResultsByEnv":{"default":"5d01519bc262c1edd433b3003d749851"}}

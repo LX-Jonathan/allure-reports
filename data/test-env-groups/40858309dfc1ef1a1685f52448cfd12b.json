@@ -1,0 +1,1 @@
+{"id":"40858309dfc1ef1a1685f52448cfd12b","fullName":"client/src/pages/__tests__/appointments.test.tsx#AppointmentsPage falls back to a generic tooltip when the coverage flag has no message","name":"falls back to a generic tooltip when the coverage flag has no message","status":"passed","testResultsByEnv":{"default":"aedd23d03e2dda4ad97a37e134d4e232"}}

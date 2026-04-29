@@ -1,0 +1,1 @@
+{"id":"5b628835921a4d28921bd85359154c79","fullName":"server/config/__tests__/env.test.ts#validateEnv function throws when required fields are missing","name":"throws when required fields are missing","status":"passed","testResultsByEnv":{"default":"4c0901fb88c79e542f9a570fca5ce545"}}

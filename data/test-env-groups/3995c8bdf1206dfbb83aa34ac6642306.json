@@ -1,0 +1,1 @@
+{"id":"3995c8bdf1206dfbb83aa34ac6642306","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PUT /api/v1/providers/my-signature (additional edge cases) returns 401 when user not found","name":"returns 401 when user not found","status":"passed","testResultsByEnv":{"default":"aa08ffe7a8477e66769ed7f8bb2bdd05"}}

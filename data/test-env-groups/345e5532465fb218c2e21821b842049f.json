@@ -1,0 +1,1 @@
+{"id":"345e5532465fb218c2e21821b842049f","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service cleanupOldTempFiles should return 0 when directory is empty","name":"should return 0 when directory is empty","status":"passed","testResultsByEnv":{"default":"d371502b3d70363069e62f211cbd548c"}}

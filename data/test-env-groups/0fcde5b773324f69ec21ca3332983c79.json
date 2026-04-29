@@ -1,0 +1,1 @@
+{"id":"0fcde5b773324f69ec21ca3332983c79","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Public patient form requests POST submit accepts submission with valid token and records activity","name":"POST submit accepts submission with valid token and records activity","status":"passed","testResultsByEnv":{"default":"07356e7df6c84a8a5c25cd2b0f6b5f12"}}

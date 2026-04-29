@@ -1,0 +1,1 @@
+{"id":"823ecb715be4a5fb5342bd637b4a12ba","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes DELETE /labs/:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"016c3e7530f287e2237e34468c2dedca"}}

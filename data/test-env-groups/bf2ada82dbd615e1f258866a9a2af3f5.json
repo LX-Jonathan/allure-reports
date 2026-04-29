@@ -1,0 +1,1 @@
+{"id":"bf2ada82dbd615e1f258866a9a2af3f5","fullName":"client/src/components/__tests__/patient-page-hero.test.tsx#PatientPageHero falls back to default portal purple gradient when brandColor is not provided","name":"falls back to default portal purple gradient when brandColor is not provided","status":"passed","testResultsByEnv":{"default":"415199900e22dfebd38364775f92280b"}}

@@ -1,0 +1,1 @@
+{"id":"3af7646a6fb607f609f8e9fef2871f57","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore constructor should use custom prefix when provided","name":"should use custom prefix when provided","status":"passed","testResultsByEnv":{"default":"b20e87dec5f34a40242003397b4cd827"}}

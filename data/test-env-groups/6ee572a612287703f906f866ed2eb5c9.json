@@ -1,0 +1,1 @@
+{"id":"6ee572a612287703f906f866ed2eb5c9","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /reset/:discipline returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"0da97a2b85376f8fa68b9185d1447929"}}

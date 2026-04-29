@@ -1,0 +1,1 @@
+{"id":"0105715b67dc642649e7fd36f3dfb812","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan getBulkScanBatchById returns batch when found","name":"returns batch when found","status":"passed","testResultsByEnv":{"default":"113ed910750e1fcc7b3edaae5c722257"}}

@@ -1,0 +1,1 @@
+{"id":"3e8304376b17eeb74b1ba3683f7bb6f8","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processProviderRow should throw when required fields missing","name":"should throw when required fields missing","status":"passed","testResultsByEnv":{"default":"230ad26f36cfe0a546ce2848596a429a"}}

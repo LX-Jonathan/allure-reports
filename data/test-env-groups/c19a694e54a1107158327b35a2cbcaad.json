@@ -1,0 +1,1 @@
+{"id":"c19a694e54a1107158327b35a2cbcaad","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should not apply grayscale when option is false","name":"should not apply grayscale when option is false","status":"passed","testResultsByEnv":{"default":"4bed48b2f5b2f3a09783d26b57cf0742"}}

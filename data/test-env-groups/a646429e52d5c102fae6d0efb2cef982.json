@@ -1,0 +1,1 @@
+{"id":"a646429e52d5c102fae6d0efb2cef982","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes DELETE /:id returns 403 when partner belongs to different org","name":"returns 403 when partner belongs to different org","status":"passed","testResultsByEnv":{"default":"1277b335f1d5f6e6d56bfbe25b427709"}}

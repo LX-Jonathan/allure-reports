@@ -1,0 +1,1 @@
+{"id":"696fe3a32dd0441fb574e3ccc8d3b84f","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance POST /:id/eligibility does not downgrade an already-complete insurance step","name":"does not downgrade an already-complete insurance step","status":"passed","testResultsByEnv":{"default":"5d61347f800ad6608bbad6289cb69ecb"}}

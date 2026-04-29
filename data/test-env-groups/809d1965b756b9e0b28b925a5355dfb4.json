@@ -1,0 +1,1 @@
+{"id":"809d1965b756b9e0b28b925a5355dfb4","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /fix-guidance returns 400 when no readiness check exists","name":"returns 400 when no readiness check exists","status":"passed","testResultsByEnv":{"default":"fc63e8abf67058511671ba2fd91f7ccf"}}

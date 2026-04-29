@@ -1,0 +1,1 @@
+{"id":"5ea27e9371518c29017967b6a779f0d8","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts hashToken should return a 64-character hex string","name":"should return a 64-character hex string","status":"passed","testResultsByEnv":{"default":"b06e6be8047764a55f2ce0a56c0d35d3"}}

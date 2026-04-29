@@ -1,0 +1,1 @@
+{"id":"b4fd44af026baa8e42fe0718624369c8","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs should reject invalid parentLabId format","name":"should reject invalid parentLabId format","status":"passed","testResultsByEnv":{"default":"9b6031fcd558dfb7ed73bafe1d17ec50"}}

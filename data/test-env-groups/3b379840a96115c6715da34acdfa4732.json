@@ -1,0 +1,1 @@
+{"id":"3b379840a96115c6715da34acdfa4732","fullName":"server/routes/__tests__/email-campaigns.routes.test.ts#Email Campaigns Routes POST /campaigns creates campaign with scheduledAt","name":"creates campaign with scheduledAt","status":"passed","testResultsByEnv":{"default":"9fb12edf379a74e827cabb2b68a33252"}}

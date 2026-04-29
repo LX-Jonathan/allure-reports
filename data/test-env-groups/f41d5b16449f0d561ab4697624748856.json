@@ -1,0 +1,1 @@
+{"id":"f41d5b16449f0d561ab4697624748856","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar hides notification badge on Patient Portal NavItem when unread count is 0","name":"hides notification badge on Patient Portal NavItem when unread count is 0","status":"passed","testResultsByEnv":{"default":"720a967637e663e5f35e7c5a2ace57f6"}}

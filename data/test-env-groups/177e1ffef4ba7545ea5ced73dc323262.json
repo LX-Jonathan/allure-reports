@@ -1,0 +1,1 @@
+{"id":"177e1ffef4ba7545ea5ced73dc323262","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes PATCH /invoices/:invoiceId returns 400 for validation error","name":"returns 400 for validation error","status":"passed","testResultsByEnv":{"default":"3b0cad7b18433f278be6135f290bc729"}}

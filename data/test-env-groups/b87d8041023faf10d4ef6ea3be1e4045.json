@@ -1,0 +1,1 @@
+{"id":"b87d8041023faf10d4ef6ea3be1e4045","fullName":"client/src/pages/__tests__/auth-callback.test.tsx#AuthCallbackPage calls /api/v1/auth/exchange-session with credentials include","name":"calls /api/v1/auth/exchange-session with credentials include","status":"passed","testResultsByEnv":{"default":"8a24fb490567ae2dfb567512250b1ed6"}}

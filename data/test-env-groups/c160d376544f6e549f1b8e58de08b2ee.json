@@ -1,0 +1,1 @@
+{"id":"c160d376544f6e549f1b8e58de08b2ee","fullName":"server/__tests__/audit.test.ts#audit middleware auditMiddleware skips static asset paths","name":"skips static asset paths","status":"passed","testResultsByEnv":{"default":"bec185f789537c059c8fb1ae01764244"}}

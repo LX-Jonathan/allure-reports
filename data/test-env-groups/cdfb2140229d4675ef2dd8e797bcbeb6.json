@@ -1,0 +1,1 @@
+{"id":"cdfb2140229d4675ef2dd8e797bcbeb6","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker startBulkScanSplitWorker should create a worker with correct configuration","name":"should create a worker with correct configuration","status":"passed","testResultsByEnv":{"default":"4fa4c650cb47f45043f12c8654c24651"}}

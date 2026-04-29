@@ -1,0 +1,1 @@
+{"id":"37a4d560a50a548862dcbe9dc999186b","fullName":"server/routes/__tests__/prompt-pay.routes.test.ts#Prompt Pay Routes DELETE /api/prompt-pay/:id returns 500 on db error during deletion","name":"returns 500 on db error during deletion","status":"passed","testResultsByEnv":{"default":"2e4ec3d930ccd41710e5434dafdacda5"}}

@@ -1,0 +1,1 @@
+{"id":"5c6d7886e071515b37047bbf92fb1348","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should debit cash over/short when cash is short","name":"should debit cash over/short when cash is short","status":"passed","testResultsByEnv":{"default":"cfe08f53c2a4121363cb40c7b4661f9b"}}

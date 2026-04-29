@@ -1,0 +1,1 @@
+{"id":"23e33b48dd860fb3032c6f147057b3cf","fullName":"server/__tests__/storage-visit-checkins.test.ts#DatabaseStorage - Visit Check-Ins getVisitCheckinByAppointmentId looks up by appointmentId and orders by createdAt desc","name":"looks up by appointmentId and orders by createdAt desc","status":"passed","testResultsByEnv":{"default":"3ad668a3d7e35299d2442a1b3329317f"}}

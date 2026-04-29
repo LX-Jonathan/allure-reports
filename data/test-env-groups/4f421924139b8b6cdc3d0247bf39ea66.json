@@ -1,0 +1,1 @@
+{"id":"4f421924139b8b6cdc3d0247bf39ea66","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes GET /readers passes location filter to Stripe when provided","name":"passes location filter to Stripe when provided","status":"passed","testResultsByEnv":{"default":"0905fa0980c281f6f82d05c917a8f5a2"}}

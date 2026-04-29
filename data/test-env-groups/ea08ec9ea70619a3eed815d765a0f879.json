@@ -1,0 +1,1 @@
+{"id":"ea08ec9ea70619a3eed815d765a0f879","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getUserCount should return total count of non-deleted users","name":"should return total count of non-deleted users","status":"passed","testResultsByEnv":{"default":"23833e52a644081b6129b06d995c9f0f"}}

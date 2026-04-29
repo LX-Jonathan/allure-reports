@@ -1,0 +1,1 @@
+{"id":"e0426a2c68e8baa78e655fe71f040811","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/cpt-lookup/:code should use CMS shortDescription when no lab test found","name":"should use CMS shortDescription when no lab test found","status":"passed","testResultsByEnv":{"default":"80b3913477488c9762a9f573539a3509"}}

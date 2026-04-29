@@ -1,0 +1,1 @@
+{"id":"274e215fca76668e1da3a4c4226fb021","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /create-from-pdf uses filename as template name when name not provided","name":"uses filename as template name when name not provided","status":"passed","testResultsByEnv":{"default":"46c7333b87c0a4b9edaf59c8e1615dab"}}

@@ -1,0 +1,1 @@
+{"id":"c55378c755583c7134264851fa28d36f","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should set resolvedAt when status changes to resolved","name":"should set resolvedAt when status changes to resolved","status":"passed","testResultsByEnv":{"default":"1a6b7584d8e193dd6a7f4495bae5461b"}}

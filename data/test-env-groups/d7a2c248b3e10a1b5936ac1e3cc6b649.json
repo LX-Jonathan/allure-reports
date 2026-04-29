@@ -1,0 +1,1 @@
+{"id":"d7a2c248b3e10a1b5936ac1e3cc6b649","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/check-duplicates returns 403 when checking different organization","name":"returns 403 when checking different organization","status":"passed","testResultsByEnv":{"default":"592008808a088db86e3ba7c26a6eb2fd"}}

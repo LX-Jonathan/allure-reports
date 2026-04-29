@@ -1,0 +1,1 @@
+{"id":"99ee49a094c3f3939b4392629bae57d5","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware optionalAuth Replit OIDC session-based auth should set user from session when authenticated","name":"should set user from session when authenticated","status":"passed","testResultsByEnv":{"default":"eecbaf2ee678607a3a4c71d5107ed7ca"}}

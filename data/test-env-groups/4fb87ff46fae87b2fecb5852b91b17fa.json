@@ -1,0 +1,1 @@
+{"id":"4fb87ff46fae87b2fecb5852b91b17fa","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings fhirPatientToLocal uses patient id as MRN fallback","name":"uses patient id as MRN fallback","status":"passed","testResultsByEnv":{"default":"9811e01ca0624893e76ec7f83a1469f0"}}

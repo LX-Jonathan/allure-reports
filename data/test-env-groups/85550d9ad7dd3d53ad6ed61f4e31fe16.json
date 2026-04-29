@@ -1,0 +1,1 @@
+{"id":"85550d9ad7dd3d53ad6ed61f4e31fe16","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /cancel-payment-intent returns 400 when paymentIntentId is missing","name":"returns 400 when paymentIntentId is missing","status":"passed","testResultsByEnv":{"default":"36246205bf88e73dbbee630f484b08fb"}}

@@ -1,0 +1,1 @@
+{"id":"be20cc8646729b2de4076459472d07cd","fullName":"server/routes/__tests__/user-view-portal-proxy.routes.test.ts#DELETE /:patientId/portal/proxies/:proxyId (staff preview) returns 400 for malformed proxy id","name":"returns 400 for malformed proxy id","status":"passed","testResultsByEnv":{"default":"db41af84ad87facee2d6b2d6582f674e"}}

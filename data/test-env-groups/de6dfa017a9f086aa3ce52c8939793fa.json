@@ -1,0 +1,1 @@
+{"id":"de6dfa017a9f086aa3ce52c8939793fa","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Test Panels & Lab Pricing deleteOrgPricing should soft-delete by setting isActive false","name":"should soft-delete by setting isActive false","status":"passed","testResultsByEnv":{"default":"71ea83f2af3251f127792bbf2ccc98c4"}}

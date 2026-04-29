@@ -1,0 +1,1 @@
+{"id":"4fc1a1029fd784a06e177dd8d3603cbc","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes PATCH /fhir-connections/:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"11b3fb2c8a369e795b2e1a4952e1342c"}}

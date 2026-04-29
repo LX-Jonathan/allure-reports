@@ -1,0 +1,1 @@
+{"id":"35039ebad5de316ddf1343940ae7360d","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/cash-event calls postCashDrawerCashEventJournal after event","name":"calls postCashDrawerCashEventJournal after event","status":"passed","testResultsByEnv":{"default":"1e270b8203a2223de36943fdbccc096e"}}

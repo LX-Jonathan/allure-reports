@@ -1,0 +1,1 @@
+{"id":"3ce0c148e963768205fa62f91214d9ae","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) PATCH /:id returns 404 when client not found","name":"returns 404 when client not found","status":"passed","testResultsByEnv":{"default":"4a7c0fdf7d007ba1c9a12c3dc7e20fe1"}}

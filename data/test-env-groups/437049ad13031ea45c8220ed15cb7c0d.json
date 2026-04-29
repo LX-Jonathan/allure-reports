@@ -1,0 +1,1 @@
+{"id":"437049ad13031ea45c8220ed15cb7c0d","fullName":"server/workers/__tests__/provider-import.worker.test.ts#processProviderImportJob location associations should create provider-location links for each locationId","name":"should create provider-location links for each locationId","status":"passed","testResultsByEnv":{"default":"43e14c7f0133b6cd56c8f8a7a01dcc5e"}}

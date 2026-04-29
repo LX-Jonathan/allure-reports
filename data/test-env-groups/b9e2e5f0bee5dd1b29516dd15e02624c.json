@@ -1,0 +1,1 @@
+{"id":"b9e2e5f0bee5dd1b29516dd15e02624c","fullName":"server/lib/__tests__/email.test.ts#email sendLoginCode sends login code email with code in subject","name":"sends login code email with code in subject","status":"passed","testResultsByEnv":{"default":"2b761a251f4c402110ab8c81c4bf12dc"}}

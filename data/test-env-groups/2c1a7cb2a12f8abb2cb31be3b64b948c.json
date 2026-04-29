@@ -1,0 +1,1 @@
+{"id":"2c1a7cb2a12f8abb2cb31be3b64b948c","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /locations returns empty when labClientId is not in allowed orgs","name":"returns empty when labClientId is not in allowed orgs","status":"passed","testResultsByEnv":{"default":"fcbe83a7019889e1d041440be5b05ab8"}}

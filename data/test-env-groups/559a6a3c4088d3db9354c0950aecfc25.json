@@ -1,0 +1,1 @@
+{"id":"559a6a3c4088d3db9354c0950aecfc25","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include format hints when present","name":"should include format hints when present","status":"passed","testResultsByEnv":{"default":"da95bfbd72246e274e3fe2336147593f"}}

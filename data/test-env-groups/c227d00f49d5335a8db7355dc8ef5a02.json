@@ -1,0 +1,1 @@
+{"id":"c227d00f49d5335a8db7355dc8ef5a02","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#processMedicalNecessityJob successful processing should call analyzeMedicalNecessity with job data","name":"should call analyzeMedicalNecessity with job data","status":"passed","testResultsByEnv":{"default":"c10c0a160ee132b55bdda3ad6f3b4339"}}

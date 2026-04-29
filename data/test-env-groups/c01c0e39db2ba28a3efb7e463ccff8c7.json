@@ -1,0 +1,1 @@
+{"id":"c01c0e39db2ba28a3efb7e463ccff8c7","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return failed for failed cached result without timestamp","name":"should return failed for failed cached result without timestamp","status":"passed","testResultsByEnv":{"default":"39775c6ebd829de8c3774674f51eed3c"}}

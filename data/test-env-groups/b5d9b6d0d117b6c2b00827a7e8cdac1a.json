@@ -1,0 +1,1 @@
+{"id":"b5d9b6d0d117b6c2b00827a7e8cdac1a","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#evaluateCircuitBreaker should not open circuit when error count is below threshold","name":"should not open circuit when error count is below threshold","status":"passed","testResultsByEnv":{"default":"e77f3aaeb589c790e58fbb649e84e4ad"}}

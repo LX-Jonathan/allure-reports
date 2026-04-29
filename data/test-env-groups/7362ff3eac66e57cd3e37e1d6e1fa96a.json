@@ -1,0 +1,1 @@
+{"id":"7362ff3eac66e57cd3e37e1d6e1fa96a","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is configured getEmailQueue should return a Queue instance","name":"getEmailQueue should return a Queue instance","status":"passed","testResultsByEnv":{"default":"8b0c6086c4361f3f7596483a0df00bbe"}}

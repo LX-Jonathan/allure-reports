@@ -1,0 +1,1 @@
+{"id":"3c3184cdcdcea660c0f4b66e01e20f64","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes PATCH /super-orgs/:id/status reactivates an inactive lab successfully","name":"reactivates an inactive lab successfully","status":"passed","testResultsByEnv":{"default":"5515c31d9224b0481e4cbb85c8572503"}}

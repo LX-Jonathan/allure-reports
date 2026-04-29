@@ -1,0 +1,1 @@
+{"id":"8af82ebb50e94f8bd0712c4be5174743","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PUT /api/v1/providers/my-signature (additional edge cases) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"0478af1e5a2b2fea0c234eaabf3902ac"}}

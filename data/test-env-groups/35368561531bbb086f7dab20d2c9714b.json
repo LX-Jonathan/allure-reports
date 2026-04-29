@@ -1,0 +1,1 @@
+{"id":"35368561531bbb086f7dab20d2c9714b","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord diagnoses should map condition entries to diagnoses","name":"should map condition entries to diagnoses","status":"passed","testResultsByEnv":{"default":"6ee36c3d3cbe0663e8cddb31372d1bce"}}

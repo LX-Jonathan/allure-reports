@@ -1,0 +1,1 @@
+{"id":"077f11ca30c64f5528e8d18e2c9c84f4","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) PATCH /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"6c15988d28261eb9b0e425545d762948"}}

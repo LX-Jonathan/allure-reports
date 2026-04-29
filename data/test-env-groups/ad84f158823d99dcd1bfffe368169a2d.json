@@ -1,0 +1,1 @@
+{"id":"ad84f158823d99dcd1bfffe368169a2d","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should return failed status with reason from BullMQ","name":"should return failed status with reason from BullMQ","status":"passed","testResultsByEnv":{"default":"3340e21266c9863a031749374ffefa8c"}}

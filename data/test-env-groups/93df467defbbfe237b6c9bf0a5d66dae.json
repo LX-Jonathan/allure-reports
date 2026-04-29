@@ -1,0 +1,1 @@
+{"id":"93df467defbbfe237b6c9bf0a5d66dae","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes PATCH /users/:userId/status returns 404 when user not found in org","name":"returns 404 when user not found in org","status":"passed","testResultsByEnv":{"default":"8aabddd71c61c76708d854dfc0a37720"}}

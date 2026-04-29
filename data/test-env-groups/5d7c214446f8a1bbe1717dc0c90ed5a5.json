@@ -1,0 +1,1 @@
+{"id":"5d7c214446f8a1bbe1717dc0c90ed5a5","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/messages creates conversation if none exists and sends message","name":"creates conversation if none exists and sends message","status":"passed","testResultsByEnv":{"default":"0afeef049ea07921874f559e63bd0c56"}}

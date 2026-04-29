@@ -1,0 +1,1 @@
+{"id":"83195fd1ab304946be5904ca490acdbc","fullName":"server/__tests__/worker-process.test.ts#worker-process start function should log worker process ready message on successful startup","name":"should log worker process ready message on successful startup","status":"passed","testResultsByEnv":{"default":"5d9845bd85dab678fc668947382a2440"}}

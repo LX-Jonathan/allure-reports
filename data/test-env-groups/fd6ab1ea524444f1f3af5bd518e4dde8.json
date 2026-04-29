@@ -1,0 +1,1 @@
+{"id":"fd6ab1ea524444f1f3af5bd518e4dde8","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanies should use default pagination (page 1, limit 25)","name":"should use default pagination (page 1, limit 25)","status":"passed","testResultsByEnv":{"default":"d0aeb1b2abc0f3f092be3ef1da3e7935"}}

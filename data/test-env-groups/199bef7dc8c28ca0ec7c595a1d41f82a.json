@@ -1,0 +1,1 @@
+{"id":"199bef7dc8c28ca0ec7c595a1d41f82a","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/ai-lookup — additional branches returns 400 when DNS resolution fails","name":"returns 400 when DNS resolution fails","status":"passed","testResultsByEnv":{"default":"c35e000235f4c29b7c68b9e4be0e5cdf"}}

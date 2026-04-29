@@ -1,0 +1,1 @@
+{"id":"f2df130cdf6b750f9b20f7772c391a07","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getSuperOrgs returns super orgs with total count","name":"returns super orgs with total count","status":"passed","testResultsByEnv":{"default":"691c0b572fdcd68f03eafc718a085a98"}}

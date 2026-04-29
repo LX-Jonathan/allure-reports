@@ -1,0 +1,1 @@
+{"id":"51e0ca1d877200870768e41261817202","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/status should filter by labId for org_admin (200)","name":"should filter by labId for org_admin (200)","status":"passed","testResultsByEnv":{"default":"13175ea408635c668efdd289c7f58d55"}}

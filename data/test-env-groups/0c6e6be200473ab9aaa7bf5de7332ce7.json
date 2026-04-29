@@ -1,0 +1,1 @@
+{"id":"0c6e6be200473ab9aaa7bf5de7332ce7","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes DELETE / returns 500 when clearing fails","name":"returns 500 when clearing fails","status":"passed","testResultsByEnv":{"default":"20c6ea5265869a748661aa74214b2594"}}

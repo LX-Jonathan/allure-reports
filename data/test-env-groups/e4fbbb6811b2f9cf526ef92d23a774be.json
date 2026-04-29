@@ -1,0 +1,1 @@
+{"id":"e4fbbb6811b2f9cf526ef92d23a774be","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should extract per-field confidence scores when provided","name":"should extract per-field confidence scores when provided","status":"passed","testResultsByEnv":{"default":"d307f4a68f6da35e3f45f825ec97404a"}}

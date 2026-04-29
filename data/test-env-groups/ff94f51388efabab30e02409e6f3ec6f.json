@@ -1,0 +1,1 @@
+{"id":"ff94f51388efabab30e02409e6f3ec6f","fullName":"server/services/__tests__/ocrLogger.service.test.ts#ocrLogger.service logBatchItemStart should log debug with item and page details","name":"should log debug with item and page details","status":"passed","testResultsByEnv":{"default":"a22169dfce4b24da08257ebee51c7b05"}}

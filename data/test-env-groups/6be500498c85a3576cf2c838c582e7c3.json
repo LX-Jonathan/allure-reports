@@ -1,0 +1,1 @@
+{"id":"6be500498c85a3576cf2c838c582e7c3","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite skips auto-invite when duplicate portal user exists","name":"skips auto-invite when duplicate portal user exists","status":"passed","testResultsByEnv":{"default":"23f534cb4d1bd81d67ae6e56fcfb846e"}}

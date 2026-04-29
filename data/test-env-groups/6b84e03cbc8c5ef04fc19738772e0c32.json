@@ -1,0 +1,1 @@
+{"id":"6b84e03cbc8c5ef04fc19738772e0c32","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"a6422757f8cf435b2d82bb12e873788e"}}

@@ -1,0 +1,1 @@
+{"id":"9b1b8e40c82ce5c8de58cffc4b3a0903","fullName":"server/middleware/__tests__/chains.test.ts#chains middleware superAdmin chain should export an array with requireAuth and requireRole","name":"should export an array with requireAuth and requireRole","status":"passed","testResultsByEnv":{"default":"33117317b20699a9ae91d6997593fa55"}}

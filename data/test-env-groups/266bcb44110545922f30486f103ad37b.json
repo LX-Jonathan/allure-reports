@@ -1,0 +1,1 @@
+{"id":"266bcb44110545922f30486f103ad37b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes DELETE /api/interfaces/alert-rules/:id should delete alert rule (200)","name":"should delete alert rule (200)","status":"passed","testResultsByEnv":{"default":"0a0735dc6f7f0fceafab0137fd067225"}}

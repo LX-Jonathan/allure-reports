@@ -1,0 +1,1 @@
+{"id":"50181636c55ddffd4af493c7319292a3","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes GET /:id returns 200 with contract and lineItems","name":"returns 200 with contract and lineItems","status":"passed","testResultsByEnv":{"default":"cdea71452d96b58463dfe59b816468a5"}}

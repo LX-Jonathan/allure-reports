@@ -1,0 +1,1 @@
+{"id":"a3a57b9e9c3a785f98af7dd92baa36d2","fullName":"client/src/hooks/__tests__/use-marketplace-saved-addresses.test.tsx#useSavedAddressPreference does not touch localStorage when userId is undefined","name":"does not touch localStorage when userId is undefined","status":"passed","testResultsByEnv":{"default":"5917bec6a612cfd4f29a4567a280990e"}}

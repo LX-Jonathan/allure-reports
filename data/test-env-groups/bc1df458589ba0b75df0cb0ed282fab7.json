@@ -1,0 +1,1 @@
+{"id":"bc1df458589ba0b75df0cb0ed282fab7","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /simulate-reader returns 400 when body is empty","name":"returns 400 when body is empty","status":"passed","testResultsByEnv":{"default":"2f976c6000bcbc3157ebc5611278b2f1"}}

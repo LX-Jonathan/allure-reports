@@ -1,0 +1,1 @@
+{"id":"ed4e9418f16358fd027352abd3b3226f","fullName":"client/src/hooks/__tests__/use-patient-insurance-status.test.ts#getInsuranceStatus treats both sides present as healthy","name":"treats both sides present as healthy","status":"passed","testResultsByEnv":{"default":"4cfe6e8fd8105e5f3bf6fdfd8930ea54"}}

@@ -1,0 +1,1 @@
+{"id":"f8f3764e4203478d6a1e11020c3f3956","fullName":"server/lib/__tests__/email.test.ts#email sendEmail returns false on SendGrid send failure","name":"returns false on SendGrid send failure","status":"passed","testResultsByEnv":{"default":"595ef6c66bbe441f25bab7d16f936a4f"}}

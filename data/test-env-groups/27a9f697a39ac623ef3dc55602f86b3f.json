@@ -1,0 +1,1 @@
+{"id":"27a9f697a39ac623ef3dc55602f86b3f","fullName":"server/services/__tests__/payment-application.test.ts#syncCreditRefundForStripeRefund returns null when payment is not found","name":"returns null when payment is not found","status":"passed","testResultsByEnv":{"default":"2c2a878354c3d60c2da5fa576b04dba7"}}

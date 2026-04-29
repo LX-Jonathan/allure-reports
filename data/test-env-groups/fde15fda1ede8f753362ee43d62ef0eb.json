@@ -1,0 +1,1 @@
+{"id":"fde15fda1ede8f753362ee43d62ef0eb","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Orders Order Readiness audit logging assignOrders writes assignment_changed audit entry per updated order","name":"writes assignment_changed audit entry per updated order","status":"passed","testResultsByEnv":{"default":"b6b07ae6d4c2d22b8f877e87b022d456"}}

@@ -1,0 +1,1 @@
+{"id":"d92815562930aef78572d6357d92ea77","fullName":"server/lib/__tests__/logger.test.ts#logger child() should attach static context to every child log line","name":"should attach static context to every child log line","status":"passed","testResultsByEnv":{"default":"b1c410fb154c4c26eab536326cd6a8d5"}}

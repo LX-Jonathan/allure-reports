@@ -1,0 +1,1 @@
+{"id":"fc23b553df754c3e07ca5ba411d419df","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders/from-intake returns 400 when location is missing","name":"returns 400 when location is missing","status":"passed","testResultsByEnv":{"default":"8797ecd8c138acc1fb77d3304608f3a5"}}

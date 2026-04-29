@@ -1,0 +1,1 @@
+{"id":"e8d68508901370d5eca33fd96f7de0c0","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/demographic-verifications/refresh returns 400 when API credentials are missing","name":"returns 400 when API credentials are missing","status":"passed","testResultsByEnv":{"default":"ac8fb2203822456f5be8229b9d3a0c69"}}

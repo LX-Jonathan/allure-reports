@@ -1,0 +1,1 @@
+{"id":"85ac6036e3d3526c6d137c137cc4637e","fullName":"client/src/pages/__tests__/operations-center.test.tsx#OperationsCenterPage hides Biometrics tab when super-org has disabled the biometrics module","name":"hides Biometrics tab when super-org has disabled the biometrics module","status":"passed","testResultsByEnv":{"default":"e958173fecd9a008d6e5574016583042"}}

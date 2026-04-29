@@ -1,0 +1,1 @@
+{"id":"ff05417f7920eaed746e8e2621a9a6c6","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq createWorker should return null when BullMQ is not configured","name":"should return null when BullMQ is not configured","status":"passed","testResultsByEnv":{"default":"730df164c01d4f4fe7aa1f09c4284753"}}

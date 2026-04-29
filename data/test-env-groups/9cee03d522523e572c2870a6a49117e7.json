@@ -1,0 +1,1 @@
+{"id":"9cee03d522523e572c2870a6a49117e7","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should set status to pending when retries remain","name":"should set status to pending when retries remain","status":"passed","testResultsByEnv":{"default":"e926bbdf4e86ca8ba5bd5225de0f216a"}}

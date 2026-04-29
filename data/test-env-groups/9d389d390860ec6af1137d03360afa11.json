@@ -1,0 +1,1 @@
+{"id":"9d389d390860ec6af1137d03360afa11","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service detectBlankPage should apply grayscale and raw processing","name":"should apply grayscale and raw processing","status":"passed","testResultsByEnv":{"default":"288ffb9dd6a82560e56f7986edec3117"}}

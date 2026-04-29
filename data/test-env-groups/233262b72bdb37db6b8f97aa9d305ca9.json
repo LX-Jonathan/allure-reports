@@ -1,0 +1,1 @@
+{"id":"233262b72bdb37db6b8f97aa9d305ca9","fullName":"client/src/components/patient/__tests__/insurance-card-history.test.tsx#InsuranceCardHistory falls back to overall confidence summary when no per-field flags","name":"falls back to overall confidence summary when no per-field flags","status":"passed","testResultsByEnv":{"default":"d56fbdf115ff2bf44e7081a5b242200c"}}

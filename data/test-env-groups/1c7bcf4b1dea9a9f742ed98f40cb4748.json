@@ -1,0 +1,1 @@
+{"id":"1c7bcf4b1dea9a9f742ed98f40cb4748","fullName":"client/src/hooks/__tests__/useOrderMoneyReadiness.test.tsx#useOrderMoneyReadiness exposes stored credit when accountCreditCents > 0","name":"exposes stored credit when accountCreditCents > 0","status":"passed","testResultsByEnv":{"default":"7b63447d6d828089ab0572aaee833304"}}

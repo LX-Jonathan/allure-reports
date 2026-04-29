@@ -1,0 +1,1 @@
+{"id":"0c4c640218c22cd82f52ad401ea21ee8","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET /:id returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"d520c9ca220ab5adff6b7cf1aba49ed4"}}

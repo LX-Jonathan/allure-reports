@@ -1,0 +1,1 @@
+{"id":"c3aa36b65bd283d4256ac7ce4f4d697d","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes GET /orders/:orderId/payments returns 403 when order belongs to different org","name":"returns 403 when order belongs to different org","status":"passed","testResultsByEnv":{"default":"ee967ad2383efb1de2dd3fdf937ced7c"}}

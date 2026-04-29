@@ -1,0 +1,1 @@
+{"id":"15307e9364bea87fb19b85f78b0ee62f","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore destroy should not throw when callback is undefined and redis throws","name":"should not throw when callback is undefined and redis throws","status":"passed","testResultsByEnv":{"default":"f09e4169005993046da4609beed45c5a"}}

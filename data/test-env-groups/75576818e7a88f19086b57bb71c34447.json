@@ -1,0 +1,1 @@
+{"id":"75576818e7a88f19086b57bb71c34447","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Test Groups Routes PATCH /api/v1/test-groups/:id returns 403 when org_admin updates different org's group","name":"returns 403 when org_admin updates different org's group","status":"passed","testResultsByEnv":{"default":"bd7dbfc2901de7ed5d225e3d9eb27482"}}

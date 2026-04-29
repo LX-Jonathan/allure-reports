@@ -1,0 +1,1 @@
+{"id":"14478f9a7b669edcbc1fe8b5fe8edbe8","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints POST /api/v1/lxu/admin/modules returns 201 when module is created by super_admin","name":"returns 201 when module is created by super_admin","status":"passed","testResultsByEnv":{"default":"055ae104b3e13d93cc2988f49851c06a"}}

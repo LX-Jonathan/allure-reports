@@ -1,0 +1,1 @@
+{"id":"091f6cbad0f1f9ed4679a243f42f7aab","fullName":"client/src/contexts/__tests__/patient-impersonation-context.test.tsx#ImpersonationContext calls setImpersonationState on mount with patientId","name":"calls setImpersonationState on mount with patientId","status":"passed","testResultsByEnv":{"default":"96e77bdf9fa6a50f49cda4eecc07944a"}}

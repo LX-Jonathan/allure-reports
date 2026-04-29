@@ -1,0 +1,1 @@
+{"id":"57da5eed0701386d2de8e03bdee6fedd","fullName":"server/__tests__/users.routes.test.ts#users routes POST /api/v1/users/:id/resend-invite resends invitation","name":"resends invitation","status":"passed","testResultsByEnv":{"default":"c89712aceca9097e5c8052d827404f97"}}

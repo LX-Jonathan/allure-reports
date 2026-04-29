@@ -1,0 +1,1 @@
+{"id":"c317a1fb1b72c93f458e4c00465f931c","fullName":"server/__tests__/system.routes.test.ts#system routes POST /api/v1/system/test-email returns 500 when email sending fails","name":"returns 500 when email sending fails","status":"passed","testResultsByEnv":{"default":"afa7e6a0947b776eee6448482f5bf076"}}

@@ -1,0 +1,1 @@
+{"id":"45e761e353137a5eeeb3e1e6da34218e","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService findById should apply tenant filters for non-full-access users","name":"should apply tenant filters for non-full-access users","status":"passed","testResultsByEnv":{"default":"e56043dab61e334d048534ba83470465"}}

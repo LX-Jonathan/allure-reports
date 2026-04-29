@@ -1,0 +1,1 @@
+{"id":"7fea50b4ddbbbea19a6603b1b57fa080","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints DELETE /api/v1/lxu/admin/quickstarts/:id returns 200 when quickstart is soft deleted","name":"returns 200 when quickstart is soft deleted","status":"passed","testResultsByEnv":{"default":"504bdb70e68beb6ae29ec8aaea3206d9"}}

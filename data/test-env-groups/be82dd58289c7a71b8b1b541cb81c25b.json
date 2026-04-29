@@ -1,0 +1,1 @@
+{"id":"be82dd58289c7a71b8b1b541cb81c25b","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund processes refund successfully for super_admin","name":"processes refund successfully for super_admin","status":"passed","testResultsByEnv":{"default":"9b87259d4802d27edc8f90d6b4ab2dfc"}}

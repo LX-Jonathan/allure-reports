@@ -1,0 +1,1 @@
+{"id":"4f41f2dd0999ff771aa6bf83d59517d1","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/import/:id/confirm returns 503 when BullMQ is not configured","name":"returns 503 when BullMQ is not configured","status":"passed","testResultsByEnv":{"default":"bb2fc0c846aa152e7112a25cfe5a965c"}}

@@ -1,0 +1,1 @@
+{"id":"ec2134671bc37778de4dd8db3275cc6c","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes DELETE /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"17cb1cec3f3dea45651fa4dc06adc27f"}}

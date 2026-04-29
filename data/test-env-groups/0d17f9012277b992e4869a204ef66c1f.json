@@ -1,0 +1,1 @@
+{"id":"0d17f9012277b992e4869a204ef66c1f","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueUserInviteEmail should queue invite email with organization name","name":"should queue invite email with organization name","status":"passed","testResultsByEnv":{"default":"9200ba97c9801c64109cc0508893c22d"}}

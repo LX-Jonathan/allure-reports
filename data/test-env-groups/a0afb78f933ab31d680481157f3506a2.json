@@ -1,0 +1,1 @@
+{"id":"a0afb78f933ab31d680481157f3506a2","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Audit Logs getAuditLogCountToday returns 0 when no logs today","name":"returns 0 when no logs today","status":"passed","testResultsByEnv":{"default":"ef6c211bc27cd8aa7d197e9a2300c6f0"}}

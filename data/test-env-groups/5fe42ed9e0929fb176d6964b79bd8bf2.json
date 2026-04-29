@@ -1,0 +1,1 @@
+{"id":"5fe42ed9e0929fb176d6964b79bd8bf2","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include special instructions when present","name":"should include special instructions when present","status":"passed","testResultsByEnv":{"default":"97ebb0a0a196e2ec02769b97d6192c0c"}}

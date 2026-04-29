@@ -1,0 +1,1 @@
+{"id":"1071a68d4648ae20446014c109718386","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should default width to 0 when metadata.width is undefined","name":"should default width to 0 when metadata.width is undefined","status":"passed","testResultsByEnv":{"default":"ecbe2b71574db9e18d96a36c049d47fb"}}

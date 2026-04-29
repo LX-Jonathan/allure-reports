@@ -1,0 +1,1 @@
+{"id":"d87f3029583033e806ac2f337de1f178","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusColors returns fallback gray classes for unknown status","name":"returns fallback gray classes for unknown status","status":"passed","testResultsByEnv":{"default":"7c25d23eb86a9050de239112fdffbc39"}}

@@ -1,0 +1,1 @@
+{"id":"21230e65bb7f3ccbceb2d6e3a6ba0706","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Reports with GlanceFilters GET /reports/error-rate-calculations returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"da78655ca76bab00693d64507f1b6a46"}}

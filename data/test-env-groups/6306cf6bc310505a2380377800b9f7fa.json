@@ -1,0 +1,1 @@
+{"id":"6306cf6bc310505a2380377800b9f7fa","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider (additional edge cases) returns 403 when user has no tenant","name":"returns 403 when user has no tenant","status":"passed","testResultsByEnv":{"default":"800e00f0343e686ec841e7522a15bc8c"}}

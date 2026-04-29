@@ -1,0 +1,1 @@
+{"id":"7a37db2ca42b732b8d5934ea240ef975","fullName":"server/routes/__tests__/manual-payments-reverse.routes.test.ts#Manual Payments — reverse preview endpoint rejects a non-positive amountCents query parameter","name":"rejects a non-positive amountCents query parameter","status":"passed","testResultsByEnv":{"default":"36fd5e26ca82d86d6c869975806f78de"}}

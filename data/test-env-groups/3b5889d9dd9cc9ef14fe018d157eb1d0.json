@@ -1,0 +1,1 @@
+{"id":"3b5889d9dd9cc9ef14fe018d157eb1d0","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Medications Routes PATCH /api/v1/medications/:id/favorite returns 200 on successful favorite toggle","name":"returns 200 on successful favorite toggle","status":"passed","testResultsByEnv":{"default":"fa9f92e779820602b82cc075b813d80d"}}

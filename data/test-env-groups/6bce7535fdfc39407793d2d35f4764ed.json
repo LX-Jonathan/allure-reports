@@ -1,0 +1,1 @@
+{"id":"6bce7535fdfc39407793d2d35f4764ed","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getFallbackConfig returns default config when no super org settings","name":"returns default config when no super org settings","status":"passed","testResultsByEnv":{"default":"0e50985404ac3cb21856e3bae5ceab9f"}}

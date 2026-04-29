@@ -1,0 +1,1 @@
+{"id":"82a236766c355e7e54dad3e6e67327df","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts decodePatientToken should decode token without verification","name":"should decode token without verification","status":"passed","testResultsByEnv":{"default":"e354bf522820c064d6e7f2da3bc93c1f"}}

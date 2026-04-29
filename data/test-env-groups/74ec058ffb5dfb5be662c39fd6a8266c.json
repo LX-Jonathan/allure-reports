@@ -1,0 +1,1 @@
+{"id":"74ec058ffb5dfb5be662c39fd6a8266c","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes POST /patient/conversations creates the chat conversation when none exists yet","name":"creates the chat conversation when none exists yet","status":"passed","testResultsByEnv":{"default":"71f7efb200c808c26fb458d0ab61c6f1"}}

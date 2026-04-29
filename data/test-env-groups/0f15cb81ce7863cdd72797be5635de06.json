@@ -1,0 +1,1 @@
+{"id":"0f15cb81ce7863cdd72797be5635de06","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes GET /api/v1/check-ins/by-patient/:patientId/eligibility returns 404 when the patient has no check-ins","name":"returns 404 when the patient has no check-ins","status":"passed","testResultsByEnv":{"default":"b345b70ef7de1eb10e9c64546ed09cd4"}}

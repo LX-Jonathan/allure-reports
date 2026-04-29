@@ -1,0 +1,1 @@
+{"id":"f3a860fa3ff1d93c04436f82e2b2bb57","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts getInvitationExpiry should return date 7 days in the future","name":"should return date 7 days in the future","status":"passed","testResultsByEnv":{"default":"2f5b82b1b5b0218cf8f091f3174ae451"}}

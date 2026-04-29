@@ -1,0 +1,1 @@
+{"id":"6f0cd0bc5877f1ae8fc5e54181c54203","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST / returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"e2298ffa46ffe402d112f39cd508b352"}}

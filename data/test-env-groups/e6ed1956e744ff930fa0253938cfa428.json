@@ -1,0 +1,1 @@
+{"id":"e6ed1956e744ff930fa0253938cfa428","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanSplitJob should add job with correct data when queue is available","name":"should add job with correct data when queue is available","status":"passed","testResultsByEnv":{"default":"4edba88125c81198d2313d196cfd15b2"}}

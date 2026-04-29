@@ -1,0 +1,1 @@
+{"id":"9bca4c9b8045eb6fbaf5960c51a7c022","fullName":"server/routes/__tests__/ocr.routes.test.ts#OCR Routes POST /drivers-license returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"ab1a64c4258c34fe1c5b00d259209216"}}

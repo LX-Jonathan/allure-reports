@@ -1,0 +1,1 @@
+{"id":"e6e2d28bff920bb57675a0315108e8cf","fullName":"server/lib/__tests__/email.test.ts#email sendLoginCode includes code in email body","name":"includes code in email body","status":"passed","testResultsByEnv":{"default":"88b7e3d064de1dc47d898b929b9b79d4"}}

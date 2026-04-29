@@ -1,0 +1,1 @@
+{"id":"ea65127dd14aaef6732d0021d6c289d5","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /tables/:tableName/sample returns error with statusCode from sanitize error","name":"returns error with statusCode from sanitize error","status":"passed","testResultsByEnv":{"default":"5d0c7cbffd6374c9958ac3225a9020a1"}}

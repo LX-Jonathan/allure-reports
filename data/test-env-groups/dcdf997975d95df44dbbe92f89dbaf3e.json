@@ -1,0 +1,1 @@
+{"id":"dcdf997975d95df44dbbe92f89dbaf3e","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queuePatientPortalPasswordResetEmail should not include patient first name in content for privacy","name":"should not include patient first name in content for privacy","status":"passed","testResultsByEnv":{"default":"bc9cee0406bbf5da2628c16aaa99faef"}}

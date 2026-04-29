@@ -1,0 +1,1 @@
+{"id":"636ce45b5a0dc08e352be64b6725f790","fullName":"server/__tests__/stripeConfig.test.ts#stripeConfig verifyStripeSecretKey returns ok:false when the key has the wrong prefix","name":"returns ok:false when the key has the wrong prefix","status":"passed","testResultsByEnv":{"default":"008eb850bd51f78438e7ebf89233796b"}}

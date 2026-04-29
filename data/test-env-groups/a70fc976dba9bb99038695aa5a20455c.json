@@ -1,0 +1,1 @@
+{"id":"a70fc976dba9bb99038695aa5a20455c","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueWelcomeEmail should render Spanish content when language is es","name":"should render Spanish content when language is es","status":"passed","testResultsByEnv":{"default":"3d698c4fd6a61322533930eef8176b64"}}

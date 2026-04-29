@@ -1,0 +1,1 @@
+{"id":"9789d550343a15e91e22818b8b98149e","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord demographics should handle patient name with only family","name":"should handle patient name with only family","status":"passed","testResultsByEnv":{"default":"3cae87fe9e19e75902f12ce0d3e014f8"}}

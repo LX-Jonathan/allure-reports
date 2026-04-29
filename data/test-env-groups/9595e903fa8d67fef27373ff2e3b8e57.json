@@ -1,0 +1,1 @@
+{"id":"9595e903fa8d67fef27373ff2e3b8e57","fullName":"client/src/components/patient/__tests__/verification-helpers.test.tsx#verification-helpers maskSSN returns null for nullish/empty input","name":"returns null for nullish/empty input","status":"passed","testResultsByEnv":{"default":"558aaa8f6b1f5c3bec2c636fad6e55d7"}}

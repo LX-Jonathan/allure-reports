@@ -1,0 +1,1 @@
+{"id":"20ece1713cd41ada705871db2ce5976f","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF falls back to the lab name without an image when no logo is configured","name":"falls back to the lab name without an image when no logo is configured","status":"passed","testResultsByEnv":{"default":"550f72efc29b9923c25a78b733043d4c"}}

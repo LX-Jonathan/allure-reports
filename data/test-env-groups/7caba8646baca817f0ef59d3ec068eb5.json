@@ -1,0 +1,1 @@
+{"id":"7caba8646baca817f0ef59d3ec068eb5","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes POST /api/v1/locations returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"73afbc0b502242a663c5416db18c9198"}}

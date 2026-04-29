@@ -1,0 +1,1 @@
+{"id":"be23acc363f85589f8d37028028ccf16","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService transitionStatus should pass cancel reason when transitioning to cancelled","name":"should pass cancel reason when transitioning to cancelled","status":"passed","testResultsByEnv":{"default":"68c4aaa2b8f4188a34e3a35a3389dd8f"}}

@@ -1,0 +1,1 @@
+{"id":"2328fd8cc32a991aeddc097c27f4064b","fullName":"server/routes/__tests__/labchat-patient.routes.test.ts#LabChat patient routes GET /patient/conversations/:id/messages/:messageId/file returns a signed URL for the file","name":"returns a signed URL for the file","status":"passed","testResultsByEnv":{"default":"19e8c3e68110dbcf0b46a1346186a2f3"}}

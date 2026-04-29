@@ -1,0 +1,1 @@
+{"id":"fa2620d58f661d62d914d590f82e188a","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/shares/:shareId returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"1d74cec84a855b5b5d5e6bc1416a0e9b"}}

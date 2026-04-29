@@ -1,0 +1,1 @@
+{"id":"bbc40623b72832803426274297571eb9","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generateRefreshToken should generate 48-byte token","name":"should generate 48-byte token","status":"passed","testResultsByEnv":{"default":"8004b31311ca6d90eff41ce36708cee2"}}

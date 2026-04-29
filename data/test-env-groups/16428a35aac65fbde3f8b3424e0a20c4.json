@@ -1,0 +1,1 @@
+{"id":"16428a35aac65fbde3f8b3424e0a20c4","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent handles StripeCardError","name":"handles StripeCardError","status":"passed","testResultsByEnv":{"default":"add420e49edc73febfffd28b996e0122"}}

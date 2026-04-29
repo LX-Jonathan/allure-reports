@@ -1,0 +1,1 @@
+{"id":"7a78a52ac99bc6bb01996c55b7b7c047","fullName":"server/routes/__tests__/financial-assistance-programs.routes.test.ts#Financial Assistance Programs Routes GET /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"af6dc9404332897ebb321575da9974ed"}}

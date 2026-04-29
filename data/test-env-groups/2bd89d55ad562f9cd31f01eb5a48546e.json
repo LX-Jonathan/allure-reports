@@ -1,0 +1,1 @@
+{"id":"2bd89d55ad562f9cd31f01eb5a48546e","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog calls onComplete after successful save when provided","name":"calls onComplete after successful save when provided","status":"passed","testResultsByEnv":{"default":"04677be2b60cf1d37104174577438801"}}

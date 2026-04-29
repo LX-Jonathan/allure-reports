@@ -1,0 +1,1 @@
+{"id":"8bcf640620c935d2adad21b4d6822421","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes DELETE /api/v1/reports/:id/schedules/:scheduleId returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"04138a4ff9bd1f5a642627318aeac579"}}

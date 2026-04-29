@@ -1,0 +1,1 @@
+{"id":"70f672e992858f651a5b49e9082c2bbc","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: sms_factor_unavailable","name":"es: sms_factor_unavailable","status":"passed","testResultsByEnv":{"default":"31f3ccf79733bd17be3e5b9c6f2d1d59"}}

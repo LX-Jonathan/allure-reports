@@ -1,0 +1,1 @@
+{"id":"e07bb2289cb3c215b6cb4d0667468135","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes DELETE /api/v1/favorites/:id returns 404 for non-existent favorite","name":"returns 404 for non-existent favorite","status":"passed","testResultsByEnv":{"default":"09e040295ed9bc615acc51076f821e91"}}

@@ -1,0 +1,1 @@
+{"id":"4d1ba2a30f53ef6dbcb49cde54c73652","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs/:id/stats returns aggregated counts","name":"returns aggregated counts","status":"passed","testResultsByEnv":{"default":"16e143b934242d9938a8697e40cdef58"}}

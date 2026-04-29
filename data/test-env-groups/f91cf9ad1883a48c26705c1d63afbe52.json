@@ -1,0 +1,1 @@
+{"id":"f91cf9ad1883a48c26705c1d63afbe52","fullName":"server/jobs/__tests__/mfa-enrollment-reminder.test.ts#runMfaEnrollmentReminderSweep returns zeros when no candidates exist","name":"returns zeros when no candidates exist","status":"passed","testResultsByEnv":{"default":"6c787282036576d9672103b7f284a001"}}

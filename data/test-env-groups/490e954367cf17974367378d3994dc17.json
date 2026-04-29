@@ -1,0 +1,1 @@
+{"id":"490e954367cf17974367378d3994dc17","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt edge cases should handle template without special instructions","name":"should handle template without special instructions","status":"passed","testResultsByEnv":{"default":"12149e13ba1983d2aea68e4bcbc7fa5f"}}

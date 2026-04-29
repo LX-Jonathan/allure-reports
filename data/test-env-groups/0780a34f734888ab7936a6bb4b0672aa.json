@@ -1,0 +1,1 @@
+{"id":"0780a34f734888ab7936a6bb4b0672aa","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore set should call callback with error when redis throws","name":"should call callback with error when redis throws","status":"passed","testResultsByEnv":{"default":"c81d980c47f24b388d1158efd3766a0d"}}

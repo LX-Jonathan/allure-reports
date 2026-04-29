@@ -1,0 +1,1 @@
+{"id":"f5be008ca873af0dd61d179e210087bc","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/portal-link-usage returns 500 when token lookup throws","name":"returns 500 when token lookup throws","status":"passed","testResultsByEnv":{"default":"64fb2b7b286a366738ad2cbb6679d61a"}}

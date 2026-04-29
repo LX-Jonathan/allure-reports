@@ -1,0 +1,1 @@
+{"id":"80f7762283c5242d7d27dfa7a3bc262e","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/messages returns 404 when thread not found","name":"returns 404 when thread not found","status":"passed","testResultsByEnv":{"default":"9af82b7f54f05feebcec1e14f016c799"}}

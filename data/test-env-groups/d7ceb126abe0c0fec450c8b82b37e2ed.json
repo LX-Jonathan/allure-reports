@@ -1,0 +1,1 @@
+{"id":"d7ceb126abe0c0fec450c8b82b37e2ed","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/audit-history returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"34be850b20a3d93730e86111d31bfc8c"}}

@@ -1,0 +1,1 @@
+{"id":"2be1ba1fe59cc4c58cd661a246c3f0df","fullName":"shared/__tests__/financial-variance.test.ts#evaluateCopayVariance with custom config does not require a reason when both thresholds are met but not exceeded","name":"does not require a reason when both thresholds are met but not exceeded","status":"passed","testResultsByEnv":{"default":"5c49680f2736cd2c74eb7e62afe02afc"}}

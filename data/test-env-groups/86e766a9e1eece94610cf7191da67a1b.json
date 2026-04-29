@@ -1,0 +1,1 @@
+{"id":"86e766a9e1eece94610cf7191da67a1b","fullName":"client/src/components/__tests__/order-barcode-scanner.test.tsx#OrderBarcodeScanner calls onOpenChange(false) when cancel is clicked","name":"calls onOpenChange(false) when cancel is clicked","status":"passed","testResultsByEnv":{"default":"5c3a9314ecfd0a96199c4a1bcff8a693"}}

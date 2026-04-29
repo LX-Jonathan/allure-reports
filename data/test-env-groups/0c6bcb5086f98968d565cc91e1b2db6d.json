@@ -1,0 +1,1 @@
+{"id":"0c6bcb5086f98968d565cc91e1b2db6d","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items creates a new recent item and returns 201","name":"creates a new recent item and returns 201","status":"passed","testResultsByEnv":{"default":"cd20d4b09d029678faec0f49b5a02ab3"}}

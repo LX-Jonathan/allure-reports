@@ -1,0 +1,1 @@
+{"id":"81ce926abd5a85a48c47132dad1425fc","fullName":"client/src/components/patient/__tests__/eligibility-verification-detail-dialog.test.tsx#EligibilityVerificationDetailDialog renders unknown badge when isEligible is null","name":"renders unknown badge when isEligible is null","status":"passed","testResultsByEnv":{"default":"9a2391713ee6f49aafb730d9a47b9cba"}}

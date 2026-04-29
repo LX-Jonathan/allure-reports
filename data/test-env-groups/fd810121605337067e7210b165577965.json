@@ -1,0 +1,1 @@
+{"id":"fd810121605337067e7210b165577965","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/tickets/:ticketId/messages creates internal ticket message","name":"creates internal ticket message","status":"passed","testResultsByEnv":{"default":"9317eb402ea90722daae2b56fbc9f36b"}}

@@ -1,0 +1,1 @@
+{"id":"be1e04ca62f8eea6bdb0e07ce5e85068","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord diagnoses should use onsetPeriod.start when onsetDateTime is missing","name":"should use onsetPeriod.start when onsetDateTime is missing","status":"passed","testResultsByEnv":{"default":"5ee5109cabc7c81a3ef92e42d7540bf9"}}

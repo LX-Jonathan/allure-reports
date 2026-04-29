@@ -1,0 +1,1 @@
+{"id":"146a394f6e622c0f7dfc1f7cb9c40ee3","fullName":"server/replit_integrations/chat/__tests__/routes.test.ts#registerChatRoutes POST /api/conversations/:id/messages should set SSE headers","name":"should set SSE headers","status":"passed","testResultsByEnv":{"default":"ec4c8be694146a7a324d5adbd041ff58"}}

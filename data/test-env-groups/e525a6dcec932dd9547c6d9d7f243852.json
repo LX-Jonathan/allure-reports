@@ -1,0 +1,1 @@
+{"id":"e525a6dcec932dd9547c6d9d7f243852","fullName":"server/lib/__tests__/auth.test.ts#auth generateInviteCode should generate 24-byte token","name":"should generate 24-byte token","status":"passed","testResultsByEnv":{"default":"1eff928c189c886e73845c2c9cf789b4"}}

@@ -1,0 +1,1 @@
+{"id":"1dac7adf9cb7ddc77b3844cb01c5d58f","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes GET /api/v1/reports returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"6788f130e8fcc99be88a6910a28a76d4"}}

@@ -1,0 +1,1 @@
+{"id":"934e8ed353aa4823c982ba7edee6688b","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should include order number and patient name in description","name":"should include order number and patient name in description","status":"passed","testResultsByEnv":{"default":"6c48b3d179fe27bcdd6b2fa0ec5b08e6"}}

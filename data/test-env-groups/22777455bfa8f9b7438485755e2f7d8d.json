@@ -1,0 +1,1 @@
+{"id":"22777455bfa8f9b7438485755e2f7d8d","fullName":"server/jobs/__tests__/proxy-invitation-expiry.test.ts#expireStaleProxyInvitations skips rows that another worker already flipped to expired","name":"skips rows that another worker already flipped to expired","status":"passed","testResultsByEnv":{"default":"17779ad33294a05d4e20b9d7a4b19e5c"}}

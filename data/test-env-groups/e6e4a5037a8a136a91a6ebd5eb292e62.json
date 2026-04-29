@@ -1,0 +1,1 @@
+{"id":"e6e4a5037a8a136a91a6ebd5eb292e62","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Insurance Companies deleteInsuranceCompany returns false when not found","name":"returns false when not found","status":"passed","testResultsByEnv":{"default":"42128626df0086d7d6ed6c6ed26f3089"}}

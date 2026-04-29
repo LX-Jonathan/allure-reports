@@ -1,0 +1,1 @@
+{"id":"b2509c3e396b960ed2f1375fd7d91bef","fullName":"server/routes/__tests__/trading-partners.routes.test.ts#Trading Partners Routes POST /import handles rows with missing data gracefully","name":"handles rows with missing data gracefully","status":"passed","testResultsByEnv":{"default":"f402c3ddbfa41c84288f9486dfc90d39"}}

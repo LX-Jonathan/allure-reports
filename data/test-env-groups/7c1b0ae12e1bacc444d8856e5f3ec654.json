@@ -1,0 +1,1 @@
+{"id":"7c1b0ae12e1bacc444d8856e5f3ec654","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Lab Tests Routes PATCH /api/v1/lab-tests/:id returns 403 when org_admin tries to update different org's test","name":"returns 403 when org_admin tries to update different org's test","status":"passed","testResultsByEnv":{"default":"30367eca22f3342116c05c3cd1de4c9c"}}

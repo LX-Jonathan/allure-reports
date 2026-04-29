@@ -1,0 +1,1 @@
+{"id":"87962e826239c44fd3d256a60e2de63f","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance POST /:id/eligibility rejects insurance ids that don't belong to the patient","name":"rejects insurance ids that don't belong to the patient","status":"passed","testResultsByEnv":{"default":"23a9299d23c30a2f99020a6a6e7f32ae"}}

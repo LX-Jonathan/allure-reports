@@ -1,0 +1,1 @@
+{"id":"5fed71a9a0f9e5fc515ca2a2255207bb","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should default confidence to 95 when no page confidences","name":"should default confidence to 95 when no page confidences","status":"passed","testResultsByEnv":{"default":"67e281ff1cf685090910df3e7b0d25e2"}}

@@ -1,0 +1,1 @@
+{"id":"93ff64199ed8e051fc42b7ced6a378e9","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess requiresLocationFilter should return true for any non-admin role","name":"should return true for any non-admin role","status":"passed","testResultsByEnv":{"default":"e8afc90735c67ba51f5e5adc92dcbbf4"}}

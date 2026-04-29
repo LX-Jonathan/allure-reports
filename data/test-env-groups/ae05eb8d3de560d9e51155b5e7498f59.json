@@ -1,0 +1,1 @@
+{"id":"ae05eb8d3de560d9e51155b5e7498f59","fullName":"server/lib/__tests__/redisSessionStore.test.ts#UpstashSessionStore constructor should use default prefix and ttl when no options provided","name":"should use default prefix and ttl when no options provided","status":"passed","testResultsByEnv":{"default":"41ccbb512640c83df63eb16940e638b2"}}

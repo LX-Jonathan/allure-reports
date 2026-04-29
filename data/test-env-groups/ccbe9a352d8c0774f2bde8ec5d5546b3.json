@@ -1,0 +1,1 @@
+{"id":"ccbe9a352d8c0774f2bde8ec5d5546b3","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog renders dash for null copay amount in office copay","name":"renders dash for null copay amount in office copay","status":"passed","testResultsByEnv":{"default":"82df02130dc0bb611a6462ceb6da2fed"}}

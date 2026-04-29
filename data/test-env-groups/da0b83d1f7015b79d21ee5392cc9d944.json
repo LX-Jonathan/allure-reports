@@ -1,0 +1,1 @@
+{"id":"da0b83d1f7015b79d21ee5392cc9d944","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService delete should return false when Redis is not configured","name":"should return false when Redis is not configured","status":"passed","testResultsByEnv":{"default":"43f858f59b0bc2f1d62f41c12b120ae1"}}

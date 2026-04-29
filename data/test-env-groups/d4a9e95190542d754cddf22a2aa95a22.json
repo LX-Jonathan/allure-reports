@@ -1,0 +1,1 @@
+{"id":"d4a9e95190542d754cddf22a2aa95a22","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes POST /fhir-connections/:connectionId/search-patient returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2e6b0e38371591a5e230158aa2df0c7f"}}

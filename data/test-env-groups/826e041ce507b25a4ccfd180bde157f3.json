@@ -1,0 +1,1 @@
+{"id":"826e041ce507b25a4ccfd180bde157f3","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/pending-jobs/bulk-delete should succeed for valid jobIds","name":"should succeed for valid jobIds","status":"passed","testResultsByEnv":{"default":"711a2b8df59a7c3a217f708681ad9d89"}}

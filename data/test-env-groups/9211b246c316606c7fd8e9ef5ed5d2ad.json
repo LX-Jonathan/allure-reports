@@ -1,0 +1,1 @@
+{"id":"9211b246c316606c7fd8e9ef5ed5d2ad","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue checkEmailConsent should skip patient results email when consent is denied","name":"should skip patient results email when consent is denied","status":"passed","testResultsByEnv":{"default":"45f84c4d67ca6a7d5ce6a827bb3405fa"}}

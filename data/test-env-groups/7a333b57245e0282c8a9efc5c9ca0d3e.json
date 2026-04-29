@@ -1,0 +1,1 @@
+{"id":"7a333b57245e0282c8a9efc5c9ca0d3e","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes GET /api/tickets/:id should return 403 for org admin from different super org","name":"should return 403 for org admin from different super org","status":"passed","testResultsByEnv":{"default":"ed0cff0e7af297772d08aad3a5336a26"}}

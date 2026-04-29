@@ -1,0 +1,1 @@
+{"id":"af28160ea134eeb1d02ceaa72f6cd3ea","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 200 on successful order creation","name":"returns 200 on successful order creation","status":"passed","testResultsByEnv":{"default":"97256a58cd8515227b8c1197ee34ca00"}}

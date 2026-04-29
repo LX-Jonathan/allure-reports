@@ -1,0 +1,1 @@
+{"id":"e87c7e3c5b9a2b6d36f6c2a00a6f3f90","fullName":"server/lib/__tests__/auth.test.ts#auth generateSecureToken should generate token with default length of 32 bytes (64 hex chars)","name":"should generate token with default length of 32 bytes (64 hex chars)","status":"passed","testResultsByEnv":{"default":"165e8ff9d7d73045b61bf43b3b0f0e46"}}

@@ -1,0 +1,1 @@
+{"id":"813b331bbed4c3e797f6719a5dfa0304","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings coverageToFhir excludes class when groupNumber is missing","name":"excludes class when groupNumber is missing","status":"passed","testResultsByEnv":{"default":"6385fab6bf8cb50d8d865509bbae0ec3"}}

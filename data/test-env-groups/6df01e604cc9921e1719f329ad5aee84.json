@@ -1,0 +1,1 @@
+{"id":"6df01e604cc9921e1719f329ad5aee84","fullName":"server/services/__tests__/operationsCenter.service.test.ts#operationsCenter.service evaluateOperationsCenter evaluateProvider (via evaluateOperationsCenter) should error when provider missing NPI","name":"should error when provider missing NPI","status":"passed","testResultsByEnv":{"default":"022c18ef2c77eafe79c8ece82d98b820"}}

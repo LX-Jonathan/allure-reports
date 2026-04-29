@@ -1,0 +1,1 @@
+{"id":"9c6a03f4426e1b07a2590edc547fcc2d","fullName":"client/src/components/patient/__tests__/demographics-check-dialog.test.tsx#DemographicsCheckDialog renders nothing when discoveredData is null","name":"renders nothing when discoveredData is null","status":"passed","testResultsByEnv":{"default":"9c279fcf2672d39d0c1cb30ada0e1bad"}}

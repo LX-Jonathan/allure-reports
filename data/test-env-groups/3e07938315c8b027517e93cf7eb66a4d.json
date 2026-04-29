@@ -1,0 +1,1 @@
+{"id":"3e07938315c8b027517e93cf7eb66a4d","fullName":"server/routes/__tests__/patient-medications.routes.test.ts#Patient Medications Routes GET /api/v1/patients/:patientId/medications returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"416075ecba556b3307bda379f0edc6c6"}}

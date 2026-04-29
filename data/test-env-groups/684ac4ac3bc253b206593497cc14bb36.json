@@ -1,0 +1,1 @@
+{"id":"684ac4ac3bc253b206593497cc14bb36","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service getExtensionFromMimeType should return empty string for unknown mime type","name":"should return empty string for unknown mime type","status":"passed","testResultsByEnv":{"default":"9f542199bbbdb00cfc7d8efab6312fb9"}}

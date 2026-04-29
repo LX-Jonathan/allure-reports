@@ -1,0 +1,1 @@
+{"id":"1807bf728160c2e52c4e7a08a8625b34","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules returns 201 with events when schedule is created with events","name":"returns 201 with events when schedule is created with events","status":"passed","testResultsByEnv":{"default":"1c915812571daf63be9c8679a560e8c6"}}

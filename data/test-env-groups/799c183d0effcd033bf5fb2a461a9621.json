@@ -1,0 +1,1 @@
+{"id":"799c183d0effcd033bf5fb2a461a9621","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt edge cases should handle clinical section without checkbox groups","name":"should handle clinical section without checkbox groups","status":"passed","testResultsByEnv":{"default":"590d65a10f0dcd7b899190061ac1f1b5"}}

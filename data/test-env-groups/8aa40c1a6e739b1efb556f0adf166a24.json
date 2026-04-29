@@ -1,0 +1,1 @@
+{"id":"8aa40c1a6e739b1efb556f0adf166a24","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes DELETE /:id returns 403 for provider role","name":"returns 403 for provider role","status":"passed","testResultsByEnv":{"default":"ba81656ea47b1eb42190b8ed2da3c2ff"}}

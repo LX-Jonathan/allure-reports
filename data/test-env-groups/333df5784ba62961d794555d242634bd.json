@@ -1,0 +1,1 @@
+{"id":"333df5784ba62961d794555d242634bd","fullName":"server/jobs/__tests__/scheduler.test.ts#getScheduledJobs should return session cleanup as always configured","name":"should return session cleanup as always configured","status":"passed","testResultsByEnv":{"default":"2a53b34150530ccb954419e1fb3d2c0d"}}

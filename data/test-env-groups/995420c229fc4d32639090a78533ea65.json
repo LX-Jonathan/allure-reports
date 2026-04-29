@@ -1,0 +1,1 @@
+{"id":"995420c229fc4d32639090a78533ea65","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service getImageMetadata should default width to 0 when undefined","name":"should default width to 0 when undefined","status":"passed","testResultsByEnv":{"default":"a9ab197dd1ac98125c5347d4d5118949"}}

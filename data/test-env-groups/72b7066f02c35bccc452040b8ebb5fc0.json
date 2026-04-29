@@ -1,0 +1,1 @@
+{"id":"72b7066f02c35bccc452040b8ebb5fc0","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService getMappings should return null when no mapping suggestions","name":"should return null when no mapping suggestions","status":"passed","testResultsByEnv":{"default":"58a19b06c8496d178abc69a879443d2b"}}

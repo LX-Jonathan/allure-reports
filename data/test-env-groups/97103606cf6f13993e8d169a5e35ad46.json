@@ -1,0 +1,1 @@
+{"id":"97103606cf6f13993e8d169a5e35ad46","fullName":"client/src/components/patient/__tests__/medications.test.tsx#PatientMedications renders action buttons in medication rows when not readonly","name":"renders action buttons in medication rows when not readonly","status":"passed","testResultsByEnv":{"default":"06ddbe16a461bdbdd4d00d74823820c4"}}

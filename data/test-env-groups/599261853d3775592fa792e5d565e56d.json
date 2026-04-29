@@ -1,0 +1,1 @@
+{"id":"599261853d3775592fa792e5d565e56d","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes GET /api/v1/results/:id/history returns 403 when user has no labId and no full access","name":"returns 403 when user has no labId and no full access","status":"passed","testResultsByEnv":{"default":"8d3d4eefbbe141422ba29e1478a85119"}}

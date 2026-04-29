@@ -1,0 +1,1 @@
+{"id":"06ac905e1e6a71439bd8f5ddb10c2d2d","fullName":"server/routes/__tests__/biometrics.routes.test.ts#Biometrics Routes GET /api/v1/biometrics returns 200 with paginated biometrics","name":"returns 200 with paginated biometrics","status":"passed","testResultsByEnv":{"default":"4d239be9b2ccd003d18101a9fa2dcdf6"}}

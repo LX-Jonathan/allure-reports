@@ -1,0 +1,1 @@
+{"id":"5f7708b042023c3b0fce4cdded68caeb","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes GET /api/interfaces/results/queue should return results queue items for specific status (200)","name":"should return results queue items for specific status (200)","status":"passed","testResultsByEnv":{"default":"363aedb47c8f8e0648d464237bc3240e"}}

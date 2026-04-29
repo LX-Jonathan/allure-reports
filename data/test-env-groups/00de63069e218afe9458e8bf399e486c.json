@@ -1,0 +1,1 @@
+{"id":"00de63069e218afe9458e8bf399e486c","fullName":"server/__tests__/storage-providers-meds.test.ts#DatabaseStorage - Providers deleteProvider should soft-delete and return true","name":"should soft-delete and return true","status":"passed","testResultsByEnv":{"default":"12fb576d4e390f35d3cb995621d0338f"}}

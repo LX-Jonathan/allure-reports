@@ -1,0 +1,1 @@
+{"id":"d6b44dbe6a983fba0a2a958f2d14f976","fullName":"client/src/lib/__tests__/queryClient.test.ts#getSessionExpiredRedirect does not propagate reason codes to the patient login","name":"does not propagate reason codes to the patient login","status":"passed","testResultsByEnv":{"default":"0a30f29d1a4747b684e1a62e39bf70ae"}}

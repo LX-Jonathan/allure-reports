@@ -1,0 +1,1 @@
+{"id":"c373c0830518870da02d3a49ddf3272f","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import additional returns 400 when patients array exceeds 500","name":"returns 400 when patients array exceeds 500","status":"passed","testResultsByEnv":{"default":"5aa444f15a5941ce3b628f646815413c"}}

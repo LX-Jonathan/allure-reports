@@ -1,0 +1,1 @@
+{"id":"2cadfa2096cbaf11e68210716d51c007","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should throw when imageBuffer is not a Buffer","name":"should throw when imageBuffer is not a Buffer","status":"passed","testResultsByEnv":{"default":"7f9e28def21f18231250068279d03baa"}}

@@ -1,0 +1,1 @@
+{"id":"c62a31e5bdb2e242a176070c938475fa","fullName":"server/services/__tests__/clfsSchedule.service.test.ts#clfsSchedule.service lookupClfsCode returns null when fetch fails and no cache","name":"returns null when fetch fails and no cache","status":"passed","testResultsByEnv":{"default":"3aebbe448e2a0ea939d12ac7a318f1a6"}}

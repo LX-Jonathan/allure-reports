@@ -1,0 +1,1 @@
+{"id":"d8ce50f16630cf99f1dd0c7eda536898","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/export returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"bb60d6014aac1f3125f43ab89ee9a090"}}

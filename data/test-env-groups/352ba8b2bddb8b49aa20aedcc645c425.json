@@ -1,0 +1,1 @@
+{"id":"352ba8b2bddb8b49aa20aedcc645c425","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToPrintSections returns empty array for null/undefined","name":"returns empty array for null/undefined","status":"passed","testResultsByEnv":{"default":"c1aa37ad69decae502f0d814a82d8fe5"}}

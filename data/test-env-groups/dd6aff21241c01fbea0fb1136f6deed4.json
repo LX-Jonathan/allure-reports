@@ -1,0 +1,1 @@
+{"id":"dd6aff21241c01fbea0fb1136f6deed4","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - tenant scope on /query free-text search on tickets matches patient first/last name via EXISTS","name":"free-text search on tickets matches patient first/last name via EXISTS","status":"passed","testResultsByEnv":{"default":"27b977242a44cfc7d991ca4a2ee04814"}}

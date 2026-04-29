@@ -1,0 +1,1 @@
+{"id":"85f28bc8300abf55b0e3fcf9e1c5db0a","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should validate parentId is parent lab","name":"should validate parentId is parent lab","status":"passed","testResultsByEnv":{"default":"b3038517ca84cc6713b52e081871cf47"}}

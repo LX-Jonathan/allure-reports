@@ -1,0 +1,1 @@
+{"id":"f8d22d47b704e1046d925d65a1c9dd9d","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - eligibility & insurance GET /:id/insurances returns insurance with subscriberDob decrypted","name":"returns insurance with subscriberDob decrypted","status":"passed","testResultsByEnv":{"default":"97d7a861ebe37d2fb362e715ab090b53"}}

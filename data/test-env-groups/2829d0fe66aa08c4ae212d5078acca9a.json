@@ -1,0 +1,1 @@
+{"id":"2829d0fe66aa08c4ae212d5078acca9a","fullName":"server/routes/__tests__/saved-order-views.routes.test.ts#Saved Order Views Routes PATCH /:id/assign returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"1ac66fbf5b14fbbc2a2f5e5cd0f9dbdf"}}

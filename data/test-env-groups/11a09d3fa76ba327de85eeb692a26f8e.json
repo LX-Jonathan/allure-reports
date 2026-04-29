@@ -1,0 +1,1 @@
+{"id":"11a09d3fa76ba327de85eeb692a26f8e","fullName":"server/__tests__/storage-orgs.test.ts#DatabaseStorage - Roles & Lab Hierarchy getSuperOrgById should return null when not found","name":"should return null when not found","status":"passed","testResultsByEnv":{"default":"d404ec65e32060c09b74e4d5ea4f2ea3"}}

@@ -1,0 +1,1 @@
+{"id":"9a6aa43b5b60af29b4202e541577d041","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess filterByUserAccess should return empty array for location-level user with no locations assigned","name":"should return empty array for location-level user with no locations assigned","status":"passed","testResultsByEnv":{"default":"ffafe2cf7906cc648055e98c55cf021f"}}

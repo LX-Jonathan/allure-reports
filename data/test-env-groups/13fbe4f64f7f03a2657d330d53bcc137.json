@@ -1,0 +1,1 @@
+{"id":"13fbe4f64f7f03a2657d330d53bcc137","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync clearBillingCache should return false when Redis is not configured","name":"should return false when Redis is not configured","status":"passed","testResultsByEnv":{"default":"f50ba8641316794414a277b353d16138"}}

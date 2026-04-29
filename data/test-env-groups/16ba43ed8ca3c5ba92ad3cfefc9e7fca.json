@@ -1,0 +1,1 @@
+{"id":"16ba43ed8ca3c5ba92ad3cfefc9e7fca","fullName":"client/src/components/__tests__/billing-statement-pdf.test.tsx#BillingStatementPDF renders fallback values for null item fields","name":"renders fallback values for null item fields","status":"passed","testResultsByEnv":{"default":"3a4a0a973bb2440e08f7f57f3346d4e9"}}

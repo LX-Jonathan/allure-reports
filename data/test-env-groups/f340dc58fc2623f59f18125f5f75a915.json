@@ -1,0 +1,1 @@
+{"id":"f340dc58fc2623f59f18125f5f75a915","fullName":"client/src/components/payments/__tests__/payment-collection-prompt-dialog.test.tsx#PaymentCollectionPromptDialog only offers Apply credit when there's both owed AND credit","name":"only offers Apply credit when there's both owed AND credit","status":"passed","testResultsByEnv":{"default":"58b41c9a6440822f7942179e5af1eacc"}}

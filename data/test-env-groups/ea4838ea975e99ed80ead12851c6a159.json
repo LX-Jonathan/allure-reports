@@ -1,0 +1,1 @@
+{"id":"ea4838ea975e99ed80ead12851c6a159","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanyCount returns count without filters","name":"returns count without filters","status":"passed","testResultsByEnv":{"default":"16405af6f8b47c3a7a0f1ce10d725a3e"}}

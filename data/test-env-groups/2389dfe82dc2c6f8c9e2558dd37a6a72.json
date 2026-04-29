@@ -1,0 +1,1 @@
+{"id":"2389dfe82dc2c6f8c9e2558dd37a6a72","fullName":"server/routes/__tests__/stripe-config.routes.test.ts#Stripe Config — GET /status never includes the secret key or other sensitive metadata in the response","name":"never includes the secret key or other sensitive metadata in the response","status":"passed","testResultsByEnv":{"default":"6a8c06a53c44b089cf40ccff12f032dd"}}

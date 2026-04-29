@@ -1,0 +1,1 @@
+{"id":"c3b95e24ca2dbd35aa4982e31ed06aa4","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes GET /api/order-intake/bulk/batches/:batchId/items returns 404 when batch not found","name":"returns 404 when batch not found","status":"passed","testResultsByEnv":{"default":"fe61dafeb1de0ca6abc41e66fea2ce21"}}

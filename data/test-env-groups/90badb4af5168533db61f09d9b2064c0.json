@@ -1,0 +1,1 @@
+{"id":"90badb4af5168533db61f09d9b2064c0","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler billing resolution cron callback should prune old run history rows after persisting","name":"should prune old run history rows after persisting","status":"passed","testResultsByEnv":{"default":"dbbecb33c0dd499daf5340cfa2f68d5e"}}

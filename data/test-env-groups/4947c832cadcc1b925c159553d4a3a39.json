@@ -1,0 +1,1 @@
+{"id":"4947c832cadcc1b925c159553d4a3a39","fullName":"server/lib/__tests__/cache.service.test.ts#Key registration with Redis should handle srem error gracefully","name":"should handle srem error gracefully","status":"passed","testResultsByEnv":{"default":"707a02eebc020484403c8a61f8bad7af"}}

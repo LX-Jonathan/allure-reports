@@ -1,0 +1,1 @@
+{"id":"6619b1db933e46a87459e8733c2c7802","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes GET /api/v1/billing-resolution/claims/:claimId/download-url returns 404 when no file uploaded","name":"returns 404 when no file uploaded","status":"passed","testResultsByEnv":{"default":"f7125a41999b56d3b8d63dbac8a7318b"}}

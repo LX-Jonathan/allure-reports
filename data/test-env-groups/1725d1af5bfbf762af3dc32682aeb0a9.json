@@ -1,0 +1,1 @@
+{"id":"1725d1af5bfbf762af3dc32682aeb0a9","fullName":"server/__tests__/apply-remit-lines-to-order-items.test.ts#applyRemitLinesToOrderItems writes paid verdict and clears deniedAmount when the line is paid","name":"writes paid verdict and clears deniedAmount when the line is paid","status":"passed","testResultsByEnv":{"default":"eb2a4eee0d8603ab7d8cad3a8b58f6f1"}}

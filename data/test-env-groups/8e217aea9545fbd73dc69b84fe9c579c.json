@@ -1,0 +1,1 @@
+{"id":"8e217aea9545fbd73dc69b84fe9c579c","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /order/:orderId/detail returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"1a32fa35a62624ea4051809595bb8076"}}

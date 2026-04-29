@@ -1,0 +1,1 @@
+{"id":"2a2738b0482923cf9dadf3db58772bb6","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient transformFhirToHieRecord immunizations should use vaccineCode.text as vaccine name fallback","name":"should use vaccineCode.text as vaccine name fallback","status":"passed","testResultsByEnv":{"default":"f00e593ea84ed56807f4bc9c6bfc34b2"}}

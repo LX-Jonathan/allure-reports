@@ -1,0 +1,1 @@
+{"id":"d5103632461f11e0986559d11ac2f65d","fullName":"server/lib/__tests__/logger.test.ts#logger argument normalisation should append primitive args to the message string","name":"should append primitive args to the message string","status":"passed","testResultsByEnv":{"default":"714339652d53abb7b9d932b709663749"}}

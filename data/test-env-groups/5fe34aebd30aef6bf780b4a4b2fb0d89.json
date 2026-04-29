@@ -1,0 +1,1 @@
+{"id":"5fe34aebd30aef6bf780b4a4b2fb0d89","fullName":"server/routes/__tests__/user-view-portal-proxy.routes.test.ts#POST /:patientId/portal/proxies/invite (staff preview) rejects unauthenticated","name":"rejects unauthenticated","status":"passed","testResultsByEnv":{"default":"675a74d56bb25f208de4616d6ca28f1a"}}

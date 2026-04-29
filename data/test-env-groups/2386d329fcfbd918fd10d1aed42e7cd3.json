@@ -1,0 +1,1 @@
+{"id":"2386d329fcfbd918fd10d1aed42e7cd3","fullName":"server/lib/__tests__/socket-security-alerts.test.ts#security_alerts socket rooms room join policy joins admin into the per-tenant security_alerts room only","name":"joins admin into the per-tenant security_alerts room only","status":"passed","testResultsByEnv":{"default":"b12491cb0290b9566829c91159fd0ecc"}}

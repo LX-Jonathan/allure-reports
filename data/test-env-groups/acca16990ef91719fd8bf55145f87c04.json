@@ -1,0 +1,1 @@
+{"id":"acca16990ef91719fd8bf55145f87c04","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware safe methods (GET, HEAD, OPTIONS) should generate a new token for HEAD requests","name":"should generate a new token for HEAD requests","status":"passed","testResultsByEnv":{"default":"6b4af0e32b20b15f6bf9c53933039763"}}

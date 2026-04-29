@@ -1,0 +1,1 @@
+{"id":"17de8e858612780d3d171e1f54479f22","fullName":"server/lib/__tests__/auth.test.ts#auth decodeToken should decode token without verification","name":"should decode token without verification","status":"passed","testResultsByEnv":{"default":"93785f4f5ad677572927be790b76dda2"}}

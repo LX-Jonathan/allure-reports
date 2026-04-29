@@ -1,0 +1,1 @@
+{"id":"ca2894b86f0a9109f49de0b6f7291111","fullName":"server/jobs/__tests__/patient-insurance-reminder.test.ts#runPatientInsuranceReminderSweep falls back to sms-only when the patient has no email","name":"falls back to sms-only when the patient has no email","status":"passed","testResultsByEnv":{"default":"7854bbf45888f0fff9831952eb4757d9"}}

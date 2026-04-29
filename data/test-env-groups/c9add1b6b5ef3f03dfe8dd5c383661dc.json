@@ -1,0 +1,1 @@
+{"id":"c9add1b6b5ef3f03dfe8dd5c383661dc","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs/:id/logo should redirect to signed URL when logo key exists in settings","name":"should redirect to signed URL when logo key exists in settings","status":"passed","testResultsByEnv":{"default":"762a94747b13fc1312b9aef693961112"}}

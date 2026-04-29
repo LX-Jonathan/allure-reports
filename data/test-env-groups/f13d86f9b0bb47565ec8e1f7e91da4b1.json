@@ -1,0 +1,1 @@
+{"id":"f13d86f9b0bb47565ec8e1f7e91da4b1","fullName":"server/lib/__tests__/email.test.ts#email sendEmail logs error message when no body available","name":"logs error message when no body available","status":"passed","testResultsByEnv":{"default":"dd9daf26b8cef81eecafa15b0493fdbb"}}

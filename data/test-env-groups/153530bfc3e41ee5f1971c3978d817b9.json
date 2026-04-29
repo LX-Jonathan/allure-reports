@@ -1,0 +1,1 @@
+{"id":"153530bfc3e41ee5f1971c3978d817b9","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Tenant isolation DELETE /:id returns 404 when org-scoped user deletes other org contract","name":"DELETE /:id returns 404 when org-scoped user deletes other org contract","status":"passed","testResultsByEnv":{"default":"063c7660a1baa1d092574580a2bac7cc"}}

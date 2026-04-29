@@ -1,0 +1,1 @@
+{"id":"52051f842172bb60b616582dd6a3f3c7","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/bulk-import returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"bf33ce189caad35ebe5760f48a8b8ece"}}

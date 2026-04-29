@@ -1,0 +1,1 @@
+{"id":"4830825c4eb03e7a260daddb0c6e951a","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError every code in KNOWN_CODES has a translation in the en catalog","name":"every code in KNOWN_CODES has a translation in the en catalog","status":"passed","testResultsByEnv":{"default":"d329dc5064e6d2208dd6863b5e6e42f0"}}

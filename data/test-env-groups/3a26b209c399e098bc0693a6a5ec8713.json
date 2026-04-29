@@ -1,0 +1,1 @@
+{"id":"3a26b209c399e098bc0693a6a5ec8713","fullName":"server/lib/__tests__/cache.service.test.ts#Exported cache instances statsCache should be configured with prefix 'stats' and TTL 60","name":"statsCache should be configured with prefix 'stats' and TTL 60","status":"passed","testResultsByEnv":{"default":"2721601c0a59d95f74d6cab1f525b974"}}

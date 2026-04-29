@@ -1,0 +1,1 @@
+{"id":"1eca9166958eaed480e95ef3a0c16962","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) GET /:id super-org user gets 403 for a client in a lab they do not control","name":"super-org user gets 403 for a client in a lab they do not control","status":"passed","testResultsByEnv":{"default":"8d41769f7f07d05701a60cd708f1767d"}}

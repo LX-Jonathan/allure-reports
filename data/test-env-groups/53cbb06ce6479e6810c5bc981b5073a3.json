@@ -1,0 +1,1 @@
+{"id":"53cbb06ce6479e6810c5bc981b5073a3","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue email language switching falls back to English for invitation when language is missing","name":"falls back to English for invitation when language is missing","status":"passed","testResultsByEnv":{"default":"c3db3ebface01947001cb46ac047cd8b"}}

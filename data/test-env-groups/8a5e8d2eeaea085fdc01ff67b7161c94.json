@@ -1,0 +1,1 @@
+{"id":"8a5e8d2eeaea085fdc01ff67b7161c94","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getBillingResolutionStats should filter by resolutionStatus","name":"should filter by resolutionStatus","status":"passed","testResultsByEnv":{"default":"4367ef4169a83f37c70a760a85f355d0"}}

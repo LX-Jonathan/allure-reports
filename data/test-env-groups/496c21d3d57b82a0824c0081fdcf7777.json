@@ -1,0 +1,1 @@
+{"id":"496c21d3d57b82a0824c0081fdcf7777","fullName":"server/routes/__tests__/payment-plans.routes.test.ts#Payment Plans Routes POST /api/payment-plans validation edge cases rejects installments below minimum (2)","name":"rejects installments below minimum (2)","status":"passed","testResultsByEnv":{"default":"19e6580a11df39da82a63bbd938265bd"}}

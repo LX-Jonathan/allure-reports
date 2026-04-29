@@ -1,0 +1,1 @@
+{"id":"ac0492479da814ea06d3c3ce0054ce05","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processTradingPartnerRow should throw when ID or name missing","name":"should throw when ID or name missing","status":"passed","testResultsByEnv":{"default":"765f58638a031e1fdbf2d1b615168fe8"}}

@@ -1,0 +1,1 @@
+{"id":"6b6967810db003164db275305ed1d1db","fullName":"client/src/components/__tests__/provider-signature-dialog.test.tsx#ProviderSignatureDialog save button remains disabled when no signature drawn","name":"save button remains disabled when no signature drawn","status":"passed","testResultsByEnv":{"default":"74075f714e77560885d8ed71525425f6"}}

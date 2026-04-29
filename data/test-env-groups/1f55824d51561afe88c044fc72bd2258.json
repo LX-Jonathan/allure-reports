@@ -1,0 +1,1 @@
+{"id":"1f55824d51561afe88c044fc72bd2258","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts GET /chart-of-accounts returns accounts for org_admin","name":"returns accounts for org_admin","status":"passed","testResultsByEnv":{"default":"fca96ee9bc5066398bd868281a263ca8"}}

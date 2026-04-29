@@ -1,0 +1,1 @@
+{"id":"9e0b89a66d8edec74be7d7ed51a430e5","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Lab client cross-client access guard permits own client access ('POST /clients/:orgId/messages')","name":"permits own client access ('POST /clients/:orgId/messages')","status":"passed","testResultsByEnv":{"default":"8eb4b9ef1538429675f767e0850fb745"}}

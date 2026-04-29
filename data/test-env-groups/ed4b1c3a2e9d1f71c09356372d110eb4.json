@@ -1,0 +1,1 @@
+{"id":"ed4b1c3a2e9d1f71c09356372d110eb4","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Delete DELETE /api/v1/diagnosis-codes/:id returns 404 when diagnosis code not found","name":"returns 404 when diagnosis code not found","status":"passed","testResultsByEnv":{"default":"0a0028feb465f6fb124781bfa1a0bd90"}}

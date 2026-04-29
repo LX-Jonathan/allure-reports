@@ -1,0 +1,1 @@
+{"id":"fcf4bad2f499c7e76aa18e4e347db20a","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service extractTextWithGoogleVision should use fullTextAnnotation text when available","name":"should use fullTextAnnotation text when available","status":"passed","testResultsByEnv":{"default":"4ef7f92ce25e081fb932cde26a1324f8"}}

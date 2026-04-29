@@ -1,0 +1,1 @@
+{"id":"2f06b92a8e6dfa3e1e6a5eeae609ad4f","fullName":"server/jobs/__tests__/scheduler.test.ts#initializeScheduler session cleanup cron callback should handle missing rowCount gracefully","name":"should handle missing rowCount gracefully","status":"passed","testResultsByEnv":{"default":"00501338932cddd37b0f83e8df9d26bf"}}

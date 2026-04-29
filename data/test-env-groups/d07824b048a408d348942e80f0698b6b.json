@@ -1,0 +1,1 @@
+{"id":"d07824b048a408d348942e80f0698b6b","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment rejects when payment is not found","name":"rejects when payment is not found","status":"passed","testResultsByEnv":{"default":"5ea390144580f774af0eed9f2daaa447"}}

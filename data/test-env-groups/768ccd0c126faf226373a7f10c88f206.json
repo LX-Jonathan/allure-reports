@@ -1,0 +1,1 @@
+{"id":"768ccd0c126faf226373a7f10c88f206","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /companies/:id/logo returns 404 when no logo file found in R2","name":"returns 404 when no logo file found in R2","status":"passed","testResultsByEnv":{"default":"4bc424253455072f8f6be60edef790e6"}}

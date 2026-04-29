@@ -1,0 +1,1 @@
+{"id":"152fd5701a9ef868917721f18bf2a092","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST / returns 400 for invalid patientId format","name":"returns 400 for invalid patientId format","status":"passed","testResultsByEnv":{"default":"c36d62d2421d5dde72f58a72a29ba868"}}

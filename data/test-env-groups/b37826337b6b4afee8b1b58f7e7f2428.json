@@ -1,0 +1,1 @@
+{"id":"b37826337b6b4afee8b1b58f7e7f2428","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes PATCH /:id returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"90dfd7c717f6f17e760780f89daa1694"}}

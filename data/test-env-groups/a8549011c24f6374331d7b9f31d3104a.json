@@ -1,0 +1,1 @@
+{"id":"a8549011c24f6374331d7b9f31d3104a","fullName":"client/src/contexts/__tests__/patient-impersonation-context.test.tsx#ImpersonationContext always sets isImpersonating to true","name":"always sets isImpersonating to true","status":"passed","testResultsByEnv":{"default":"57151b731dee978b4515b8b6e7269dae"}}

@@ -1,0 +1,1 @@
+{"id":"e6c91daab963f3bfab9349811dad16ee","fullName":"server/services/__tests__/payment-application.test.ts#consumePatientCredit runs inside a transaction when no executor is supplied","name":"runs inside a transaction when no executor is supplied","status":"passed","testResultsByEnv":{"default":"b08c19e12b6b020ee38f88c56b4c35b4"}}

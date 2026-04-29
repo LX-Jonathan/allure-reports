@@ -1,0 +1,1 @@
+{"id":"07332dbe2998fcc2e22d894e18c46d29","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes Role-based access completeness POST /patients/:patientId/hie-records allows location_admin role","name":"POST /patients/:patientId/hie-records allows location_admin role","status":"passed","testResultsByEnv":{"default":"58ad2ddb852a529bec25569ad09ac7d4"}}

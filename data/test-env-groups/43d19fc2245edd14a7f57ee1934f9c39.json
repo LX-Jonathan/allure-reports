@@ -1,0 +1,1 @@
+{"id":"43d19fc2245edd14a7f57ee1934f9c39","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots/count returns 200 with count for super_admin","name":"returns 200 with count for super_admin","status":"passed","testResultsByEnv":{"default":"9543591c8be1b9c66f07a1d175aa22db"}}

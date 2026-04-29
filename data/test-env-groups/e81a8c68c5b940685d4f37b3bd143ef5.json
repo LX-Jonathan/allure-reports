@@ -1,0 +1,1 @@
+{"id":"e81a8c68c5b940685d4f37b3bd143ef5","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes PATCH /837/:id/status returns 400 for invalid claimStatus","name":"returns 400 for invalid claimStatus","status":"passed","testResultsByEnv":{"default":"a49442fd69e6c74b43c79caa77f2d5ef"}}

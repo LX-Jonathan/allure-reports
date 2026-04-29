@@ -1,0 +1,1 @@
+{"id":"aae12e599ccf41b310ef44e07bcd593a","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan updateBulkScanBatchProgress should set processingCompletedAt when status is failed","name":"should set processingCompletedAt when status is failed","status":"passed","testResultsByEnv":{"default":"185b00530f16475a943755e8504e76ae"}}

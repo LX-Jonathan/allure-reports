@@ -1,0 +1,1 @@
+{"id":"ea82952f8c6f91d729d9e1c785228d02","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Public patient form requests GET returns 400 when token is missing","name":"GET returns 400 when token is missing","status":"passed","testResultsByEnv":{"default":"132adc85ee4fa6bc0b64be9501c8f492"}}

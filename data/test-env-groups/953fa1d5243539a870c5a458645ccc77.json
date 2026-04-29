@@ -1,0 +1,1 @@
+{"id":"953fa1d5243539a870c5a458645ccc77","fullName":"server/routes/__tests__/marketplace.routes.test.ts#Marketplace Routes GET /api/v1/marketplace/:slug returns synthesized defaults when no profile row exists","name":"returns synthesized defaults when no profile row exists","status":"passed","testResultsByEnv":{"default":"ffc6102bf091180f5931f2c2af102b85"}}

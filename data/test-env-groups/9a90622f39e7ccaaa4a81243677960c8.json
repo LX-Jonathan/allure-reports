@@ -1,0 +1,1 @@
+{"id":"9a90622f39e7ccaaa4a81243677960c8","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes PATCH /api/interfaces/data-issues/:id returns 200 with updated issue","name":"returns 200 with updated issue","status":"passed","testResultsByEnv":{"default":"ccd00855803126175b0cf87f0e1bc337"}}

@@ -1,0 +1,1 @@
+{"id":"6e2a2210f4e3b61cc7592bebe1ca85d7","fullName":"client/src/components/__tests__/twain-scanner.test.tsx#TwainScanner configures Dynamsoft SDK with AutoLoad false when already loaded","name":"configures Dynamsoft SDK with AutoLoad false when already loaded","status":"passed","testResultsByEnv":{"default":"75f190f5981bdbd3d8a7bba815da6698"}}

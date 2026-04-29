@@ -1,0 +1,1 @@
+{"id":"9fb1b840dc30ec8578a489c11b980fc0","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/insurance returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"e727d1135275a8e999738b079f2fbade"}}

@@ -1,0 +1,1 @@
+{"id":"1ac400c9d43d35b870a9a9c33582cd7d","fullName":"server/services/__tests__/payment-application.test.ts#refundCreditPayment rejects when the credit portion has already been fully refunded","name":"rejects when the credit portion has already been fully refunded","status":"passed","testResultsByEnv":{"default":"14a3d622944ceaf76d26b1db318397e1"}}

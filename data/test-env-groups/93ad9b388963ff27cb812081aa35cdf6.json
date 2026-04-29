@@ -1,0 +1,1 @@
+{"id":"93ad9b388963ff27cb812081aa35cdf6","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /tables/:tableName/sample returns 503 when not configured","name":"returns 503 when not configured","status":"passed","testResultsByEnv":{"default":"095ce52f7bda6ecc8676ea5150089534"}}

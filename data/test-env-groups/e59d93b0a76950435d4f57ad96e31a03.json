@@ -1,0 +1,1 @@
+{"id":"e59d93b0a76950435d4f57ad96e31a03","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanSplitJob should return null when queue is not available","name":"should return null when queue is not available","status":"passed","testResultsByEnv":{"default":"fa4d007a00e03aff0f60f31dbee825d9"}}

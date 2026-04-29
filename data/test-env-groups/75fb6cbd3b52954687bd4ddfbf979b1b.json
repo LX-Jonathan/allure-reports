@@ -1,0 +1,1 @@
+{"id":"75fb6cbd3b52954687bd4ddfbf979b1b","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/:id/items returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f3720a171264a5f54d7b86ee4e763121"}}

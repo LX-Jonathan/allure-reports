@@ -1,0 +1,1 @@
+{"id":"891ddfb02815e39d278d5fc7fd5a58a5","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware auditMiddleware request with user context should process requests without user","name":"should process requests without user","status":"passed","testResultsByEnv":{"default":"1db5f118b59c57c87034c8233cf23d97"}}

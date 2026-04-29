@@ -1,0 +1,1 @@
+{"id":"6118bdb55b085b52026ce41e229056d1","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService create should not queue for Andromeda when order status is draft","name":"should not queue for Andromeda when order status is draft","status":"passed","testResultsByEnv":{"default":"084f0d5bb44b2cc1b6d00e2ff112560c"}}

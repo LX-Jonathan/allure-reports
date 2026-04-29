@@ -1,0 +1,1 @@
+{"id":"5d76f299087d87e85c8c08c67b278568","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient searchPatient should include dateOfBirth as birthdate param","name":"should include dateOfBirth as birthdate param","status":"passed","testResultsByEnv":{"default":"f2a8d8640367711294d27d982e711cc6"}}

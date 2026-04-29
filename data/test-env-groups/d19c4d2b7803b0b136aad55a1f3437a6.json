@@ -1,0 +1,1 @@
+{"id":"d19c4d2b7803b0b136aad55a1f3437a6","fullName":"server/lib/__tests__/cache.service.test.ts#invalidatePatientCaches should clear all caches when no labId provided","name":"should clear all caches when no labId provided","status":"passed","testResultsByEnv":{"default":"e7fac25ebeed4611f2374bfb8e642075"}}

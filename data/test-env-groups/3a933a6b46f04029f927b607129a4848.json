@@ -1,0 +1,1 @@
+{"id":"3a933a6b46f04029f927b607129a4848","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth edge cases should parse authorization header correctly","name":"should parse authorization header correctly","status":"passed","testResultsByEnv":{"default":"0c6247a2065b7c36463edefcfbd31746"}}

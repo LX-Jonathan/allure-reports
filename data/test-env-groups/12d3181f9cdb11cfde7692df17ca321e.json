@@ -1,0 +1,1 @@
+{"id":"12d3181f9cdb11cfde7692df17ca321e","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: passkey_auth_failed","name":"es: passkey_auth_failed","status":"passed","testResultsByEnv":{"default":"4c9c959b831465cbce5eb59d6c244f57"}}

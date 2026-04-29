@@ -1,0 +1,1 @@
+{"id":"c7891632166ef656fe77aed7b7692590","fullName":"server/services/__tests__/documentScan.service.test.ts#DocumentScanService scanInsuranceCard should ignore non-numeric fieldConfidence entries","name":"should ignore non-numeric fieldConfidence entries","status":"passed","testResultsByEnv":{"default":"f1bb6bed8e057fffcf1fb91eab1c5844"}}

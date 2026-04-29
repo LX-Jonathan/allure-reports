@@ -1,0 +1,1 @@
+{"id":"3cc777743d9a51bc0c6ff874fef68e7d","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service getExtensionFromMimeType should return .gif for image/gif","name":"should return .gif for image/gif","status":"passed","testResultsByEnv":{"default":"0abaa185102b9d5d0ba2e3bf18985c64"}}

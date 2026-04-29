@@ -1,0 +1,1 @@
+{"id":"323a847c2e152d3d6ff82076cd575e3b","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes Admin Endpoints PUT /api/v1/lxu/admin/articles/:id returns 200 when article is updated","name":"returns 200 when article is updated","status":"passed","testResultsByEnv":{"default":"03a42e63c8b745a866e11e455a696dc9"}}

@@ -1,0 +1,1 @@
+{"id":"dcd5420517612b98027c42203b6450ca","fullName":"client/src/lib/__tests__/queryClient.test.ts#getCSRFToken returns null for empty cookie string","name":"returns null for empty cookie string","status":"passed","testResultsByEnv":{"default":"b9018c345569a2087ceb68bfcbdbec03"}}

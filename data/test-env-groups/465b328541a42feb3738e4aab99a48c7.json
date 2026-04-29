@@ -1,0 +1,1 @@
+{"id":"465b328541a42feb3738e4aab99a48c7","fullName":"server/routes/__tests__/financial-assistance.routes.test.ts#Financial Assistance Routes GET /:id/pdf returns 200 with application/pdf content-type and a non-empty body","name":"returns 200 with application/pdf content-type and a non-empty body","status":"passed","testResultsByEnv":{"default":"e568eaedad77a691bb9936b7bbabf7f9"}}

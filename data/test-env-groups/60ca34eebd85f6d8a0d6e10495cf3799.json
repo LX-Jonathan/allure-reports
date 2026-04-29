@@ -1,0 +1,1 @@
+{"id":"60ca34eebd85f6d8a0d6e10495cf3799","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients - auto portal invite skips auto-invite when pending invitation exists","name":"skips auto-invite when pending invitation exists","status":"passed","testResultsByEnv":{"default":"09ea0aa04a60fef69698412e29fdd4e4"}}

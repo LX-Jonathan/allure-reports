@@ -1,0 +1,1 @@
+{"id":"2bcf7febe7a1004306e52d20e6486960","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUsersByRole returns users for given role","name":"returns users for given role","status":"passed","testResultsByEnv":{"default":"6fa38977f0cd12619e202b799a592594"}}

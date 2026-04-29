@@ -1,0 +1,1 @@
+{"id":"a8d067bfaf9147ec7eec3ef4cf75c5fe","fullName":"server/services/__tests__/fhirClient.test.ts#fhirClient searchPatient should return empty array when bundle has no entries","name":"should return empty array when bundle has no entries","status":"passed","testResultsByEnv":{"default":"31952cebc23259a99bf082e110ea8090"}}

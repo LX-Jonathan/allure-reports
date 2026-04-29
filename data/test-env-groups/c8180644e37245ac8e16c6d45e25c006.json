@@ -1,0 +1,1 @@
+{"id":"c8180644e37245ac8e16c6d45e25c006","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes DELETE /api/v1/portal-config/:parentLabId/forms/:formId returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"0762f269598b7cc7e962a27935627712"}}

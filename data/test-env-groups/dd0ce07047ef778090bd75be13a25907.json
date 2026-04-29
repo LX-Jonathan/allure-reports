@@ -1,0 +1,1 @@
+{"id":"dd0ce07047ef778090bd75be13a25907","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes POST /api/order-entry-templates/:id/reference-document returns 403 when user lacks required role","name":"returns 403 when user lacks required role","status":"passed","testResultsByEnv":{"default":"f2230d13710bb5019e95ed0036f38564"}}

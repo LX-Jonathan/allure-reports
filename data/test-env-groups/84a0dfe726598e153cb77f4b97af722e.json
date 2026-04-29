@@ -1,0 +1,1 @@
+{"id":"84a0dfe726598e153cb77f4b97af722e","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#GET /api/patient/proxy-invitations/:code returns 410 when invitation has been accepted/revoked","name":"returns 410 when invitation has been accepted/revoked","status":"passed","testResultsByEnv":{"default":"02df5d817367ce07e1732ff33484ae56"}}

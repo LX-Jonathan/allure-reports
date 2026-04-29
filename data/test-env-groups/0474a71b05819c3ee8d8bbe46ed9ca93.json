@@ -1,0 +1,1 @@
+{"id":"0474a71b05819c3ee8d8bbe46ed9ca93","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /labs returns 400 for invalid parentLabId UUID format","name":"returns 400 for invalid parentLabId UUID format","status":"passed","testResultsByEnv":{"default":"8885de3b118da44108b71391878e88b1"}}

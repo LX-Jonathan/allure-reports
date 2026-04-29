@@ -1,0 +1,1 @@
+{"id":"37288027a6049e05ec515ce044dfe4ff","fullName":"client/src/pages/patient/__tests__/patient-profile.test.tsx#ProfileContent — lab card expansion persistence hydrates expanded lab IDs from localStorage on mount","name":"hydrates expanded lab IDs from localStorage on mount","status":"passed","testResultsByEnv":{"default":"4280c16c9fb2cef4154494467be9ce98"}}

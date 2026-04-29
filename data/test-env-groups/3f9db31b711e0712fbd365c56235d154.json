@@ -1,0 +1,1 @@
+{"id":"3f9db31b711e0712fbd365c56235d154","fullName":"shared/__tests__/marketplace.test.ts#getGalleryRenderMode skips non-static preceding sections to find the closest static anchor","name":"skips non-static preceding sections to find the closest static anchor","status":"passed","testResultsByEnv":{"default":"70b08fd2fd90cc4df9397675f5881f85"}}

@@ -1,0 +1,1 @@
+{"id":"39b1bdd2f12b50a4b2ee12688508d4aa","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes PUT /api/v1/reports/:id/schedules/:scheduleId returns 404 when schedule not found","name":"returns 404 when schedule not found","status":"passed","testResultsByEnv":{"default":"5c9e3e71726d7905ce686bd3683f6f96"}}

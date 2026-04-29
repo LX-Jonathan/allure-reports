@@ -1,0 +1,1 @@
+{"id":"932b1ec07e3b3d05f43f3d0f8cfafa1f","fullName":"server/lib/__tests__/sms.test.ts#sms sendSms error handling should log specific message for error code 20003 (auth error)","name":"should log specific message for error code 20003 (auth error)","status":"passed","testResultsByEnv":{"default":"696a3380b40de51305f93bfcdc0213b3"}}

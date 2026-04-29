@@ -1,0 +1,1 @@
+{"id":"8b4ca7519c46e0904dd25321fcf8b752","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions POST / returns 404 when the appointment cannot be found","name":"returns 404 when the appointment cannot be found","status":"passed","testResultsByEnv":{"default":"7dd6910c96508aca85b26859937145a6"}}

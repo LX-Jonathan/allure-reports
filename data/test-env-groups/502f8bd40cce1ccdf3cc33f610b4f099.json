@@ -1,0 +1,1 @@
+{"id":"502f8bd40cce1ccdf3cc33f610b4f099","fullName":"client/src/components/portal/__tests__/acting-context-badge.test.tsx#ActingContextBadge inactive-link warning does not render the reason note when no reason was recorded","name":"does not render the reason note when no reason was recorded","status":"passed","testResultsByEnv":{"default":"10313e1e0ed06566b236cb5cb890cafd"}}

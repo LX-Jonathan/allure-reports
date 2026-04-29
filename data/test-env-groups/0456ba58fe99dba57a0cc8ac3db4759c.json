@@ -1,0 +1,1 @@
+{"id":"0456ba58fe99dba57a0cc8ac3db4759c","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getSuperOrgs returns empty list when none exist","name":"returns empty list when none exist","status":"passed","testResultsByEnv":{"default":"ebf7f860a86dde83b48f02d0e6a4370b"}}

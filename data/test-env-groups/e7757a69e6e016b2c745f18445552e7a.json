@@ -1,0 +1,1 @@
+{"id":"e7757a69e6e016b2c745f18445552e7a","fullName":"client/src/components/patient/__tests__/insurance-card-dialog.test.tsx#InsuranceCardDialog falls back to coverage.copay when officeCopay is null","name":"falls back to coverage.copay when officeCopay is null","status":"passed","testResultsByEnv":{"default":"89f192af080b0a8727dbc05fe0d8e93d"}}

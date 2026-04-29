@@ -1,0 +1,1 @@
+{"id":"e9fc336fde534307acbb4414f4b06cba","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/queue should create and return a fee estimation with 201","name":"should create and return a fee estimation with 201","status":"passed","testResultsByEnv":{"default":"ce06a65a4872552ac01308bc231e597f"}}

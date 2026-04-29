@@ -1,0 +1,1 @@
+{"id":"51344403e07e85891c36ed6bf925416f","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules returns 400 for invalid scheduleType","name":"returns 400 for invalid scheduleType","status":"passed","testResultsByEnv":{"default":"732b4857e3011c1b24d317c1dc37d822"}}

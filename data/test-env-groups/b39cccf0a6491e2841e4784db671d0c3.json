@@ -1,0 +1,1 @@
+{"id":"b39cccf0a6491e2841e4784db671d0c3","fullName":"server/routes/__tests__/sso.routes.test.ts#SSO Routes GET /config/:parentLabId returns empty defaults when no SSO config exists","name":"returns empty defaults when no SSO config exists","status":"passed","testResultsByEnv":{"default":"b70bdaba1e254d60347a0baa5a70451d"}}

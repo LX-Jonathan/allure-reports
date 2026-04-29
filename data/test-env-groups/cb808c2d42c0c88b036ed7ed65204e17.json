@@ -1,0 +1,1 @@
+{"id":"cb808c2d42c0c88b036ed7ed65204e17","fullName":"client/src/components/check-in/__tests__/InsuranceStepPanel.test.tsx#InsuranceStepPanel immediately polls a pending stored request without re-clicking Run","name":"immediately polls a pending stored request without re-clicking Run","status":"passed","testResultsByEnv":{"default":"da0030c2251088dd846a0982ab69e5cb"}}

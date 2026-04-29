@@ -1,0 +1,1 @@
+{"id":"c18d4b7e96f9853b1a3d1f773780350e","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /patients/:patientId/hie-records returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"73894d935b74eabb91ade7c043cb7254"}}

@@ -1,0 +1,1 @@
+{"id":"57922ab9e27dc44756029c3ade95d398","fullName":"server/services/__tests__/orders.service.test.ts#OrdersService getById should return null when location-level user has no locations assigned","name":"should return null when location-level user has no locations assigned","status":"passed","testResultsByEnv":{"default":"807299c03d3dc2ee85e1a1bacae0e863"}}

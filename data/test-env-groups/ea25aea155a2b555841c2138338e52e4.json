@@ -1,0 +1,1 @@
+{"id":"ea25aea155a2b555841c2138338e52e4","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload calls mapBillTypeForAndromeda with payment type","name":"calls mapBillTypeForAndromeda with payment type","status":"passed","testResultsByEnv":{"default":"c8f5ff10417b01ce8d3ec8e8b4125b11"}}

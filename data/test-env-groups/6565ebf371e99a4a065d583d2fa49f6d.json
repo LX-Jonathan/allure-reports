@@ -1,0 +1,1 @@
+{"id":"6565ebf371e99a4a065d583d2fa49f6d","fullName":"server/routes/__tests__/temporal.routes.test.ts#Temporal Routes GET /api/temporal/status returns namespace info when configured","name":"returns namespace info when configured","status":"passed","testResultsByEnv":{"default":"a782172224084bd15517d656489e6f52"}}

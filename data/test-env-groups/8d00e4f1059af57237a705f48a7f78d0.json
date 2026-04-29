@@ -1,0 +1,1 @@
+{"id":"8d00e4f1059af57237a705f48a7f78d0","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended PATCH /api/v1/diagnosis-codes/:id/favorite returns 404 when diagnosis code not found","name":"returns 404 when diagnosis code not found","status":"passed","testResultsByEnv":{"default":"ece23767f56af8cd38246abdfb62650f"}}

@@ -1,0 +1,1 @@
+{"id":"184048d16dca19e77d2da5d44adc8924","fullName":"client/src/components/__tests__/lab-switcher.test.tsx#LabSwitcher does not call setSelectedSuperOrgId on initial render","name":"does not call setSelectedSuperOrgId on initial render","status":"passed","testResultsByEnv":{"default":"8dd9accd39fd752c2aeffb5be3407eea"}}

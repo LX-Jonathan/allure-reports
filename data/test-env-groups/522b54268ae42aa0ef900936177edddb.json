@@ -1,0 +1,1 @@
+{"id":"522b54268ae42aa0ef900936177edddb","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Insurance Companies deleteInsuranceCompany should soft-delete with deletedAt timestamp","name":"should soft-delete with deletedAt timestamp","status":"passed","testResultsByEnv":{"default":"85d524735fa4cc92ad1ffa8d0095a445"}}

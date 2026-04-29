@@ -1,0 +1,1 @@
+{"id":"69bfc705ab322b7e76dab0ec52c35a25","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService buildTenantFilters should add single locationId filter when one location assigned","name":"should add single locationId filter when one location assigned","status":"passed","testResultsByEnv":{"default":"210b76899418e6eca21421a9fc709b02"}}

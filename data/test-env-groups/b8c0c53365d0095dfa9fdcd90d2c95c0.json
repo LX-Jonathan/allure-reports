@@ -1,0 +1,1 @@
+{"id":"b8c0c53365d0095dfa9fdcd90d2c95c0","fullName":"server/lib/__tests__/safeRegex.test.ts#validateRegex rejects nested quantifier constructs","name":"rejects nested quantifier constructs","status":"passed","testResultsByEnv":{"default":"0db74cbc75c52cd4c517174c8e5a2455"}}

@@ -1,0 +1,1 @@
+{"id":"9e4b313f317e3096a7e835fdcd554ac2","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Authentication (401) PATCH /:id returns 401 without auth header","name":"PATCH /:id returns 401 without auth header","status":"passed","testResultsByEnv":{"default":"97224b68e989837467129ead4034ce7b"}}

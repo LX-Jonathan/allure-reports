@@ -1,0 +1,1 @@
+{"id":"a4658b4d7adb8a380505e7e474615f70","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService parseOrderWithAI should parse raw text into structured order data","name":"should parse raw text into structured order data","status":"passed","testResultsByEnv":{"default":"d0f32f32906ffbe35a839b681c7406f8"}}

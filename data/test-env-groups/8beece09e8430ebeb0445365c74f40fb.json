@@ -1,0 +1,1 @@
+{"id":"8beece09e8430ebeb0445365c74f40fb","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/messages returns 400 for content exceeding max length","name":"returns 400 for content exceeding max length","status":"passed","testResultsByEnv":{"default":"94b8a0819ef29d7960b727ad42e29512"}}

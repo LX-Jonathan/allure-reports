@@ -1,0 +1,1 @@
+{"id":"504f1f1c4200d95bad6083b311ce70d3","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service readFileFromRedis should throw when file not found in Redis","name":"should throw when file not found in Redis","status":"passed","testResultsByEnv":{"default":"971372fcbe78976ca038a6c5e6290ce5"}}

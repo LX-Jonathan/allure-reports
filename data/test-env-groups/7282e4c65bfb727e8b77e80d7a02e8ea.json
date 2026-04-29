@@ -1,0 +1,1 @@
+{"id":"7282e4c65bfb727e8b77e80d7a02e8ea","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientPaymentJournal should use operating checking (1010) for non-cash payments","name":"should use operating checking (1010) for non-cash payments","status":"passed","testResultsByEnv":{"default":"38914fad6075a627a4425e0b02ac1e47"}}

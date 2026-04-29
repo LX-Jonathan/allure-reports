@@ -1,0 +1,1 @@
+{"id":"d462233169913d1769a3a4f0acc5e241","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postPatientCreditConsumptionJournal returns null and logs on failure","name":"returns null and logs on failure","status":"passed","testResultsByEnv":{"default":"ae7294274e8ccca60a5034693280148c"}}

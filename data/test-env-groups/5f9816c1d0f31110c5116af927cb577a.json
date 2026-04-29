@@ -1,0 +1,1 @@
+{"id":"5f9816c1d0f31110c5116af927cb577a","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab shows empty state for unpaid orders when none are returned","name":"shows empty state for unpaid orders when none are returned","status":"passed","testResultsByEnv":{"default":"3d73d8ba79e310be729ce425a0d09326"}}

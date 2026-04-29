@@ -1,0 +1,1 @@
+{"id":"5a99c79e77d8b6bc30f3afcdcae2c602","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes DELETE /api/v1/insurance/companies/:companyId/plans/:planId returns 500 when db delete throws","name":"returns 500 when db delete throws","status":"passed","testResultsByEnv":{"default":"0f7626a6b2af93d74b3025024159f01b"}}

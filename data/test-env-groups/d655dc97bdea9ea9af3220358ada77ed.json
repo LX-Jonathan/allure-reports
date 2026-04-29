@@ -1,0 +1,1 @@
+{"id":"d655dc97bdea9ea9af3220358ada77ed","fullName":"client/src/components/check-in/__tests__/StepCard.test.tsx#StepCard financial coverage summary shows an 'ending soon' badge when the plan year resets within 30 days","name":"shows an 'ending soon' badge when the plan year resets within 30 days","status":"passed","testResultsByEnv":{"default":"a0680711f67da6a174277380d95c2bc4"}}

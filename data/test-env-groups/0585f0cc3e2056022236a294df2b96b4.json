@@ -1,0 +1,1 @@
+{"id":"0585f0cc3e2056022236a294df2b96b4","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 500 on unexpected error","name":"returns 500 on unexpected error","status":"passed","testResultsByEnv":{"default":"bd1ddfba059adb7f8a0fa359ff019ebb"}}

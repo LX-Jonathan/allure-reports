@@ -1,0 +1,1 @@
+{"id":"c5f6344a2a43d69d0d32581ed1774d75","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes POST /api/v1/providers/link-self returns 404 when provider not found","name":"returns 404 when provider not found","status":"passed","testResultsByEnv":{"default":"6c6e50ee5c37d8fa05d64856e5ca336e"}}

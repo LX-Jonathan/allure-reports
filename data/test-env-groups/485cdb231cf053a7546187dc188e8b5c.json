@@ -1,0 +1,1 @@
+{"id":"485cdb231cf053a7546187dc188e8b5c","fullName":"server/services/__tests__/labOperations.service.test.ts#labOperations.service validateAndEscape throws on DROP TABLE attempt","name":"throws on DROP TABLE attempt","status":"passed","testResultsByEnv":{"default":"b24b1a401adc9864034bb4a65ce2959b"}}

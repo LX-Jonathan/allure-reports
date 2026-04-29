@@ -1,0 +1,1 @@
+{"id":"b885b2abcad2fab9ff86989ace69d4aa","fullName":"client/src/components/__tests__/diagnosis-code-picker.test.tsx#DiagnosisCodePicker renders no badges when selectedCodes is empty","name":"renders no badges when selectedCodes is empty","status":"passed","testResultsByEnv":{"default":"947dfbe4da77736056fd328b46c93b21"}}

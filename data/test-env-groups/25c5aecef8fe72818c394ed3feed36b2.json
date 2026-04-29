@@ -1,0 +1,1 @@
+{"id":"25c5aecef8fe72818c394ed3feed36b2","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations getUserAssignedOrganizations returns array of organization IDs","name":"returns array of organization IDs","status":"passed","testResultsByEnv":{"default":"737e512752fe4f99156c7b5965956f09"}}

@@ -1,0 +1,1 @@
+{"id":"17cb883c3cf6d3761310340be2bccd09","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings practitionerToFhir includes credentials as suffix","name":"includes credentials as suffix","status":"passed","testResultsByEnv":{"default":"76e1c8d74e61cd55ee337eb3bf42ce4b"}}

@@ -1,0 +1,1 @@
+{"id":"cbbc09bcdc22df7c8f04514d25536e36","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete handles onAddressSelect prop without crashing","name":"handles onAddressSelect prop without crashing","status":"passed","testResultsByEnv":{"default":"ef0434de3b15bba08e4bad9f9d536dee"}}

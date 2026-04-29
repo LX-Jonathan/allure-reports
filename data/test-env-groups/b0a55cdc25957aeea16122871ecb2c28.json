@@ -1,0 +1,1 @@
+{"id":"b0a55cdc25957aeea16122871ecb2c28","fullName":"client/src/stores/__tests__/workingPatientStore.test.ts#useWorkingPatientStore falls back to null when persisted JSON is malformed","name":"falls back to null when persisted JSON is malformed","status":"passed","testResultsByEnv":{"default":"216851b88ffa9e7fa506148dac902a53"}}

@@ -1,0 +1,1 @@
+{"id":"764b3cea4d69b84efde5dc7865f240f8","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - User Invites getUserInviteByCode should return valid unaccepted non-expired invite","name":"should return valid unaccepted non-expired invite","status":"passed","testResultsByEnv":{"default":"d1df5c51d98761cd03750d4543fb7663"}}

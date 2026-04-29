@@ -1,0 +1,1 @@
+{"id":"c5589ae83aba1063e78ab4b3741ba2f9","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns resent=false for a new invitation","name":"returns resent=false for a new invitation","status":"passed","testResultsByEnv":{"default":"22c21cef48f57e79569826dbf691f23d"}}

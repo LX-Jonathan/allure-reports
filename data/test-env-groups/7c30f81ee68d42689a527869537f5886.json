@@ -1,0 +1,1 @@
+{"id":"7c30f81ee68d42689a527869537f5886","fullName":"server/__tests__/storage-tokens.test.ts#DatabaseStorage - Insurance Companies getInsuranceCompanyCount should return count of non-deleted companies","name":"should return count of non-deleted companies","status":"passed","testResultsByEnv":{"default":"e675ec4d61577263cd82a6a6c7ea3037"}}

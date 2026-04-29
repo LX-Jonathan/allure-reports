@@ -1,0 +1,1 @@
+{"id":"b8c6702dbdb8989eac4baed5a3cb79e8","fullName":"client/src/components/patient/__tests__/propensity-to-pay-card.test.tsx#PropensityToPayCard breakdown formatting hides the trend row when there is not enough history","name":"hides the trend row when there is not enough history","status":"passed","testResultsByEnv":{"default":"ff478cdaba145bacac260e4a84a63cfa"}}

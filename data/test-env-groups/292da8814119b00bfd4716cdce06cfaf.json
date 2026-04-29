@@ -1,0 +1,1 @@
+{"id":"292da8814119b00bfd4716cdce06cfaf","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService softDeleteReport should soft delete report when user can edit","name":"should soft delete report when user can edit","status":"passed","testResultsByEnv":{"default":"003a443d4dac56fd21dcc49b1fe1fbe0"}}

@@ -1,0 +1,1 @@
+{"id":"3fb1c50edc2a6ea154e4bc2ebdf31291","fullName":"client/src/components/__tests__/address-autocomplete.test.tsx#AddressAutocomplete with Google Maps API handles place with formatted_address but no address_components","name":"handles place with formatted_address but no address_components","status":"passed","testResultsByEnv":{"default":"0950cd13d93d48e373d30965ba8fc0c8"}}

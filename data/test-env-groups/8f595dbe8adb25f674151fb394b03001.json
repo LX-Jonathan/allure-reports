@@ -1,0 +1,1 @@
+{"id":"8f595dbe8adb25f674151fb394b03001","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should create bulk scan items with correct structure","name":"should create bulk scan items with correct structure","status":"passed","testResultsByEnv":{"default":"c99e886c248470cd1bf6afdb4bffbd6c"}}

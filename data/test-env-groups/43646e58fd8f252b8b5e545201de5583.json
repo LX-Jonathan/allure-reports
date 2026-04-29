@@ -1,0 +1,1 @@
+{"id":"43646e58fd8f252b8b5e545201de5583","fullName":"server/lib/__tests__/auth.test.ts#auth hasPermission should return false for empty role name","name":"should return false for empty role name","status":"passed","testResultsByEnv":{"default":"0d23c999e4a77fe46acc85e4ba2d2711"}}

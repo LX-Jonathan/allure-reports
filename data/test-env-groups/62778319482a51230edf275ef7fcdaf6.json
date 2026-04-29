@@ -1,0 +1,1 @@
+{"id":"62778319482a51230edf275ef7fcdaf6","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes GET /locations/:id/providers returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"71bc4548b3879d85898b8e907c05f6c3"}}

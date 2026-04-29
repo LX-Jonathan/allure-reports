@@ -1,0 +1,1 @@
+{"id":"3e402ac0828fd0294fbdd1eab6532eb7","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"a12c3e755a8350b16c1adc7ad86c4535"}}

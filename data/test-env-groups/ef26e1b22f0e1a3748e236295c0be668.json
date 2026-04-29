@@ -1,0 +1,1 @@
+{"id":"ef26e1b22f0e1a3748e236295c0be668","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes PUT /api/v1/patient-documents/:id/file returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"6c30548463cc85d6ec74e31dbed2ad1d"}}

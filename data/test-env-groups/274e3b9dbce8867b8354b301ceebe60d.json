@@ -1,0 +1,1 @@
+{"id":"274e3b9dbce8867b8354b301ceebe60d","fullName":"server/routes/__tests__/users.routes.test.ts#Users Routes DELETE /api/v1/users/:id returns 403 when org_admin has no labId","name":"returns 403 when org_admin has no labId","status":"passed","testResultsByEnv":{"default":"5cdaf3c17120e719e592e0f1a08446fe"}}

@@ -1,0 +1,1 @@
+{"id":"97b6bd22f611568237f53781aec2840e","fullName":"server/routes/__tests__/auth.route.test.ts#Auth Routes POST /api/v1/auth/login returns 401 on wrong password and locks after 5 attempts","name":"returns 401 on wrong password and locks after 5 attempts","status":"passed","testResultsByEnv":{"default":"bf0041f7f9420e78d3241b2ffcff359e"}}

@@ -1,0 +1,1 @@
+{"id":"bc7adf181b081f65d56f0199c3a27ea1","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections skips sections that become empty after filtering","name":"skips sections that become empty after filtering","status":"passed","testResultsByEnv":{"default":"bcf766a7d3b68c3b81bdef2b94e080e9"}}

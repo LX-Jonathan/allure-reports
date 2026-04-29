@@ -1,0 +1,1 @@
+{"id":"1f53418181f5bb6fffaa992abcae8691","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 for year above 2100","name":"should return 400 for year above 2100","status":"passed","testResultsByEnv":{"default":"7c26dc938bbf2b01884b8053686b883d"}}

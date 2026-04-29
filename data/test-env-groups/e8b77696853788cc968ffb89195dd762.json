@@ -1,0 +1,1 @@
+{"id":"e8b77696853788cc968ffb89195dd762","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:id/aoe-responses returns 403 for unauthorized role","name":"returns 403 for unauthorized role","status":"passed","testResultsByEnv":{"default":"74fe15e1243ff4f247ab4abf5a6acbe9"}}

@@ -1,0 +1,1 @@
+{"id":"8af0b7f4719e7c53948d4e81123ccdbd","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useSetup returns isSetupRequired true when setupStatus query returns true","name":"returns isSetupRequired true when setupStatus query returns true","status":"passed","testResultsByEnv":{"default":"382f8b766d6caa778304d90f36f59d8d"}}

@@ -1,0 +1,1 @@
+{"id":"87e7df62fd53e96b9152bf6ea33aed63","fullName":"server/services/__tests__/patients.service.test.ts#PatientsService create data encryption should handle patient without SSN","name":"should handle patient without SSN","status":"passed","testResultsByEnv":{"default":"de40fa7668d2d3aca190dfc9017d9018"}}

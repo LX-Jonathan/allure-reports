@@ -1,0 +1,1 @@
+{"id":"632d51a234a8dbf1a1a892ac4e7cbc5b","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should return 400 when year is missing","name":"should return 400 when year is missing","status":"passed","testResultsByEnv":{"default":"d2290710fbba2e7f3c54c513005146eb"}}

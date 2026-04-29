@@ -1,0 +1,1 @@
+{"id":"cac72f5da2e8a9f45ca4d407981c37d2","fullName":"server/__tests__/comm-consent-guardrail.test.ts#sendSms per-lab consent guardrail returns false (and does not call consent check) when phone is invalid","name":"returns false (and does not call consent check) when phone is invalid","status":"passed","testResultsByEnv":{"default":"78c61160a294dd0abad4a5c8b8171355"}}

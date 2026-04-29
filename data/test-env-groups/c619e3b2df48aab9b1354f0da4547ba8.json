@@ -1,0 +1,1 @@
+{"id":"c619e3b2df48aab9b1354f0da4547ba8","fullName":"client/src/pages/patient/__tests__/prior-auth-form.test.tsx#PatientPriorAuthFormPage loads the form and submits the happy path with the token","name":"loads the form and submits the happy path with the token","status":"passed","testResultsByEnv":{"default":"02c1d22bac18ee096ca9986158dd7ae5"}}

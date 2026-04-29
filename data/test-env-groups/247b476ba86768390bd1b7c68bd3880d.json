@@ -1,0 +1,1 @@
+{"id":"247b476ba86768390bd1b7c68bd3880d","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should derive parentLabId from patient if not provided","name":"should derive parentLabId from patient if not provided","status":"passed","testResultsByEnv":{"default":"0b6202126803a292a429b222e33e943b"}}

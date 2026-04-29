@@ -1,0 +1,1 @@
+{"id":"8354f955ea4fa9eb287e81770b93d0b6","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes PATCH /clients/:orgId/threads/:threadId/resolve resolves an open thread","name":"resolves an open thread","status":"passed","testResultsByEnv":{"default":"55956b53d8caf1471e09e6435ded5c37"}}

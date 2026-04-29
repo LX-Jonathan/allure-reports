@@ -1,0 +1,1 @@
+{"id":"c459adc429f45dd802ae074faef44cf1","fullName":"server/routes/__tests__/work-views.routes.test.ts#Work Views Routes - inline-edit / drag-and-drop via /update-record read-only work-item types reject /update-record with 403","name":"read-only work-item types reject /update-record with 403","status":"passed","testResultsByEnv":{"default":"d232d5f03c74c66ff0b2a37b5deaf152"}}

@@ -1,0 +1,1 @@
+{"id":"5bac4b9d009c186ca114dac0d1ae4bcd","fullName":"server/__tests__/storage-providers-meds.test.ts#DatabaseStorage - Order Items & Generation generateBarcode should return string starting with LX","name":"should return string starting with LX","status":"passed","testResultsByEnv":{"default":"4c8472e17c72f1008fb906ea81a9c861"}}

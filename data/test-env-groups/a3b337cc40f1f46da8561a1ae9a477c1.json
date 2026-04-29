@@ -1,0 +1,1 @@
+{"id":"a3b337cc40f1f46da8561a1ae9a477c1","fullName":"server/lib/__tests__/redis.test.ts#redis.ts isRedisConfigured should return false when only token is set","name":"should return false when only token is set","status":"passed","testResultsByEnv":{"default":"93570108da292ef400f0969385e6a14d"}}

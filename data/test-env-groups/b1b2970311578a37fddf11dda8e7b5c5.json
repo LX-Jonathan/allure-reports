@@ -1,0 +1,1 @@
+{"id":"b1b2970311578a37fddf11dda8e7b5c5","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service cleanupOldTempFiles should handle readdir errors gracefully","name":"should handle readdir errors gracefully","status":"passed","testResultsByEnv":{"default":"b174cf684f7041be3f9b8ea50cbae7dc"}}

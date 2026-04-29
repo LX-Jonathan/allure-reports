@@ -1,0 +1,1 @@
+{"id":"b1cf5ff3eacc02ce6e1ceb37b42e3e89","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/recent-items returns 400 when itemId is not a valid UUID","name":"returns 400 when itemId is not a valid UUID","status":"passed","testResultsByEnv":{"default":"1c781f3a0e93c2ab6990ebf3825287ad"}}

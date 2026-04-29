@@ -1,0 +1,1 @@
+{"id":"9598a8321a701d2f312ae4e2347e3e9e","fullName":"client/src/components/patient/__tests__/credit-tab.test.tsx#CreditTab singularizes the overdue badge for exactly one day overdue","name":"singularizes the overdue badge for exactly one day overdue","status":"passed","testResultsByEnv":{"default":"09780d7da814c4df92a60cd413131b59"}}

@@ -1,0 +1,1 @@
+{"id":"9781c255f3cc7998eb0e0adb7572bf8e","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent returns 400 when amount is not an integer","name":"returns 400 when amount is not an integer","status":"passed","testResultsByEnv":{"default":"0f82fc7fb37b80489b1ff36c9b1437c3"}}

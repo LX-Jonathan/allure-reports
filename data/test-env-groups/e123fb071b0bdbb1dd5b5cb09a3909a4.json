@@ -1,0 +1,1 @@
+{"id":"e123fb071b0bdbb1dd5b5cb09a3909a4","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management deletePatientGuarantor returns true on successful delete","name":"returns true on successful delete","status":"passed","testResultsByEnv":{"default":"bac3a71138c947c4e3bf5f5a6d7c3370"}}

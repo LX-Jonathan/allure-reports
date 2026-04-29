@@ -1,0 +1,1 @@
+{"id":"75b0cdf791cd626ae7625cee09bb8e35","fullName":"server/replit_integrations/batch/__tests__/utils.test.ts#batchProcess should call onProgress callback after each item completes","name":"should call onProgress callback after each item completes","status":"passed","testResultsByEnv":{"default":"dc8de3722c002a45bc4ae552edf8b3bf"}}

@@ -1,0 +1,1 @@
+{"id":"5debc2cc2d7007c392e8a690b2d33452","fullName":"server/middleware/__tests__/audit.test.ts#audit middleware res.end setImmediate callback (lines 185-230) getClientIp — reads first entry from x-forwarded-for header","name":"getClientIp — reads first entry from x-forwarded-for header","status":"passed","testResultsByEnv":{"default":"21fb780aaea74f136fae88b86489b37d"}}

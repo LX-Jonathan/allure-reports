@@ -1,0 +1,1 @@
+{"id":"afac2c7597cb08d303b811044e64e5bd","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring isStale treats missing timestamps as stale","name":"treats missing timestamps as stale","status":"passed","testResultsByEnv":{"default":"dcc6cc849ffc657ae8797014a0e72c52"}}

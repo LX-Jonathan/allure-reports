@@ -1,0 +1,1 @@
+{"id":"20e3e52463ee729db66b7cf3d93a5cac","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/messages returns 400 for invalid message body","name":"returns 400 for invalid message body","status":"passed","testResultsByEnv":{"default":"c77a25fa6ea7556b55b49d2256e94d39"}}

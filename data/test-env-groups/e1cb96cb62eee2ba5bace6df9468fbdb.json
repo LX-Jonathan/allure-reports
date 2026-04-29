@@ -1,0 +1,1 @@
+{"id":"e1cb96cb62eee2ba5bace6df9468fbdb","fullName":"server/lib/__tests__/email.test.ts#email sendUserInviteEmail constructs correct invite URL with BASE_URL","name":"constructs correct invite URL with BASE_URL","status":"passed","testResultsByEnv":{"default":"4e5b948259aab6b7af751160fccf3111"}}

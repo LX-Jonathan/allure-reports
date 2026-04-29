@@ -1,0 +1,1 @@
+{"id":"56ab650ce2bfecd623e6834f19f1f7e9","fullName":"client/src/lib/__tests__/proxy-audit.test.ts#getProxyInviteSendNumber returns the numeric sendCount for proxy_invite_sent","name":"returns the numeric sendCount for proxy_invite_sent","status":"passed","testResultsByEnv":{"default":"3d08988e880f58fe4ef243fb008bfbdd"}}

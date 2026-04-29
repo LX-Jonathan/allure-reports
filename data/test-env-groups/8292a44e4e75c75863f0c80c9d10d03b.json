@@ -1,0 +1,1 @@
+{"id":"8292a44e4e75c75863f0c80c9d10d03b","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/eligibility/check returns 400 when demographics service is disabled but requested","name":"returns 400 when demographics service is disabled but requested","status":"passed","testResultsByEnv":{"default":"c2864d26c325c54f4ed00d14e2597956"}}

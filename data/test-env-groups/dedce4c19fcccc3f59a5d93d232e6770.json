@@ -1,0 +1,1 @@
+{"id":"dedce4c19fcccc3f59a5d93d232e6770","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service shouldSkipClaude should not skip for known template with low word count","name":"should not skip for known template with low word count","status":"passed","testResultsByEnv":{"default":"fa06079656ea3324f47d1d5dc9ce29dc"}}

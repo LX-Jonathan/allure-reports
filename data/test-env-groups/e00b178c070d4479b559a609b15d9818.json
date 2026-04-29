@@ -1,0 +1,1 @@
+{"id":"e00b178c070d4479b559a609b15d9818","fullName":"server/routes/__tests__/visit-checkins.routes.test.ts#Visit Check-Ins Routes - create / steps / transitions PATCH /:id/steps forbids waiving when the user is not privileged","name":"forbids waiving when the user is not privileged","status":"passed","testResultsByEnv":{"default":"d246a1ac7cc464d4499300f64c1009cb"}}

@@ -1,0 +1,1 @@
+{"id":"f377565fa9c4da3641d15a28f9b8d915","fullName":"server/services/__tests__/imagePreprocessing.service.test.ts#imagePreprocessing.service preprocessImageForOCR should include resize description with both dimensions","name":"should include resize description with both dimensions","status":"passed","testResultsByEnv":{"default":"4566bae249b12a7f26fbc3923a399541"}}

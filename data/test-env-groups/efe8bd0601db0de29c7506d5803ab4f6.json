@@ -1,0 +1,1 @@
+{"id":"efe8bd0601db0de29c7506d5803ab4f6","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection header-only fallback (cross-site iframe) rejects the request when the signed token signature is tampered","name":"rejects the request when the signed token signature is tampered","status":"passed","testResultsByEnv":{"default":"188eb53aa2caf55b1325ef62d6d76b1d"}}

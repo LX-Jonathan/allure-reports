@@ -1,0 +1,1 @@
+{"id":"132abe3bc9b1ed53402ed9edcaea0f32","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /patients/:patientId/hie-records applies status filter","name":"applies status filter","status":"passed","testResultsByEnv":{"default":"4d12f92ef1c813bc1ad2624bdee98ebc"}}

@@ -1,0 +1,1 @@
+{"id":"4c67554bba730b7a5088eb7ed2cde475","fullName":"server/workers/__tests__/data-import.worker.test.ts#data-import.worker processDataImportJob unsupported import type should throw for unsupported import type","name":"should throw for unsupported import type","status":"passed","testResultsByEnv":{"default":"6e5ae0db4034a83e29ac9e711321f641"}}

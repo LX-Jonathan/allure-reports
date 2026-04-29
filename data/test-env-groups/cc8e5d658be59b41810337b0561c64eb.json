@@ -1,0 +1,1 @@
+{"id":"cc8e5d658be59b41810337b0561c64eb","fullName":"client/src/components/requisitions/__tests__/pdf-background-image.test.tsx#PdfBackgroundImage does not render img before fetch completes","name":"does not render img before fetch completes","status":"passed","testResultsByEnv":{"default":"2ef098746f906070f58c07b7c6902eae"}}

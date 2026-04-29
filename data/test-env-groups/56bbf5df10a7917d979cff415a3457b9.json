@@ -1,0 +1,1 @@
+{"id":"56bbf5df10a7917d979cff415a3457b9","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes GET /api/dtc/kits (Staff Portal - List Kits) returns 200 with kits and pagination","name":"returns 200 with kits and pagination","status":"passed","testResultsByEnv":{"default":"7449d2789cd7740c0fd415be612251e8"}}

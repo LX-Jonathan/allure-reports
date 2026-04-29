@@ -1,0 +1,1 @@
+{"id":"81420999be8dfe255078e587c42fc729","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund returns validation error for missing amount","name":"returns validation error for missing amount","status":"passed","testResultsByEnv":{"default":"aa1c44eeef88298e85846e3625428c73"}}

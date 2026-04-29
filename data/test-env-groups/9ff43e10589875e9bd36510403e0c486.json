@@ -1,0 +1,1 @@
+{"id":"9ff43e10589875e9bd36510403e0c486","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/eligibility-verifications returns 200 with eligibility verifications","name":"returns 200 with eligibility verifications","status":"passed","testResultsByEnv":{"default":"616a226bfaf314bbdba9d7cf605dffaf"}}

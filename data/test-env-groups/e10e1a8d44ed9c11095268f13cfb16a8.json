@@ -1,0 +1,1 @@
+{"id":"e10e1a8d44ed9c11095268f13cfb16a8","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes GET /api/v1/master-patients returns 401 without auth","name":"returns 401 without auth","status":"passed","testResultsByEnv":{"default":"8e11403f5947a3bd1d4dde9eda449d94"}}

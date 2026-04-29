@@ -1,0 +1,1 @@
+{"id":"86edc2bdfb328cc6a18a94ffeb2b1f73","fullName":"client/src/lib/__tests__/authUtils.test.ts#formatTimeAgo returns days ago for times under a week","name":"returns days ago for times under a week","status":"passed","testResultsByEnv":{"default":"a107e10a1f7ef047e5d1a01fa51b5205"}}

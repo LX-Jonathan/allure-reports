@@ -1,0 +1,1 @@
+{"id":"6554b958470ebc7646c84f5279b8d073","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker processEmailJob should NOT log login code for login template type (sec-email-worker-log)","name":"should NOT log login code for login template type (sec-email-worker-log)","status":"passed","testResultsByEnv":{"default":"c730c0dc441dc219007a5beadbd2dcb4"}}

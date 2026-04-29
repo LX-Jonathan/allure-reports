@@ -1,0 +1,1 @@
+{"id":"72afff799599569295c8674e32a9b2db","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes PATCH /api/v1/patients/:id additional branches encrypts SSN when updating patient","name":"encrypts SSN when updating patient","status":"passed","testResultsByEnv":{"default":"374b2f66f290c3e8ffd19cb28d06524e"}}

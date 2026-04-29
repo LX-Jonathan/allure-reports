@@ -1,0 +1,1 @@
+{"id":"430773f0435a07fc0faf0139c5c79c82","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes DELETE /companies/:id/plans/:planId deletes a plan","name":"deletes a plan","status":"passed","testResultsByEnv":{"default":"ff694a222cfddd94f7a6cb14d56561c4"}}

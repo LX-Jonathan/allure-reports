@@ -1,0 +1,1 @@
+{"id":"f418e5127be551d0bc7a1c85c509f299","fullName":"server/lib/__tests__/redis.test.ts#redis.ts CacheService delete should return false and log error on Redis delete failure","name":"should return false and log error on Redis delete failure","status":"passed","testResultsByEnv":{"default":"28b2d2013b205b1c46398b375202f823"}}

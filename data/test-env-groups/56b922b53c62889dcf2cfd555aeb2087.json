@@ -1,0 +1,1 @@
+{"id":"56b922b53c62889dcf2cfd555aeb2087","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt different templates should generate correct prompt for GI template","name":"should generate correct prompt for GI template","status":"passed","testResultsByEnv":{"default":"9755d7143240fc8d522124f5fdf20563"}}

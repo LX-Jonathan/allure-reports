@@ -1,0 +1,1 @@
+{"id":"95936d87c6823570dfcd3ef46871b6dc","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 400 when user has no parentLabId and is not super_admin","name":"returns 400 when user has no parentLabId and is not super_admin","status":"passed","testResultsByEnv":{"default":"01d6ff4635c376e73ecf31cc897648bd"}}

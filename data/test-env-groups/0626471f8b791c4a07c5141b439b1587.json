@@ -1,0 +1,1 @@
+{"id":"0626471f8b791c4a07c5141b439b1587","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postCashDrawerCloseJournal should credit cash over/short when cash is over","name":"should credit cash over/short when cash is over","status":"passed","testResultsByEnv":{"default":"082382862c90f43cc245c5cd2b95a5f5"}}

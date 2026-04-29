@@ -1,0 +1,1 @@
+{"id":"f4de74050bff1b6f0d6791b3595d6c62","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes POST /api/orders returns 403 when user has no organization","name":"returns 403 when user has no organization","status":"passed","testResultsByEnv":{"default":"6a45f014632dd79ef2d57912751f8aa3"}}

@@ -1,0 +1,1 @@
+{"id":"304ce1c80cb7f4c20d7ee02376614014","fullName":"client/src/pages/__tests__/marketplace.test.tsx#MarketplacePage hydrates the view from localStorage when no URL param is set","name":"hydrates the view from localStorage when no URL param is set","status":"passed","testResultsByEnv":{"default":"79dc941bd3da6825d8046f059c417962"}}

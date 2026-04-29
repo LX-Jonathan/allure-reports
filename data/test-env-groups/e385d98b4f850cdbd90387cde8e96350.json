@@ -1,0 +1,1 @@
+{"id":"e385d98b4f850cdbd90387cde8e96350","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Test Panels & Lab Pricing getTestPriceForOrg should return null when no pricing","name":"should return null when no pricing","status":"passed","testResultsByEnv":{"default":"ed1840645ac7e73eb53f1ecd93793e9c"}}

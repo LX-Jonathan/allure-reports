@@ -1,0 +1,1 @@
+{"id":"c0ef499f47772e580caa3493888e59e8","fullName":"server/routes/__tests__/sidecar.routes.test.ts#Sidecar Routes Auth middleware returns 503 when SIDECAR_API_KEY is not set and auth not disabled","name":"returns 503 when SIDECAR_API_KEY is not set and auth not disabled","status":"passed","testResultsByEnv":{"default":"a26ca33e11a250c6293b99aa9594f0a9"}}

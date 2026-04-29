@@ -1,0 +1,1 @@
+{"id":"9d9444c54fc26f75a069f10b26120ec7","fullName":"server/__tests__/visit-checkins.routes.test.ts#visit check-ins routes PATCH /api/v1/check-ins/:id/steps (waiver permissions) allows a non-privileged role to mark a step complete","name":"allows a non-privileged role to mark a step complete","status":"passed","testResultsByEnv":{"default":"9cc4841fa923c54783d7ec40ce023ee5"}}

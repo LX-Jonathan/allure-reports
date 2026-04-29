@@ -1,0 +1,1 @@
+{"id":"1d52d188efc8c60a639d42ad44bb6231","fullName":"server/__tests__/storage-queue-bulk.test.ts#DatabaseStorage - Queue Monitoring & Bulk Scan deleteBulkScanBatch should return false when batch not found","name":"should return false when batch not found","status":"passed","testResultsByEnv":{"default":"a9debbed1ae074962fa0f2e787901e34"}}

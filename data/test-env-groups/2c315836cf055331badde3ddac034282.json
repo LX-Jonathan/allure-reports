@@ -1,0 +1,1 @@
+{"id":"2c315836cf055331badde3ddac034282","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation location-level users should allow access when location matches single locationId","name":"should allow access when location matches single locationId","status":"passed","testResultsByEnv":{"default":"0a750b12277e70061c4bfe8c67ddf87d"}}

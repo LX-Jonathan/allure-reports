@@ -1,0 +1,1 @@
+{"id":"f7857797dd96e195586f345a12ceb862","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes GET /appeals/context/from-denial returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"7e329d310f25b2524b87c51a9f8dd113"}}

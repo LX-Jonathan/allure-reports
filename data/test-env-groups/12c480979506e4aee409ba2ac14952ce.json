@@ -1,0 +1,1 @@
+{"id":"12c480979506e4aee409ba2ac14952ce","fullName":"server/routes/__tests__/contracts.routes.test.ts#Contracts Routes Tenant isolation PATCH /:id returns 404 when org-scoped user updates other org contract","name":"PATCH /:id returns 404 when org-scoped user updates other org contract","status":"passed","testResultsByEnv":{"default":"ebb88d888875298271f03b5c813c6d77"}}

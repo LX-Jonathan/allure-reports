@@ -1,0 +1,1 @@
+{"id":"522d9ed757b2884ca46c0b90513b7d01","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads returns 400 for invalid patientId format","name":"returns 400 for invalid patientId format","status":"passed","testResultsByEnv":{"default":"111909f101c979c77241f8a8bf4a0883"}}

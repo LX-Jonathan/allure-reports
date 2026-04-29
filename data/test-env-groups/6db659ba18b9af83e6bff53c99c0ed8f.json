@@ -1,0 +1,1 @@
+{"id":"6db659ba18b9af83e6bff53c99c0ed8f","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations/:id/messages returns 400 when validation fails - missing content","name":"returns 400 when validation fails - missing content","status":"passed","testResultsByEnv":{"default":"e1ceef2da1134951575fecffb522d66d"}}

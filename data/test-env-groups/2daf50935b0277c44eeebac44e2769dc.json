@@ -1,0 +1,1 @@
+{"id":"2daf50935b0277c44eeebac44e2769dc","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should show 'Yes' when hasInsurance but no insuranceType","name":"should show 'Yes' when hasInsurance but no insuranceType","status":"passed","testResultsByEnv":{"default":"e89b688b0ede0ff90d4e8489506e72dd"}}

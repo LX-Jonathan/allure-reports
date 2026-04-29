@@ -1,0 +1,1 @@
+{"id":"e976fa5daafc2c1963473de638b71da8","fullName":"client/src/components/marketplace/__tests__/marketplace-lab-card.test.tsx#MarketplaceLabCard does not render distance badge when distanceMiles is null","name":"does not render distance badge when distanceMiles is null","status":"passed","testResultsByEnv":{"default":"0250212c2553dfdfda8c4d0ebce93a4e"}}

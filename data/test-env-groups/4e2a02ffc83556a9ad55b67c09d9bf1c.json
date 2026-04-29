@@ -1,0 +1,1 @@
+{"id":"4e2a02ffc83556a9ad55b67c09d9bf1c","fullName":"server/routes/__tests__/lab-clients.routes.test.ts#Lab Clients Routes (CRUD) DELETE /:id soft-deletes (sets deletedAt) instead of hard-deleting","name":"soft-deletes (sets deletedAt) instead of hard-deleting","status":"passed","testResultsByEnv":{"default":"88f181a6d8a2c4653afeab88548ee98e"}}

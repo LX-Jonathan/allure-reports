@@ -1,0 +1,1 @@
+{"id":"aeff6ba7dd3e9fc7a0d962b4c8bc57e2","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes GET /api/v1/master-patients/:id returns 404 when not found","name":"returns 404 when not found","status":"passed","testResultsByEnv":{"default":"9121b90f14ea4505a0643c6736080982"}}

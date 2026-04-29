@@ -1,0 +1,1 @@
+{"id":"160f40a8b587565d294851fa0cfeb0cb","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/validate-address returns 403 when access denied","name":"returns 403 when access denied","status":"passed","testResultsByEnv":{"default":"4d85707d942ee41dbce87d9c6a52d238"}}

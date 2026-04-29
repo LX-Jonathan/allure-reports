@@ -1,0 +1,1 @@
+{"id":"72e1b06d026784b9c87484e733c16d0d","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/remove returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"2313b8146e2ea0e26ce819270d958005"}}

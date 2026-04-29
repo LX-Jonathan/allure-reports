@@ -1,0 +1,1 @@
+{"id":"d3d5a8139041e1c74f4891e8bbb19273","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes PATCH /api/tickets/:id should return 400 for invalid status","name":"should return 400 for invalid status","status":"passed","testResultsByEnv":{"default":"7daa4b813d79e182a51c3548f29594e6"}}

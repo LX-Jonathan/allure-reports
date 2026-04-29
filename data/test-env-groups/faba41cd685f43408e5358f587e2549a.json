@@ -1,0 +1,1 @@
+{"id":"faba41cd685f43408e5358f587e2549a","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus should clear orphaned cache when DB record not found","name":"should clear orphaned cache when DB record not found","status":"passed","testResultsByEnv":{"default":"e35f03baa65c0b069f090d777935630e"}}

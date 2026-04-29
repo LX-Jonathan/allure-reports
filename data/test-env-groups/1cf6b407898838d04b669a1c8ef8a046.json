@@ -1,0 +1,1 @@
+{"id":"1cf6b407898838d04b669a1c8ef8a046","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes GET /api/v1/fee-estimation/modifiers should return empty array when search matches nothing","name":"should return empty array when search matches nothing","status":"passed","testResultsByEnv":{"default":"442599c0b2c70b37a6e5b65f1b8becc6"}}

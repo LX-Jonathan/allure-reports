@@ -1,0 +1,1 @@
+{"id":"2e9c677d55974f8dfd5dd6fcf21de27d","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors deletePatientGuarantor should hard-delete and return true","name":"deletePatientGuarantor should hard-delete and return true","status":"passed","testResultsByEnv":{"default":"1d3ae2c0825578cd5f3db03bd98e25e4"}}

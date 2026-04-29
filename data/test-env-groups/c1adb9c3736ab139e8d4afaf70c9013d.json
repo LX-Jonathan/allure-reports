@@ -1,0 +1,1 @@
+{"id":"c1adb9c3736ab139e8d4afaf70c9013d","fullName":"server/__tests__/audit.test.ts#audit middleware auditMiddleware skips _next paths","name":"skips _next paths","status":"passed","testResultsByEnv":{"default":"ad75bcbdc7b49d4fbdc5cbb06b37d963"}}

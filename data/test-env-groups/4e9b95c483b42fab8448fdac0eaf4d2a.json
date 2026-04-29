@@ -1,0 +1,1 @@
+{"id":"4e9b95c483b42fab8448fdac0eaf4d2a","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should handle confidence just below threshold (0.79)","name":"should handle confidence just below threshold (0.79)","status":"passed","testResultsByEnv":{"default":"fb9ff01d5c01223c8d39fda55c5c1531"}}

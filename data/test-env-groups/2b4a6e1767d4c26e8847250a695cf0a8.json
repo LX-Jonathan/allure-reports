@@ -1,0 +1,1 @@
+{"id":"2b4a6e1767d4c26e8847250a695cf0a8","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes GET /api/orders/abn-worklist returns empty for location-level user with no locationIds","name":"returns empty for location-level user with no locationIds","status":"passed","testResultsByEnv":{"default":"24464465beb69e4b9f2eedeba71f387f"}}

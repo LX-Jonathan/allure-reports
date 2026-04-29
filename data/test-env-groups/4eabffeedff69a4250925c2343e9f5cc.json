@@ -1,0 +1,1 @@
+{"id":"4eabffeedff69a4250925c2343e9f5cc","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Guarantors deletePatientGuarantor should return false when not found","name":"deletePatientGuarantor should return false when not found","status":"passed","testResultsByEnv":{"default":"f03601870d9a760c9d6997feb48f62f0"}}

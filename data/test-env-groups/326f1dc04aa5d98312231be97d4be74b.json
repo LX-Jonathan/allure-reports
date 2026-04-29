@@ -1,0 +1,1 @@
+{"id":"326f1dc04aa5d98312231be97d4be74b","fullName":"server/routes/__tests__/fee-estimation.routes.test.ts#fee-estimation.routes POST /api/v1/fee-estimation/estimate should select specific insurance when insuranceId provided","name":"should select specific insurance when insuranceId provided","status":"passed","testResultsByEnv":{"default":"12ed9c61b390cf56035223b0191f61f4"}}

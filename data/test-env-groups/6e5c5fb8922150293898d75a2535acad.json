@@ -1,0 +1,1 @@
+{"id":"6e5c5fb8922150293898d75a2535acad","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations returns 400 for invalid body (missing name)","name":"returns 400 for invalid body (missing name)","status":"passed","testResultsByEnv":{"default":"18dc3f98baa8b00f1bd1641a472f1ce4"}}

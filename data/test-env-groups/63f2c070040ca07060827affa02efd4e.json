@@ -1,0 +1,1 @@
+{"id":"63f2c070040ca07060827affa02efd4e","fullName":"server/routes/__tests__/favorites.routes.test.ts#Favorites Routes POST /api/v1/favorites creates a new favorite and returns 201","name":"creates a new favorite and returns 201","status":"passed","testResultsByEnv":{"default":"8921608651f97e85de4afbb992fd5931"}}

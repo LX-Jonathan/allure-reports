@@ -1,0 +1,1 @@
+{"id":"a92cb64b6cf2c8ebb27f0fe5c9f623b2","fullName":"server/services/__tests__/medicalNecessity.service.test.ts#MedicalNecessityService analyzeMedicalNecessity should handle AI API failures and return default result","name":"should handle AI API failures and return default result","status":"passed","testResultsByEnv":{"default":"17db1cac3db266063e1a90b44a1fef98"}}

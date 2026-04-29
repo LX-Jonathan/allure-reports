@@ -1,0 +1,1 @@
+{"id":"82735c11a40e1511f9c6421c32ba3c7b","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync clearBillingCache should use default chunk count when metadata has no chunkCount","name":"should use default chunk count when metadata has no chunkCount","status":"passed","testResultsByEnv":{"default":"750af29ea719b569a38262f68b7c1b26"}}

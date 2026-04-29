@@ -1,0 +1,1 @@
+{"id":"01cb4d529d3370c38b20e296c4d6ffa7","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync getCachedBillingResolutionData should return empty array when Redis is not configured","name":"should return empty array when Redis is not configured","status":"passed","testResultsByEnv":{"default":"9e00143e20e62585b28edbfc67764abf"}}

@@ -1,0 +1,1 @@
+{"id":"29e5d4f90a7eaf9f7ac5448384ed21ba","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar hides the flat Andromeda link when the andromeda module is not enabled","name":"hides the flat Andromeda link when the andromeda module is not enabled","status":"passed","testResultsByEnv":{"default":"d22ff5212426ab4e1e8833fadb508e21"}}

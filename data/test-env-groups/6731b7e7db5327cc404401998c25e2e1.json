@@ -1,0 +1,1 @@
+{"id":"6731b7e7db5327cc404401998c25e2e1","fullName":"server/services/__tests__/athenaSync.test.ts#athenaSync updateClaimResolution should return false when metadata has no chunkCount","name":"should return false when metadata has no chunkCount","status":"passed","testResultsByEnv":{"default":"ab277d1a07e98cd01fb6225748afc77a"}}

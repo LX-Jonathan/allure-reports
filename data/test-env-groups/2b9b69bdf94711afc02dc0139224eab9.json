@@ -1,0 +1,1 @@
+{"id":"2b9b69bdf94711afc02dc0139224eab9","fullName":"server/routes/__tests__/patient-documents.routes.test.ts#Patient Documents Routes PATCH /api/v1/patient-documents/:id returns 200 on successful metadata update","name":"returns 200 on successful metadata update","status":"passed","testResultsByEnv":{"default":"3360ed721c593502ba59d24f4197e2ab"}}

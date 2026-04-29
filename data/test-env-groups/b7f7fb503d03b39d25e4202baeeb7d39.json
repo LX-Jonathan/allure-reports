@@ -1,0 +1,1 @@
+{"id":"b7f7fb503d03b39d25e4202baeeb7d39","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Pending Insurance Updates approvePendingInsuranceUpdate approves update without existing insurance (creates new)","name":"approves update without existing insurance (creates new)","status":"passed","testResultsByEnv":{"default":"27da4e62f97ecf3b36989e03dcd3d421"}}

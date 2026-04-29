@@ -1,0 +1,1 @@
+{"id":"096f7198d60703c3bdb129b23202b84c","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include specimen info field labels","name":"should include specimen info field labels","status":"passed","testResultsByEnv":{"default":"93ae68a5e6f082da942f71dc4639399a"}}

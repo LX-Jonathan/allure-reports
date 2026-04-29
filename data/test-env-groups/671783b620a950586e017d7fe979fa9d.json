@@ -1,0 +1,1 @@
+{"id":"671783b620a950586e017d7fe979fa9d","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes GET /reports/venipuncture-fees returns 500 on service error","name":"returns 500 on service error","status":"passed","testResultsByEnv":{"default":"46f8f6e03499d288dab7c0763b129dfd"}}

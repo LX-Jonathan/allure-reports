@@ -1,0 +1,1 @@
+{"id":"2ad13f2474764c73113d30aff9018bf3","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes PATCH /api/dtc/shipments/:id (Staff Portal - Update Shipment) returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"bbabdc41baba8d5e778d164d6cfbe7af"}}

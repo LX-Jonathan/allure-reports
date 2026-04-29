@@ -1,0 +1,1 @@
+{"id":"6a790561d4802516040983956d71254f","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes POST /api/dtc/shipments/:id/events (Staff Portal - Create Shipment Event) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"ef4bfc18fce14c4800e83470b6239f99"}}

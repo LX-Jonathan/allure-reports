@@ -1,0 +1,1 @@
+{"id":"8d83d9af0a841b4cc5baaae6a356351f","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess getDataAccessFilter lab_client userType (location-level) should handle manager role as location-level","name":"should handle manager role as location-level","status":"passed","testResultsByEnv":{"default":"7e2d9d5b4226c2b014e8db5c338ae179"}}

@@ -1,0 +1,1 @@
+{"id":"cc46a496b4ffdcc359d10bfe0715a011","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Management deletePatientInsurance returns true on successful delete","name":"returns true on successful delete","status":"passed","testResultsByEnv":{"default":"84b9780d1f6b82df14de22935aee46ea"}}

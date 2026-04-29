@@ -1,0 +1,1 @@
+{"id":"65049c8c76403aa77b8d2874fa80a0eb","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Scanner Config & Trading Partners getTradingPartnerById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"b29f346325b65dcc14e7a0a4e2d1f7f0"}}

@@ -1,0 +1,1 @@
+{"id":"c206722ab0c9f3cd283118cfe0201382","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should return 401 when token is invalid","name":"should return 401 when token is invalid","status":"passed","testResultsByEnv":{"default":"3e8ad8cf9b9ce7636d2b3ba6f4336b7c"}}

@@ -1,0 +1,1 @@
+{"id":"116187b0119aab06ca0bc467b2151ace","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/labs should return empty for non-full-access user without orgId","name":"should return empty for non-full-access user without orgId","status":"passed","testResultsByEnv":{"default":"495455359e78d805deed96af18e3b691"}}

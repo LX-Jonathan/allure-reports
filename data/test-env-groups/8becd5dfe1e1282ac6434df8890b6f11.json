@@ -1,0 +1,1 @@
+{"id":"8becd5dfe1e1282ac6434df8890b6f11","fullName":"client/src/components/orders/__tests__/OrderSidebar.test.tsx#OrderSidebar patient stored-credit indicator (task-1762) hides the indicator when stored credit is zero","name":"hides the indicator when stored credit is zero","status":"passed","testResultsByEnv":{"default":"d9f44a2d4b819ce0ced1edc99b09c702"}}

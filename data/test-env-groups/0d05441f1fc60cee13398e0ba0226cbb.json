@@ -1,0 +1,1 @@
+{"id":"0d05441f1fc60cee13398e0ba0226cbb","fullName":"server/routes/__tests__/reports.routes.test.ts#Reports Routes POST /api/v1/reports/:id/schedules returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"644ed1ae0daad25b7aadb9e850446e82"}}

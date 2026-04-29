@@ -1,0 +1,1 @@
+{"id":"c7dd4048c5b4615f7c190ee6b6eb5537","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes POST /users/:userId/unlock returns 404 when user not in org","name":"returns 404 when user not in org","status":"passed","testResultsByEnv":{"default":"945a08c666c76a3af31cc5bed03af2bf"}}

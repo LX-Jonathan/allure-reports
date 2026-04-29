@@ -1,0 +1,1 @@
+{"id":"ae9e0cfdb18a214ce40c476d27e6872f","fullName":"server/services/__tests__/journal-entries.test.ts#journal-entries postDtcOrderPaymentJournal should return null when total is 0","name":"should return null when total is 0","status":"passed","testResultsByEnv":{"default":"8271697bb127342f8e4de4165942728b"}}

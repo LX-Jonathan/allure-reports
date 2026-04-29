@@ -1,0 +1,1 @@
+{"id":"8950814d3b838dc710bcd969d2ad60c0","fullName":"client/src/pages/__tests__/rcm.test.tsx#RcmPage persists the selected tab to localStorage when the user switches tabs","name":"persists the selected tab to localStorage when the user switches tabs","status":"passed","testResultsByEnv":{"default":"0409775a85933e6735c86beaad6f383f"}}

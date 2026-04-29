@@ -1,0 +1,1 @@
+{"id":"b9f3108fe5d614e29179ee702de4894d","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal Extended updatePatientPortalInvitation returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"b6acc62610658a89e0324e686de5c27b"}}

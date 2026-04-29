@@ -1,0 +1,1 @@
+{"id":"e23646aaf338552a6a848440cd74610a","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes POST /api/v1/insurance/ai-payer-lookup returns 500 when AI response is not array","name":"returns 500 when AI response is not array","status":"passed","testResultsByEnv":{"default":"3ed00d1bcc0bfab6aed0d366781af337"}}

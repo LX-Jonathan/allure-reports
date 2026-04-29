@@ -1,0 +1,1 @@
+{"id":"fa6171d286475740269cefac3ec455a2","fullName":"server/routes/__tests__/dataxchange.routes.test.ts#DataXchange Routes GET /api/dataxchange/profitability should set filterZeroAccounts to false when not true string","name":"should set filterZeroAccounts to false when not true string","status":"passed","testResultsByEnv":{"default":"53304aabd39a8d2afea3c695ecc58ddb"}}

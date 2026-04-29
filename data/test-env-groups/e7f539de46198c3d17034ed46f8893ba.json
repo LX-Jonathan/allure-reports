@@ -1,0 +1,1 @@
+{"id":"e7f539de46198c3d17034ed46f8893ba","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker processBulkScanItemJob should pass correct parameters to processDocumentWithPages","name":"should pass correct parameters to processDocumentWithPages","status":"passed","testResultsByEnv":{"default":"07de0e1d8beeb2e35bc759b21058da87"}}

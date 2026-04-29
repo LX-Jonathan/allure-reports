@@ -1,0 +1,1 @@
+{"id":"3cf48704fed1c5f825f3b8a82a138669","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#getOrderStatusColors returns correct classes for cancelled status","name":"returns correct classes for cancelled status","status":"passed","testResultsByEnv":{"default":"694417eafefcb0933f45a1d60f52cf3f"}}

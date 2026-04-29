@@ -1,0 +1,1 @@
+{"id":"a15a5e4376e8341e453c02b7adb4a347","fullName":"server/routes/__tests__/location.routes.test.ts#Location Routes Pre-Registration Links (Auth Routes) PATCH /api/v1/pre-registration-links/:id returns 404 when link not found","name":"returns 404 when link not found","status":"passed","testResultsByEnv":{"default":"0b8df75f17e7e24e9245e7811fc4f3f9"}}

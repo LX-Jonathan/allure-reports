@@ -1,0 +1,1 @@
+{"id":"266ae6b568e1ba982bfcbdb7cef096d2","fullName":"server/routes/__tests__/claim-edits.routes.test.ts#Claim Edits Routes POST /analyze builds ClaimEditRequest from order data and returns analysis result","name":"builds ClaimEditRequest from order data and returns analysis result","status":"passed","testResultsByEnv":{"default":"3fc64a89b4489b29f87f308a3c4f7059"}}

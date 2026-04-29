@@ -1,0 +1,1 @@
+{"id":"a0df839b71f382f16f09b0e4674b07c1","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts returns validation error for invalid accountType","name":"returns validation error for invalid accountType","status":"passed","testResultsByEnv":{"default":"6eb31cd963bbc11ee2e150cd289b6592"}}

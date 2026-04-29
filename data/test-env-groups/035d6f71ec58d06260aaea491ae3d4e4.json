@@ -1,0 +1,1 @@
+{"id":"035d6f71ec58d06260aaea491ae3d4e4","fullName":"server/jobs/__tests__/marketplace-geocode.test.ts#backfillMarketplaceGeocodes skips rows with empty/whitespace address","name":"skips rows with empty/whitespace address","status":"passed","testResultsByEnv":{"default":"86bac87ccd28e8266c3731d3989f3ca0"}}

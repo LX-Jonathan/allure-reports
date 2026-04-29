@@ -1,0 +1,1 @@
+{"id":"da0cc2353bf2b35bf580c84dbdc437b3","fullName":"server/__tests__/storage-users.test.ts#DatabaseStorage - User Management getFilteredLocationCount should count all non-deleted locations when no filters","name":"should count all non-deleted locations when no filters","status":"passed","testResultsByEnv":{"default":"ae38bfe29ddbfa0a6195b2f5046b4d08"}}

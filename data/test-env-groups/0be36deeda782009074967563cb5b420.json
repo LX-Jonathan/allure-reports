@@ -1,0 +1,1 @@
+{"id":"0be36deeda782009074967563cb5b420","fullName":"server/lib/__tests__/safeRegex.test.ts#isSafeRegex returns false when validateRegex fails","name":"returns false when validateRegex fails","status":"passed","testResultsByEnv":{"default":"09b7df3968583f907dc5c7c9c709edc5"}}

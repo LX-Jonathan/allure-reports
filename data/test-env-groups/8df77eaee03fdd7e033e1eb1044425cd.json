@@ -1,0 +1,1 @@
+{"id":"8df77eaee03fdd7e033e1eb1044425cd","fullName":"client/src/components/__tests__/appointment-qr-scanner.test.tsx#AppointmentQrScanner hides camera controls when scannedResult is present","name":"hides camera controls when scannedResult is present","status":"passed","testResultsByEnv":{"default":"90e5a03b3e607a06a41d725fde2937f3"}}

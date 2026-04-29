@@ -1,0 +1,1 @@
+{"id":"64734d3b02994daa0d6ca965ed86a330","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker error handling and retries should use response statusCode when error.code is not set","name":"should use response statusCode when error.code is not set","status":"passed","testResultsByEnv":{"default":"dd5e201a6c8491d29fbc54e22dc3864e"}}

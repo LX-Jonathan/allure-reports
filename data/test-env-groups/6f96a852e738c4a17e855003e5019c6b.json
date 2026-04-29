@@ -1,0 +1,1 @@
+{"id":"6f96a852e738c4a17e855003e5019c6b","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes PATCH /:id returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"3fc17c817c673614076e5d7e28bda0ce"}}

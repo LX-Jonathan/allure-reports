@@ -1,0 +1,1 @@
+{"id":"361acc130bbe39c0a7023c873e713708","fullName":"server/services/__tests__/base.service.test.ts#base.service BaseService exists should return false when record does not exist","name":"should return false when record does not exist","status":"passed","testResultsByEnv":{"default":"9baa397ede6df12958de0e6ee5453ce9"}}

@@ -1,0 +1,1 @@
+{"id":"7b40fdce42d94cebd08782923eb5b747","fullName":"client/src/hooks/__tests__/useTenantContext.test.ts#useTenantContext lock states for different user types locks superOrg for lab user","name":"locks superOrg for lab user","status":"passed","testResultsByEnv":{"default":"81da86146d1754605c0de5ea44eb136b"}}

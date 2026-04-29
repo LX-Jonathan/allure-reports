@@ -1,0 +1,1 @@
+{"id":"52ac89a5567ae47609c9a241439e26ee","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Trading Partners getTradingPartnerById returns null when not found","name":"returns null when not found","status":"passed","testResultsByEnv":{"default":"7b1cfa6a2d01e302a9a6b0b872016bb8"}}

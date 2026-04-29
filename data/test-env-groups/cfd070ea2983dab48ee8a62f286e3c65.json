@@ -1,0 +1,1 @@
+{"id":"cfd070ea2983dab48ee8a62f286e3c65","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware excluded paths should skip CSRF validation for excluded path: /readyz","name":"should skip CSRF validation for excluded path: /readyz","status":"passed","testResultsByEnv":{"default":"7a2b52c10cccd82b2918077b26169108"}}

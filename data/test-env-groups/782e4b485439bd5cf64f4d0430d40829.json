@@ -1,0 +1,1 @@
+{"id":"782e4b485439bd5cf64f4d0430d40829","fullName":"server/lib/__tests__/email.test.ts#email sendDtcKitDeliveredEmail mentions activation before collection","name":"mentions activation before collection","status":"passed","testResultsByEnv":{"default":"82a3a5c0033913959c0ef863c7171ba7"}}

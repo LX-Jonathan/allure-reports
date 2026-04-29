@@ -1,0 +1,1 @@
+{"id":"bc8afc88f458537d0179e2d877ff22b1","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId/available-tests returns empty when no orgs found","name":"returns empty when no orgs found","status":"passed","testResultsByEnv":{"default":"b7305b6f54b107b15542c291cb93d32c"}}

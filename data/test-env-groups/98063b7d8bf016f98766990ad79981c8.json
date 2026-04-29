@@ -1,0 +1,1 @@
+{"id":"98063b7d8bf016f98766990ad79981c8","fullName":"server/routes/__tests__/user-view-portal-labchat.routes.test.ts#User-view portal LabChat preview routes POST /:patientId/portal/doctalk/conversations/:conversationId/messages validates payload","name":"validates payload","status":"passed","testResultsByEnv":{"default":"e43cc5d36ab007ebb3619b0b690e52bb"}}

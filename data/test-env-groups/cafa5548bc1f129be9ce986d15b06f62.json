@@ -1,0 +1,1 @@
+{"id":"cafa5548bc1f129be9ce986d15b06f62","fullName":"server/routes/__tests__/operations-center.routes.test.ts#Operations Center Routes POST /fix-guidance returns 500 when guidance generation fails","name":"returns 500 when guidance generation fails","status":"passed","testResultsByEnv":{"default":"2240c75be06fa0eee7061fe50dd31b46"}}

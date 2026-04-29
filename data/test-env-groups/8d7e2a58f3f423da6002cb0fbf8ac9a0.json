@@ -1,0 +1,1 @@
+{"id":"8d7e2a58f3f423da6002cb0fbf8ac9a0","fullName":"server/lib/__tests__/cache.service.test.ts#CacheService get in-memory cache (Redis not configured) should cleanup expired entries on get","name":"should cleanup expired entries on get","status":"passed","testResultsByEnv":{"default":"cedf14fab73acc6c832cb7c96726e9cf"}}

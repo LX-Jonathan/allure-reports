@@ -1,0 +1,1 @@
+{"id":"6ca032005f726f6c068ec9903286ff07","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireAuth JWT-based auth should return 401 when token is expired","name":"should return 401 when token is expired","status":"passed","testResultsByEnv":{"default":"6c8670fd23f9454b8e7a868a7227081b"}}

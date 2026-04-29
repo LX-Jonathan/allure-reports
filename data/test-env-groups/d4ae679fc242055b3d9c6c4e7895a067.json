@@ -1,0 +1,1 @@
+{"id":"d4ae679fc242055b3d9c6c4e7895a067","fullName":"server/services/__tests__/fhirMappings.test.ts#fhirMappings coverageToFhir uses Unknown Payor when payerName is missing","name":"uses Unknown Payor when payerName is missing","status":"passed","testResultsByEnv":{"default":"d174774bf9743375405ec433412b4df3"}}

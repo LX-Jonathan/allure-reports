@@ -1,0 +1,1 @@
+{"id":"ef0852c470e23a12acbb0d68e3924e29","fullName":"client/src/components/__tests__/csv-import-wizard.test.tsx#CsvImportWizard legacy import confirm triggers pollLegacyStatus and shows completed result","name":"legacy import confirm triggers pollLegacyStatus and shows completed result","status":"passed","testResultsByEnv":{"default":"d074025774a728ec4993826a26ae960c"}}

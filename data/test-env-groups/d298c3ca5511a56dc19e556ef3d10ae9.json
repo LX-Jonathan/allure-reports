@@ -1,0 +1,1 @@
+{"id":"d298c3ca5511a56dc19e556ef3d10ae9","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes DELETE /:linkId returns 403 when user does not own the link","name":"returns 403 when user does not own the link","status":"passed","testResultsByEnv":{"default":"9c59b92730b71a8a243d118d5e8e7a63"}}

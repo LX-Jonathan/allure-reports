@@ -1,0 +1,1 @@
+{"id":"b9946214266357806fcff474d7273f18","fullName":"server/middleware/__tests__/csrf.test.ts#csrfProtection middleware safe methods (GET, HEAD, OPTIONS) should reuse existing token from cookie","name":"should reuse existing token from cookie","status":"passed","testResultsByEnv":{"default":"b41489dc6aaeb441e4dce65eab4fb8ba"}}

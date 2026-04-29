@@ -1,0 +1,1 @@
+{"id":"a73b884cb5df7cf0e53cfe46e9eb82a7","fullName":"server/workers/__tests__/scan-order.worker.test.ts#processScanOrderJob error handling should cache error result to Redis on failure","name":"should cache error result to Redis on failure","status":"passed","testResultsByEnv":{"default":"d208cca73a2c7282f35a0eba064685ba"}}

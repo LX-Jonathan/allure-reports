@@ -1,0 +1,1 @@
+{"id":"1a5e6e8a4fb4a14954442d0153285493","fullName":"server/lib/__tests__/andromeda-service.test.ts#andromeda-service buildAndromedaPayload does not include guarantor when no guarantors exist","name":"does not include guarantor when no guarantors exist","status":"passed","testResultsByEnv":{"default":"87b15a7b951ca48b3a56e5fa956b25eb"}}

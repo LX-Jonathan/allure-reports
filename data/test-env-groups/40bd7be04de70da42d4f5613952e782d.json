@@ -1,0 +1,1 @@
+{"id":"40bd7be04de70da42d4f5613952e782d","fullName":"server/routes/__tests__/schedules.routes.test.ts#Schedules Routes POST /api/v1/schedules/:id/events returns 403 when organization not assigned","name":"returns 403 when organization not assigned","status":"passed","testResultsByEnv":{"default":"d42087d04d65e9d84d0b37a623ac42a1"}}

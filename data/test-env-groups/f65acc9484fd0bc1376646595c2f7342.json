@@ -1,0 +1,1 @@
+{"id":"f65acc9484fd0bc1376646595c2f7342","fullName":"server/routes/__tests__/andromeda.routes.test.ts#Andromeda Routes GET /api/v1/andromeda/stats returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"ea91026fa50a6dd4641793a0eb8e1309"}}

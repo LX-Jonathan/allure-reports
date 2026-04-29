@@ -1,0 +1,1 @@
+{"id":"026efe252210b873cdd737823e55e3d8","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Lab Tests deleteLabTest should soft-delete and return true","name":"should soft-delete and return true","status":"passed","testResultsByEnv":{"default":"0566be42b789ce9e5b94be338d6dddf6"}}

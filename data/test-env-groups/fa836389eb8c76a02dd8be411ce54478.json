@@ -1,0 +1,1 @@
+{"id":"fa836389eb8c76a02dd8be411ce54478","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes POST /api/interfaces/results/restart-processor should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"171329eb42b0ed4caef5213a78f4477d"}}

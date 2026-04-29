@@ -1,0 +1,1 @@
+{"id":"cec5df2825b5219d2ed5818e1898bb7e","fullName":"server/routes/__tests__/lab-client-links.routes.test.ts#Lab Client Links Routes POST /create-and-link returns 400 for invalid state code","name":"returns 400 for invalid state code","status":"passed","testResultsByEnv":{"default":"5025383e1514648b66c5cedcf6999473"}}

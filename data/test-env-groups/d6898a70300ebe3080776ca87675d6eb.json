@@ -1,0 +1,1 @@
+{"id":"d6898a70300ebe3080776ca87675d6eb","fullName":"server/routes/__tests__/master-patients.routes.test.ts#Master Patients Routes GET /api/v1/master-patients returns paginated master patients","name":"returns paginated master patients","status":"passed","testResultsByEnv":{"default":"49248a204a24f113a2c7a9012991a851"}}

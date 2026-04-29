@@ -1,0 +1,1 @@
+{"id":"993f1a87852376f1b82081899e6fe1a6","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments/:paymentId/refund calls postRefundJournal after processing refund","name":"calls postRefundJournal after processing refund","status":"passed","testResultsByEnv":{"default":"c70def4b20f0b5cc2252565971036c6c"}}

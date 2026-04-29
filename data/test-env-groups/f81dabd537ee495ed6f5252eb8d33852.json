@@ -1,0 +1,1 @@
+{"id":"f81dabd537ee495ed6f5252eb8d33852","fullName":"server/workers/__tests__/eligibility.worker.test.ts#eligibility.worker processEligibilityJob should use current date when serviceDate not provided","name":"should use current date when serviceDate not provided","status":"passed","testResultsByEnv":{"default":"8ec5222d87fc2902fc17eea51829653f"}}

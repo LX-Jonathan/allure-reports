@@ -1,0 +1,1 @@
+{"id":"3685342623ce738bf6c20126032bf203","fullName":"server/__tests__/stripe-config.routes.test.ts#stripe-config routes GET /health returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"f4fbef6f51ef2a8675d9e5122bee6409"}}

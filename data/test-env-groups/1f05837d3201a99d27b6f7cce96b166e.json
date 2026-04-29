@@ -1,0 +1,1 @@
+{"id":"1f05837d3201a99d27b6f7cce96b166e","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes POST /api/v1/system/scheduled-jobs/:jobId/run returns 200 when job is triggered successfully","name":"returns 200 when job is triggered successfully","status":"passed","testResultsByEnv":{"default":"167cad25299fa2a507667a58e7dfd5bf"}}

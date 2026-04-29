@@ -1,0 +1,1 @@
+{"id":"4439c6987b0a6176a6ab0eb7b0009368","fullName":"server/routes/__tests__/user-view-portal-proxy.routes.test.ts#DELETE /:patientId/portal/proxies/:proxyId (staff preview) rejects unauthenticated","name":"rejects unauthenticated","status":"passed","testResultsByEnv":{"default":"85335210bf310323b8f56bb1af0e86ad"}}

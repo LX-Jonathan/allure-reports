@@ -1,0 +1,1 @@
+{"id":"68d385f298636bfd93e2b14d8989e8f8","fullName":"server/lib/__tests__/redisSessionStore.test.ts#createSessionStore should handle large ttl values","name":"should handle large ttl values","status":"passed","testResultsByEnv":{"default":"4046253f72dc473b4084f2ab3fd36d5c"}}

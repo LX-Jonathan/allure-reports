@@ -1,0 +1,1 @@
+{"id":"d9372fb37ead3024d7a3474bd47d575f","fullName":"server/routes/__tests__/portal-config.routes.test.ts#Portal Config Routes GET /api/v1/portal-config/:parentLabId/available-templates returns list of active templates","name":"returns list of active templates","status":"passed","testResultsByEnv":{"default":"36eada816cbfef99248acd498ed01369"}}

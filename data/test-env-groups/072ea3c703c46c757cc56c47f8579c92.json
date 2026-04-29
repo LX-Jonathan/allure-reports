@@ -1,0 +1,1 @@
+{"id":"072ea3c703c46c757cc56c47f8579c92","fullName":"server/workers/__tests__/bulk-scan-split.worker.test.ts#bulk-scan-split.worker processBulkScanSplitJob should update batch status to processing after queuing jobs","name":"should update batch status to processing after queuing jobs","status":"passed","testResultsByEnv":{"default":"5ad43970439d3cd3bbde60faf55d9692"}}

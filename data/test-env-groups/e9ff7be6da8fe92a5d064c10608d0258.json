@@ -1,0 +1,1 @@
+{"id":"e9ff7be6da8fe92a5d064c10608d0258","fullName":"client/src/pages/__tests__/marketplace-editor.test.tsx#getHeroImageWarnings does not flag aspect when the image is wide enough but low-res","name":"does not flag aspect when the image is wide enough but low-res","status":"passed","testResultsByEnv":{"default":"5761f39d93516ea1f4b7f794f2b94761"}}

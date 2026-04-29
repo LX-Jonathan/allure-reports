@@ -1,0 +1,1 @@
+{"id":"83779f9c7b1be8fb25cf0280626c239d","fullName":"server/__tests__/orders.routes.test.ts#orders.routes DELETE /api/v1/orders/:id/insurance/:insuranceId should delete insurance from order","name":"should delete insurance from order","status":"passed","testResultsByEnv":{"default":"15b0f9b92420c62b2b06c6b1426f04dd"}}

@@ -1,0 +1,1 @@
+{"id":"ba51266aad9beeb9c99d099f65e57fbf","fullName":"server/services/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getRejectionsData returns rejections data from GROUPING SETS query","name":"returns rejections data from GROUPING SETS query","status":"passed","testResultsByEnv":{"default":"f03d673a3e7e1b80ae494466e7f29256"}}

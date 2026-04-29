@@ -1,0 +1,1 @@
+{"id":"d9eb22f0d0c5b51e4c5fb7d6ae3c338c","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes DELETE /fee-schedules/:scheduleId/items/:itemId returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"eb1e630a77fcccba5b11817677fb0a9d"}}

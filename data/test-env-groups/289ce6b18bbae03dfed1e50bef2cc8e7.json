@@ -1,0 +1,1 @@
+{"id":"289ce6b18bbae03dfed1e50bef2cc8e7","fullName":"server/lib/__tests__/r2.test.ts#r2.ts getSignedDownloadUrl should return signed URL when configured","name":"should return signed URL when configured","status":"passed","testResultsByEnv":{"default":"c754b5adcce4ea687dcad8556edc951f"}}

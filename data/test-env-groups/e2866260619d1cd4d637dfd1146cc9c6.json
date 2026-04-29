@@ -1,0 +1,1 @@
+{"id":"e2866260619d1cd4d637dfd1146cc9c6","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generatePatientAccessToken should handle user without patientId","name":"should handle user without patientId","status":"passed","testResultsByEnv":{"default":"cd620be916579e72fbdf9b2e1239a28f"}}

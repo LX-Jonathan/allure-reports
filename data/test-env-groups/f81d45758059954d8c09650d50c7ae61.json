@@ -1,0 +1,1 @@
+{"id":"f81d45758059954d8c09650d50c7ae61","fullName":"server/workers/__tests__/provider-import.worker.test.ts#startProviderImportWorker should configure concurrency of 2","name":"should configure concurrency of 2","status":"passed","testResultsByEnv":{"default":"c29d68ffecee553128ee86407d39103f"}}

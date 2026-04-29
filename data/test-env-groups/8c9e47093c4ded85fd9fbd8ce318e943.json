@@ -1,0 +1,1 @@
+{"id":"8c9e47093c4ded85fd9fbd8ce318e943","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /super-orgs/:id/logo falls back to listing documents when no logoKey in settings","name":"falls back to listing documents when no logoKey in settings","status":"passed","testResultsByEnv":{"default":"303073e4b948e7cff4df5d4013d49f29"}}

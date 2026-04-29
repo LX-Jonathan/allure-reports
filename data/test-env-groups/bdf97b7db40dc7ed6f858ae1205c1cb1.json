@@ -1,0 +1,1 @@
+{"id":"bdf97b7db40dc7ed6f858ae1205c1cb1","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts parseAuthorizationHeader should return null for empty header","name":"should return null for empty header","status":"passed","testResultsByEnv":{"default":"f957dedff99710f419966e730a397876"}}

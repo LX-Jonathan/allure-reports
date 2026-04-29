@@ -1,0 +1,1 @@
+{"id":"326d1cba8ccb09bbc26624c08915a83a","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should default denialProbability to 0 when not a number","name":"should default denialProbability to 0 when not a number","status":"passed","testResultsByEnv":{"default":"ade3c0c0180938df92e41ea5fec9b6d3"}}

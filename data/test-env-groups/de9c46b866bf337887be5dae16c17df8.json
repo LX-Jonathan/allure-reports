@@ -1,0 +1,1 @@
+{"id":"de9c46b866bf337887be5dae16c17df8","fullName":"server/lib/__tests__/encryption.test.ts#encryption encryptCookieValue / decryptCookieValue returns ciphertext unchanged when it has only 2 parts","name":"returns ciphertext unchanged when it has only 2 parts","status":"passed","testResultsByEnv":{"default":"9c6c9c27a383f1ae295da41bf5f7b139"}}

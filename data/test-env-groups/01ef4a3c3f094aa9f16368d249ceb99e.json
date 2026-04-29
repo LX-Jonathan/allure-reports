@@ -1,0 +1,1 @@
+{"id":"01ef4a3c3f094aa9f16368d249ceb99e","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Bulk Scan bulkUpdateScanItemStatus does nothing for empty array","name":"does nothing for empty array","status":"passed","testResultsByEnv":{"default":"de5fb72207abaa85e9203658d0fe601d"}}

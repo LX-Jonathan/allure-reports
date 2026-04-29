@@ -1,0 +1,1 @@
+{"id":"049d8b1a43608e8049711781bdc4b076","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addBulkScanItemJobs should return empty array when queue is not available","name":"should return empty array when queue is not available","status":"passed","testResultsByEnv":{"default":"1e3a74a7c1b0a6bdc1afefb6b605f7db"}}

@@ -1,0 +1,1 @@
+{"id":"bc9201aba0d43fb158b70120495dad40","fullName":"server/lib/__tests__/encryption.test.ts#encryption maskSSN should mask valid 9-digit SSN without dashes","name":"should mask valid 9-digit SSN without dashes","status":"passed","testResultsByEnv":{"default":"112a1ec3b3761eaad292b024e1cafc38"}}

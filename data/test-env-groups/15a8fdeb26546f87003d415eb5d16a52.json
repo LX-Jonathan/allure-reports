@@ -1,0 +1,1 @@
+{"id":"15a8fdeb26546f87003d415eb5d16a52","fullName":"client/src/components/payments/__tests__/refund-dialog.test.tsx#RefundDialog rejects amounts above the remaining refundable amount","name":"rejects amounts above the remaining refundable amount","status":"passed","testResultsByEnv":{"default":"f7921f7e11a7a1bfa1ce3e151ea3050f"}}

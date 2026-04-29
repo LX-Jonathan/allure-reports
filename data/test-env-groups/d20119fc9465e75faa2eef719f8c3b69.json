@@ -1,0 +1,1 @@
+{"id":"d20119fc9465e75faa2eef719f8c3b69","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/eligibility-requests additional returns 500 on db error","name":"returns 500 on db error","status":"passed","testResultsByEnv":{"default":"385218f4518824fce95cb96ba9ffab21"}}

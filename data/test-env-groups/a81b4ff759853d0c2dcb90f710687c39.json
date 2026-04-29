@@ -1,0 +1,1 @@
+{"id":"a81b4ff759853d0c2dcb90f710687c39","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addEmailJob should add job with correct data when queue is available","name":"should add job with correct data when queue is available","status":"passed","testResultsByEnv":{"default":"02354b3cf6b8234b31a95bc24a1e14f5"}}

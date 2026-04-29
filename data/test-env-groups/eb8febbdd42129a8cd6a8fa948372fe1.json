@@ -1,0 +1,1 @@
+{"id":"eb8febbdd42129a8cd6a8fa948372fe1","fullName":"client/src/components/__tests__/order-status-badge.test.tsx#OrderStatusBadge renders correct label for 'cancelled' status","name":"renders correct label for 'cancelled' status","status":"passed","testResultsByEnv":{"default":"821a66fdfa49bc3937c8950399b90b30"}}

@@ -1,0 +1,1 @@
+{"id":"a54c4bfda32c365b2d7dda40453edeba","fullName":"server/services/__tests__/emailQueue.test.ts#emailQueue queueNewOrderNotificationEmail should include admin name in greeting","name":"should include admin name in greeting","status":"passed","testResultsByEnv":{"default":"2a546b3e90abb48f702ec491aa2cf3b3"}}

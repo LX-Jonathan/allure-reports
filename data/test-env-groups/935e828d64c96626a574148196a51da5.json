@@ -1,0 +1,1 @@
+{"id":"935e828d64c96626a574148196a51da5","fullName":"server/routes/__tests__/dtc.routes.test.ts#DTC Routes DELETE /api/dtc/products/:id (Staff Portal - Delete Product) returns 200 when product is discontinued","name":"returns 200 when product is discontinued","status":"passed","testResultsByEnv":{"default":"3e34b54cb0fb26a09672f19c3fd464cb"}}

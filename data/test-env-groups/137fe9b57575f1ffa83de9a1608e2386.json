@@ -1,0 +1,1 @@
+{"id":"137fe9b57575f1ffa83de9a1608e2386","fullName":"server/lib/__tests__/queue-metrics-service.test.ts#aggregateDailyMetrics should skip creating metrics when no hourly data exists","name":"should skip creating metrics when no hourly data exists","status":"passed","testResultsByEnv":{"default":"2296a93997c08181930eebc430c309f4"}}

@@ -1,0 +1,1 @@
+{"id":"b9df50fae2d8494281dfbdfc81e59389","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Scanner Config & Batch Progress updateBulkScanBatchProgress sets processingCompletedAt for partial_failure status","name":"sets processingCompletedAt for partial_failure status","status":"passed","testResultsByEnv":{"default":"81b619ced8601b5a66e2e695e013c609"}}

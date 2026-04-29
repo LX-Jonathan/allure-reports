@@ -1,0 +1,1 @@
+{"id":"1f86d8deafa5636475bbd09d3e414898","fullName":"shared/__tests__/phone.test.ts#nationalDigitsFromE164 returns null for non-E.164 inputs","name":"returns null for non-E.164 inputs","status":"passed","testResultsByEnv":{"default":"dc4c3b7c15300f49220f1ddfee0277f7"}}

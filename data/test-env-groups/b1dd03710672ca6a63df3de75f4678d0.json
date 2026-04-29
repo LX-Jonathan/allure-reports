@@ -1,0 +1,1 @@
+{"id":"b1dd03710672ca6a63df3de75f4678d0","fullName":"server/lib/__tests__/dataAccess.test.ts#dataAccess canAccessLocation location-level users should deny access for null/undefined target location","name":"should deny access for null/undefined target location","status":"passed","testResultsByEnv":{"default":"866dcc528f837559c5b460edca210e6e"}}

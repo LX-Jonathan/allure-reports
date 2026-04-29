@@ -1,0 +1,1 @@
+{"id":"7fae013d3e355ffc8831ea2b8883735f","fullName":"server/services/__tests__/googleVision.service.test.ts#googleVision.service batchExtractTextWithGoogleVision should split into multiple batches when > 16 images","name":"should split into multiple batches when > 16 images","status":"passed","testResultsByEnv":{"default":"47dbc6b2aaf7ba80cacdf21346c05469"}}

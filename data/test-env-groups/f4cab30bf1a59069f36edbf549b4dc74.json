@@ -1,0 +1,1 @@
+{"id":"f4cab30bf1a59069f36edbf549b4dc74","fullName":"server/services/__tests__/templateCache.service.test.ts#templateCache.service generateExtractionHints (via fastTemplateMatch) should include billing region hint","name":"should include billing region hint","status":"passed","testResultsByEnv":{"default":"26623816f101ab272d198fffb946f10e"}}

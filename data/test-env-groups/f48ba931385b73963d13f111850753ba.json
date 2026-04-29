@@ -1,0 +1,1 @@
+{"id":"f48ba931385b73963d13f111850753ba","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/bulk/items/:itemId/create-order returns 400 when organization has no super org","name":"returns 400 when organization has no super org","status":"passed","testResultsByEnv":{"default":"d65dfeafc0bcb49fe584ed2f347a6442"}}

@@ -1,0 +1,1 @@
+{"id":"b35dddf060eb4b9d78e58484b5fa19be","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker startInsuranceImportWorker should not log startup message when worker fails to start","name":"should not log startup message when worker fails to start","status":"passed","testResultsByEnv":{"default":"971cb06efa994087566b04a585e87977"}}

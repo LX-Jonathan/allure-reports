@@ -1,0 +1,1 @@
+{"id":"2f59ba817d8428867ec917a565683ada","fullName":"client/src/components/payments/__tests__/open-in-pos-link.test.tsx#buildPosHref ignores nullish applyCredit","name":"ignores nullish applyCredit","status":"passed","testResultsByEnv":{"default":"30194edb412cf85d8180ecdf46c5ce9d"}}

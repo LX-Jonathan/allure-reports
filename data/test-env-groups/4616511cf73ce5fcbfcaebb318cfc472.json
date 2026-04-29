@@ -1,0 +1,1 @@
+{"id":"4616511cf73ce5fcbfcaebb318cfc472","fullName":"server/services/__tests__/payment-application.test.ts#debitPatientAccount — wentNegative semantics no-ops with wentNegative=false when amount is non-positive","name":"no-ops with wentNegative=false when amount is non-positive","status":"passed","testResultsByEnv":{"default":"b78082fc69f376dd220a9e325df3a7c1"}}

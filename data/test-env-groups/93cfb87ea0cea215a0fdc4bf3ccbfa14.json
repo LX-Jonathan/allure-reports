@@ -1,0 +1,1 @@
+{"id":"93cfb87ea0cea215a0fdc4bf3ccbfa14","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: account_already_exists","name":"es: account_already_exists","status":"passed","testResultsByEnv":{"default":"ec253406944be7dee7de35acc29161c5"}}

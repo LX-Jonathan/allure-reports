@@ -1,0 +1,1 @@
+{"id":"568560e60055c5ef8989373d00370b62","fullName":"client/src/pages/__tests__/user-view-portal.test.tsx#UserViewPortal back to staff portal falls back to root when no prior history entry exists","name":"back to staff portal falls back to root when no prior history entry exists","status":"passed","testResultsByEnv":{"default":"9a742a9d3a5da5e529ed91dd88673b39"}}

@@ -1,0 +1,1 @@
+{"id":"72162e1ef9a3082aaccb3b8a4b937691","fullName":"server/__tests__/storage-providers-meds.test.ts#DatabaseStorage - Providers getProviderCount should return count with parentLabId filter","name":"should return count with parentLabId filter","status":"passed","testResultsByEnv":{"default":"dab711c52d0e4a9014762fee207d91bf"}}

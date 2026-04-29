@@ -1,0 +1,1 @@
+{"id":"0a54f66dab14645d16abf50997ca74cf","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Cross-cutting edge cases PATCH /clients/:orgId/tickets/:ticketId sets resolutionNotes","name":"PATCH /clients/:orgId/tickets/:ticketId sets resolutionNotes","status":"passed","testResultsByEnv":{"default":"9d595f1b87d50db571d54fb368e4ce6a"}}

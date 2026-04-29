@@ -1,0 +1,1 @@
+{"id":"616617c258355061f42b90fff4b5e16f","fullName":"server/services/__tests__/requisitionTemplates.test.ts#requisitionTemplates generateTemplateAwarePrompt happy path should include clinical sections with checkboxes","name":"should include clinical sections with checkboxes","status":"passed","testResultsByEnv":{"default":"9f5de220e19c0e12f2df43199cad6d52"}}

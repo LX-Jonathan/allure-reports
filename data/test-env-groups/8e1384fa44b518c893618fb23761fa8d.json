@@ -1,0 +1,1 @@
+{"id":"8e1384fa44b518c893618fb23761fa8d","fullName":"server/routes/__tests__/portal-management.routes.test.ts#Portal Management Routes GET /dtc-summary returns 403 when no parentLabId","name":"returns 403 when no parentLabId","status":"passed","testResultsByEnv":{"default":"3b9dbb74f298d4b8eceed4bd8a37d798"}}

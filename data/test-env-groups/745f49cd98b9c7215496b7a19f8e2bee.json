@@ -1,0 +1,1 @@
+{"id":"745f49cd98b9c7215496b7a19f8e2bee","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/export returns CSV for super_admin","name":"returns CSV for super_admin","status":"passed","testResultsByEnv":{"default":"995e5be61e41a775d5615ac5edb046c4"}}

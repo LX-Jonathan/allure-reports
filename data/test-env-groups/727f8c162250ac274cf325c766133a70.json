@@ -1,0 +1,1 @@
+{"id":"727f8c162250ac274cf325c766133a70","fullName":"client/src/hooks/__tests__/useSocket.test.ts#useSocket does not create socket when user has no id","name":"does not create socket when user has no id","status":"passed","testResultsByEnv":{"default":"5d9146b8221304e696796b5a974e65ef"}}

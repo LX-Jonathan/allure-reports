@@ -1,0 +1,1 @@
+{"id":"9dbd630c73fbde97dea6a9f1a29860cf","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: invalid_recovery_code","name":"es: invalid_recovery_code","status":"passed","testResultsByEnv":{"default":"371b322c244ea48c03ec66ce51227abb"}}

@@ -1,0 +1,1 @@
+{"id":"00d0e81989baed3beabc58cb38f75d89","fullName":"server/lib/__tests__/email.test.ts#email sendEmail truncates long text in log when not configured","name":"truncates long text in log when not configured","status":"passed","testResultsByEnv":{"default":"266531d3dec63081330e5b1dad423deb"}}

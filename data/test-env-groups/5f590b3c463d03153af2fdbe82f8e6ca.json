@@ -1,0 +1,1 @@
+{"id":"5f590b3c463d03153af2fdbe82f8e6ca","fullName":"server/services/__tests__/tesseract.service.test.ts#tesseract.service extractTextWithTesseract should reuse worker on subsequent calls","name":"should reuse worker on subsequent calls","status":"passed","testResultsByEnv":{"default":"9f8f87a38aacc8af09d75aad97f4abb5"}}

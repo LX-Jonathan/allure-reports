@@ -1,0 +1,1 @@
+{"id":"e2e5c9923e397e9a8f7228e223e23e49","fullName":"server/workers/__tests__/prior-auth.worker.test.ts#submitToPayer should submit to clearinghouse with correct data","name":"should submit to clearinghouse with correct data","status":"passed","testResultsByEnv":{"default":"aa937324d149f8f0589ac14155e7391b"}}

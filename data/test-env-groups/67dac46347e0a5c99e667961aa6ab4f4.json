@@ -1,0 +1,1 @@
+{"id":"67dac46347e0a5c99e667961aa6ab4f4","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Insurance Companies deleteInsuranceCompany returns true on soft-delete","name":"returns true on soft-delete","status":"passed","testResultsByEnv":{"default":"960f7dfa9a662350be3a836479c2c5f1"}}

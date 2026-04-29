@@ -1,0 +1,1 @@
+{"id":"410959b60cf6756cf4b3815629eb4752","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Test Panels & Lab Pricing getTestPriceForOrg should return price when pricing exists","name":"should return price when pricing exists","status":"passed","testResultsByEnv":{"default":"6ca5ef5f537bd4d9590529401967f563"}}

@@ -1,0 +1,1 @@
+{"id":"f8718e6a0cf44846693a16feeea49e0a","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases POST /fee-schedules/lookup/batch returns 400 for non-array cptCodes","name":"POST /fee-schedules/lookup/batch returns 400 for non-array cptCodes","status":"passed","testResultsByEnv":{"default":"97f4cca72caf37d7031833a04b3fb109"}}

@@ -1,0 +1,1 @@
+{"id":"3feb7b78d3497cd8989db3b99e57e771","fullName":"server/routes/__tests__/system.routes.test.ts#System Routes POST /api/v1/system/scheduled-jobs/:jobId/run returns 200 with forceFullSync option","name":"returns 200 with forceFullSync option","status":"passed","testResultsByEnv":{"default":"785c0390d203e598f6d2a5d9284eedd2"}}

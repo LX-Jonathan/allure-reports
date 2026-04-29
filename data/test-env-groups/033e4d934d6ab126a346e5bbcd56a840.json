@@ -1,0 +1,1 @@
+{"id":"033e4d934d6ab126a346e5bbcd56a840","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Chart of Accounts POST /chart-of-accounts/seed-baseline returns 403 for location_admin role","name":"returns 403 for location_admin role","status":"passed","testResultsByEnv":{"default":"3e9291a8ff7ec26ce2ad1576de9df8fd"}}

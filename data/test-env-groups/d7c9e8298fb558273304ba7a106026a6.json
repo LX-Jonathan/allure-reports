@@ -1,0 +1,1 @@
+{"id":"d7c9e8298fb558273304ba7a106026a6","fullName":"client/src/components/__tests__/app-sidebar.test.tsx#AppSidebar hides Help Center and Scan Orders when modules are not enabled","name":"hides Help Center and Scan Orders when modules are not enabled","status":"passed","testResultsByEnv":{"default":"6bd1c590f5d1f4e961a7b13ac54c4957"}}

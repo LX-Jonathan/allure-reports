@@ -1,0 +1,1 @@
+{"id":"03c43afb4eebc61bac2e56b93f0b7110","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search excludes specified parentLabId from allowed list","name":"excludes specified parentLabId from allowed list","status":"passed","testResultsByEnv":{"default":"00f4901ae6beb1691ac7e68e2588e8df"}}

@@ -1,0 +1,1 @@
+{"id":"77fed9f1f943b54574df05d52816313d","fullName":"client/src/lib/__tests__/utils.test.ts#normalizeConfidenceToPct passes through values already on 0-100 scale","name":"passes through values already on 0-100 scale","status":"passed","testResultsByEnv":{"default":"adc0d85402aa82faddcc72cae96ce973"}}

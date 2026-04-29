@@ -1,0 +1,1 @@
+{"id":"4adab5ea64bb2052598a78b6e4cf7dd8","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes PATCH /api/v1/insurance/companies/:id returns 400 when updating to a duplicate name","name":"returns 400 when updating to a duplicate name","status":"passed","testResultsByEnv":{"default":"48a754f73c7ecc0af1165fe2cd93518a"}}

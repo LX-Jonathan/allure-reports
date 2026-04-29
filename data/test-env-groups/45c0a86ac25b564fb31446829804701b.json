@@ -1,0 +1,1 @@
+{"id":"45c0a86ac25b564fb31446829804701b","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: invalid_credentials","name":"es: invalid_credentials","status":"passed","testResultsByEnv":{"default":"fa8ffc2e071630871436f125cd07ee03"}}

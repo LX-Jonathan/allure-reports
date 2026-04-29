@@ -1,0 +1,1 @@
+{"id":"800977f20fe1b4a798c3c3106eb6e0d5","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Users, Roles, Organizations removeRolePermission calls delete with correct parameters","name":"calls delete with correct parameters","status":"passed","testResultsByEnv":{"default":"99429c05559482405b3e3f83c2ccdee1"}}

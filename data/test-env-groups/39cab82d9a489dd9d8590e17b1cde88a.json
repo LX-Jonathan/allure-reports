@@ -1,0 +1,1 @@
+{"id":"39cab82d9a489dd9d8590e17b1cde88a","fullName":"server/workers/__tests__/medical-necessity.worker.test.ts#startMedicalNecessityWorker should return worker instance when created successfully","name":"should return worker instance when created successfully","status":"passed","testResultsByEnv":{"default":"86355af11c7d4ea446e22aa79745a5f2"}}

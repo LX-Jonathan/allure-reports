@@ -1,0 +1,1 @@
+{"id":"5edf4971360b8c88b4b1fca6be5322f5","fullName":"server/lib/__tests__/stripe-verify-failure-alerter.test.ts#recordStripeVerifyFailure logs and skips delivery when no super admins are active","name":"logs and skips delivery when no super admins are active","status":"passed","testResultsByEnv":{"default":"0c5357baab513818198e13e5dd83c089"}}

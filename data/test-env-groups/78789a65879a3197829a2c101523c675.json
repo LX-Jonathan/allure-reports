@@ -1,0 +1,1 @@
+{"id":"78789a65879a3197829a2c101523c675","fullName":"server/routes/__tests__/orders.routes.test.ts#Orders Routes DELETE /api/orders/:id/items/:testCode returns 403 when order is completed","name":"returns 403 when order is completed","status":"passed","testResultsByEnv":{"default":"cd3de4150647e8207d0a7bc56b018fc5"}}

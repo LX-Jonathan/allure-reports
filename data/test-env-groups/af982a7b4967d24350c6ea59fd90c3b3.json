@@ -1,0 +1,1 @@
+{"id":"af982a7b4967d24350c6ea59fd90c3b3","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/:patientId/eligibility-verifications returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"9913b75c1deb416517fc5fa045bac967"}}

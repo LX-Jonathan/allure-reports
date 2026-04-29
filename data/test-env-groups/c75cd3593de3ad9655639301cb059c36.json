@@ -1,0 +1,1 @@
+{"id":"c75cd3593de3ad9655639301cb059c36","fullName":"client/src/components/payments/__tests__/stripe-not-configured-alert.test.tsx#StripeNotConfiguredAlert renders the contextual feature label in the message","name":"renders the contextual feature label in the message","status":"passed","testResultsByEnv":{"default":"7d3d1c7790dd20f570bdf2dd457952a6"}}

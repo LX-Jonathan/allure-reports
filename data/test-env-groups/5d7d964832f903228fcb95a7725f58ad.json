@@ -1,0 +1,1 @@
+{"id":"5d7d964832f903228fcb95a7725f58ad","fullName":"server/workers/__tests__/scan-order.worker.test.ts#getScanOrderJobStatus - additional branches should return completed when no timestamp but DB record found","name":"should return completed when no timestamp but DB record found","status":"passed","testResultsByEnv":{"default":"a804e375c330fee7cbc6c94df777a448"}}

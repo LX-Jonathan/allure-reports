@@ -1,0 +1,1 @@
+{"id":"98eebb624f5fd1679bbf0c9b5c902bb0","fullName":"server/routes/__tests__/patient-auth-sms.routes.test.ts#patient-auth SMS failure routes POST /phone-register should return 503 when sendSms returns false in production","name":"should return 503 when sendSms returns false in production","status":"passed","testResultsByEnv":{"default":"a87c3b0a7b76388f9290a24267b24cbc"}}

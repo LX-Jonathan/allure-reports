@@ -1,0 +1,1 @@
+{"id":"c7e4d0c98151ad02e1756a8161f75dfd","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes GET /api/v1/providers/my-provider (additional edge cases) returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"998407b7f46fa39c518a79fadda7a134"}}

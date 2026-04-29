@@ -1,0 +1,1 @@
+{"id":"4fadaeadd214d6223a6281c45ec7c960","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments/:id decrypts patient PHI in response","name":"decrypts patient PHI in response","status":"passed","testResultsByEnv":{"default":"d32a10dd1dd68a3e06e1a75ee6c89819"}}

@@ -1,0 +1,1 @@
+{"id":"58fc0756fad30a8ec274d429a9eed666","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes GET /api/v1/order-intake should return list of scanned orders","name":"should return list of scanned orders","status":"passed","testResultsByEnv":{"default":"dc7a456f1c7aeac095fa677e0bcc3c5f"}}

@@ -1,0 +1,1 @@
+{"id":"fc4fc50bccb0cacba1aa722b018a6d3a","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions GET /pos/drawers/current returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"c32e9ee3988c32c003c3b300f14a140b"}}

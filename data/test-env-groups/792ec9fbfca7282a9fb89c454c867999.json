@@ -1,0 +1,1 @@
+{"id":"792ec9fbfca7282a9fb89c454c867999","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes DELETE /api/interfaces/alert-rules/:id should return 403 for org_admin","name":"should return 403 for org_admin","status":"passed","testResultsByEnv":{"default":"bbdce246d2b658008e6b0bab034d5026"}}

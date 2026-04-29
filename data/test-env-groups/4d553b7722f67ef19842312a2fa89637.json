@@ -1,0 +1,1 @@
+{"id":"4d553b7722f67ef19842312a2fa89637","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq Queue getter functions when BullMQ is not configured getReportGenerationQueue should return null","name":"getReportGenerationQueue should return null","status":"passed","testResultsByEnv":{"default":"908a648359e6ea59d052b1d8359f289b"}}

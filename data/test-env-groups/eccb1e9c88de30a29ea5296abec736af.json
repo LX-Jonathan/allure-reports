@@ -1,0 +1,1 @@
+{"id":"eccb1e9c88de30a29ea5296abec736af","fullName":"server/services/__tests__/pricing.service.test.ts#pricing.service getMultiplierForCategory returns 1.0 for medicare","name":"returns 1.0 for medicare","status":"passed","testResultsByEnv":{"default":"8fa077ad8bb85703365fe384a8960de4"}}

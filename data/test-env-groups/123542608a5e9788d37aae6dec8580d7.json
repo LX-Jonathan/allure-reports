@@ -1,0 +1,1 @@
+{"id":"123542608a5e9788d37aae6dec8580d7","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes POST /fee-schedules/lookup/batch returns 403 for patient role","name":"returns 403 for patient role","status":"passed","testResultsByEnv":{"default":"553d27f56c3466b200ff5e301612ecaf"}}

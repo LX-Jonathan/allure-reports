@@ -1,0 +1,1 @@
+{"id":"403a60af35902eb9f13aece73ba72604","fullName":"client/src/lib/__tests__/auth-errors.test.ts#translateAuthError locale es has a non-empty translation for every server error code es: current_password_incorrect","name":"es: current_password_incorrect","status":"passed","testResultsByEnv":{"default":"cf786b9f22e648c94c0c97fbc994b4e8"}}

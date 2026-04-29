@@ -1,0 +1,1 @@
+{"id":"c75ca54e5c9ede2cfad03aa8e5ded58e","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/pending-jobs/bulk-delete returns 400 when jobIds is not a non-empty array","name":"returns 400 when jobIds is not a non-empty array","status":"passed","testResultsByEnv":{"default":"a59e1bb9a14255b35a5acccf09023d32"}}

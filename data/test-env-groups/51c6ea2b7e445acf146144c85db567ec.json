@@ -1,0 +1,1 @@
+{"id":"51c6ea2b7e445acf146144c85db567ec","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /patients applies locationId filter when valid","name":"applies locationId filter when valid","status":"passed","testResultsByEnv":{"default":"ee1cfa0b81dc8112535920a78a5f9270"}}

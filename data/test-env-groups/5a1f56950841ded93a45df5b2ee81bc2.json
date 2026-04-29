@@ -1,0 +1,1 @@
+{"id":"5a1f56950841ded93a45df5b2ee81bc2","fullName":"server/routes/__tests__/chat.routes.test.ts#Chat Routes POST /api/chat/conversations returns 200 when direct conversation already exists between two users","name":"returns 200 when direct conversation already exists between two users","status":"passed","testResultsByEnv":{"default":"414eb011f6d51a6e3dbeef266a02fb64"}}

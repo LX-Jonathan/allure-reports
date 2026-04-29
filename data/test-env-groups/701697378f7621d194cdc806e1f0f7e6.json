@@ -1,0 +1,1 @@
+{"id":"701697378f7621d194cdc806e1f0f7e6","fullName":"server/services/__tests__/clearinghouse.service.test.ts#SimulatedClearinghouseService checkStatus falls back when AI returns invalid JSON","name":"falls back when AI returns invalid JSON","status":"passed","testResultsByEnv":{"default":"d00e48651199b956fb2b29f406bcf29f"}}

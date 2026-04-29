@@ -1,0 +1,1 @@
+{"id":"524c3d207f80624740e3fb202c9cd07e","fullName":"server/__tests__/storage-providers.test.ts#DatabaseStorage - Providers, DiagnosisCodes, TestGroups, Medications getProviderOrdersForSignature should apply status filter when not 'all'","name":"should apply status filter when not 'all'","status":"passed","testResultsByEnv":{"default":"6d7a73023874db9f69da78b999fe82fe"}}

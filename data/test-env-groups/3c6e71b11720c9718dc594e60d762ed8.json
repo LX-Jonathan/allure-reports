@@ -1,0 +1,1 @@
+{"id":"3c6e71b11720c9718dc594e60d762ed8","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Compendium Configs Routes PATCH /api/v1/lab-tests/compendium-configs/:id returns 404 when config not found","name":"returns 404 when config not found","status":"passed","testResultsByEnv":{"default":"b68689a2a1797c1e6c99e1e3c2599d1e"}}

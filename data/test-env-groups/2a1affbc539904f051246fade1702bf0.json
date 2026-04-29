@@ -1,0 +1,1 @@
+{"id":"2a1affbc539904f051246fade1702bf0","fullName":"server/routes/__tests__/manual-payments-refund-credit.routes.test.ts#Manual Payments — refund-credit endpoint no credit portion to refund maps to 400","name":"no credit portion to refund maps to 400","status":"passed","testResultsByEnv":{"default":"772c7350de93e864175d60876233fb44"}}

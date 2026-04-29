@@ -1,0 +1,1 @@
+{"id":"5b898d43829cd4c6514d3dc3a4995059","fullName":"server/__tests__/storage-results-billing.test.ts#DatabaseStorage - Appointments getScheduleEventById returns event with relations when found","name":"returns event with relations when found","status":"passed","testResultsByEnv":{"default":"ccf94965fad4e640f2683d30883bca0a"}}

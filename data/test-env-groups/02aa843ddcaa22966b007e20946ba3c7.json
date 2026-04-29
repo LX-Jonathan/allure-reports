@@ -1,0 +1,1 @@
+{"id":"02aa843ddcaa22966b007e20946ba3c7","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should return 'I' for empty string","name":"should return 'I' for empty string","status":"passed","testResultsByEnv":{"default":"48916d8a8439b34e91aa0e5f456b28e6"}}

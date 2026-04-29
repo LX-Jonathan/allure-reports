@@ -1,0 +1,1 @@
+{"id":"07773feb3e2490e2070f1b5150a9011e","fullName":"server/services/__tests__/andromedaReadiness.service.test.ts#andromedaReadiness.service evaluateAndromedaReadiness patient data evaluation should flag null first name as error","name":"should flag null first name as error","status":"passed","testResultsByEnv":{"default":"770a07888406ad5045a3e66192637fa0"}}

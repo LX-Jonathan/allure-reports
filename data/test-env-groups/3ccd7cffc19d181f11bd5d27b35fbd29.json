@@ -1,0 +1,1 @@
+{"id":"3ccd7cffc19d181f11bd5d27b35fbd29","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes POST /api/v1/patients/:patientId/portal-invite returns 404 when patient not found","name":"returns 404 when patient not found","status":"passed","testResultsByEnv":{"default":"9f77d9340f0cf0160bd948f50c3f784a"}}

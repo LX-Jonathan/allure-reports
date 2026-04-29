@@ -1,0 +1,1 @@
+{"id":"0ad9a562231f7fcf58b0a7d92d460a79","fullName":"server/routes/__tests__/flu-shots.routes.test.ts#Flu Shots Routes GET /api/v1/flu-shots returns 200 with paginated flu shots list","name":"returns 200 with paginated flu shots list","status":"passed","testResultsByEnv":{"default":"a03942ed59933a0010482f4bda20d6ae"}}

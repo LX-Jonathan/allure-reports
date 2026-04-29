@@ -1,0 +1,1 @@
+{"id":"3a7aa6f0cfe2f704884d6eed093b6e85","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions POST /pos/drawers/:id/close closes drawer successfully","name":"closes drawer successfully","status":"passed","testResultsByEnv":{"default":"660820ef5d57410d70c04922503f82da"}}

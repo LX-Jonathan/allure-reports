@@ -1,0 +1,1 @@
+{"id":"82b3b7075b392e0247e6f240e69d9bb1","fullName":"client/src/hooks/__tests__/useAoeLogicEvaluation.test.ts#useAoeLogicEvaluation basic visibility handles null/undefined aoeLists gracefully","name":"handles null/undefined aoeLists gracefully","status":"passed","testResultsByEnv":{"default":"28c539a3cbd4b06e5a6dedaca63cff0a"}}

@@ -1,0 +1,1 @@
+{"id":"4924a0034cc5a27519495c49554c4243","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases GET /fee-schedules/lookup/rate returns null source when no matches","name":"GET /fee-schedules/lookup/rate returns null source when no matches","status":"passed","testResultsByEnv":{"default":"9d43cd5bbdce53382438a2e4b487e6f1"}}

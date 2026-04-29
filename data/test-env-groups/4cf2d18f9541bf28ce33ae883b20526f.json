@@ -1,0 +1,1 @@
+{"id":"4cf2d18f9541bf28ce33ae883b20526f","fullName":"server/services/__tests__/orderIntake.service.test.ts#OrderIntakeService createOrderFromBulkItem should throw error when patient data is incomplete","name":"should throw error when patient data is incomplete","status":"passed","testResultsByEnv":{"default":"325eea9d4e2dc728dda72ed547fde8f7"}}

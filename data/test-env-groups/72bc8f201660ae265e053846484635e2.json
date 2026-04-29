@@ -1,0 +1,1 @@
+{"id":"72bc8f201660ae265e053846484635e2","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes POST /api/v1/prior-authorizations/:id/reminder sends a reminder email and records activity + communication","name":"sends a reminder email and records activity + communication","status":"passed","testResultsByEnv":{"default":"0815fa01ae5b87b44e70c6dab09f3404"}}

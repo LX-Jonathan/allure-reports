@@ -1,0 +1,1 @@
+{"id":"e443d298762aaaba2f0c8908763957ef","fullName":"server/__tests__/comm-consent.routes.test.ts#Staff: per-lab communication consent (cross-tenant + revoke-with-reason) labxchange super-admins can read consent for any org","name":"labxchange super-admins can read consent for any org","status":"passed","testResultsByEnv":{"default":"d98eb24c7754506016f078c6cf1a232a"}}

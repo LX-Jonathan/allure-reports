@@ -1,0 +1,1 @@
+{"id":"427e1d6a8cee639ee9bdef07424a6f14","fullName":"server/lib/__tests__/redis.test.ts#redis.ts isRedisConfigured should return false when Redis credentials are not set","name":"should return false when Redis credentials are not set","status":"passed","testResultsByEnv":{"default":"17eae6b33ba580e051e7836088281efb"}}

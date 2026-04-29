@@ -1,0 +1,1 @@
+{"id":"e6b50b08ba45801c8a7879262fddb1bf","fullName":"client/src/hooks/__tests__/useAuth.test.ts#useAuth user query throws error on non-auth server error","name":"throws error on non-auth server error","status":"passed","testResultsByEnv":{"default":"dbb0a9b06278f8e947e2247a8001422b"}}

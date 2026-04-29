@@ -1,0 +1,1 @@
+{"id":"a18d6254cefdc29a0d965f9fee46650e","fullName":"server/routes/__tests__/billing-resolution.routes.test.ts#Billing Resolution Routes PATCH /api/v1/billing-resolution/accounts/:id returns 400 on validation error","name":"returns 400 on validation error","status":"passed","testResultsByEnv":{"default":"ca62927fab4d671e30d37cf7471c6874"}}

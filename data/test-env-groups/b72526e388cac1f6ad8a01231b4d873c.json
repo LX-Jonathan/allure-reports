@@ -1,0 +1,1 @@
+{"id":"b72526e388cac1f6ad8a01231b4d873c","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes GET /api/v1/super-orgs should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"1e98d6044ac8be0909327bdc457f722b"}}

@@ -1,0 +1,1 @@
+{"id":"a3bf811f6a58648c1feb4250f9b2bf75","fullName":"server/routes/__tests__/lxu.routes.test.ts#LXU Routes GET /api/v1/lxu/quickstarts/:slug returns 404 when quickstart not found","name":"returns 404 when quickstart not found","status":"passed","testResultsByEnv":{"default":"dd531910e24251a2f62f24ff16358e26"}}

@@ -1,0 +1,1 @@
+{"id":"d6e0d88e3ad4e960263234b876edfcac","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes POST /super-orgs/:id/logo returns 403 for non super_admin","name":"returns 403 for non super_admin","status":"passed","testResultsByEnv":{"default":"2f7a2d683a8f0504464958ed8d0e3a67"}}

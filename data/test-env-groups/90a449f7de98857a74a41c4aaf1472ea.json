@@ -1,0 +1,1 @@
+{"id":"90a449f7de98857a74a41c4aaf1472ea","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions getPermissions should return all permissions ordered by category and key","name":"should return all permissions ordered by category and key","status":"passed","testResultsByEnv":{"default":"d5a585031b791fdb63fbcadfd0813838"}}

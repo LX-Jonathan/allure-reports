@@ -1,0 +1,1 @@
+{"id":"18f0af4adabaf96d50acdf4edec19f76","fullName":"server/workers/__tests__/index.test.ts#workers/index startAllWorkers should log correct count when all workers start successfully","name":"should log correct count when all workers start successfully","status":"passed","testResultsByEnv":{"default":"2d69b5f397b35e9fd59638a2fc1d4459"}}

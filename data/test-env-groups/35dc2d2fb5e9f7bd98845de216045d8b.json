@@ -1,0 +1,1 @@
+{"id":"35dc2d2fb5e9f7bd98845de216045d8b","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/generate-form returns 500 when AI response has no JSON","name":"returns 500 when AI response has no JSON","status":"passed","testResultsByEnv":{"default":"ee6c1f092cf3c03c260e0c898c508a9f"}}

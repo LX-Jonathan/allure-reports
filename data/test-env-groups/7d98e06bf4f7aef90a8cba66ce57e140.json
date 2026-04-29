@@ -1,0 +1,1 @@
+{"id":"7d98e06bf4f7aef90a8cba66ce57e140","fullName":"server/routes/__tests__/results.routes.test.ts#Results Routes POST /api/v1/results/:id/release-to-patient returns 500 on storage error","name":"returns 500 on storage error","status":"passed","testResultsByEnv":{"default":"272eb61039a80e30542b06e5b5832ce0"}}

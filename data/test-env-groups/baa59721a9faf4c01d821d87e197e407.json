@@ -1,0 +1,1 @@
+{"id":"baa59721a9faf4c01d821d87e197e407","fullName":"server/jobs/__tests__/marketplace-geocode.test.ts#backfillMarketplaceGeocodes treats geocoder errors as failures","name":"treats geocoder errors as failures","status":"passed","testResultsByEnv":{"default":"1d40c1ef65facbe709ee436a595e2cee"}}

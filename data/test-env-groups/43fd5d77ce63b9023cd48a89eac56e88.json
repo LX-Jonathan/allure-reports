@@ -1,0 +1,1 @@
+{"id":"43fd5d77ce63b9023cd48a89eac56e88","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes POST /clients/:orgId/threads/:threadId/messages creates message and updates thread","name":"creates message and updates thread","status":"passed","testResultsByEnv":{"default":"2ff8ed517bfa9dd52a3f3fffa11881f2"}}

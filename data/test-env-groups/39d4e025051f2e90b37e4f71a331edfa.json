@@ -1,0 +1,1 @@
+{"id":"39d4e025051f2e90b37e4f71a331edfa","fullName":"server/lib/__tests__/email.test.ts#email sendPasswordResetEmail mentions 1 hour expiry in email body","name":"mentions 1 hour expiry in email body","status":"passed","testResultsByEnv":{"default":"ca061d689c31885d6ef28a32685dabdd"}}

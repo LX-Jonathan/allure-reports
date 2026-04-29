@@ -1,0 +1,1 @@
+{"id":"09dd6b4356c6e1fb3ddf6d8a8a9aede5","fullName":"server/__tests__/orderIntake.service.test.ts#OrderIntakeService generateFieldMappings should return zero confidence when no fields extracted","name":"should return zero confidence when no fields extracted","status":"passed","testResultsByEnv":{"default":"a452de90d4fbea952a32db1f6b64bd24"}}

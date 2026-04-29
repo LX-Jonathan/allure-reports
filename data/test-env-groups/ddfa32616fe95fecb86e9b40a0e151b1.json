@@ -1,0 +1,1 @@
+{"id":"ddfa32616fe95fecb86e9b40a0e151b1","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth - scheduleRefresh triggers immediate refresh when token is about to expire","name":"triggers immediate refresh when token is about to expire","status":"passed","testResultsByEnv":{"default":"5bce600851a204592a4c67419dfecd92"}}

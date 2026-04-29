@@ -1,0 +1,1 @@
+{"id":"256b49fecbac273229174872f8f5440a","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#MarketplacePublishConfirmDialog invokes onOpenAiGenerator and closes when AI link is clicked","name":"invokes onOpenAiGenerator and closes when AI link is clicked","status":"passed","testResultsByEnv":{"default":"939a1f5c54d9b703191d97e110a572f0"}}

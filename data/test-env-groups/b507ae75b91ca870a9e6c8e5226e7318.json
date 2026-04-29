@@ -1,0 +1,1 @@
+{"id":"b507ae75b91ca870a9e6c8e5226e7318","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requireOrg should return 401 when user is not authenticated","name":"should return 401 when user is not authenticated","status":"passed","testResultsByEnv":{"default":"431e2e740a774b2dd16696695ffa0d93"}}

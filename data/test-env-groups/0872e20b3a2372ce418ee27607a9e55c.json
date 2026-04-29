@@ -1,0 +1,1 @@
+{"id":"0872e20b3a2372ce418ee27607a9e55c","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#AOE Lists Routes POST /api/v1/aoe-lists/:id/duplicate returns 201 on successful duplication","name":"returns 201 on successful duplication","status":"passed","testResultsByEnv":{"default":"d7200f4c3b13a72c88ba24f80451d555"}}

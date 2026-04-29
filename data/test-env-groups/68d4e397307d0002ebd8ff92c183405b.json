@@ -1,0 +1,1 @@
+{"id":"68d4e397307d0002ebd8ff92c183405b","fullName":"server/routes/__tests__/patients.routes.test.ts#Patients Routes GET /api/v1/patients/cross-lab-search returns [] when search is shorter than 2 characters","name":"returns [] when search is shorter than 2 characters","status":"passed","testResultsByEnv":{"default":"2cc2cbb592eaeeac540d6d87edc71c94"}}

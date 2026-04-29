@@ -1,0 +1,1 @@
+{"id":"955fe66d7ed4ff04f300f5e0cd1ef962","fullName":"server/jobs/__tests__/scheduler.test.ts#persistJobStatus should persist job status to database after cron run","name":"should persist job status to database after cron run","status":"passed","testResultsByEnv":{"default":"967e164d5851a0914ffb8624199bb304"}}

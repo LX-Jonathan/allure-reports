@@ -1,0 +1,1 @@
+{"id":"563792cc65087698c87d245c7202ae26","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes PATCH /:id returns 403 for staff role","name":"returns 403 for staff role","status":"passed","testResultsByEnv":{"default":"2f4f8bc2fe7e7e857884d5189b5d7f37"}}

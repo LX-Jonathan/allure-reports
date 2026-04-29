@@ -1,0 +1,1 @@
+{"id":"a1fcaaad65474f7bf9a2169263754631","fullName":"server/services/__tests__/reporting.service.test.ts#ReportingService generateCSV (private, tested through export) should handle empty data array","name":"should handle empty data array","status":"passed","testResultsByEnv":{"default":"3828ddf7321808c05a7871f4d13d2bc8"}}

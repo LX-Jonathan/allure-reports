@@ -1,0 +1,1 @@
+{"id":"9590544f0fae49f80e0ff224e807b5f4","fullName":"server/__tests__/order-intake.routes.test.ts#order-intake.routes POST /api/v1/order-intake/:id/find-patients should return 500 on error","name":"should return 500 on error","status":"passed","testResultsByEnv":{"default":"ff6c18326163e82890f1bdf42e6cef9b"}}

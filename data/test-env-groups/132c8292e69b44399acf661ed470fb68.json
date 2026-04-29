@@ -1,0 +1,1 @@
+{"id":"132c8292e69b44399acf661ed470fb68","fullName":"server/__tests__/storage-permissions.test.ts#DatabaseStorage - Roles & Permissions getPermissionsByRole should filter out null permissions","name":"should filter out null permissions","status":"passed","testResultsByEnv":{"default":"f7222beff636a3d3e59c23d14a309d5e"}}

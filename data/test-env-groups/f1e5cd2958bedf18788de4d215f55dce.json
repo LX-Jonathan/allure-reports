@@ -1,0 +1,1 @@
+{"id":"f1e5cd2958bedf18788de4d215f55dce","fullName":"server/lib/__tests__/logger.test.ts#logger argument normalisation should serialise an Error passed as { error }","name":"should serialise an Error passed as { error }","status":"passed","testResultsByEnv":{"default":"1064455a25c5203477f72729f9989dcb"}}

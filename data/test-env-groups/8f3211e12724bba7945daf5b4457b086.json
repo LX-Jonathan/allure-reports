@@ -1,0 +1,1 @@
+{"id":"8f3211e12724bba7945daf5b4457b086","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes POST /ai-query returns 500 when schema fetch fails","name":"returns 500 when schema fetch fails","status":"passed","testResultsByEnv":{"default":"7b536cb1dad2b1ec7481e6941f7b0799"}}

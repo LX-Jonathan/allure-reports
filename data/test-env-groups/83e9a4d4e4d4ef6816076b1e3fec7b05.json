@@ -1,0 +1,1 @@
+{"id":"83e9a4d4e4d4ef6816076b1e3fec7b05","fullName":"client/src/components/__tests__/marketplace-publish-warning.test.tsx#isMarketplaceProfileFallbackOnly returns true when all enrichment fields are empty","name":"returns true when all enrichment fields are empty","status":"passed","testResultsByEnv":{"default":"b4265d3e668c1acbf063d642ae4d2176"}}

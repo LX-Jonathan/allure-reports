@@ -1,0 +1,1 @@
+{"id":"de00caf8549250e707fce6864871051d","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POS Cash Drawer Sessions GET /pos/drawers/current returns 400 when locationId is missing","name":"returns 400 when locationId is missing","status":"passed","testResultsByEnv":{"default":"8574ab6513ed7eba2fee3c2170802f03"}}

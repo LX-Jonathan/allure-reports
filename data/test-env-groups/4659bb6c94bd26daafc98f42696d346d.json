@@ -1,0 +1,1 @@
+{"id":"4659bb6c94bd26daafc98f42696d346d","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes PATCH /rules/:id (CPT/ICD-10 overrides) returns 404 when the rule does not exist","name":"returns 404 when the rule does not exist","status":"passed","testResultsByEnv":{"default":"af2f6e3b94abe00bc5d836204a1fedd2"}}

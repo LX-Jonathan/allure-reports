@@ -1,0 +1,1 @@
+{"id":"68004313aab361d700dcbfaaebc879bb","fullName":"server/routes/__tests__/lab-tests.routes.test.ts#Diagnosis Codes - Extended GET /api/v1/diagnosis-codes/details/:code returns 400 for invalid code format","name":"returns 400 for invalid code format","status":"passed","testResultsByEnv":{"default":"3025204bcf8fa839852db2c6e6d607d6"}}

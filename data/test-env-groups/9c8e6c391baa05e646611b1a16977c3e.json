@@ -1,0 +1,1 @@
+{"id":"9c8e6c391baa05e646611b1a16977c3e","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments calls postPatientPaymentJournal after recording","name":"calls postPatientPaymentJournal after recording","status":"passed","testResultsByEnv":{"default":"1ae855032e9f5bc92d24c1d97bdd162b"}}

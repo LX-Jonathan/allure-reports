@@ -1,0 +1,1 @@
+{"id":"34973e1bef20531c84df33413bc3e8c3","fullName":"server/routes/__tests__/onboarding.routes.test.ts#Onboarding Routes GET /api/onboarding/:flowId/terms returns 200 with terms versions list","name":"returns 200 with terms versions list","status":"passed","testResultsByEnv":{"default":"6543ea90b7d01e57d141a637024c6d92"}}

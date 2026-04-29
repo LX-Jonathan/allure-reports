@@ -1,0 +1,1 @@
+{"id":"f77c1c143666629b4ad40788bbeae25d","fullName":"server/middleware/__tests__/patientAuth.test.ts#optionalPatientAuth no token provided should not verify token when none provided","name":"should not verify token when none provided","status":"passed","testResultsByEnv":{"default":"86ef972d47309db916d0116f7404f4fc"}}

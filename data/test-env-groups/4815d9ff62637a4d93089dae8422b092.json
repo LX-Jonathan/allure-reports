@@ -1,0 +1,1 @@
+{"id":"4815d9ff62637a4d93089dae8422b092","fullName":"client/src/hooks/__tests__/use-patient-auth.test.ts#usePatientAuth parses stored user when both user and token exist","name":"parses stored user when both user and token exist","status":"passed","testResultsByEnv":{"default":"43b6765e0b3b25ef5c64811806bfa5c5"}}

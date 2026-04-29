@@ -1,0 +1,1 @@
+{"id":"b4314171c947a885af56a04da2ab792d","fullName":"server/routes/__tests__/hie.routes.test.ts#HIE Routes GET /fhir-connections/:connectionId/orders/:orderId/fhir-status returns 403 for viewer role","name":"returns 403 for viewer role","status":"passed","testResultsByEnv":{"default":"7882a655caff3d02282baafe4107dea7"}}

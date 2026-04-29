@@ -1,0 +1,1 @@
+{"id":"09612b234f412f0383700608c8384490","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts getSessionExpiry should return date 30 days in the future","name":"should return date 30 days in the future","status":"passed","testResultsByEnv":{"default":"a33e70c3bb21e81d16387d7b2d8d8a23"}}

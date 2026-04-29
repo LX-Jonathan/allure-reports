@@ -1,0 +1,1 @@
+{"id":"b8e14917463a23054d9733416d00b804","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service analyzeClaimEdits should omit price when not provided","name":"should omit price when not provided","status":"passed","testResultsByEnv":{"default":"34e0185aab8dffe49ae21db23e353461"}}

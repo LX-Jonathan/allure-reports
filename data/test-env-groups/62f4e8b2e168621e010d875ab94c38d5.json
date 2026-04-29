@@ -1,0 +1,1 @@
+{"id":"62f4e8b2e168621e010d875ab94c38d5","fullName":"server/services/__tests__/tempFileStorage.service.test.ts#tempFileStorage.service deleteFileFromRedis should delete key from Redis and return true","name":"should delete key from Redis and return true","status":"passed","testResultsByEnv":{"default":"9526cdbb8d62c64a5721d5cec241fc56"}}

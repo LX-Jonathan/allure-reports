@@ -1,0 +1,1 @@
+{"id":"d1a23b35e4a92b723dd8a74ad9840e5e","fullName":"server/routes/__tests__/requisition-templates.routes.test.ts#Requisition Templates Routes POST /:id/publish returns 500 when db throws","name":"returns 500 when db throws","status":"passed","testResultsByEnv":{"default":"c7134bc2c29f58abe2520c52e9706ce8"}}

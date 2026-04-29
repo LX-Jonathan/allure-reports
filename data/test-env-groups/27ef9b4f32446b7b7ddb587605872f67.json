@@ -1,0 +1,1 @@
+{"id":"27ef9b4f32446b7b7ddb587605872f67","fullName":"server/workers/__tests__/report-generation.worker.test.ts#startReportGenerationWorker should register failed event handler","name":"should register failed event handler","status":"passed","testResultsByEnv":{"default":"ff600e94608c4b74d4f2092c067ead03"}}

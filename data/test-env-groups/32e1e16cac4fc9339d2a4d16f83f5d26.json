@@ -1,0 +1,1 @@
+{"id":"32e1e16cac4fc9339d2a4d16f83f5d26","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id/status should return 404 if not found","name":"should return 404 if not found","status":"passed","testResultsByEnv":{"default":"f3a3692d9de0120961c423bce8eb912c"}}

@@ -1,0 +1,1 @@
+{"id":"4529425fd0e5ff117d9a9f892882df6d","fullName":"client/src/components/lab-operations/__tests__/failed-ncd.test.tsx#FailedNcdReport renders empty state when byPayer is empty","name":"renders empty state when byPayer is empty","status":"passed","testResultsByEnv":{"default":"bd49a1f666ec6b32a58f414e8655e5a3"}}

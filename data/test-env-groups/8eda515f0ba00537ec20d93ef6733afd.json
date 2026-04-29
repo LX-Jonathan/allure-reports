@@ -1,0 +1,1 @@
+{"id":"8eda515f0ba00537ec20d93ef6733afd","fullName":"server/routes/__tests__/rcm.routes.test.ts#RCM Routes Cross-cutting edge cases GET /order/:orderId/financials calculates balanceRemaining correctly","name":"GET /order/:orderId/financials calculates balanceRemaining correctly","status":"passed","testResultsByEnv":{"default":"fe597847a275f667028a3739b9568615"}}

@@ -1,0 +1,1 @@
+{"id":"d6b7ef96c743ccbdc05c850f97652e28","fullName":"server/lib/__tests__/patientAuth.test.ts#patientAuth.ts generateInviteCode should generate 24-byte token","name":"should generate 24-byte token","status":"passed","testResultsByEnv":{"default":"007241172f1f96a94445d5d7fa608b1b"}}

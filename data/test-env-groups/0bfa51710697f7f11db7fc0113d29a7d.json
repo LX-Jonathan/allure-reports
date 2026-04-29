@@ -1,0 +1,1 @@
+{"id":"0bfa51710697f7f11db7fc0113d29a7d","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes GET /clients/:orgId/patients/search returns empty array when search too short","name":"returns empty array when search too short","status":"passed","testResultsByEnv":{"default":"f0070d3e71b505ea1f196139bc731e59"}}

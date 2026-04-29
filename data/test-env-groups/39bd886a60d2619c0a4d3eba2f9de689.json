@@ -1,0 +1,1 @@
+{"id":"39bd886a60d2619c0a4d3eba2f9de689","fullName":"server/routes/__tests__/providers.routes.test.ts#Provider Routes PATCH /api/v1/providers/:id (additional edge cases) returns 400 on Zod validation error for update","name":"returns 400 on Zod validation error for update","status":"passed","testResultsByEnv":{"default":"99b850237a7c475d65ca9c92d07df674"}}

@@ -1,0 +1,1 @@
+{"id":"e530d2320a2bc5bd41030d234a7c010e","fullName":"server/services/__tests__/claimEdits.service.test.ts#claimEdits.service validateCciPairs should call Anthropic with correct model and max_tokens","name":"should call Anthropic with correct model and max_tokens","status":"passed","testResultsByEnv":{"default":"db4fd9abb7be87283ff575b275cccaa3"}}

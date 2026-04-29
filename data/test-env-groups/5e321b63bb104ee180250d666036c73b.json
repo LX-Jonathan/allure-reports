@@ -1,0 +1,1 @@
+{"id":"5e321b63bb104ee180250d666036c73b","fullName":"server/middleware/__tests__/rateLimit.test.ts#rateLimitMiddleware Redis rate limiting should fall back to in-memory on Redis permission error","name":"should fall back to in-memory on Redis permission error","status":"passed","testResultsByEnv":{"default":"2ba16610c42f7a467e5655380b597752"}}

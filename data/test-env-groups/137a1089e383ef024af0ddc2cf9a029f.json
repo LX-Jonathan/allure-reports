@@ -1,0 +1,1 @@
+{"id":"137a1089e383ef024af0ddc2cf9a029f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /create-payment-intent returns validation error for non-positive amount","name":"returns validation error for non-positive amount","status":"passed","testResultsByEnv":{"default":"c8acded73d5a11a361f3031fa8e96bd4"}}

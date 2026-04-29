@@ -1,0 +1,1 @@
+{"id":"33eb106b20b8646e2766fb9a7042344c","fullName":"server/services/__tests__/priorAuthRequirements.service.test.ts#detectPriorAuthRequirements does not consult schedules for non-commercial payers","name":"does not consult schedules for non-commercial payers","status":"passed","testResultsByEnv":{"default":"3b92fc872f16dcd322d5300d9828de29"}}

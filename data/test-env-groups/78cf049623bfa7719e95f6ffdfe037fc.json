@@ -1,0 +1,1 @@
+{"id":"78cf049623bfa7719e95f6ffdfe037fc","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Patient Portal getPatientPortalUserByEmail normalizes email and returns user","name":"normalizes email and returns user","status":"passed","testResultsByEnv":{"default":"5e1acd4799c26578bf59f3e5b4c4e0ec"}}

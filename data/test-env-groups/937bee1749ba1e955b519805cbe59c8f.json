@@ -1,0 +1,1 @@
+{"id":"937bee1749ba1e955b519805cbe59c8f","fullName":"client/src/components/__tests__/order-readiness-panel.test.tsx#OrderReadinessPanel shows the green ready banner when isReady is true","name":"shows the green ready banner when isReady is true","status":"passed","testResultsByEnv":{"default":"45f2a4eb658d91e88436dc65023e93b1"}}

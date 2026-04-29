@@ -1,0 +1,1 @@
+{"id":"1660549216eb596f15a4b0cc8e8d2ced","fullName":"server/lib/__tests__/credit-scoring.test.ts#credit-scoring isStale treats year-old timestamps as stale","name":"treats year-old timestamps as stale","status":"passed","testResultsByEnv":{"default":"d2bac6a22d3d3189a1cc98c2cdd74838"}}

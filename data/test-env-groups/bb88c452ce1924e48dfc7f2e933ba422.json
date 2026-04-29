@@ -1,0 +1,1 @@
+{"id":"bb88c452ce1924e48dfc7f2e933ba422","fullName":"server/workers/__tests__/bulk-scan-item.worker.test.ts#bulk-scan-item.worker startBulkScanItemWorker should handle failed event with null job","name":"should handle failed event with null job","status":"passed","testResultsByEnv":{"default":"eeb94108e5433183506361f5cee0445f"}}

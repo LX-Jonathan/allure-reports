@@ -1,0 +1,1 @@
+{"id":"a85af6e715ecdc8dc9b26afc6ee60afa","fullName":"server/routes/__tests__/labchat.routes.test.ts#LabChat Routes Cross-cutting edge cases GET /clients/:orgId/threads returns resolved status threads when filtered","name":"GET /clients/:orgId/threads returns resolved status threads when filtered","status":"passed","testResultsByEnv":{"default":"aad107c8e51cd773f546e4e814d22ef0"}}

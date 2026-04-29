@@ -1,0 +1,1 @@
+{"id":"4bc2e9b7525ae5dd5991b9c48589c46b","fullName":"server/__tests__/storage-orders.test.ts#DatabaseStorage - Orders getOrderCountsByStatus should return zero counts when superOrg has no labs","name":"should return zero counts when superOrg has no labs","status":"passed","testResultsByEnv":{"default":"ecf8f1206a7f23fcc1de2a00ae3620d1"}}

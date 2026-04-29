@@ -1,0 +1,1 @@
+{"id":"2c54222a02ba66bcb36cf351dfa9121e","fullName":"server/routes/__tests__/tickets.routes.test.ts#Tickets Routes POST /api/tickets should return 400 for non-super-admin without organization","name":"should return 400 for non-super-admin without organization","status":"passed","testResultsByEnv":{"default":"6a56ebd8d0f9e705b3a8d0996ee87d19"}}

@@ -1,0 +1,1 @@
+{"id":"12f2c2f9bbe6671a2b7a158828e2f72c","fullName":"server/routes/__tests__/patient-proxy.routes.test.ts#POST /api/patient/proxies/invite rejects invitee with no patient record","name":"rejects invitee with no patient record","status":"passed","testResultsByEnv":{"default":"a68c12668936248086fa490da760c046"}}

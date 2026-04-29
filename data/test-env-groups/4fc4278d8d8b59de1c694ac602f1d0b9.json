@@ -1,0 +1,1 @@
+{"id":"4fc4278d8d8b59de1c694ac602f1d0b9","fullName":"client/src/lib/__tests__/scan-template-mapper.test.ts#scanTemplateSectionsToRequisitionSections - additional branches infers date type from fhirPath containing date","name":"infers date type from fhirPath containing date","status":"passed","testResultsByEnv":{"default":"1f51a4257876fe2733ac5db70bded464"}}

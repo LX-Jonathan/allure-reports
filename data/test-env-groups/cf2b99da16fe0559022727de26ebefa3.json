@@ -1,0 +1,1 @@
+{"id":"cf2b99da16fe0559022727de26ebefa3","fullName":"server/__tests__/lxu.routes.test.ts#lxu routes GET /api/v1/lxu/modules/:slug/articles returns articles for a module","name":"returns articles for a module","status":"passed","testResultsByEnv":{"default":"a547a905bd58a6607406ce4db8d164b7"}}

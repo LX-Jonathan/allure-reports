@@ -1,0 +1,1 @@
+{"id":"12fbdfda27fb4d12b53f072c51d28a32","fullName":"server/routes/__tests__/order-entry-templates.routes.test.ts#Order Entry Templates Routes PATCH /:id returns 400 for invalid body (bad isActive type)","name":"returns 400 for invalid body (bad isActive type)","status":"passed","testResultsByEnv":{"default":"354fbe34b3f62f710bd34128532e61bf"}}

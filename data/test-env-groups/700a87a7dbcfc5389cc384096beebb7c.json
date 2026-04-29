@@ -1,0 +1,1 @@
+{"id":"700a87a7dbcfc5389cc384096beebb7c","fullName":"server/workers/__tests__/email.worker.test.ts#email.worker patient consent enforcement should bypass consent check for transactional template type reset","name":"should bypass consent check for transactional template type reset","status":"passed","testResultsByEnv":{"default":"27fd63c2109c437c27875daa57b6e01f"}}

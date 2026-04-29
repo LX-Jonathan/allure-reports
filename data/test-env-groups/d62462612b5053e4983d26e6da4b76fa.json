@@ -1,0 +1,1 @@
+{"id":"d62462612b5053e4983d26e6da4b76fa","fullName":"server/routes/__tests__/prior-auth.routes.test.ts#Prior Auth Routes Rule Templates (system-level library) POST /rule-templates/:id/retire and /unretire returns 403 for non-platform admins","name":"returns 403 for non-platform admins","status":"passed","testResultsByEnv":{"default":"81b7f94d6154d97e1b97ece86245694f"}}

@@ -1,0 +1,1 @@
+{"id":"9d38a4b890837f48f88d9aca9a4b7152","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /pre-registration-links returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"11a9d40ec060a3f6c5b35206335ca9de"}}

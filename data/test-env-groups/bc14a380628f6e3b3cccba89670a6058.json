@@ -1,0 +1,1 @@
+{"id":"bc14a380628f6e3b3cccba89670a6058","fullName":"server/routes/__tests__/patient-portal-credit-checkout.routes.test.ts#POST /lab/:orgId/apply-credit-payment rejects invalid request bodies","name":"rejects invalid request bodies","status":"passed","testResultsByEnv":{"default":"92d7fa30e22504957fa35dc5f51148b4"}}

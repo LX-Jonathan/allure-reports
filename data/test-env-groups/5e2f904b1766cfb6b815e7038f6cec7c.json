@@ -1,0 +1,1 @@
+{"id":"5e2f904b1766cfb6b815e7038f6cec7c","fullName":"client/src/components/payments/__tests__/payment-collection-prompt-dialog.test.tsx#PaymentCollectionPromptDialog includes creditAction=refund when Refund credit is chosen","name":"includes creditAction=refund when Refund credit is chosen","status":"passed","testResultsByEnv":{"default":"e4be4200d807ebb2ac3af00406effcc2"}}

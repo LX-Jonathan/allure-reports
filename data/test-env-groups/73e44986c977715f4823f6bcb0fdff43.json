@@ -1,0 +1,1 @@
+{"id":"73e44986c977715f4823f6bcb0fdff43","fullName":"server/routes/__tests__/appointments.routes.test.ts#Appointments Routes GET /api/v1/appointments returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"6a267ea7a9ecb91682fddadbf4a1c7cd"}}

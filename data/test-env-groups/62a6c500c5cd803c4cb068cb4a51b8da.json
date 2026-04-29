@@ -1,0 +1,1 @@
+{"id":"62a6c500c5cd803c4cb068cb4a51b8da","fullName":"client/src/pages/dedicated-portal/__tests__/portal-billing.test.tsx#PortalBillingPage Pay Now affordance shows the order checkbox even when Stripe is not configured","name":"shows the order checkbox even when Stripe is not configured","status":"passed","testResultsByEnv":{"default":"27a723565437aed1edbf1fc50cffc4d7"}}

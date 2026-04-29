@@ -1,0 +1,1 @@
+{"id":"fd4584599635214466a47d5005bc3434","fullName":"server/routes/__tests__/locations.routes.test.ts#Locations Routes POST /locations/:id/providers/remove returns 401 when not authenticated","name":"returns 401 when not authenticated","status":"passed","testResultsByEnv":{"default":"2841f501f2f1ccf843e22e8bdeec7596"}}

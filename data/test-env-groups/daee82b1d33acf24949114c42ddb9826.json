@@ -1,0 +1,1 @@
+{"id":"daee82b1d33acf24949114c42ddb9826","fullName":"server/routes/__tests__/national-insurance.routes.test.ts#National Insurance Routes GET /manage/duplicates returns 500 on database error","name":"returns 500 on database error","status":"passed","testResultsByEnv":{"default":"a3d8046d93ebae1da949554b268deded"}}

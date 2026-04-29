@@ -1,0 +1,1 @@
+{"id":"41b9df592db6faea1678504dd8df8f25","fullName":"client/src/lib/__tests__/queryClient.test.ts#apiRequest throws on non-ok response with plain text","name":"throws on non-ok response with plain text","status":"passed","testResultsByEnv":{"default":"c21e11428851dd7527c9c6d0b42e9aa7"}}

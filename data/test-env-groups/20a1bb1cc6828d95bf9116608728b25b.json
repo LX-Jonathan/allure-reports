@@ -1,0 +1,1 @@
+{"id":"20a1bb1cc6828d95bf9116608728b25b","fullName":"server/services/__tests__/dataxchangeProfitability.service.test.ts#dataxchangeProfitability.service getProfitabilityData should handle zero revenue without division errors","name":"should handle zero revenue without division errors","status":"passed","testResultsByEnv":{"default":"2d6a95341b596de85fa47554b9b7e272"}}

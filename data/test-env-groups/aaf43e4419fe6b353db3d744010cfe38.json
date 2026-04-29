@@ -1,0 +1,1 @@
+{"id":"aaf43e4419fe6b353db3d744010cfe38","fullName":"client/src/pages/__tests__/organizations.test.tsx#OrganizationsPage shows 'No lab clients found' when empty array is returned","name":"shows 'No lab clients found' when empty array is returned","status":"passed","testResultsByEnv":{"default":"c1a62054798408196eed116ea4c23069"}}

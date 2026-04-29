@@ -1,0 +1,1 @@
+{"id":"b22f53fdf10e90d230c39fd92cce9ad5","fullName":"server/__tests__/storage.test.ts#DatabaseStorage - Lab Results Extended getLabResults returns results with total using Promise.all","name":"returns results with total using Promise.all","status":"passed","testResultsByEnv":{"default":"48935d93f6369e6d312f6c2e051cc27c"}}

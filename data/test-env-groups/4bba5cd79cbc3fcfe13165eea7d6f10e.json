@@ -1,0 +1,1 @@
+{"id":"4bba5cd79cbc3fcfe13165eea7d6f10e","fullName":"server/services/__tests__/labOperationsReports.service.test.ts#labOperationsReports.service getCustomerGlance returns customer glance data from 6 parallel queries","name":"returns customer glance data from 6 parallel queries","status":"passed","testResultsByEnv":{"default":"e28764faa8e13242c38cb652efcd5628"}}

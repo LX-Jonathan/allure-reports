@@ -1,0 +1,1 @@
+{"id":"0bd4f3b23bd66449afc0a8474bfe2d66","fullName":"server/middleware/__tests__/auth.test.ts#auth middleware requirePermission should call next when user is authenticated","name":"should call next when user is authenticated","status":"passed","testResultsByEnv":{"default":"d1050de71b9b7500a82a077fcb2bdfef"}}

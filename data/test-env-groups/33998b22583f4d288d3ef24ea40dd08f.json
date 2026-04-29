@@ -1,0 +1,1 @@
+{"id":"33998b22583f4d288d3ef24ea40dd08f","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes Journal Entries GET /journal-entries/:entryId returns 404 when entry not found","name":"returns 404 when entry not found","status":"passed","testResultsByEnv":{"default":"07f154a9878587583058288f5e118d7d"}}

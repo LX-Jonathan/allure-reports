@@ -1,0 +1,1 @@
+{"id":"fe9650b3b7fb7c6715d2ce9c9858d764","fullName":"server/routes/__tests__/terminal.routes.test.ts#Terminal Routes POST /create-payment-intent blocks cross-tenant terminal PI creation (PAY-2)","name":"blocks cross-tenant terminal PI creation (PAY-2)","status":"passed","testResultsByEnv":{"default":"4ce595b7167e5462b1d90400cd5ed628"}}

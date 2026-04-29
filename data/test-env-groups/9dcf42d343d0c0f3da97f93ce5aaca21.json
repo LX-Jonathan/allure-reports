@@ -1,0 +1,1 @@
+{"id":"9dcf42d343d0c0f3da97f93ce5aaca21","fullName":"server/routes/__tests__/order-intake.routes.test.ts#Order Intake Routes POST /api/order-intake/:id/confirm-mappings returns 500 on internal error","name":"returns 500 on internal error","status":"passed","testResultsByEnv":{"default":"8fea2b4f17aa813bed0867583c55d043"}}

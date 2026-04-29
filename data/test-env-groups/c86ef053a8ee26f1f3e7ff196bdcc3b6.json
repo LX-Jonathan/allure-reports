@@ -1,0 +1,1 @@
+{"id":"c86ef053a8ee26f1f3e7ff196bdcc3b6","fullName":"client/src/lib/__tests__/import-configs.test.ts#PATIENTS_CONFIG.buildPayload applies defaults when gender/country/language are missing","name":"applies defaults when gender/country/language are missing","status":"passed","testResultsByEnv":{"default":"15f6b84c8b2c7b8875747d1fc50373b7"}}

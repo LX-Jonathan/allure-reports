@@ -1,0 +1,1 @@
+{"id":"eeab14ad459711fa4c171b9f3d1a166b","fullName":"server/routes/__tests__/interfaces.routes.test.ts#Interfaces Routes PATCH /api/interfaces/data-issues/:id returns 404 when issue not found","name":"returns 404 when issue not found","status":"passed","testResultsByEnv":{"default":"190b522974a2c1b55f7c9ff7d8364e7c"}}

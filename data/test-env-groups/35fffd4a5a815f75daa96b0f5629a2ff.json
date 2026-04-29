@@ -1,0 +1,1 @@
+{"id":"35fffd4a5a815f75daa96b0f5629a2ff","fullName":"server/routes/__tests__/lab-operations.routes.test.ts#Lab Operations Routes Report Endpoints with LabOpsFilters GET /reports/dashboard-summary returns 500 when service throws","name":"returns 500 when service throws","status":"passed","testResultsByEnv":{"default":"807e6c651683fe7f7a2ae745d9ab0a8a"}}

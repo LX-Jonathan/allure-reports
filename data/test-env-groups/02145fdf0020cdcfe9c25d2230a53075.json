@@ -1,0 +1,1 @@
+{"id":"02145fdf0020cdcfe9c25d2230a53075","fullName":"server/routes/__tests__/organizations.routes.test.ts#Organizations Routes GET /labs returns only user organization for limited access user","name":"returns only user organization for limited access user","status":"passed","testResultsByEnv":{"default":"995cb633b690e379a5e72673a5a3f7fb"}}

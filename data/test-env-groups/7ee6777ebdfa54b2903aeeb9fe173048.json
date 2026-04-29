@@ -1,0 +1,1 @@
+{"id":"7ee6777ebdfa54b2903aeeb9fe173048","fullName":"server/workers/__tests__/insurance-import.worker.test.ts#insurance-import.worker processInsuranceImportJob should update progress to 100 after the final chunk","name":"should update progress to 100 after the final chunk","status":"passed","testResultsByEnv":{"default":"145d9eee2ee2cc838bdf3c5cff2f46dd"}}

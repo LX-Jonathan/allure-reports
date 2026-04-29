@@ -1,0 +1,1 @@
+{"id":"96b810762371d7caab7f488d1d97d317","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda mapBillTypeForAndromeda should return 'I' for unrecognized values (default)","name":"should return 'I' for unrecognized values (default)","status":"passed","testResultsByEnv":{"default":"e9b82e5c84427fcf0cbc4e726cb9cd0f"}}

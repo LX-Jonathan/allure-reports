@@ -1,0 +1,1 @@
+{"id":"6638dec603e2a8cf1b38fd303ad1662b","fullName":"server/__tests__/organizations.routes.test.ts#labs.routes PATCH /api/v1/super-orgs/:id should reject duplicate slug","name":"should reject duplicate slug","status":"passed","testResultsByEnv":{"default":"a6edbee094efb7d469c18bf1ffa3d547"}}

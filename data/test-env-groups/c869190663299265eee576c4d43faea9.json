@@ -1,0 +1,1 @@
+{"id":"c869190663299265eee576c4d43faea9","fullName":"server/routes/__tests__/fee-schedules.routes.test.ts#Fee Schedules Routes GET /api/fee-schedules/:id/items returns 500 on db error for items list","name":"returns 500 on db error for items list","status":"passed","testResultsByEnv":{"default":"7c4a5ff4f4c26cc97ce8d37cbdc31fcf"}}

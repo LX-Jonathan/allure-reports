@@ -1,0 +1,1 @@
+{"id":"e5704aa65bb36efac9be8516bca54a52","fullName":"server/__tests__/orders.routes.test.ts#orders.routes POST /api/v1/orders/:id/insurance should reject on locked order","name":"should reject on locked order","status":"passed","testResultsByEnv":{"default":"7183169e425c9fbed6bd812aa1deab53"}}

@@ -1,0 +1,1 @@
+{"id":"4c5beff3eae6079809053974a5fa1eb1","fullName":"server/routes/__tests__/insurance.routes.test.ts#Insurance Routes GET /api/v1/insurance/companies/export returns CSV file with correct headers","name":"returns CSV file with correct headers","status":"passed","testResultsByEnv":{"default":"3749ec5e37f99b49a1fcf15d8e752306"}}

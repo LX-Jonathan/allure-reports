@@ -1,0 +1,1 @@
+{"id":"cb4338a26323c662d281bbbeb1782466","fullName":"server/middleware/__tests__/apiKey.test.ts#apiKey middleware requireApiKey should return 401 when API key prefix not found in database","name":"should return 401 when API key prefix not found in database","status":"passed","testResultsByEnv":{"default":"cc0c1f4f0a1eb4e9841b30760965f544"}}

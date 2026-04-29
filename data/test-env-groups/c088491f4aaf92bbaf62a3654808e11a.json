@@ -1,0 +1,1 @@
+{"id":"c088491f4aaf92bbaf62a3654808e11a","fullName":"server/lib/__tests__/andromeda.test.ts#andromeda getAndromedaSource / getAndromedaDestination / getAndromedaSourceDestinations getAndromedaDestination returns destination by id","name":"getAndromedaDestination returns destination by id","status":"passed","testResultsByEnv":{"default":"727cfbdc3b811857d43b29828f231e07"}}

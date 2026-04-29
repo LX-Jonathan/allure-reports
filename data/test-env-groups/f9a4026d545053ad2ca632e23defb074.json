@@ -1,0 +1,1 @@
+{"id":"f9a4026d545053ad2ca632e23defb074","fullName":"server/__tests__/storage-patients.test.ts#DatabaseStorage - Patients & Related Patient Insurance deletePatientInsurance should return false when not found","name":"deletePatientInsurance should return false when not found","status":"passed","testResultsByEnv":{"default":"578e84461c1ccdc51e67cdbfc7bf1a27"}}

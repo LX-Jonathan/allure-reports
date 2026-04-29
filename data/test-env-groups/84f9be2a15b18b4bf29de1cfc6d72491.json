@@ -1,0 +1,1 @@
+{"id":"84f9be2a15b18b4bf29de1cfc6d72491","fullName":"server/routes/__tests__/accounting.routes.test.ts#Accounting Routes POST /payments returns validation error for invalid payment method","name":"returns validation error for invalid payment method","status":"passed","testResultsByEnv":{"default":"f6071e1ec67d158e9fdf5301565a72a5"}}

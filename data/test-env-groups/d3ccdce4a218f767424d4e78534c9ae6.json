@@ -1,0 +1,1 @@
+{"id":"d3ccdce4a218f767424d4e78534c9ae6","fullName":"server/services/__tests__/operationsCenter.service.test.ts#operationsCenter.service evaluateOperationsCenter order lookup should throw when patient is not found","name":"should throw when patient is not found","status":"passed","testResultsByEnv":{"default":"670a9850cca477f8c4b6069c8e4cc595"}}

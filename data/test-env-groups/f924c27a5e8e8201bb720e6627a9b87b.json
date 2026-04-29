@@ -1,0 +1,1 @@
+{"id":"f924c27a5e8e8201bb720e6627a9b87b","fullName":"server/lib/__tests__/bullmq.test.ts#bullmq addReportGenerationJob should add job with type as job name when queue is available","name":"should add job with type as job name when queue is available","status":"passed","testResultsByEnv":{"default":"6f08a622214a124d30e6ea9b728ebce6"}}
